@@ -29,9 +29,98 @@ kirothi = {
 	}
 }
 
-eastern = {
-
-
+eastern_raider_faith = {
+	color = { 179 164 29 }
+	has_coa_on_barony_only = no
+	graphical_culture = norsegfx
+	playable = no
+	hostile_within_group = no
+	
 	hankism = {
+		ai_convert_other_group = 0
+		ai_convert_same_group = 0
+		graphical_culture = norsegfx
+		icon = 37
+		color = {179 164 29 }
+		crusade_name = devastate
+		scripture_name = hank_bible
+		god_names = {
+			hank_bradley
+		}
+		evil_god_names = {
+			beoing
+		}
+		piety_name = hank_piety
+		priest_title = hank_priest
+		investiture = no
+		priests_can_marry = yes
+		feminist = yes
+		allow_viking_invasion = yes
+		female_temple_holders = yes
+		allow_looting =yes
+		peace_prestige_loss = yes
+		allow_in_ruler_designer = no
 	}
 }
+
+estazi_religion_group = {
+	color = { 179 29 140 }
+	has_coa_on_barony_only = yes
+	graphical_culture = muslimgfx
+	playable = yes
+	hostile_within_group = no
+	estazi_faith = {
+		graphical_culture = muslimgfx
+		icon = 20
+		heresy_icon = 21
+		ai_convert_other_group = 0
+		ai_convert_same_group = 2
+		color = { 179 29 140 }
+		crusade_name = Conquista
+		scripture_name = small_gods
+		priest_title = Padre
+		high_god_name = Wealth
+		god_names = {
+			Wealth
+			Fortune
+			Calm-Seas
+			Profit
+			}
+		evil_god_names = {
+			Misfortune
+			Slander
+			}
+		investiture = no
+		piety_name = luck
+		can_have_antipopes = no
+		can_excommunicate = no
+		can_grant_divorce = yes
+		can_grant_claim = no
+		can_call_crusade = yes
+		can_retire_to_monastery = yes
+		priests_can_inherit = no
+		can_hold_temples = no
+		pacifist = no
+		bs_marriage = no
+		pc_marriage = no
+		psc_marriage = no
+		cousin_marriage = no
+		matrilineal_marriages = yes
+		allow_viking_invasion = yes
+		allow_looting = yes
+		allow_rivermovement = no
+		female_temple_holders = no
+		autocephaly = no
+		divine_blood = no
+		has_heir_designation = yes
+		peace_prestige_loss = no
+		max_wives = 1
+		uses_decadence = no
+		uses_jizya_tax = no
+		defensive_attrition = yes
+		religious_clothing_head = 0
+		religious_clothing_priest = 3
+		hard_to_convert = yes
+	}
+}
+

@@ -1,0 +1,108 @@
+
+max_provinces = 1395
+definitions = "definition.csv"
+provinces = "provinces.bmp"
+positions = "positions.txt"
+terrain = "terrain.bmp"
+rivers = "rivers.bmp"
+terrain_definition = "terrain.txt"
+heightmap = "topology.bmp"
+tree_definition = "trees.bmp"
+continent = "continent.txt"
+adjacencies = "adjacencies.csv"
+climate = "climate.txt"
+region = "island_region.txt"
+geographical_region = "geographical_region.txt"
+static = "statics"
+seasons = "seasons.txt"
+
+sea_zones = { 1224 1254}
+sea_zones = { 1255 1285}
+sea_zones = { 1286 1315}
+sea_zones = { 1316 1345}
+sea_zones = { 1346 1346}
+sea_zones = { 1347 1373}
+sea_zones = { 1374 1374}
+sea_zones = { 1375 1375}
+sea_zones = { 1376 1376}
+sea_zones = { 1377 1377}
+sea_zones = { 1378 1378}
+sea_zones = { 1379 1379}
+sea_zones = { 1380 1380}
+sea_zones = { 1381 1381}
+sea_zones = { 1382 1382}
+sea_zones = { 1383 1383}
+sea_zones = { 1384 1384}
+sea_zones = { 1385 1385}
+sea_zones = { 1386 1386}
+sea_zones = { 1387 1387}
+sea_zones = { 1388 1388}
+sea_zones = { 1389 1389}
+sea_zones = { 1390 1390}
+sea_zones = { 1391 1391}
+sea_zones = { 1392 1392}
+sea_zones = { 1393 1393}
+sea_zones = { 1394 1394}
+ocean_region = { 
+     sea_zones = { 1 2 7 3 4 6 5 }
+}
+ocean_region = { 
+     sea_zones = { 8 }
+}
+ocean_region = { 
+     sea_zones = { 9 }
+}
+ocean_region = { 
+     sea_zones = { 10 }
+}
+ocean_region = { 
+     sea_zones = { 11 }
+}
+ocean_region = { 
+     sea_zones = { 12 }
+}
+ocean_region = { 
+     sea_zones = { 13 }
+}
+ocean_region = { 
+     sea_zones = { 14 }
+}
+ocean_region = { 
+     sea_zones = { 15 }
+}
+ocean_region = { 
+     sea_zones = { 16 }
+}
+ocean_region = { 
+     sea_zones = { 17 }
+}
+ocean_region = { 
+     sea_zones = { 18 }
+}
+ocean_region = { 
+     sea_zones = { 19 }
+}
+ocean_region = { 
+     sea_zones = { 20 }
+}
+ocean_region = { 
+     sea_zones = { 21 }
+}
+ocean_region = { 
+     sea_zones = { 22 }
+}
+ocean_region = { 
+     sea_zones = { 23 }
+}
+ocean_region = { 
+     sea_zones = { 24 }
+}
+ocean_region = { 
+     sea_zones = { 25 }
+}
+ocean_region = { 
+     sea_zones = { 26 }
+}
+ocean_region = { 
+     sea_zones = { 27 }
+}

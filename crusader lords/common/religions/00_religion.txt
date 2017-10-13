@@ -20,10 +20,19 @@ terrorian = {
 	}
 }
 
-kirothi = {
-
-
+kiroth_faith = {
+	color = { 55 161 52 }
+	graphical_culture = arabicgfx
+	has_coa_on_barony_only = yes
+	hostile_within_group = yes
+	crusade_cb = crusade
+	playable = yes
+	
 	kirothian = {
+	ai_convert_same_group = 2
+	ai_convert_other_group = 2
+	graphical_culture = arabicgfx
+	icon = 
 	}
 	kirian = {
 	}

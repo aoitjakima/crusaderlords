@@ -1,24 +1,287 @@
 old_faiths = {
+	graphical_culture = jewishgfx
+	crusade_cb = crusade
+	playable = yes
+	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
 	
+	ai_convert_same_group = 2 # always try to convert
+	ai_convert_other_group = 1	# try to convert if ai_zeal is high
+	
+	color = { 0.1 0.7 1.0 }
 	
 	old_casian = {
+		graphical_culture = westerngfx
+		
+		pre_reformed = yes
+
+		icon = 37
+		
+		color = { 0.6 0.1 0.1 }
+		
+		high_god_name = GOD_SATURN
+		
+		god_names = {
+			GOD_JUPITER GOD_MERCURY GOD_MARS GOD_VENUS GOD_MINERVA GOD_VESTA
+		}
+		evil_god_names = {
+			PLUTO
+		}
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		priest_title = AUGUR
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		max_consorts = 3
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		
+		allow_in_ruler_designer = no
+		
+		dynamic_cult = no
+		secret_religion = no
 	}
 	kahet = {
+		graphical_culture = jewishgfx
+		
+		icon = 38
+		heresy_icon = 39
+		
+		color = { 0.1 0.7 1.0 }
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_TORAH
+		priest_title = RABBI
+		
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD ADONAI
+		}
+		evil_god_names = {
+			SATAN
+		}
+		
+		can_grant_divorce = yes
+		can_call_crusade = yes
+		can_grant_invasion_cb = invasion
+		
+		priests_can_marry = yes
+		
+		religious_clothing_head = 7
+		religious_clothing_priest = 7
+		
+		expel_modifier = expelled_jewish
 	}
 }
 
 terrorian_group = {
+	color = { 0.6 0.0 0.0 }
+	graphical_culture = westerngfx
+	playable = yes
+	hostile_within_group = yes
+	ai_fabricate_claims = no
+	crusade_cb = crusade
+	has_coa_on_barony_only = yes
 	
-	
-	terrorian = {
-	color = { 0.4 0.4 0.4 }
+	terrorian = { #Base terrorian faith
+		color = { 0.4 0.4 0.4 }
+		ai_convert_same_group = 2 # always try to convert
+		ai_convert_other_group = 1	# never try to convert
+		graphical_culture = westerngfx
+		icon = 22
+		crusade_name = "terrorian_crusade"
+		scripture_name = terror_cantacle
+		high_god_name = writhing_terror
+		god_names = {writhing_terror
+		crawling_chaos
+		the_terror
+		greater_daemon }
+		evil_god_names = { lesser daemon
+		insidious_wrath
+		greater_daemons_bad}
+		piety_name = reverance
+		priest_title = herophant
+		investiture = no
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		can_have_antipopes = yes
+		can_retire_to_monastery = yes
+		priests_can_marry = yes
+		priests_can_inherit = no
+		feminist = no
+		allow_viking_invasion = yes
+		female_temple_holders = yes
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		heresy_icon = 24
+		hard_to_convert = yes		
 	}
-	malevolance = {
+	malevolant = { #Martial
+		color = { 0.5 0.4 0.4 }
+		ai_convert_same_group = 2 # always try to convert
+		ai_convert_other_group = 1	# never try to convert
+		graphical_culture = westerngfx
+		icon = 22
+		parent = terrorian
+		crusade_name = "terrorian_crusade"
+		scripture_name = terror_cantacle
+		high_god_name = malevolant_discourse
+		god_names = {malevolant_discourse
+		greater_daemon }
+		evil_god_names = { lesser daemon
+		insidious_wrath
+		writhing_terror
+		greater_daemons_bad}
+		piety_name = reverance
+		priest_title = herophant
+		investiture = no
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		can_have_antipopes = yes
+		can_retire_to_monastery = yes
+		priests_can_marry = yes
+		priests_can_inherit = no
+		feminist = no
+		allow_viking_invasion = yes
+		female_temple_holders = yes
+		religious_clothing_head = 3
+		religious_clothing_priest = 3	
 	}
-	antipathic = {
+	capricious = { #dipolmancy
+		color = { 0.55 0.4 0.4 }
+		ai_convert_same_group = 2 # always try to convert
+		ai_convert_other_group = 1	# never try to convert
+		graphical_culture = westerngfx
+		icon = 22
+		parent = terrorian
+		crusade_name = "terrorian_crusade"
+		scripture_name = terror_cantacle
+		high_god_name = capricious_curiosity
+		god_names = {capricious_curiosity
+		greater_daemon }
+		evil_god_names = { lesser daemon
+		insidious_wrath
+		writhing_terror
+		greater_daemons_bad}
+		piety_name = reverance
+		priest_title = herophant
+		investiture = no
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		can_have_antipopes = yes
+		can_retire_to_monastery = yes
+		priests_can_marry = yes
+		priests_can_inherit = no
+		feminist = no
+		allow_viking_invasion = yes
+		female_temple_holders = yes
+		religious_clothing_head = 3
+		religious_clothing_priest = 3	
 	}
-	insidious = {
+	antipathic = { #learning
+		color = { 0.60 0.4 0.4 }
+		ai_convert_same_group = 2 # always try to convert
+		ai_convert_other_group = 1	# never try to convert
+		graphical_culture = westerngfx
+		icon = 22
+		parent = terrorian
+		crusade_name = "terrorian_crusade"
+		scripture_name = terror_cantacle
+		high_god_name = uncaring_apathy
+		god_names = {uncaring_apathy
+		greater_daemon }
+		evil_god_names = { lesser daemon
+		insidious_wrath
+		writhing_terror
+		greater_daemons_bad}
+		piety_name = reverance
+		priest_title = herophant
+		investiture = no
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		can_have_antipopes = yes
+		can_retire_to_monastery = yes
+		priests_can_marry = yes
+		priests_can_inherit = no
+		feminist = no
+		allow_viking_invasion = yes
+		female_temple_holders = yes
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 	}
+	insidious = { # intruige
+		color = { 0.65 0.4 0.4 }
+		ai_convert_same_group = 2 # always try to convert
+		ai_convert_other_group = 1	# never try to convert
+		graphical_culture = westerngfx
+		icon = 22
+		parent = terrorian
+		crusade_name = "terrorian_crusade"
+		scripture_name = terror_cantacle
+		high_god_name = insidious_wrath
+		god_names = {insidious_wrath
+		greater_daemon }
+		evil_god_names = { lesser daemon
+		writhing_terror
+		greater_daemons_bad}
+		piety_name = reverance
+		priest_title = herophant
+		investiture = no
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		can_have_antipopes = yes
+		can_retire_to_monastery = yes
+		priests_can_marry = yes
+		priests_can_inherit = no
+		feminist = no
+		allow_viking_invasion = yes
+		female_temple_holders = yes
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+	}
+	hunger = { #stewardship
+		color = { 0.7 0.4 0.4 }
+		ai_convert_same_group = 2 # always try to convert
+		ai_convert_other_group = 1	# never try to convert
+		graphical_culture = westerngfx
+		icon = 22
+		parent = terrorian
+		crusade_name = "terrorian_crusade"
+		scripture_name = terror_cantacle
+		high_god_name = howling_hunger
+		god_names = {howling_hunger
+		greater_daemon }
+		evil_god_names = { lesser daemon
+		writhing_terror
+		greater_daemons_bad}
+		piety_name = reverance
+		priest_title = herophant
+		investiture = no
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		can_have_antipopes = yes
+		can_retire_to_monastery = yes
+		priests_can_marry = yes
+		priests_can_inherit = no
+		feminist = no
+		allow_viking_invasion = yes
+		female_temple_holders = yes
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 }
 
 kiroth_faith = {
@@ -35,7 +298,7 @@ kiroth_faith = {
 		graphical_culture = arabicgfx
 		icon = 10
 		color = {55 161 52 }
-		crusade_name = kiroth_crusade
+		crusade_name = "kiroth_crusade"
 		scripture_name = kiroth_bible
 		high_god_name = kiroth_ancients
 		god_names = {
@@ -121,7 +384,7 @@ eastern_raider_faith = {
 			hank_bradley
 		}
 		evil_god_names = {
-			boeing
+			beoing
 		}
 		piety_name = hank_piety
 		priest_title = hank_priest

@@ -11,6 +11,7 @@ terrorian_group = {
 	
 	
 	terrorian = {
+	color = { 0.4 0.4 0.4 }
 	}
 	malevolance = {
 	}
@@ -120,7 +121,7 @@ eastern_raider_faith = {
 			hank_bradley
 		}
 		evil_god_names = {
-			beoing
+			boeing
 		}
 		piety_name = hank_piety
 		priest_title = hank_priest

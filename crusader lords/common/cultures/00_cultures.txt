@@ -2,8 +2,7 @@ casian = {
 	graphical_cultures = { westerngfx }
 	
 	old_casian = {
-		graphical_cultures = { frankishgfx }
-		graphical_cultures = { southerngfx occitangfx }
+		graphical_cultures = { frankishgfx southerngfx occitangfx }
 		
 		color = { 0.8 0.7 0.2 }
 		
@@ -325,7 +324,6 @@ kirian = {
 	}
 	selli = {
 		graphical_cultures = { mongolgfx muslimgfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.4 0.4 1.0 }
 

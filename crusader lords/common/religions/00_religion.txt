@@ -7,10 +7,10 @@ old_faiths = {
 	}
 }
 
-terrorian = {
+terrorian_group = {
 	
 	
-	terror = {
+	terrorian = {
 	}
 	malevolance = {
 	}
@@ -29,12 +29,75 @@ kiroth_faith = {
 	playable = yes
 	
 	kirothian = {
-	ai_convert_same_group = 2
-	ai_convert_other_group = 2
-	graphical_culture = arabicgfx
-	icon = 
+		ai_convert_same_group = 2
+		ai_convert_other_group = 2
+		graphical_culture = arabicgfx
+		icon = 10
+		color = {55 161 52 }
+		crusade_name = kiroth_crusade
+		scripture_name = kiroth_bible
+		high_god_name = kiroth_ancients
+		god_names = {
+		kiroth_ancients
+		kiroth_spirits
+		kiroth_dead }
+		evil_god_names = {
+		kiroth_undead
+		kiroth_necromancer }
+		piety_name = kiroth_piety
+		priest_title = kiroth_priest
+		investiture = no
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_claim = yes
+		can_hold_temples = no
+		can_call_crusade = yes
+		can_have_antipopes =  no
+		can_retire_to_monastery = yes
+		priests_can_marry = yes
+		priests_can_inherit = yes
+		feminist = yes
+		ignores_defensive_attrition = yes
+		heresy_icon = 12
+		female_temple_holders = yes
+		attacking_same_religion_piety_loss = yes
+		hard_to_convert = yes
 	}
 	kirian = {
+		ai_convert_same_group = 2
+		ai_convert_other_group = 2
+		graphical_culture = arabicgfx
+		icon = 12
+		color = {55 141 52 }
+		crusade_name = kiroth_crusade
+		scripture_name = kiroth_bible
+		high_god_name = kiroth_ancients
+		god_names = {
+		kiroth_ancients
+		kiroth_spirits
+		kiroth_undead }
+		evil_god_names = {
+		kiroth_skotos
+		}
+		piety_name = kiroth_piety
+		priest_title = kirian_priest
+		investiture = no
+		parent = kirothian
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_claim = yes
+		can_hold_temples = no
+		can_call_crusade = yes
+		can_have_antipopes =  no
+		can_retire_to_monastery = yes
+		priests_can_marry = yes
+		priests_can_inherit = yes
+		feminist = yes
+		ignores_defensive_attrition = yes
+		heresy_icon = 12
+		female_temple_holders = yes
+		attacking_same_religion_piety_loss = yes
+		hard_to_convert = yes
 	}
 }
 
@@ -86,18 +149,18 @@ estazi_religion_group = {
 		ai_convert_same_group = 2
 		color = { 179 29 140 }
 		crusade_name = Conquista
-		scripture_name = small_gods
-		priest_title = Padre
-		high_god_name = Wealth
+		scripture_name = estazi_bible
+		priest_title = padre
+		high_god_name = wealth
 		god_names = {
-			Wealth
-			Fortune
-			Calm-Seas
-			Profit
+			wealth
+			fortune
+			calm-seas
+			profit
 			}
 		evil_god_names = {
-			Misfortune
-			Slander
+			misfortune
+			slander
 			}
 		investiture = no
 		piety_name = luck
@@ -115,7 +178,7 @@ estazi_religion_group = {
 		psc_marriage = no
 		cousin_marriage = no
 		matrilineal_marriages = yes
-		allow_viking_invasion = yes
+		allow_viking_invasion = no
 		allow_looting = yes
 		allow_rivermovement = no
 		female_temple_holders = no

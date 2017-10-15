@@ -1,0 +1,55 @@
+	namespace = HL
+character_event = {
+	id = HL.2001
+	desc = EVTDESC_HL_2001
+	picture = GFX_evt_steppe_mercenaries
+	border = GFX_event_normal_frame_war
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTA_HL_2000
+	}
+}
+
+character_event = {
+	id = HL.2005
+	hide_window = yes
+	is_triggered_only = yes
+	trigger = {
+		rebel = yes
+		any_war = {
+			attacker = {
+				character = ROOT
+			}
+			using_cb = cb_minor_clan_revolt
+		}
+	}
+	immediate = {
+		FROM = {
+			location = {
+				if = {
+					limit = {
+						NOT = {
+							has_province_modifier = peasant_unrest
+						}
+					}
+					add_province_modifier = {
+						name = peasant_unrest
+						duration = 730
+					}
+				}
+			}
+		}
+	}
+}
+
+character_event = {
+	id = HL.2011
+	desc = EVTDESC_HL_2011
+	picture = GFX_evt_steppe_mercenaries
+	border = GFX_event_normal_frame_war
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTA_HL_2000
+	}
+}
+

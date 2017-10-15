@@ -1,0 +1,13 @@
+bm_charlemagne201 = { 
+	                name = "BM_CHARLEMAGNE201"
+
+                    desc = "BM_BM_CHARLEMAGNE_DESC201"
+
+                    date = 201.9.15
+
+
+                                era = yes						## Will be shown on Era screen.
+	                            picture = GFX_pick_era_image_1
+
+                            }
+                

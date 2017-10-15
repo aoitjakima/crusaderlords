@@ -1,0 +1,656 @@
+	namespace = TOG
+character_event = {
+	id = TOG.1001
+	desc = EVTDESC_TOG_1001
+	picture = GFX_evt_peasants
+	border = GFX_event_normal_frame_war
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTA_TOG_1000
+	}
+}
+
+character_event = {
+	id = TOG.1005
+	hide_window = yes
+	is_triggered_only = yes
+	trigger = {
+		trait = peasant_leader
+		rebel = yes
+		FROM = {
+			is_capital = yes
+		}
+	}
+	immediate = {
+		FROM = {
+			location = {
+				if = {
+					limit = {
+						NOT = {
+							has_province_modifier = peasant_unrest
+						}
+					}
+					add_province_modifier = {
+						name = peasant_unrest
+						duration = 730
+					}
+				}
+			}
+		}
+	}
+}
+
+character_event = {
+	id = TOG.1011
+	desc = EVTDESC_TOG_1011
+	picture = GFX_evt_peasants
+	border = GFX_event_normal_frame_war
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTA_TOG_1010
+	}
+}
+
+character_event = {
+	id = TOG.1021
+	desc = EVTDESC_TOG_1021
+	picture = GFX_evt_heretic
+	border = GFX_event_normal_frame_war
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTA_TOG_1020
+	}
+}
+
+character_event = {
+	id = TOG.1025
+	hide_window = yes
+	is_triggered_only = yes
+	trigger = {
+		trait = heresiarch
+		rebel = yes
+		FROM = {
+			is_capital = yes
+		}
+	}
+	immediate = {
+		FROM = {
+			location = {
+				if = {
+					limit = {
+						NOT = {
+							religion = ROOT
+						}
+					}
+					random = {
+						chance = 50
+						religion = ROOT
+					}
+				}
+				if = {
+					limit = {
+						NOT = {
+							has_province_modifier = religious_unrest
+						}
+					}
+					add_province_modifier = {
+						name = religious_unrest
+						duration = 730
+					}
+				}
+			}
+		}
+	}
+}
+
+character_event = {
+	id = TOG.1031
+	desc = EVTDESC_TOG_1031
+	picture = GFX_evt_heretic
+	border = GFX_event_normal_frame_war
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTA_TOG_1030
+	}
+}
+
+province_event = {
+	id = TOG.1040
+	desc = EVTDESC_TOG_1040
+	picture = GFX_evt_siege
+	border = GFX_event_normal_frame_war
+	is_triggered_only = yes
+	trigger = {
+		has_dlc = "The Old Gods"
+		any_province_holding = {
+			NOT = {
+				holding_type = nomad
+			}
+		}
+		owner = {
+			top_liege = {
+				NOT = {
+					culture = ROOT
+				}
+			}
+		}
+		kingdom = {
+			has_holder = no
+			culture = ROOT
+			any_previous_holder = {
+				ROOT = {
+					owner = {
+						top_liege = {
+							NOT = {
+								dynasty = PREVPREVPREV
+							}
+							OR = {
+								is_nomadic = no
+								NOT = {
+									culture_group = ROOT
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+		OR = {
+			is_heretic = no
+			owner = {
+				top_liege = {
+					NOT = {
+						is_parent_religion = ROOT
+					}
+				}
+			}
+		}
+		NOT = {
+			owner = {
+				top_liege = {
+					war = yes
+					any_war = {
+						defender = {
+							character = PREV
+						}
+						OR = {
+							AND = {
+								using_cb = heretic_revolt
+								attacker = {
+									religion = ROOT
+								}
+							}
+							AND = {
+								using_cb = liberation_revolt
+								thirdparty_title_scope = {
+									ROOT = {
+										kingdom = {
+											title = PREVPREV
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	immediate = {
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 20
+			health = 7
+			fertility = 0.7
+			attributes = {
+				martial = 8
+				diplomacy = 9
+			}
+			trait = just
+			trait = brave
+			trait = gregarious
+			trait = ambitious
+			trait = brilliant_strategist
+			trait = inspiring_leader
+		}
+		new_character = {
+			set_character_flag = nationalist_rebel
+			create_title = {
+				tier = DUKE
+				landless = yes
+				temporary = yes
+				rebel = yes
+				culture = ROOT
+				name = NATIONALIST_REVOLT
+				holder = THIS
+			}
+			wealth = 100
+			spawn_unit = {
+				province = ROOT
+				home = ROOT
+				owner = THIS
+				scaled_by_biggest_garrison = 1.75
+				attrition = 1.0
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = none
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 34
+				attributes = {
+					martial = 7
+				}
+				trait = skilled_tactician
+			}
+			new_character = {
+				spawn_unit = {
+					province = ROOT
+					home = ROOT
+					owner = PREV
+					scaled_by_biggest_garrison = 1.75
+				}
+			}
+			create_character = {
+				random_traits = yes
+				dynasty = none
+				religion = ROOT
+				culture = ROOT
+				female = no
+				age = 23
+				attributes = {
+					martial = 7
+				}
+				trait = skilled_tactician
+			}
+			new_character = {
+				spawn_unit = {
+					province = ROOT
+					home = ROOT
+					owner = PREV
+					scaled_by_biggest_garrison = 1.75
+				}
+			}
+			ROOT = {
+				owner = {
+					top_liege = {
+						reverse_war = {
+							target = PREVPREVPREV
+							casus_belli = liberation_revolt
+							thirdparty_title = ROOT
+							tier = KING
+						}
+						reverse_opinion = {
+							who = PREVPREVPREV
+							modifier = opinion_evil_tyrant
+						}
+					}
+				}
+			}
+		}
+		owner = {
+			any_liege = {
+				character_event = {
+					id = TOG.1041
+				}
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA_TOG_1040
+	}
+}
+
+character_event = {
+	id = TOG.1041
+	desc = EVTDESC_TOG_1041
+	picture = GFX_evt_siege
+	border = GFX_event_normal_frame_war
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTA_TOG_1040
+	}
+}
+
+character_event = {
+	id = TOG.1045
+	hide_window = yes
+	is_triggered_only = yes
+	trigger = {
+		rebel = yes
+		FROM = {
+			is_capital = yes
+		}
+		any_war = {
+			attacker = {
+				character = ROOT
+			}
+			using_cb = liberation_revolt
+		}
+	}
+	immediate = {
+		FROM = {
+			location = {
+				if = {
+					limit = {
+						NOT = {
+							culture = ROOT
+						}
+						kingdom = {
+							culture = ROOT
+						}
+					}
+					random = {
+						chance = 20
+						culture = ROOT
+					}
+				}
+				if = {
+					limit = {
+						culture = ROOT
+						NOT = {
+							has_province_modifier = cultural_unrest
+						}
+					}
+					add_province_modifier = {
+						name = cultural_unrest
+						duration = 730
+					}
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = TOG.1050
+	desc = EVTDESC_TOG_1050
+	picture = GFX_evt_siege
+	border = GFX_event_normal_frame_war
+	is_triggered_only = yes
+	trigger = {
+		has_dlc = "The Old Gods"
+		any_province_holding = {
+			NOT = {
+				holding_type = nomad
+			}
+		}
+		owner = {
+			top_liege = {
+				war = yes
+				any_war = {
+					defender = {
+						character = PREV
+					}
+					using_cb = liberation_revolt
+					thirdparty_title_scope = {
+						ROOT = {
+							kingdom = {
+								title = PREVPREV
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	immediate = {
+		add_province_modifier = {
+			name = recent_county_uprising
+			duration = 1825
+		}
+		owner = {
+			top_liege = {
+				any_war = {
+					limit = {
+						defender = {
+							character = PREV
+						}
+						using_cb = liberation_revolt
+						thirdparty_title_scope = {
+							ROOT = {
+								kingdom = {
+									title = PREVPREV
+								}
+							}
+						}
+					}
+					attacker = {
+						create_character = {
+							random_traits = yes
+							dynasty = none
+							religion = ROOT
+							culture = ROOT
+							female = no
+							age = 24
+							attributes = {
+								martial = 7
+							}
+							trait = skilled_tactician
+						}
+						new_character = {
+							spawn_unit = {
+								province = ROOT
+								home = ROOT
+								owner = PREV
+								scaled_by_biggest_garrison = 1.75
+							}
+						}
+						create_character = {
+							random_traits = yes
+							dynasty = none
+							religion = ROOT
+							culture = ROOT
+							female = no
+							age = 27
+							attributes = {
+								martial = 7
+							}
+							trait = skilled_tactician
+						}
+						new_character = {
+							spawn_unit = {
+								province = ROOT
+								home = ROOT
+								owner = PREV
+								scaled_by_biggest_garrison = 1.75
+							}
+						}
+						create_character = {
+							random_traits = yes
+							dynasty = none
+							religion = ROOT
+							culture = ROOT
+							female = no
+							age = 30
+							attributes = {
+								martial = 7
+							}
+							trait = skilled_tactician
+						}
+						new_character = {
+							spawn_unit = {
+								province = ROOT
+								home = ROOT
+								owner = PREV
+								scaled_by_biggest_garrison = 1.75
+							}
+						}
+					}
+				}
+			}
+		}
+		owner = {
+			any_liege = {
+				character_event = {
+					id = TOG.1051
+				}
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA_TOG_1000
+	}
+}
+
+character_event = {
+	id = TOG.1051
+	desc = EVTDESC_TOG_1051
+	picture = GFX_evt_siege
+	border = GFX_event_normal_frame_war
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTA_TOG_1000
+	}
+}
+
+character_event = {
+	id = TOG.1061
+	desc = EVTDESC_TOG_1061
+	picture = GFX_evt_heretic
+	border = GFX_event_normal_frame_war
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTA_TOG_1060
+		trigger = {
+			religion_group = FROM
+		}
+	}
+	option = {
+		name = EVTOPTB_TOG_1060
+		trigger = {
+			NOT = {
+				religion_group = FROM
+			}
+		}
+	}
+}
+
+character_event = {
+	id = TOG.1065
+	hide_window = yes
+	is_triggered_only = yes
+	trigger = {
+		has_character_flag = religious_revolter
+		rebel = yes
+		FROM = {
+			is_capital = yes
+		}
+	}
+	immediate = {
+		FROM = {
+			location = {
+				if = {
+					limit = {
+						NOT = {
+							religion = ROOT
+						}
+					}
+					random = {
+						chance = 5
+						religion = ROOT
+					}
+				}
+				if = {
+					limit = {
+						NOT = {
+							has_province_modifier = religious_unrest
+						}
+					}
+					add_province_modifier = {
+						name = religious_unrest
+						duration = 730
+					}
+				}
+			}
+		}
+	}
+}
+
+character_event = {
+	id = TOG.1071
+	desc = EVTDESC_TOG_1071
+	picture = GFX_evt_heretic
+	border = GFX_event_normal_frame_war
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTA_TOG_1070
+	}
+}
+
+character_event = {
+	id = TOG.1190
+	desc = EVTDESC_TOG_1190
+	picture = GFX_evt_beheading
+	border = GFX_event_normal_frame_war
+	is_triggered_only = yes
+	trigger = {
+		new_character = {
+			rebel = yes
+			OR = {
+				NOT = {
+					religion = ROOT
+				}
+				AND = {
+					NOT = {
+						has_character_flag = heretic_revolter
+					}
+					NOT = {
+						has_character_flag = religious_revolter
+					}
+					NOT = {
+						has_character_flag = shepherds_crusade_leader
+					}
+				}
+			}
+		}
+	}
+	weight_multiplier = {
+		days = 1
+		modifier = {
+			factor = 0.5
+			is_female = yes
+		}
+		modifier = {
+			factor = 0.5
+			is_adult = no
+		}
+	}
+	immediate = {
+		any_liege = {
+			character_event = {
+				id = TOG.1191
+			}
+		}
+		new_character = {
+			ROOT = {
+				death = {
+					death_reason = death_rabble
+					killer = PREV
+				}
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA_TOG_1190
+	}
+}
+
+character_event = {
+	id = TOG.1191
+	picture = GFX_evt_beheading
+	desc = EVTDESC_TOG_1191
+	border = GFX_event_normal_frame_war
+	is_triggered_only = yes
+	notification = yes
+	ai = no
+	option = {
+		name = EVTOPTA_TOG_1191
+	}
+}
+

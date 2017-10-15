@@ -1,0 +1,19 @@
+	namespace = TOG
+character_event = {
+	id = TOG.2004
+	hide_window = yes
+	only_playable = yes
+	trigger = {
+		year = 1150
+		NOT = {
+			has_global_flag = norse_culture_flipping
+		}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	immediate = {
+		set_global_flag = norse_culture_flipping
+	}
+}
+

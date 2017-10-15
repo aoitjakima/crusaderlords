@@ -1,0 +1,2383 @@
+province_event = {
+	id = 106000
+	desc = EVTDESC106000
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 632
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				NOT = {
+					any_courtier = {
+						has_character_flag = al_ghazali_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = al_ghazali_flag
+					}
+				}
+				religion_group = akaepa
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106000
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106001
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106001
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106005
+	desc = EVTDESC106005
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 839
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				NOT = {
+					any_courtier = {
+						has_character_flag = muhammad_alidrisi_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = muhammad_alidrisi_flag
+					}
+				}
+				religion_group = akaepa
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106005
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106006
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106006
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106010
+	desc = EVTDESC106010
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 817
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = ibn_khaldun_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = ibn_khaldun_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106010
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106011
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106011
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106015
+	desc = EVTDESC106015
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 664
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = zakariya_al_qazwini_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = zakariya_al_qazwini_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106015
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106016
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106016
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106020
+	desc = EVTDESC106020
+	picture = GFX_evt_emissary
+	trigger = {
+		OR = {
+			province_id = 719
+			province_id = 718
+		}
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = al_juwayni_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = al_juwayni_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106020
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106021
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106021
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106025
+	desc = EVTDESC106025
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 667
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = kamal_aldin_alfarisi_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = kamal_aldin_alfarisi_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106025
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106026
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106026
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106030
+	desc = EVTDESC106030
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 658
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = rashid_aldin_hamadani_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = rashid_aldin_hamadani_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106030
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106031
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106031
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106035
+	desc = EVTDESC106035
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 728
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = ibn_alnafis_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = ibn_alnafis_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106035
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106036
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106036
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106040
+	desc = EVTDESC106040
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 693
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = abul_barakat_albaghdadi_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = abul_barakat_albaghdadi_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106040
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106041
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106041
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106045
+	desc = EVTDESC106045
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 202
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = avempace_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = avempace_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106045
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106046
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106046
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106050
+	desc = EVTDESC106050
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 673
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = nizami_ganjavi_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = nizami_ganjavi_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106050
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106051
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106051
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106055
+	desc = EVTDESC106055
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 661
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = muhammad_ibn_mahmud_amuli_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = muhammad_ibn_mahmud_amuli_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106055
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106056
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106056
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106060
+	desc = EVTDESC106060
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 904
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = rumi_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = rumi_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106060
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106061
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106061
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106065
+	desc = EVTDESC106065
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 628
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = naqshband_bukhari_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = naqshband_bukhari_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106065
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106066
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106066
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106070
+	desc = EVTDESC106070
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 665
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = shahab_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = shahab_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106070
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106071
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106071
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106075
+	desc = EVTDESC106075
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 697
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = athir_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = athir_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106075
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106076
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106076
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106080
+	desc = EVTDESC106080
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 632
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = nasir_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = nasir_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106080
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106081
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106081
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106085
+	desc = EVTDESC106085
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 182
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = ibn_zuhr_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = ibn_zuhr_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106085
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106086
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106086
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106090
+	desc = EVTDESC106090
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 658
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = mir_sayyid_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = mir_sayyid_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106090
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106091
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106091
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106095
+	desc = EVTDESC106095
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 643
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = qutb_shirazi_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = qutb_shirazi_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106095
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106096
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106096
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106100
+	desc = EVTDESC106100
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 728
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = al_dakhwar_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = al_dakhwar_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106100
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106101
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106101
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106105
+	desc = EVTDESC106105
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 633
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = zayn_gorgani_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = zayn_gorgani_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106105
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106106
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106106
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106110
+	desc = EVTDESC106110
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 774
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = rashidun_al_suri_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = rashidun_al_suri_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106110
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106111
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106111
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106115
+	desc = EVTDESC106115
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 167
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = ibn_baitar_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = ibn_baitar_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106115
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106116
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106116
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106120
+	desc = EVTDESC106120
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 664
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = hamdallah_mustawfi_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = hamdallah_mustawfi_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106120
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106121
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106121
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106125
+	desc = EVTDESC106125
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 905
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = khwaja_abdullah_ansari_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = khwaja_abdullah_ansari_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106125
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106126
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106126
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106130
+	desc = EVTDESC106130
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 646
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = jamshid_al_kashi_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = jamshid_al_kashi_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106130
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106131
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106131
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106135
+	desc = EVTDESC106135
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 623
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = najmuddin_kubra_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = najmuddin_kubra_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106135
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106136
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106136
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106140
+	desc = EVTDESC106140
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 634
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = omar_khayyam_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = omar_khayyam_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106140
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106141
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106141
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106145
+	desc = EVTDESC106145
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 841
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = ibn_battuta_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = ibn_battuta_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106145
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106146
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106146
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106150
+	desc = EVTDESC106150
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 663
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = fakhr_razi_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = fakhr_razi_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106150
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106151
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106151
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106155
+	desc = EVTDESC106155
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 180
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = ibn_al_khatib_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = ibn_al_khatib_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106155
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106156
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106156
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106160
+	desc = EVTDESC106160
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 181
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = ibn_rushd_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = ibn_rushd_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106160
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106161
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106161
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106165
+	desc = EVTDESC106165
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 628
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = avicenna_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = avicenna_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106165
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106166
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106166
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 106170
+	desc = EVTDESC106170
+	picture = GFX_evt_emissary
+	trigger = {
+		province_id = 635
+		NOT = {
+			has_province_modifier = famous_muslim_timer
+		}
+		owner = {
+			religion_group = akaepa
+			top_liege = {
+				in_command = no
+				age = 16
+				NOT = {
+					trait = on_hajj
+				}
+				religion_group = akaepa
+				NOT = {
+					any_courtier = {
+						has_character_flag = al_jaldaki_flag
+					}
+				}
+				NOT = {
+					any_vassal = {
+						has_character_flag = al_jaldaki_flag
+					}
+				}
+				NOT = {
+					has_character_modifier = muslim_famous_timer
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 1000
+	}
+	immediate = {
+		hidden_tooltip = {
+			add_province_modifier = {
+				name = famous_muslim_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EVTOPTA106170
+		owner = {
+			top_liege = {
+				hidden_tooltip = {
+					add_character_modifier = {
+						name = muslim_famous_timer
+						duration = 1825
+						hidden = yes
+					}
+				}
+				character_event = {
+					id = 106171
+					days = 3
+					random = 4
+					tooltip = EVTTOOLTIP106171
+				}
+			}
+		}
+	}
+}
+

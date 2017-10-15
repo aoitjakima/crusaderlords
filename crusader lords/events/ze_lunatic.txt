@@ -1,0 +1,52 @@
+	namespace = ZE
+character_event = {
+	id = ZE.15001
+	hide_window = yes
+	is_triggered_only = yes
+	option = {
+		FROM = {
+			character_event = {
+				id = ZE.15002
+			}
+		}
+	}
+}
+
+character_event = {
+	id = ZE.15002
+	border = GFX_event_normal_frame_religion
+	picture = GFX_evt_courier
+	desc = {
+		trigger = {
+			has_dlc = "Horse Lords"
+			is_nomadic = yes
+		}
+		text = EVTDESCZE15002
+		picture = GFX_evt_horse_friend
+	}
+	desc = {
+		trigger = {
+			NAND = {
+				has_dlc = "Horse Lords"
+				is_nomadic = yes
+			}
+		}
+		text = EVTDESCZE15002
+		picture = GFX_evt_courier
+	}
+	is_triggered_only = yes
+	trigger = {
+		trait = lunatic
+		trait = immortal
+	}
+	option = {
+		name = EVTOPTAZE15002
+		FROM = {
+			add_trait = immortal
+		}
+	}
+	option = {
+		name = EVTOPTBZE15002
+	}
+}
+

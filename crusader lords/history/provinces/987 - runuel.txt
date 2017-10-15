@@ -1,0 +1,37 @@
+	title = c_runuel
+	max_settlements = 3
+	culture = norse
+	religion = qiteka
+	b_surule = tribal
+1.1.1 = {
+	b_dethee = ct_port_1
+}
+
+234.4.1 = {
+	culture = waetutlu
+}
+
+307.4.1 = {
+	culture = risutlu
+}
+
+560.4.1 = {
+	b_surule = city
+}
+
+670.4.1 = {
+	b_dethee = city
+}
+
+849.4.1 = {
+	b_tirutlu = temple
+}
+
+1060.4.1 = {
+	culture = saimes
+}
+
+1063.4.1 = {
+	culture = risutlu
+}
+

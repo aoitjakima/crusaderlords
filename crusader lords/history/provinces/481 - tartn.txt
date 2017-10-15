@@ -1,0 +1,49 @@
+	title = c_tartn
+	max_settlements = 2
+	culture = narentiy
+	religion = neharis
+	b_qesie = tribal
+263.4.1 = {
+	culture = syahes
+}
+
+286.4.1 = {
+	culture = amuhopti
+}
+
+291.4.1 = {
+	culture = syahes
+}
+
+296.4.1 = {
+	culture = amuhopti
+}
+
+320.4.1 = {
+	culture = syahes
+}
+
+323.4.1 = {
+	culture = amuhopti
+}
+
+370.4.1 = {
+	culture = syahes
+}
+
+415.4.1 = {
+	culture = amuhopti
+}
+
+450.4.1 = {
+	culture = syahes
+}
+
+555.4.1 = {
+	b_qesie = castle
+}
+
+690.4.1 = {
+	b_laudive = temple
+}
+

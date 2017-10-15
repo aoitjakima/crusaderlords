@@ -1,0 +1,25 @@
+	title = c_qosotos
+	max_settlements = 2
+	culture = remis
+	religion = raipi
+	b_alousn = tribal
+205.3.1 = {
+	religion = wedwig
+}
+
+217.3.1 = {
+	religion = raipi
+}
+
+229.4.1 = {
+	culture = digaka
+}
+
+780.4.1 = {
+	b_alousn = castle
+}
+
+831.4.1 = {
+	b_labady = temple
+}
+

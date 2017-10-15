@@ -1,0 +1,21 @@
+	title = c_qedatti
+	max_settlements = 2
+	culture = radabor
+	religion = tonuyu
+	b_rudina = tribal
+257.4.1 = {
+	culture = wenira
+}
+
+263.4.1 = {
+	culture = radabor
+}
+
+725.4.1 = {
+	b_rudina = castle
+}
+
+834.4.1 = {
+	b_seopeda = city
+}
+

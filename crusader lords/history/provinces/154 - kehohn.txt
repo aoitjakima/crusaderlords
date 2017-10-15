@@ -1,0 +1,37 @@
+	title = c_kehohn
+	max_settlements = 5
+	culture = syahes
+	religion = neharis
+	b_loparia = tribal
+285.4.1 = {
+	culture = sodinia
+}
+
+297.4.1 = {
+	culture = syahes
+}
+
+300.4.1 = {
+	culture = sodinia
+}
+
+520.4.1 = {
+	b_loparia = castle
+}
+
+650.4.1 = {
+	b_keilith = city
+}
+
+854.4.1 = {
+	b_sehanda = temple
+}
+
+925.4.1 = {
+	b_ehooser = temple
+}
+
+980.4.1 = {
+	b_ehoosal = castle
+}
+

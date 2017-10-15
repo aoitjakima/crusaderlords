@@ -1,0 +1,105 @@
+	title = c_qepissa
+	max_settlements = 2
+	culture = kapti
+	religion = kusran
+	b_wolaka = tribal
+200.3.1 = {
+	religion = raipi
+}
+
+201.3.1 = {
+	religion = kusran
+}
+
+204.3.1 = {
+	religion = raipi
+}
+
+207.3.1 = {
+	religion = kusran
+}
+
+214.3.1 = {
+	religion = raipi
+}
+
+216.3.1 = {
+	religion = kusran
+}
+
+230.3.1 = {
+	religion = raipi
+}
+
+240.3.1 = {
+	religion = kusran
+}
+
+242.3.1 = {
+	religion = raipi
+}
+
+244.3.1 = {
+	religion = kusran
+}
+
+254.3.1 = {
+	religion = raipi
+}
+
+256.3.1 = {
+	religion = kusran
+}
+
+259.3.1 = {
+	religion = raipi
+}
+
+262.3.1 = {
+	religion = kusran
+}
+
+265.3.1 = {
+	religion = raipi
+}
+
+284.3.1 = {
+	religion = kusran
+}
+
+285.3.1 = {
+	religion = raipi
+}
+
+288.3.1 = {
+	religion = kusran
+}
+
+290.3.1 = {
+	religion = raipi
+}
+
+291.4.1 = {
+	culture = taodha
+}
+
+354.4.1 = {
+	culture = kapti
+}
+
+512.4.1 = {
+	culture = sutidoka
+}
+
+522.4.1 = {
+	culture = kapti
+}
+
+725.4.1 = {
+	b_wolaka = castle
+}
+
+817.4.1 = {
+	b_lulafu = temple
+}
+

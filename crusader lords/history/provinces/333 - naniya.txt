@@ -1,0 +1,37 @@
+	title = c_naniya
+	max_settlements = 2
+	culture = liebes
+	religion = neharis
+	b_darosaoro = tribal
+250.4.1 = {
+	culture = aqahebel
+}
+
+268.4.1 = {
+	culture = liebes
+}
+
+307.4.1 = {
+	culture = aqahebel
+}
+
+360.4.1 = {
+	culture = liebes
+}
+
+376.4.1 = {
+	culture = aqahebel
+}
+
+383.4.1 = {
+	culture = liebes
+}
+
+530.4.1 = {
+	b_darosaoro = castle
+}
+
+700.4.1 = {
+	b_rulari = city
+}
+

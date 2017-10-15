@@ -1,0 +1,21 @@
+	title = c_bala
+	max_settlements = 2
+	culture = reusadra
+	religion = tonuyu
+	b_deraam = tribal
+326.4.1 = {
+	culture = tiwics
+}
+
+429.4.1 = {
+	culture = nalaam
+}
+
+494.4.1 = {
+	culture = keraam
+}
+
+553.4.1 = {
+	culture = tiwics
+}
+

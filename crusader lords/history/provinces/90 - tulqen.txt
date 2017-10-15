@@ -1,0 +1,49 @@
+	title = c_tulqen
+	max_settlements = 3
+	culture = talentiy
+	religion = neharis
+	b_walelbar = tribal
+200.4.1 = {
+	culture = amuhopti
+}
+
+234.4.1 = {
+	culture = syahes
+}
+
+342.4.1 = {
+	culture = amuhopti
+}
+
+352.4.1 = {
+	culture = syahes
+}
+
+409.4.1 = {
+	culture = amuhopti
+}
+
+451.4.1 = {
+	culture = syahes
+}
+
+461.4.1 = {
+	culture = amuhopti
+}
+
+469.4.1 = {
+	culture = syahes
+}
+
+530.4.1 = {
+	b_walelbar = castle
+}
+
+665.4.1 = {
+	b_elyahyo = city
+}
+
+848.4.1 = {
+	b_dalanin = temple
+}
+

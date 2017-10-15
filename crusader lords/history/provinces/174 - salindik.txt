@@ -1,0 +1,25 @@
+	title = c_salindik
+	max_settlements = 2
+	culture = nitindik
+	religion = neharis
+	b_kopti = tribal
+260.4.1 = {
+	culture = syahes
+}
+
+271.4.1 = {
+	culture = amuhopti
+}
+
+316.4.1 = {
+	culture = syahes
+}
+
+515.4.1 = {
+	b_kopti = castle
+}
+
+631.4.1 = {
+	b_kenibel = city
+}
+

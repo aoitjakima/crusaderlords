@@ -1,0 +1,25 @@
+	title = c_arosoris
+	max_settlements = 5
+	culture = aqahebel
+	religion = neharis
+	b_loroses = tribal
+545.4.1 = {
+	b_loroses = castle
+}
+
+715.4.1 = {
+	b_eroses = city
+}
+
+852.4.1 = {
+	b_lyanagaokor = temple
+}
+
+910.4.1 = {
+	b_weriya = temple
+}
+
+959.4.1 = {
+	b_tilas = temple
+}
+

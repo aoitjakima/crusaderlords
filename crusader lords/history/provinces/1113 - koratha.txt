@@ -1,0 +1,33 @@
+	title = c_koratha
+	max_settlements = 3
+	culture = retlennakta
+	religion = tonuyu
+	b_bilsakaemsa = tribal
+1.1.1 = {
+	b_bilabra = ct_port_1
+}
+
+200.4.1 = {
+	culture = budandev
+}
+
+257.4.1 = {
+	culture = wenira
+}
+
+359.4.1 = {
+	culture = radabor
+}
+
+725.4.1 = {
+	b_bilsakaemsa = castle
+}
+
+816.4.1 = {
+	b_sudatti = temple
+}
+
+896.4.1 = {
+	b_bilabra = city
+}
+

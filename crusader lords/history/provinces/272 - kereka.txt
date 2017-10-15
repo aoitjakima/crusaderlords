@@ -1,0 +1,33 @@
+	title = c_kereka
+	max_settlements = 4
+	culture = syahes
+	religion = neharis
+	b_denafu = tribal
+206.4.1 = {
+	culture = amuhopti
+}
+
+315.4.1 = {
+	culture = syahes
+}
+
+352.4.1 = {
+	culture = amuhopti
+}
+
+451.4.1 = {
+	culture = syahes
+}
+
+540.4.1 = {
+	b_denafu = castle
+}
+
+660.4.1 = {
+	b_kenando = temple
+}
+
+843.4.1 = {
+	b_wisando = city
+}
+

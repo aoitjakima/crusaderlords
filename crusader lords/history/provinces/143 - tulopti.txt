@@ -1,0 +1,25 @@
+	title = c_tulopti
+	max_settlements = 4
+	culture = sodinia
+	religion = neharis
+	b_denibel = tribal
+210.4.1 = {
+	culture = talentiy
+}
+
+505.4.1 = {
+	b_denibel = castle
+}
+
+620.4.1 = {
+	b_kutses = temple
+}
+
+827.4.1 = {
+	b_benopti = city
+}
+
+914.4.1 = {
+	b_akyahopti = city
+}
+

@@ -1,0 +1,21 @@
+	title = c_nyekeven
+	max_settlements = 2
+	culture = syahes
+	religion = neharis
+	b_tahohn = tribal
+240.4.1 = {
+	culture = nitindik
+}
+
+263.4.1 = {
+	culture = sodinia
+}
+
+580.4.1 = {
+	b_tahohn = castle
+}
+
+715.4.1 = {
+	b_abhaver = temple
+}
+

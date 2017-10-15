@@ -1,0 +1,25 @@
+	title = c_benelen
+	max_settlements = 4
+	culture = lyarala
+	religion = tonuyu
+	b_aleopuga = tribal
+201.4.1 = {
+	culture = budandev
+}
+
+730.4.1 = {
+	b_aleopuga = castle
+}
+
+808.4.1 = {
+	b_borony = temple
+}
+
+868.4.1 = {
+	b_tedibor = city
+}
+
+937.4.1 = {
+	b_tudatha = temple
+}
+

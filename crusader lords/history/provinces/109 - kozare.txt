@@ -1,0 +1,57 @@
+	title = c_kozare
+	max_settlements = 7
+	culture = taroman
+	religion = neharis
+	b_nagyan = tribal
+201.3.1 = {
+	religion = raipi
+}
+
+207.3.1 = {
+	religion = neharis
+}
+
+220.3.1 = {
+	religion = raipi
+}
+
+235.3.1 = {
+	religion = neharis
+}
+
+239.3.1 = {
+	religion = raipi
+}
+
+246.3.1 = {
+	religion = neharis
+}
+
+251.3.1 = {
+	religion = raipi
+}
+
+320.4.1 = {
+	culture = eluedsalh
+}
+
+340.4.1 = {
+	culture = sigivkah
+}
+
+790.4.1 = {
+	b_nagyan = castle
+}
+
+836.4.1 = {
+	b_wozilen = temple
+}
+
+941.4.1 = {
+	b_aketamma = city
+}
+
+1049.4.1 = {
+	b_raunlozn = city
+}
+

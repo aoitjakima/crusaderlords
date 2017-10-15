@@ -1,0 +1,21 @@
+	title = c_dyevodar
+	max_settlements = 2
+	culture = waetutlu
+	religion = qiteka
+	b_qyed = tribal
+273.4.1 = {
+	culture = risutlu
+}
+
+505.4.1 = {
+	b_qyed = castle
+}
+
+630.4.1 = {
+	b_aberacob = temple
+}
+
+719.4.1 = {
+	culture = saimes
+}
+

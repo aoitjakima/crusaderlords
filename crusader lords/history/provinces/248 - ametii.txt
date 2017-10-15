@@ -1,0 +1,5 @@
+	title = c_ametii
+	max_settlements = 2
+	culture = waynald
+	religion = wedwig
+	b_wawyof = tribal

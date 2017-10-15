@@ -1,0 +1,49 @@
+	title = c_leluri
+	max_settlements = 3
+	culture = lagond
+	religion = atheociu
+	b_anikao = tribal
+200.3.1 = {
+	religion = qigiyah
+}
+
+203.3.1 = {
+	religion = atheociu
+}
+
+205.3.1 = {
+	religion = qigiyah
+}
+
+212.3.1 = {
+	religion = atheociu
+}
+
+212.3.1 = {
+	religion = qigiyah
+}
+
+215.3.1 = {
+	religion = atheociu
+}
+
+217.3.1 = {
+	religion = qigiyah
+}
+
+224.3.1 = {
+	religion = atheociu
+}
+
+227.3.1 = {
+	religion = qigiyah
+}
+
+858.4.1 = {
+	b_anikao = castle
+}
+
+945.4.1 = {
+	b_laijr = city
+}
+

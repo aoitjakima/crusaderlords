@@ -1,0 +1,33 @@
+	title = c_rosesind
+	max_settlements = 2
+	culture = negasseh
+	religion = wedwig
+	b_buyanes = tribal
+306.4.1 = {
+	culture = davars
+}
+
+333.4.1 = {
+	culture = negasseh
+}
+
+388.4.1 = {
+	culture = durga
+}
+
+416.4.1 = {
+	culture = negasseh
+}
+
+459.4.1 = {
+	culture = davars
+}
+
+545.4.1 = {
+	b_buyanes = castle
+}
+
+675.4.1 = {
+	b_kyat = temple
+}
+

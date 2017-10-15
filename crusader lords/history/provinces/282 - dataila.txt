@@ -1,0 +1,25 @@
+	title = c_dataila
+	max_settlements = 5
+	culture = narentiy
+	religion = neharis
+	b_eresela = tribal
+266.4.1 = {
+	culture = amuhopti
+}
+
+273.4.1 = {
+	culture = syahes
+}
+
+545.4.1 = {
+	b_eresela = castle
+}
+
+665.4.1 = {
+	b_karma = temple
+}
+
+841.4.1 = {
+	b_senaila = city
+}
+

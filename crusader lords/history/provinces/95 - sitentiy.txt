@@ -1,0 +1,33 @@
+	title = c_sitentiy
+	max_settlements = 5
+	culture = daimeig
+	religion = wedwig
+	b_kahopti = tribal
+231.4.1 = {
+	culture = nuteria
+}
+
+314.4.1 = {
+	culture = waynald
+}
+
+585.4.1 = {
+	b_kahopti = castle
+}
+
+730.4.1 = {
+	b_karinia = temple
+}
+
+862.4.1 = {
+	b_raheria = city
+}
+
+943.4.1 = {
+	b_butibel = castle
+}
+
+1030.4.1 = {
+	b_semella = castle
+}
+

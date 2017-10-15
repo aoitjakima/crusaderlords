@@ -1,0 +1,57 @@
+	title = c_byudata
+	max_settlements = 2
+	culture = ryarahim
+	religion = binuyu
+	b_esigeda = tribal
+215.4.1 = {
+	culture = qenoos
+}
+
+241.4.1 = {
+	culture = ryarahim
+}
+
+270.4.1 = {
+	culture = qenoos
+}
+
+294.4.1 = {
+	culture = ryarahim
+}
+
+336.3.1 = {
+	religion = tonuyu
+}
+
+338.4.1 = {
+	culture = qenoos
+}
+
+356.4.1 = {
+	culture = ryarahim
+}
+
+427.4.1 = {
+	culture = ranahim
+}
+
+810.4.1 = {
+	culture = qenoos
+}
+
+846.4.1 = {
+	culture = ranahim
+}
+
+863.4.1 = {
+	culture = qenoos
+}
+
+882.4.1 = {
+	culture = ranahim
+}
+
+918.4.1 = {
+	culture = qenoos
+}
+

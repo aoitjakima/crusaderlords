@@ -1,0 +1,25 @@
+	title = c_lolidoi
+	max_settlements = 2
+	culture = risutlu
+	religion = qiteka
+	b_byalelid = tribal
+246.4.1 = {
+	culture = waetutlu
+}
+
+401.4.1 = {
+	culture = risutlu
+}
+
+610.4.1 = {
+	b_byalelid = castle
+}
+
+770.4.1 = {
+	b_katacob = temple
+}
+
+999.4.1 = {
+	culture = saimes
+}
+

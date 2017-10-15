@@ -1,0 +1,57 @@
+	title = c_resonka
+	max_settlements = 3
+	culture = sereka
+	religion = naneka
+	b_deneka = tribal
+326.4.1 = {
+	culture = esunadir
+}
+
+341.4.1 = {
+	culture = sereka
+}
+
+398.4.1 = {
+	culture = esunadir
+}
+
+447.4.1 = {
+	culture = sereka
+}
+
+528.4.1 = {
+	culture = esunadir
+}
+
+609.4.1 = {
+	culture = sereka
+}
+
+648.4.1 = {
+	culture = esunadir
+}
+
+696.4.1 = {
+	culture = sereka
+}
+
+721.4.1 = {
+	culture = esunadir
+}
+
+804.4.1 = {
+	b_deneka = castle
+}
+
+839.4.1 = {
+	b_sotes = city
+}
+
+884.4.1 = {
+	culture = sereka
+}
+
+941.4.1 = {
+	b_sesafu = temple
+}
+

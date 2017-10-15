@@ -1,0 +1,41 @@
+	title = c_kitata
+	max_settlements = 3
+	culture = laaug
+	religion = telayira
+	b_qezayya = tribal
+1.1.1 = {
+	b_atuginia = ct_port_1
+}
+
+216.4.1 = {
+	culture = ritiatou
+}
+
+300.4.1 = {
+	culture = koumas
+}
+
+531.4.1 = {
+	culture = lopher
+}
+
+539.4.1 = {
+	culture = koumas
+}
+
+600.4.1 = {
+	b_qezayya = castle
+}
+
+790.4.1 = {
+	b_kekaria = temple
+}
+
+867.4.1 = {
+	culture = lopher
+}
+
+886.4.1 = {
+	b_atuginia = city
+}
+

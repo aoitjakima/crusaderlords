@@ -1,0 +1,33 @@
+	title = c_deneria
+	max_settlements = 7
+	culture = karibel
+	religion = neharis
+	b_qutella = tribal
+201.4.1 = {
+	culture = nitindik
+}
+
+260.4.1 = {
+	culture = syahes
+}
+
+271.4.1 = {
+	culture = amuhopti
+}
+
+316.4.1 = {
+	culture = syahes
+}
+
+535.4.1 = {
+	b_qutella = castle
+}
+
+691.4.1 = {
+	b_karopolk = city
+}
+
+915.4.1 = {
+	b_syaheria = temple
+}
+

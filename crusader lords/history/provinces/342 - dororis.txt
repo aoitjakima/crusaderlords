@@ -1,0 +1,25 @@
+	title = c_dororis
+	max_settlements = 7
+	culture = aqahebel
+	religion = neharis
+	b_tiloz = tribal
+530.4.1 = {
+	b_tiloz = castle
+}
+
+660.4.1 = {
+	b_diliya = temple
+}
+
+844.4.1 = {
+	b_syanatim = city
+}
+
+953.4.1 = {
+	b_dilata = castle
+}
+
+1052.4.1 = {
+	b_wauludo = castle
+}
+

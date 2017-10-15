@@ -1,0 +1,21 @@
+	title = c_emaudey
+	max_settlements = 2
+	culture = ebeina
+	religion = qiteka
+	b_redacob = tribal
+523.4.1 = {
+	culture = risutlu
+}
+
+575.4.1 = {
+	b_redacob = castle
+}
+
+715.4.1 = {
+	b_qyeviby = temple
+}
+
+887.4.1 = {
+	culture = saimes
+}
+

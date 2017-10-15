@@ -1,0 +1,49 @@
+	title = c_talliu
+	max_settlements = 2
+	culture = lagond
+	religion = wedwig
+	b_kurert = tribal
+200.3.1 = {
+	religion = qigiyah
+}
+
+206.3.1 = {
+	religion = wedwig
+}
+
+209.3.1 = {
+	religion = qigiyah
+}
+
+211.3.1 = {
+	religion = wedwig
+}
+
+212.3.1 = {
+	religion = qigiyah
+}
+
+215.3.1 = {
+	religion = wedwig
+}
+
+217.3.1 = {
+	religion = qigiyah
+}
+
+219.3.1 = {
+	religion = wedwig
+}
+
+221.3.1 = {
+	religion = qigiyah
+}
+
+919.4.1 = {
+	b_kurert = castle
+}
+
+956.4.1 = {
+	b_sagalda = temple
+}
+

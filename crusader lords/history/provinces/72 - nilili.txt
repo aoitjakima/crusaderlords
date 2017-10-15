@@ -1,0 +1,57 @@
+	title = c_nilili
+	max_settlements = 5
+	culture = tawtus
+	religion = kodine
+	b_nilan = tribal
+201.3.1 = {
+	religion = tonuyu
+}
+
+212.4.1 = {
+	culture = eweseedun
+}
+
+263.4.1 = {
+	culture = lodeid
+}
+
+264.3.1 = {
+	religion = kodine
+}
+
+264.3.1 = {
+	religion = tonuyu
+}
+
+266.3.1 = {
+	religion = kodine
+}
+
+271.3.1 = {
+	religion = tonuyu
+}
+
+274.3.1 = {
+	religion = kodine
+}
+
+281.3.1 = {
+	religion = tonuyu
+}
+
+423.4.1 = {
+	culture = biho
+}
+
+839.4.1 = {
+	b_nilan = castle
+}
+
+875.4.1 = {
+	b_rigre = city
+}
+
+976.4.1 = {
+	b_becica = temple
+}
+

@@ -1,0 +1,17 @@
+	title = c_esordan
+	max_settlements = 2
+	culture = qindik
+	religion = neharis
+	b_setiam = tribal
+254.4.1 = {
+	culture = syahes
+}
+
+590.4.1 = {
+	b_setiam = castle
+}
+
+735.4.1 = {
+	b_alamanda = temple
+}
+

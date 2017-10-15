@@ -1,0 +1,41 @@
+	title = c_raurn
+	max_settlements = 2
+	culture = kuhotil
+	religion = eraygnars
+	b_taimen = tribal
+223.4.1 = {
+	culture = nuteria
+}
+
+255.4.1 = {
+	culture = kuhotil
+}
+
+277.4.1 = {
+	culture = nuteria
+}
+
+319.4.1 = {
+	culture = kuhotil
+}
+
+332.4.1 = {
+	culture = nuteria
+}
+
+351.4.1 = {
+	culture = kuhotil
+}
+
+362.4.1 = {
+	culture = nuteria
+}
+
+615.4.1 = {
+	b_taimen = castle
+}
+
+755.4.1 = {
+	b_emeteorn = city
+}
+

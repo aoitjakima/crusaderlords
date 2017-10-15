@@ -1,0 +1,37 @@
+	title = c_bitand
+	max_settlements = 5
+	culture = terikatim
+	religion = telayira
+	b_tenainn = tribal
+1.1.1 = {
+	b_qefraug = ct_port_1
+}
+
+201.4.1 = {
+	culture = titina
+}
+
+215.4.1 = {
+	culture = dainbai
+}
+
+220.4.1 = {
+	culture = titina
+}
+
+842.4.1 = {
+	b_tenainn = castle
+}
+
+889.4.1 = {
+	b_qefraug = city
+}
+
+998.4.1 = {
+	b_tonka = temple
+}
+
+1065.4.1 = {
+	b_waonka = city
+}
+

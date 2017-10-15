@@ -1,0 +1,41 @@
+	title = c_bitopolk
+	max_settlements = 3
+	culture = talentiy
+	religion = neharis
+	b_bahnan = tribal
+203.4.1 = {
+	culture = sodinia
+}
+
+232.4.1 = {
+	culture = syahes
+}
+
+238.4.1 = {
+	culture = sodinia
+}
+
+354.4.1 = {
+	culture = syahes
+}
+
+370.4.1 = {
+	culture = sodinia
+}
+
+391.4.1 = {
+	culture = syahes
+}
+
+521.4.1 = {
+	b_bahnan = castle
+}
+
+620.4.1 = {
+	b_tuhopti = temple
+}
+
+823.4.1 = {
+	b_doden = city
+}
+

@@ -1,0 +1,25 @@
+	title = c_dicith
+	max_settlements = 2
+	culture = syahes
+	religion = neharis
+	b_qeheven = tribal
+211.4.1 = {
+	culture = karibel
+}
+
+334.4.1 = {
+	culture = nitindik
+}
+
+585.4.1 = {
+	b_qeheven = castle
+}
+
+665.4.1 = {
+	b_kasith = city
+}
+
+851.4.1 = {
+	culture = syahes
+}
+

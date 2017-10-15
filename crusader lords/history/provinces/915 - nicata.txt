@@ -1,0 +1,37 @@
+	title = c_nicata
+	max_settlements = 4
+	culture = ritiatou
+	religion = telayira
+	b_wugaria = tribal
+417.4.1 = {
+	culture = koumas
+}
+
+472.4.1 = {
+	culture = lopher
+}
+
+600.4.1 = {
+	b_wugaria = castle
+}
+
+610.4.1 = {
+	culture = koumas
+}
+
+685.4.1 = {
+	b_wazaria = city
+}
+
+880.4.1 = {
+	b_nopolk = temple
+}
+
+930.4.1 = {
+	b_tezo = temple
+}
+
+947.4.1 = {
+	culture = lopher
+}
+

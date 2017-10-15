@@ -1,0 +1,65 @@
+	title = c_remarenat
+	max_settlements = 3
+	culture = sereka
+	religion = naneka
+	b_turutlu = tribal
+202.3.1 = {
+	religion = begeka
+}
+
+222.4.1 = {
+	culture = runafu
+}
+
+238.3.1 = {
+	religion = naneka
+}
+
+242.4.1 = {
+	culture = sereka
+}
+
+348.4.1 = {
+	culture = runafu
+}
+
+366.4.1 = {
+	culture = sereka
+}
+
+471.4.1 = {
+	culture = runafu
+}
+
+481.4.1 = {
+	culture = sereka
+}
+
+620.4.1 = {
+	b_turutlu = castle
+}
+
+702.4.1 = {
+	culture = runafu
+}
+
+765.4.1 = {
+	b_adaura = city
+}
+
+871.4.1 = {
+	b_savule = temple
+}
+
+963.4.1 = {
+	culture = sereka
+}
+
+982.4.1 = {
+	culture = runafu
+}
+
+1000.4.1 = {
+	culture = sereka
+}
+

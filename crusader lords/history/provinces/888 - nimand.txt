@@ -1,0 +1,29 @@
+	title = c_nimand
+	max_settlements = 4
+	culture = titina
+	religion = telayira
+	b_ewand = tribal
+1.1.1 = {
+	b_tenaukr = ct_port_1
+}
+
+215.4.1 = {
+	culture = dainbai
+}
+
+220.4.1 = {
+	culture = titina
+}
+
+819.4.1 = {
+	b_ewand = castle
+}
+
+856.4.1 = {
+	b_tenaukr = city
+}
+
+963.4.1 = {
+	b_wikao = temple
+}
+

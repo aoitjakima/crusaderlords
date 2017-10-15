@@ -1,0 +1,29 @@
+	title = c_tusald
+	max_settlements = 5
+	culture = davars
+	religion = wedwig
+	b_lolf = tribal
+266.4.1 = {
+	culture = weliana
+}
+
+585.4.1 = {
+	b_lolf = castle
+}
+
+765.4.1 = {
+	b_naikeja = temple
+}
+
+873.4.1 = {
+	b_ajeleja = city
+}
+
+948.4.1 = {
+	b_tyii = temple
+}
+
+1017.4.1 = {
+	b_naynald = castle
+}
+

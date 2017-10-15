@@ -1,0 +1,57 @@
+	title = c_dozaraja
+	max_settlements = 3
+	culture = latuma
+	religion = atheociu
+	b_rozortao = tribal
+206.3.1 = {
+	religion = qigiyah
+}
+
+207.4.1 = {
+	culture = rarare
+}
+
+222.3.1 = {
+	religion = atheociu
+}
+
+235.3.1 = {
+	religion = qigiyah
+}
+
+235.4.1 = {
+	culture = latuma
+}
+
+237.3.1 = {
+	religion = atheociu
+}
+
+262.4.1 = {
+	culture = sigivkah
+}
+
+282.4.1 = {
+	culture = latuma
+}
+
+327.4.1 = {
+	culture = sigivkah
+}
+
+336.4.1 = {
+	culture = latuma
+}
+
+824.4.1 = {
+	b_rozortao = castle
+}
+
+855.4.1 = {
+	b_emezor = temple
+}
+
+908.4.1 = {
+	b_aqalerkui = city
+}
+

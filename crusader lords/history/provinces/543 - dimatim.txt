@@ -1,0 +1,17 @@
+	title = c_dimatim
+	max_settlements = 2
+	culture = sigivkah
+	religion = qigiyah
+	b_sayira = tribal
+221.4.1 = {
+	culture = alaurine
+}
+
+823.4.1 = {
+	b_sayira = castle
+}
+
+860.4.1 = {
+	b_elaraja = city
+}
+

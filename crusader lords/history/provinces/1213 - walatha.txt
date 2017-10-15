@@ -1,0 +1,25 @@
+	title = c_walatha
+	max_settlements = 4
+	culture = ahenatha
+	religion = tonuyu
+	b_raluga = tribal
+313.3.1 = {
+	religion = worelen
+}
+
+322.4.1 = {
+	culture = nalaam
+}
+
+348.4.1 = {
+	culture = ahenatha
+}
+
+507.4.1 = {
+	culture = nalaam
+}
+
+1061.4.1 = {
+	b_raluga = castle
+}
+

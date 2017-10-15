@@ -1,0 +1,25 @@
+	title = c_legagnar
+	max_settlements = 3
+	culture = davars
+	religion = wedwig
+	b_araungt = tribal
+394.4.1 = {
+	culture = durga
+}
+
+398.4.1 = {
+	culture = davars
+}
+
+620.4.1 = {
+	b_araungt = castle
+}
+
+780.4.1 = {
+	b_qegudrd = temple
+}
+
+891.4.1 = {
+	b_doheorn = city
+}
+

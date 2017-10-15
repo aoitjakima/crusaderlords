@@ -1,0 +1,21 @@
+	title = c_lenipp
+	max_settlements = 2
+	culture = waetutlu
+	religion = qiteka
+	b_natacob = tribal
+319.4.1 = {
+	culture = risutlu
+}
+
+515.4.1 = {
+	b_natacob = castle
+}
+
+640.4.1 = {
+	b_qavada = city
+}
+
+723.4.1 = {
+	culture = saimes
+}
+

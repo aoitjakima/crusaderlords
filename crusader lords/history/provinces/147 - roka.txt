@@ -1,0 +1,13 @@
+	title = c_roka
+	max_settlements = 2
+	culture = sigivkah
+	religion = kusran
+	b_dabopti = tribal
+303.3.1 = {
+	religion = qigiyah
+}
+
+324.4.1 = {
+	culture = alaurine
+}
+

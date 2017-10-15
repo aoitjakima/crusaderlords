@@ -1,0 +1,37 @@
+	title = c_wyel
+	max_settlements = 4
+	culture = dainbai
+	religion = telayira
+	b_nuzeliz = tribal
+1.1.1 = {
+	b_litata = ct_port_1
+}
+
+214.4.1 = {
+	culture = wedina
+}
+
+241.4.1 = {
+	culture = dainbai
+}
+
+369.4.1 = {
+	culture = laaug
+}
+
+720.4.1 = {
+	b_nuzeliz = castle
+}
+
+818.4.1 = {
+	b_litata = city
+}
+
+885.4.1 = {
+	b_quyania = temple
+}
+
+934.4.1 = {
+	b_qeherong = city
+}
+

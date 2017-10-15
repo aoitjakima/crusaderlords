@@ -1,0 +1,29 @@
+	title = c_dauduel
+	max_settlements = 6
+	culture = kuhotil
+	religion = wedwig
+	b_rumance = tribal
+1.1.1 = {
+	b_adaun = ct_port_1
+}
+
+229.4.1 = {
+	culture = davars
+}
+
+610.4.1 = {
+	b_rumance = castle
+}
+
+790.4.1 = {
+	b_segiam = temple
+}
+
+936.4.1 = {
+	b_adaun = city
+}
+
+1037.4.1 = {
+	b_rocance = castle
+}
+

@@ -1,0 +1,57 @@
+	title = c_qahkaam
+	max_settlements = 5
+	culture = nalaam
+	religion = worelen
+	b_eqoratti = tribal
+203.3.1 = {
+	religion = tonuyu
+}
+
+204.3.1 = {
+	religion = worelen
+}
+
+209.3.1 = {
+	religion = tonuyu
+}
+
+211.3.1 = {
+	religion = worelen
+}
+
+213.3.1 = {
+	religion = tonuyu
+}
+
+216.3.1 = {
+	religion = worelen
+}
+
+217.3.1 = {
+	religion = tonuyu
+}
+
+220.4.1 = {
+	culture = tiwics
+}
+
+725.4.1 = {
+	b_eqoratti = castle
+}
+
+817.4.1 = {
+	b_keusaura = city
+}
+
+899.4.1 = {
+	b_lepebia = temple
+}
+
+954.4.1 = {
+	b_taemaura = castle
+}
+
+1005.4.1 = {
+	b_katti = temple
+}
+

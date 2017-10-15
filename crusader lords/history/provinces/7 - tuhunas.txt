@@ -1,0 +1,21 @@
+	title = c_tuhunas
+	max_settlements = 4
+	culture = duulava
+	religion = neharis
+	b_kartas = tribal
+1.1.1 = {
+	b_wicila = ct_port_1
+}
+
+965.4.1 = {
+	b_kartas = castle
+}
+
+1022.4.1 = {
+	b_kicare = temple
+}
+
+1062.4.1 = {
+	b_wicila = city
+}
+

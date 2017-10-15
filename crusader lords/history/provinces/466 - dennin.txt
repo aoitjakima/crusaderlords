@@ -1,0 +1,89 @@
+	title = c_dennin
+	max_settlements = 3
+	culture = kuhotil
+	religion = eraygnars
+	b_erareria = tribal
+213.3.1 = {
+	religion = wedwig
+}
+
+217.4.1 = {
+	culture = waynald
+}
+
+218.3.1 = {
+	religion = eraygnars
+}
+
+225.4.1 = {
+	culture = nuteria
+}
+
+234.4.1 = {
+	culture = waynald
+}
+
+235.3.1 = {
+	religion = wedwig
+}
+
+236.3.1 = {
+	religion = eraygnars
+}
+
+239.3.1 = {
+	religion = wedwig
+}
+
+252.3.1 = {
+	religion = eraygnars
+}
+
+263.3.1 = {
+	religion = wedwig
+}
+
+282.3.1 = {
+	religion = eraygnars
+}
+
+284.3.1 = {
+	religion = wedwig
+}
+
+289.3.1 = {
+	religion = eraygnars
+}
+
+295.3.1 = {
+	religion = wedwig
+}
+
+303.3.1 = {
+	religion = eraygnars
+}
+
+304.3.1 = {
+	religion = wedwig
+}
+
+309.3.1 = {
+	religion = eraygnars
+}
+
+315.4.1 = {
+	culture = nuteria
+}
+
+620.4.1 = {
+	b_erareria = castle
+}
+
+730.4.1 = {
+	b_daropti = temple
+}
+
+908.4.1 = {
+	b_kinia = city
+}
+

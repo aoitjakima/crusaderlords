@@ -1,0 +1,69 @@
+	title = c_tiyason
+	max_settlements = 7
+	culture = ryanopti
+	religion = kusran
+	b_waxey = tribal
+200.3.1 = {
+	religion = wedwig
+}
+
+201.4.1 = {
+	culture = nuteria
+}
+
+306.4.1 = {
+	culture = davars
+}
+
+307.4.1 = {
+	culture = nuteria
+}
+
+335.4.1 = {
+	culture = durga
+}
+
+368.4.1 = {
+	culture = nuteria
+}
+
+390.4.1 = {
+	culture = durga
+}
+
+514.4.1 = {
+	culture = davars
+}
+
+525.4.1 = {
+	culture = durga
+}
+
+530.4.1 = {
+	culture = davars
+}
+
+545.4.1 = {
+	b_waxey = castle
+}
+
+675.4.1 = {
+	b_wephen = city
+}
+
+843.4.1 = {
+	b_kiby = temple
+}
+
+906.4.1 = {
+	b_woros = castle
+}
+
+966.4.1 = {
+	b_dyia = city
+}
+
+1025.4.1 = {
+	b_nosyhon = temple
+}
+

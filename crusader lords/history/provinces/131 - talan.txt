@@ -1,0 +1,21 @@
+	title = c_talan
+	max_settlements = 2
+	culture = ketamma
+	religion = kusran
+	b_nilen = tribal
+248.4.1 = {
+	culture = sigivkah
+}
+
+256.4.1 = {
+	culture = ketamma
+}
+
+827.4.1 = {
+	b_nilen = castle
+}
+
+873.4.1 = {
+	b_qatilen = city
+}
+

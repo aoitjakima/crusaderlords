@@ -1,0 +1,69 @@
+	title = c_asolas
+	max_settlements = 5
+	culture = saimes
+	religion = begeka
+	b_kireina = tribal
+207.3.1 = {
+	religion = qiteka
+}
+
+211.3.1 = {
+	religion = begeka
+}
+
+212.3.1 = {
+	religion = qiteka
+}
+
+220.3.1 = {
+	religion = begeka
+}
+
+220.3.1 = {
+	religion = qiteka
+}
+
+223.3.1 = {
+	religion = begeka
+}
+
+227.3.1 = {
+	religion = qiteka
+}
+
+232.3.1 = {
+	religion = begeka
+}
+
+232.3.1 = {
+	religion = qiteka
+}
+
+235.3.1 = {
+	religion = begeka
+}
+
+238.3.1 = {
+	religion = qiteka
+}
+
+595.4.1 = {
+	b_kireina = castle
+}
+
+755.4.1 = {
+	b_rirelin = temple
+}
+
+870.4.1 = {
+	b_qisics = city
+}
+
+940.4.1 = {
+	b_asule = city
+}
+
+1014.4.1 = {
+	b_rutlu = castle
+}
+

@@ -1,0 +1,33 @@
+	title = c_ralah
+	max_settlements = 3
+	culture = lerelin
+	religion = naneka
+	b_rukine = tribal
+206.4.1 = {
+	culture = taetoza
+}
+
+238.4.1 = {
+	culture = lerelin
+}
+
+271.4.1 = {
+	culture = wates
+}
+
+373.3.1 = {
+	religion = qiteka
+}
+
+615.4.1 = {
+	b_rukine = castle
+}
+
+695.4.1 = {
+	b_bine = city
+}
+
+822.4.1 = {
+	b_wuulah = temple
+}
+

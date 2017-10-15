@@ -1,0 +1,17 @@
+	title = c_tohipp
+	max_settlements = 3
+	culture = abajule
+	religion = kusran
+	b_apritey = tribal
+625.4.1 = {
+	b_apritey = castle
+}
+
+806.4.1 = {
+	b_winoedl = city
+}
+
+940.4.1 = {
+	b_qotl = temple
+}
+

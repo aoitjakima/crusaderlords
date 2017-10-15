@@ -1,0 +1,25 @@
+	title = c_ratako
+	max_settlements = 2
+	culture = wubihr
+	religion = aratihr
+	b_wagouz = tribal
+270.4.1 = {
+	culture = laris
+}
+
+361.4.1 = {
+	culture = wubihr
+}
+
+444.4.1 = {
+	culture = selalya
+}
+
+800.4.1 = {
+	b_wagouz = castle
+}
+
+835.4.1 = {
+	b_lenihr = temple
+}
+

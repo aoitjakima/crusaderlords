@@ -1,0 +1,61 @@
+	title = c_lolina
+	max_settlements = 4
+	culture = kaureid
+	religion = wedwig
+	b_routs = tribal
+200.3.1 = {
+	religion = raipi
+}
+
+208.3.1 = {
+	religion = wedwig
+}
+
+214.3.1 = {
+	religion = raipi
+}
+
+219.3.1 = {
+	religion = wedwig
+}
+
+222.3.1 = {
+	religion = kusran
+}
+
+230.3.1 = {
+	religion = raipi
+}
+
+234.3.1 = {
+	religion = kusran
+}
+
+242.3.1 = {
+	religion = raipi
+}
+
+244.3.1 = {
+	religion = kusran
+}
+
+254.3.1 = {
+	religion = raipi
+}
+
+259.4.1 = {
+	culture = kapti
+}
+
+725.4.1 = {
+	b_routs = castle
+}
+
+818.4.1 = {
+	b_daten = city
+}
+
+918.4.1 = {
+	b_biyaby = temple
+}
+

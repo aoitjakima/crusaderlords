@@ -1,0 +1,17 @@
+	title = c_rurancis
+	max_settlements = 2
+	culture = alaurine
+	religion = wedwig
+	b_waludha = tribal
+200.3.1 = {
+	religion = qigiyah
+}
+
+841.4.1 = {
+	b_waludha = castle
+}
+
+883.4.1 = {
+	b_kaown = city
+}
+

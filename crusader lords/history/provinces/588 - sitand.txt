@@ -1,0 +1,25 @@
+	title = c_sitand
+	max_settlements = 3
+	culture = raureid
+	religion = qigiyah
+	b_atimonka = tribal
+242.4.1 = {
+	culture = disinos
+}
+
+294.4.1 = {
+	culture = alaurine
+}
+
+823.4.1 = {
+	b_atimonka = castle
+}
+
+860.4.1 = {
+	b_delimha = city
+}
+
+972.4.1 = {
+	b_naukr = temple
+}
+

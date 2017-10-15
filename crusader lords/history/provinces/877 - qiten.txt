@@ -1,0 +1,53 @@
+	title = c_qiten
+	max_settlements = 5
+	culture = dainbai
+	religion = telayira
+	b_wugita = tribal
+205.4.1 = {
+	culture = ritiatou
+}
+
+313.4.1 = {
+	culture = koumas
+}
+
+593.4.1 = {
+	culture = lopher
+}
+
+621.4.1 = {
+	culture = koumas
+}
+
+721.4.1 = {
+	b_wugita = castle
+}
+
+767.4.1 = {
+	culture = lopher
+}
+
+806.4.1 = {
+	b_tezeyl = temple
+}
+
+846.4.1 = {
+	culture = koumas
+}
+
+852.4.1 = {
+	culture = lopher
+}
+
+893.4.1 = {
+	b_kaucata = city
+}
+
+970.4.1 = {
+	b_tuyal = city
+}
+
+1045.4.1 = {
+	b_dugeliz = city
+}
+

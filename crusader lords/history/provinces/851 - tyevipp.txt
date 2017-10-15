@@ -1,0 +1,33 @@
+	title = c_tyevipp
+	max_settlements = 4
+	culture = risutlu
+	religion = qiteka
+	b_direy = tribal
+246.4.1 = {
+	culture = waetutlu
+}
+
+401.4.1 = {
+	culture = risutlu
+}
+
+505.4.1 = {
+	b_direy = castle
+}
+
+645.4.1 = {
+	b_edyos = city
+}
+
+834.4.1 = {
+	b_tirodar = temple
+}
+
+898.4.1 = {
+	b_raudid = temple
+}
+
+999.4.1 = {
+	culture = saimes
+}
+

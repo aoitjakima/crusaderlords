@@ -1,0 +1,13 @@
+	title = c_qunes
+	max_settlements = 3
+	culture = syahes
+	religion = neharis
+	b_ticolas = tribal
+575.4.1 = {
+	b_ticolas = castle
+}
+
+745.4.1 = {
+	b_elanily = city
+}
+

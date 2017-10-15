@@ -1,0 +1,17 @@
+	title = c_tesa
+	max_settlements = 2
+	culture = amuhopti
+	religion = neharis
+	b_katinus = tribal
+301.4.1 = {
+	culture = syahes
+}
+
+540.4.1 = {
+	b_katinus = castle
+}
+
+660.4.1 = {
+	b_sanonka = temple
+}
+

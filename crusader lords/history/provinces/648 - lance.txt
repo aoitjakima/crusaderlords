@@ -1,0 +1,25 @@
+	title = c_lance
+	max_settlements = 3
+	culture = nuteria
+	religion = eraygnars
+	b_wance = tribal
+207.3.1 = {
+	religion = qiteka
+}
+
+216.4.1 = {
+	culture = saimes
+}
+
+605.4.1 = {
+	b_wance = castle
+}
+
+750.4.1 = {
+	b_deodat = temple
+}
+
+876.4.1 = {
+	b_tesive = city
+}
+

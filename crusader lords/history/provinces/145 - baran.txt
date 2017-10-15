@@ -1,0 +1,45 @@
+	title = c_baran
+	max_settlements = 3
+	culture = watinan
+	religion = kusran
+	b_wilen = tribal
+272.4.1 = {
+	culture = ketamma
+}
+
+324.4.1 = {
+	culture = watinan
+}
+
+344.4.1 = {
+	culture = ketamma
+}
+
+350.4.1 = {
+	culture = watinan
+}
+
+359.4.1 = {
+	culture = ketamma
+}
+
+365.4.1 = {
+	culture = watinan
+}
+
+396.4.1 = {
+	culture = ketamma
+}
+
+880.4.1 = {
+	b_wilen = castle
+}
+
+926.4.1 = {
+	b_kataham = city
+}
+
+1052.4.1 = {
+	b_kajaipoka = temple
+}
+

@@ -1,0 +1,37 @@
+	title = c_takabra
+	max_settlements = 2
+	culture = tudatha
+	religion = worelen
+	b_sabedony = tribal
+203.3.1 = {
+	religion = tonuyu
+}
+
+212.3.1 = {
+	religion = worelen
+}
+
+213.3.1 = {
+	religion = tonuyu
+}
+
+244.4.1 = {
+	culture = tiwics
+}
+
+546.4.1 = {
+	culture = keraam
+}
+
+553.4.1 = {
+	culture = tiwics
+}
+
+780.4.1 = {
+	b_sabedony = castle
+}
+
+832.4.1 = {
+	b_kaysa = temple
+}
+

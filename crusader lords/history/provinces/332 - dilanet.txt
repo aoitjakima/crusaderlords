@@ -1,0 +1,17 @@
+	title = c_dilanet
+	max_settlements = 3
+	culture = aqahebel
+	religion = neharis
+	b_kaont = tribal
+545.4.1 = {
+	b_kaont = castle
+}
+
+635.4.1 = {
+	b_ranari = city
+}
+
+808.4.1 = {
+	b_rilas = temple
+}
+

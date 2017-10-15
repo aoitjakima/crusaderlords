@@ -1,0 +1,69 @@
+	title = c_latae
+	max_settlements = 7
+	culture = ranahim
+	religion = tonuyu
+	b_etoling = tribal
+1.1.1 = {
+	b_asamia = ct_port_1
+}
+
+204.4.1 = {
+	culture = wabuzhi
+}
+
+297.4.1 = {
+	culture = ranahim
+}
+
+442.4.1 = {
+	culture = qenoos
+}
+
+444.4.1 = {
+	culture = ranahim
+}
+
+547.4.1 = {
+	culture = qenoos
+}
+
+627.4.1 = {
+	culture = ranahim
+}
+
+633.4.1 = {
+	culture = qenoos
+}
+
+688.4.1 = {
+	culture = ranahim
+}
+
+741.4.1 = {
+	culture = qenoos
+}
+
+748.4.1 = {
+	culture = ranahim
+}
+
+811.4.1 = {
+	culture = qenoos
+}
+
+840.4.1 = {
+	b_etoling = castle
+}
+
+875.4.1 = {
+	b_rabappa = temple
+}
+
+981.4.1 = {
+	b_asamia = city
+}
+
+1055.4.1 = {
+	culture = ranahim
+}
+

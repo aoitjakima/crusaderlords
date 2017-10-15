@@ -1,0 +1,13 @@
+	title = c_lodopti
+	max_settlements = 2
+	culture = syahes
+	religion = neharis
+	b_sitopolk = tribal
+660.4.1 = {
+	b_sitopolk = castle
+}
+
+818.4.1 = {
+	b_esuhius = temple
+}
+

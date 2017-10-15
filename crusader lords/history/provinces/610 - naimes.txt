@@ -1,0 +1,29 @@
+	title = c_naimes
+	max_settlements = 2
+	culture = syahes
+	religion = neharis
+	b_sesive = tribal
+321.4.1 = {
+	culture = amuhopti
+}
+
+323.4.1 = {
+	culture = syahes
+}
+
+417.4.1 = {
+	culture = amuhopti
+}
+
+451.4.1 = {
+	culture = syahes
+}
+
+590.4.1 = {
+	b_sesive = castle
+}
+
+785.4.1 = {
+	b_qices = city
+}
+

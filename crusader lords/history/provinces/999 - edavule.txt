@@ -1,0 +1,101 @@
+	title = c_edavule
+	max_settlements = 2
+	culture = ruraura
+	religion = qiteka
+	b_kisoza = tribal
+203.3.1 = {
+	religion = terenat
+}
+
+222.3.1 = {
+	religion = qiteka
+}
+
+222.3.1 = {
+	religion = terenat
+}
+
+230.3.1 = {
+	religion = qiteka
+}
+
+230.3.1 = {
+	religion = terenat
+}
+
+236.3.1 = {
+	religion = begeka
+}
+
+248.3.1 = {
+	religion = qiteka
+}
+
+250.3.1 = {
+	religion = begeka
+}
+
+252.3.1 = {
+	religion = terenat
+}
+
+263.3.1 = {
+	religion = begeka
+}
+
+264.3.1 = {
+	religion = terenat
+}
+
+265.3.1 = {
+	religion = begeka
+}
+
+268.3.1 = {
+	religion = terenat
+}
+
+269.3.1 = {
+	religion = begeka
+}
+
+280.3.1 = {
+	religion = terenat
+}
+
+284.3.1 = {
+	religion = begeka
+}
+
+289.3.1 = {
+	religion = terenat
+}
+
+297.3.1 = {
+	religion = begeka
+}
+
+313.4.1 = {
+	culture = banaila
+}
+
+515.4.1 = {
+	b_kisoza = castle
+}
+
+530.4.1 = {
+	culture = kitule
+}
+
+564.4.1 = {
+	culture = banaila
+}
+
+575.4.1 = {
+	culture = kitule
+}
+
+640.4.1 = {
+	b_qavule = temple
+}
+

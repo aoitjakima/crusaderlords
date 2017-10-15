@@ -1,0 +1,25 @@
+	title = c_latemis
+	max_settlements = 2
+	culture = daimeja
+	religion = wedwig
+	b_sayneja = tribal
+319.4.1 = {
+	culture = eluedsalh
+}
+
+320.3.1 = {
+	religion = raipi
+}
+
+546.4.1 = {
+	culture = sigivkah
+}
+
+872.4.1 = {
+	b_sayneja = castle
+}
+
+958.4.1 = {
+	b_noreng = city
+}
+

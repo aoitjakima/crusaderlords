@@ -1,0 +1,109 @@
+	title = c_saleyee
+	max_settlements = 3
+	culture = ruraura
+	religion = terenat
+	b_epaviby = tribal
+236.3.1 = {
+	religion = begeka
+}
+
+239.3.1 = {
+	religion = terenat
+}
+
+240.3.1 = {
+	religion = begeka
+}
+
+247.3.1 = {
+	religion = terenat
+}
+
+250.3.1 = {
+	religion = begeka
+}
+
+251.3.1 = {
+	religion = terenat
+}
+
+263.3.1 = {
+	religion = begeka
+}
+
+267.3.1 = {
+	religion = terenat
+}
+
+269.3.1 = {
+	religion = begeka
+}
+
+271.3.1 = {
+	religion = terenat
+}
+
+273.3.1 = {
+	religion = begeka
+}
+
+277.3.1 = {
+	religion = terenat
+}
+
+284.3.1 = {
+	religion = begeka
+}
+
+285.3.1 = {
+	religion = terenat
+}
+
+297.3.1 = {
+	religion = begeka
+}
+
+358.4.1 = {
+	culture = banaila
+}
+
+367.4.1 = {
+	culture = ruraura
+}
+
+387.4.1 = {
+	culture = banaila
+}
+
+520.4.1 = {
+	b_epaviby = castle
+}
+
+538.4.1 = {
+	culture = kitule
+}
+
+550.4.1 = {
+	culture = banaila
+}
+
+559.4.1 = {
+	culture = kitule
+}
+
+560.4.1 = {
+	culture = banaila
+}
+
+640.4.1 = {
+	b_wavery = city
+}
+
+736.4.1 = {
+	culture = kitule
+}
+
+830.4.1 = {
+	b_kusihal = temple
+}
+

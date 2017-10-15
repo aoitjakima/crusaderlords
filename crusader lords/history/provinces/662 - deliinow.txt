@@ -1,0 +1,25 @@
+	title = c_deliinow
+	max_settlements = 4
+	culture = abajule
+	religion = kusran
+	b_rahissa = tribal
+1.1.1 = {
+	b_lopadir = ct_port_1
+}
+
+795.4.1 = {
+	b_rahissa = castle
+}
+
+833.4.1 = {
+	b_lopadir = city
+}
+
+897.4.1 = {
+	b_keloris = temple
+}
+
+995.4.1 = {
+	b_nulafu = city
+}
+

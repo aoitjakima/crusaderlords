@@ -1,0 +1,33 @@
+	title = c_qosouwe
+	max_settlements = 3
+	culture = karibel
+	religion = neharis
+	b_wavata = tribal
+248.4.1 = {
+	culture = nitindik
+}
+
+540.4.1 = {
+	b_wavata = castle
+}
+
+635.4.1 = {
+	b_tezahhwehlteygal = temple
+}
+
+836.4.1 = {
+	b_reygge = city
+}
+
+866.4.1 = {
+	culture = syahes
+}
+
+915.4.1 = {
+	culture = nitindik
+}
+
+953.4.1 = {
+	culture = syahes
+}
+

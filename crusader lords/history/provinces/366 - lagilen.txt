@@ -1,0 +1,17 @@
+	title = c_lagilen
+	max_settlements = 3
+	culture = wamata
+	religion = nukaye
+	b_noka = tribal
+310.4.1 = {
+	culture = qariyah
+}
+
+892.4.1 = {
+	b_noka = castle
+}
+
+936.4.1 = {
+	b_ekalimii = city
+}
+

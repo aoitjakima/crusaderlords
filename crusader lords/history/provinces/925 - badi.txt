@@ -1,0 +1,21 @@
+	title = c_badi
+	max_settlements = 3
+	culture = retose
+	religion = qiteka
+	b_risayaka = tribal
+203.4.1 = {
+	culture = banaila
+}
+
+575.4.1 = {
+	b_risayaka = castle
+}
+
+720.4.1 = {
+	b_wiwuel = city
+}
+
+863.4.1 = {
+	b_kavutlu = temple
+}
+

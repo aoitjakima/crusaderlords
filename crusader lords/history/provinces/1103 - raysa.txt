@@ -1,0 +1,33 @@
+	title = c_raysa
+	max_settlements = 5
+	culture = rudeslav
+	religion = worelen
+	b_eforatti = tribal
+1.1.1 = {
+	b_bilelen = ct_port_1
+}
+
+205.4.1 = {
+	culture = nalaam
+}
+
+615.4.1 = {
+	b_eforatti = castle
+}
+
+710.4.1 = {
+	b_bilelen = city
+}
+
+826.4.1 = {
+	b_dudatha = temple
+}
+
+874.4.1 = {
+	b_lonelen = castle
+}
+
+937.4.1 = {
+	b_kudaclav = castle
+}
+

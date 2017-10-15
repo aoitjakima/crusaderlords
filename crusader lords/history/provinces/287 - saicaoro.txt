@@ -1,0 +1,29 @@
+	title = c_saicaoro
+	max_settlements = 5
+	culture = aqahebel
+	religion = neharis
+	b_lakan = tribal
+475.4.1 = {
+	culture = talentiy
+}
+
+601.4.1 = {
+	b_lakan = castle
+}
+
+745.4.1 = {
+	b_keradir = city
+}
+
+858.4.1 = {
+	b_kahedir = temple
+}
+
+936.4.1 = {
+	b_raranet = city
+}
+
+1010.4.1 = {
+	b_naicsageful = city
+}
+

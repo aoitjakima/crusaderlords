@@ -1,0 +1,37 @@
+	title = c_sezemor
+	max_settlements = 2
+	culture = latuma
+	religion = atheociu
+	b_erozena = tribal
+208.3.1 = {
+	religion = kusran
+}
+
+215.4.1 = {
+	culture = rauroka
+}
+
+222.3.1 = {
+	religion = atheociu
+}
+
+235.4.1 = {
+	culture = latuma
+}
+
+248.4.1 = {
+	culture = rauroka
+}
+
+302.4.1 = {
+	culture = latuma
+}
+
+920.4.1 = {
+	b_erozena = castle
+}
+
+966.4.1 = {
+	b_tudcor = temple
+}
+

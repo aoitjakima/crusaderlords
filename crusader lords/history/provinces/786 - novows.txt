@@ -1,0 +1,21 @@
+	title = c_novows
+	max_settlements = 2
+	culture = ebeina
+	religion = qiteka
+	b_aderer = tribal
+339.4.1 = {
+	culture = risutlu
+}
+
+610.4.1 = {
+	b_aderer = castle
+}
+
+729.4.1 = {
+	culture = saimes
+}
+
+770.4.1 = {
+	b_dyevodar = temple
+}
+

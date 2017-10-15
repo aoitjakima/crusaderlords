@@ -1,0 +1,33 @@
+	title = c_setinan
+	max_settlements = 4
+	culture = watinan
+	religion = kusran
+	b_wecutan = tribal
+214.4.1 = {
+	culture = ketamma
+}
+
+248.4.1 = {
+	culture = sigivkah
+}
+
+256.4.1 = {
+	culture = ketamma
+}
+
+826.4.1 = {
+	b_wecutan = castle
+}
+
+865.4.1 = {
+	b_raboka = temple
+}
+
+961.4.1 = {
+	b_tyayamma = city
+}
+
+1042.4.1 = {
+	b_wavtan = city
+}
+

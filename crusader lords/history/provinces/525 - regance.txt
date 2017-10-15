@@ -1,0 +1,33 @@
+	title = c_regance
+	max_settlements = 6
+	culture = syahes
+	religion = neharis
+	b_segose = tribal
+321.4.1 = {
+	culture = amuhopti
+}
+
+323.4.1 = {
+	culture = syahes
+}
+
+417.4.1 = {
+	culture = amuhopti
+}
+
+451.4.1 = {
+	culture = syahes
+}
+
+580.4.1 = {
+	b_segose = castle
+}
+
+720.4.1 = {
+	b_kenda = city
+}
+
+966.4.1 = {
+	b_loreina = temple
+}
+

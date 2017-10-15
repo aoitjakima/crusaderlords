@@ -1,0 +1,9 @@
+	title = c_eprenda
+	max_settlements = 2
+	culture = tasule
+	religion = kusran
+	b_kopher = tribal
+345.4.1 = {
+	culture = abajule
+}
+

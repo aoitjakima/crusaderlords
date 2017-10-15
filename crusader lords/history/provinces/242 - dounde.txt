@@ -1,0 +1,37 @@
+	title = c_dounde
+	max_settlements = 7
+	culture = sutidoka
+	religion = kusran
+	b_ducenes = tribal
+200.3.1 = {
+	religion = raipi
+}
+
+200.4.1 = {
+	culture = kaureid
+}
+
+277.4.1 = {
+	culture = kapti
+}
+
+690.4.1 = {
+	b_ducenes = castle
+}
+
+805.4.1 = {
+	b_byiy = city
+}
+
+895.4.1 = {
+	b_tosina = temple
+}
+
+972.4.1 = {
+	b_tuzed = city
+}
+
+1042.4.1 = {
+	b_siyason = city
+}
+

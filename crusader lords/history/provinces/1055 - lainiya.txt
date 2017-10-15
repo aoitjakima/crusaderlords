@@ -1,0 +1,125 @@
+	title = c_lainiya
+	max_settlements = 3
+	culture = raureid
+	religion = wedwig
+	b_evulonka = tribal
+201.3.1 = {
+	religion = bobena
+}
+
+205.4.1 = {
+	culture = welitya
+}
+
+292.4.1 = {
+	culture = tainand
+}
+
+340.4.1 = {
+	culture = welitya
+}
+
+370.4.1 = {
+	culture = ween
+}
+
+401.4.1 = {
+	culture = welitya
+}
+
+413.4.1 = {
+	culture = ween
+}
+
+432.4.1 = {
+	culture = welitya
+}
+
+459.4.1 = {
+	culture = ween
+}
+
+471.4.1 = {
+	culture = welitya
+}
+
+587.4.1 = {
+	culture = titina
+}
+
+592.3.1 = {
+	religion = telayira
+}
+
+593.3.1 = {
+	religion = bobena
+}
+
+593.4.1 = {
+	culture = welitya
+}
+
+593.3.1 = {
+	religion = telayira
+}
+
+597.3.1 = {
+	religion = bobena
+}
+
+599.3.1 = {
+	religion = telayira
+}
+
+601.3.1 = {
+	religion = bobena
+}
+
+608.3.1 = {
+	religion = telayira
+}
+
+612.3.1 = {
+	religion = bobena
+}
+
+624.3.1 = {
+	religion = telayira
+}
+
+628.3.1 = {
+	religion = bobena
+}
+
+631.3.1 = {
+	religion = telayira
+}
+
+632.3.1 = {
+	religion = bobena
+}
+
+633.3.1 = {
+	religion = telayira
+}
+
+638.3.1 = {
+	religion = bobena
+}
+
+638.3.1 = {
+	religion = telayira
+}
+
+642.4.1 = {
+	culture = ween
+}
+
+761.4.1 = {
+	culture = titina
+}
+
+940.4.1 = {
+	b_evulonka = castle
+}
+

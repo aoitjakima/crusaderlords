@@ -1,0 +1,37 @@
+	title = c_keberered
+	max_settlements = 6
+	culture = wedina
+	religion = telayira
+	b_enunada = tribal
+305.4.1 = {
+	culture = dainbai
+}
+
+339.4.1 = {
+	culture = wedina
+}
+
+730.4.1 = {
+	b_enunada = castle
+}
+
+808.4.1 = {
+	b_digina = temple
+}
+
+855.4.1 = {
+	b_sosipp = city
+}
+
+902.4.1 = {
+	b_tonigid = castle
+}
+
+947.4.1 = {
+	b_kunada = castle
+}
+
+995.4.1 = {
+	b_qadina = temple
+}
+

@@ -1,0 +1,61 @@
+	title = c_tonae
+	max_settlements = 2
+	culture = wabuzhi
+	religion = tonuyu
+	b_boluyu = tribal
+200.4.1 = {
+	culture = ranahim
+}
+
+243.4.1 = {
+	culture = wabuzhi
+}
+
+302.4.1 = {
+	culture = ranahim
+}
+
+442.4.1 = {
+	culture = qenoos
+}
+
+445.4.1 = {
+	culture = ranahim
+}
+
+503.4.1 = {
+	culture = qenoos
+}
+
+533.4.1 = {
+	culture = ranahim
+}
+
+573.4.1 = {
+	culture = qenoos
+}
+
+627.4.1 = {
+	culture = ranahim
+}
+
+634.4.1 = {
+	culture = qenoos
+}
+
+748.4.1 = {
+	culture = ranahim
+}
+
+754.4.1 = {
+	culture = qenoos
+}
+
+862.4.1 = {
+	b_boluyu = castle
+}
+
+894.4.1 = {
+	b_kolork = temple
+}
+

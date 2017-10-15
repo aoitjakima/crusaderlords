@@ -1,0 +1,29 @@
+	title = c_retatha
+	max_settlements = 2
+	culture = radabor
+	religion = tonuyu
+	b_nuarina = tribal
+206.4.1 = {
+	culture = kadalen
+}
+
+238.4.1 = {
+	culture = radabor
+}
+
+257.4.1 = {
+	culture = wenira
+}
+
+264.4.1 = {
+	culture = radabor
+}
+
+715.4.1 = {
+	b_nuarina = castle
+}
+
+819.4.1 = {
+	b_sonelen = temple
+}
+

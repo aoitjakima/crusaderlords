@@ -1,0 +1,37 @@
+	title = c_roronka
+	max_settlements = 5
+	culture = raureid
+	religion = qigiyah
+	b_arobonka = tribal
+251.3.1 = {
+	religion = wedwig
+}
+
+256.4.1 = {
+	culture = alaurine
+}
+
+261.3.1 = {
+	religion = qigiyah
+}
+
+822.4.1 = {
+	b_arobonka = castle
+}
+
+851.4.1 = {
+	b_bimimha = city
+}
+
+908.4.1 = {
+	b_sulao = temple
+}
+
+971.4.1 = {
+	b_dorainn = castle
+}
+
+1033.4.1 = {
+	b_kitiya = city
+}
+

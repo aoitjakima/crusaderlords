@@ -1,0 +1,117 @@
+	title = c_qaraja
+	max_settlements = 2
+	culture = wedina
+	religion = bobena
+	b_witayira = tribal
+205.4.1 = {
+	culture = welitya
+}
+
+244.4.1 = {
+	culture = ween
+}
+
+300.4.1 = {
+	culture = welitya
+}
+
+350.4.1 = {
+	culture = ween
+}
+
+401.4.1 = {
+	culture = welitya
+}
+
+421.4.1 = {
+	culture = ween
+}
+
+432.4.1 = {
+	culture = welitya
+}
+
+452.4.1 = {
+	culture = ween
+}
+
+466.4.1 = {
+	culture = welitya
+}
+
+587.4.1 = {
+	culture = titina
+}
+
+592.3.1 = {
+	religion = telayira
+}
+
+595.4.1 = {
+	culture = welitya
+}
+
+597.3.1 = {
+	religion = bobena
+}
+
+599.3.1 = {
+	religion = telayira
+}
+
+601.3.1 = {
+	religion = bobena
+}
+
+608.3.1 = {
+	religion = telayira
+}
+
+611.3.1 = {
+	religion = bobena
+}
+
+624.3.1 = {
+	religion = telayira
+}
+
+631.3.1 = {
+	religion = bobena
+}
+
+631.3.1 = {
+	religion = telayira
+}
+
+632.3.1 = {
+	religion = bobena
+}
+
+633.3.1 = {
+	religion = telayira
+}
+
+635.3.1 = {
+	religion = bobena
+}
+
+646.3.1 = {
+	religion = telayira
+}
+
+761.4.1 = {
+	culture = titina
+}
+
+762.4.1 = {
+	culture = welitya
+}
+
+863.4.1 = {
+	culture = ween
+}
+
+931.4.1 = {
+	culture = titina
+}
+

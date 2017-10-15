@@ -1,0 +1,21 @@
+	title = c_satando
+	max_settlements = 3
+	culture = narentiy
+	religion = neharis
+	b_segisarma = tribal
+266.4.1 = {
+	culture = amuhopti
+}
+
+273.4.1 = {
+	culture = syahes
+}
+
+555.4.1 = {
+	b_segisarma = castle
+}
+
+695.4.1 = {
+	b_qegesa = temple
+}
+

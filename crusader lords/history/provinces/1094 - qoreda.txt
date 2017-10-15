@@ -1,0 +1,125 @@
+	title = c_qoreda
+	max_settlements = 4
+	culture = tudatha
+	religion = worelen
+	b_takatti = tribal
+1.1.1 = {
+	b_ricina = ct_port_1
+}
+
+201.4.1 = {
+	culture = rudeslav
+}
+
+203.3.1 = {
+	religion = tonuyu
+}
+
+208.3.1 = {
+	religion = worelen
+}
+
+209.3.1 = {
+	religion = tonuyu
+}
+
+213.3.1 = {
+	religion = worelen
+}
+
+213.3.1 = {
+	religion = tonuyu
+}
+
+215.3.1 = {
+	religion = worelen
+}
+
+217.3.1 = {
+	religion = tonuyu
+}
+
+218.3.1 = {
+	religion = worelen
+}
+
+221.3.1 = {
+	religion = tonuyu
+}
+
+225.3.1 = {
+	religion = worelen
+}
+
+225.3.1 = {
+	religion = tonuyu
+}
+
+229.3.1 = {
+	religion = worelen
+}
+
+231.3.1 = {
+	religion = tonuyu
+}
+
+234.3.1 = {
+	religion = worelen
+}
+
+243.3.1 = {
+	religion = tonuyu
+}
+
+246.3.1 = {
+	religion = worelen
+}
+
+258.3.1 = {
+	religion = tonuyu
+}
+
+263.3.1 = {
+	religion = worelen
+}
+
+272.3.1 = {
+	religion = tonuyu
+}
+
+287.3.1 = {
+	religion = worelen
+}
+
+288.3.1 = {
+	religion = tonuyu
+}
+
+313.4.1 = {
+	culture = tiwics
+}
+
+338.4.1 = {
+	culture = rudeslav
+}
+
+366.4.1 = {
+	culture = tiwics
+}
+
+670.4.1 = {
+	b_takatti = castle
+}
+
+804.4.1 = {
+	b_qudeslav = temple
+}
+
+889.4.1 = {
+	b_ricina = city
+}
+
+972.4.1 = {
+	b_qicatha = city
+}
+

@@ -1,0 +1,57 @@
+	title = c_wainand
+	max_settlements = 5
+	culture = sigivkah
+	religion = qigiyah
+	b_wina = tribal
+1.1.1 = {
+	b_kainand = ct_port_1
+}
+
+200.3.1 = {
+	religion = wedwig
+}
+
+200.3.1 = {
+	religion = qigiyah
+}
+
+202.3.1 = {
+	religion = wedwig
+}
+
+204.3.1 = {
+	religion = qigiyah
+}
+
+206.3.1 = {
+	religion = wedwig
+}
+
+207.4.1 = {
+	culture = disinos
+}
+
+208.3.1 = {
+	religion = qigiyah
+}
+
+409.4.1 = {
+	culture = alaurine
+}
+
+824.4.1 = {
+	b_wina = castle
+}
+
+857.4.1 = {
+	b_titbai = temple
+}
+
+949.4.1 = {
+	b_kainand = city
+}
+
+1051.4.1 = {
+	b_kobimha = city
+}
+

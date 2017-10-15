@@ -1,0 +1,41 @@
+	title = c_kohows
+	max_settlements = 4
+	culture = risutlu
+	religion = qiteka
+	b_egiley = tribal
+203.4.1 = {
+	culture = ebeina
+}
+
+257.4.1 = {
+	culture = waetutlu
+}
+
+273.4.1 = {
+	culture = ebeina
+}
+
+342.4.1 = {
+	culture = risutlu
+}
+
+500.4.1 = {
+	b_egiley = castle
+}
+
+585.4.1 = {
+	b_lenodar = temple
+}
+
+823.4.1 = {
+	b_lirery = city
+}
+
+862.4.1 = {
+	culture = saimes
+}
+
+899.4.1 = {
+	b_kelihal = castle
+}
+

@@ -1,0 +1,25 @@
+	title = c_nalelg
+	max_settlements = 2
+	culture = rubiho
+	religion = tonuyu
+	b_wuliho = tribal
+387.4.1 = {
+	culture = biho
+}
+
+414.4.1 = {
+	culture = rubiho
+}
+
+471.4.1 = {
+	culture = biho
+}
+
+846.4.1 = {
+	b_wuliho = castle
+}
+
+883.4.1 = {
+	b_siraura = temple
+}
+

@@ -1,0 +1,45 @@
+	title = c_koraam
+	max_settlements = 3
+	culture = tudatha
+	religion = worelen
+	b_eflaam = tribal
+1.1.1 = {
+	b_keteya = ct_port_1
+}
+
+203.3.1 = {
+	religion = tonuyu
+}
+
+212.3.1 = {
+	religion = worelen
+}
+
+213.3.1 = {
+	religion = tonuyu
+}
+
+244.4.1 = {
+	culture = tiwics
+}
+
+546.4.1 = {
+	culture = keraam
+}
+
+553.4.1 = {
+	culture = tiwics
+}
+
+670.4.1 = {
+	b_eflaam = castle
+}
+
+805.4.1 = {
+	b_tasaam = temple
+}
+
+892.4.1 = {
+	b_keteya = city
+}
+

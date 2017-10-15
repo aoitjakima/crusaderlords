@@ -1,0 +1,45 @@
+	title = c_wanika
+	max_settlements = 2
+	culture = nudrenudre
+	religion = neharis
+	b_syumita = tribal
+204.3.1 = {
+	religion = nukaye
+}
+
+207.3.1 = {
+	religion = neharis
+}
+
+210.3.1 = {
+	religion = nukaye
+}
+
+217.4.1 = {
+	culture = ranibel
+}
+
+287.4.1 = {
+	culture = raraber
+}
+
+307.4.1 = {
+	culture = wili
+}
+
+349.4.1 = {
+	culture = raraber
+}
+
+369.4.1 = {
+	culture = wili
+}
+
+804.4.1 = {
+	b_syumita = castle
+}
+
+839.4.1 = {
+	b_teserma = temple
+}
+

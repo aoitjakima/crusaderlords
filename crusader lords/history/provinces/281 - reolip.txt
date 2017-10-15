@@ -1,0 +1,57 @@
+	title = c_reolip
+	max_settlements = 3
+	culture = lagond
+	religion = atheociu
+	b_lataria = tribal
+1.1.1 = {
+	b_ragiu = ct_port_1
+}
+
+200.3.1 = {
+	religion = qigiyah
+}
+
+203.3.1 = {
+	religion = atheociu
+}
+
+205.3.1 = {
+	religion = qigiyah
+}
+
+212.3.1 = {
+	religion = atheociu
+}
+
+212.3.1 = {
+	religion = qigiyah
+}
+
+215.3.1 = {
+	religion = atheociu
+}
+
+217.3.1 = {
+	religion = qigiyah
+}
+
+224.3.1 = {
+	religion = atheociu
+}
+
+227.3.1 = {
+	religion = qigiyah
+}
+
+858.4.1 = {
+	b_lataria = castle
+}
+
+900.4.1 = {
+	b_ragiu = city
+}
+
+995.4.1 = {
+	b_tarelip = temple
+}
+

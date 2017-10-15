@@ -1,0 +1,25 @@
+	title = c_keonn
+	max_settlements = 2
+	culture = titina
+	religion = telayira
+	b_nadina = tribal
+202.4.1 = {
+	culture = terikatim
+}
+
+314.4.1 = {
+	culture = dainbai
+}
+
+345.4.1 = {
+	culture = wedina
+}
+
+847.4.1 = {
+	b_nadina = castle
+}
+
+878.4.1 = {
+	b_debaing = temple
+}
+

@@ -1,0 +1,17 @@
+	title = c_niciel
+	max_settlements = 2
+	culture = syahes
+	religion = neharis
+	b_rateorge = tribal
+215.4.1 = {
+	culture = sodinia
+}
+
+640.4.1 = {
+	b_rateorge = castle
+}
+
+755.4.1 = {
+	b_qicijne = temple
+}
+

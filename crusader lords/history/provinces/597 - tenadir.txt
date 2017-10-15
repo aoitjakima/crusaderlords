@@ -1,0 +1,93 @@
+	title = c_tenadir
+	max_settlements = 5
+	culture = karibel
+	religion = neharis
+	b_kesafu = tribal
+201.3.1 = {
+	religion = naneka
+}
+
+205.3.1 = {
+	religion = qiteka
+}
+
+208.3.1 = {
+	religion = naneka
+}
+
+210.3.1 = {
+	religion = qiteka
+}
+
+211.3.1 = {
+	religion = naneka
+}
+
+212.3.1 = {
+	religion = qiteka
+}
+
+213.3.1 = {
+	religion = naneka
+}
+
+219.3.1 = {
+	religion = qiteka
+}
+
+219.3.1 = {
+	religion = naneka
+}
+
+230.4.1 = {
+	culture = esunadir
+}
+
+423.4.1 = {
+	culture = sereka
+}
+
+449.4.1 = {
+	culture = esunadir
+}
+
+463.4.1 = {
+	culture = sereka
+}
+
+513.4.1 = {
+	culture = esunadir
+}
+
+519.4.1 = {
+	culture = sereka
+}
+
+566.4.1 = {
+	b_kesafu = castle
+}
+
+579.4.1 = {
+	culture = esunadir
+}
+
+655.4.1 = {
+	b_elanive = temple
+}
+
+763.4.1 = {
+	culture = sereka
+}
+
+818.4.1 = {
+	b_wunadir = city
+}
+
+864.4.1 = {
+	b_werarma = temple
+}
+
+907.4.1 = {
+	b_ranando = temple
+}
+

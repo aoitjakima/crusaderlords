@@ -1,0 +1,41 @@
+	title = c_taetule
+	max_settlements = 4
+	culture = kitule
+	religion = terenat
+	b_kosa = tribal
+236.3.1 = {
+	religion = begeka
+}
+
+269.4.1 = {
+	culture = banaila
+}
+
+294.4.1 = {
+	culture = kitule
+}
+
+358.4.1 = {
+	culture = banaila
+}
+
+361.4.1 = {
+	culture = kitule
+}
+
+550.4.1 = {
+	b_kosa = castle
+}
+
+715.4.1 = {
+	b_amarics = city
+}
+
+867.4.1 = {
+	b_ekerule = temple
+}
+
+955.4.1 = {
+	b_avlelin = temple
+}
+

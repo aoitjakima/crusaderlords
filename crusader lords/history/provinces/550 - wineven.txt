@@ -1,0 +1,21 @@
+	title = c_wineven
+	max_settlements = 2
+	culture = karibel
+	religion = neharis
+	b_syanohn = tribal
+201.4.1 = {
+	culture = syahes
+}
+
+242.4.1 = {
+	culture = karibel
+}
+
+570.4.1 = {
+	b_syanohn = castle
+}
+
+680.4.1 = {
+	b_kebakanda = temple
+}
+

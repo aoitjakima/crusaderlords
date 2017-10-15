@@ -1,0 +1,29 @@
+	title = c_tophia
+	max_settlements = 3
+	culture = sutidoka
+	religion = kusran
+	b_egewin = tribal
+1.1.1 = {
+	b_wigancis = ct_port_1
+}
+
+200.3.1 = {
+	religion = qigiyah
+}
+
+233.4.1 = {
+	culture = alaurine
+}
+
+827.4.1 = {
+	b_egewin = castle
+}
+
+865.4.1 = {
+	b_qaleike = temple
+}
+
+982.4.1 = {
+	b_wigancis = city
+}
+

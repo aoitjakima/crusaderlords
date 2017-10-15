@@ -1,0 +1,41 @@
+	title = c_qavey
+	max_settlements = 7
+	culture = waetutlu
+	religion = qiteka
+	b_nyevey = tribal
+1.1.1 = {
+	b_rilery = ct_port_1
+}
+
+319.4.1 = {
+	culture = risutlu
+}
+
+510.4.1 = {
+	b_nyevey = castle
+}
+
+630.4.1 = {
+	b_rilery = city
+}
+
+723.4.1 = {
+	culture = saimes
+}
+
+846.4.1 = {
+	b_ravery = temple
+}
+
+923.4.1 = {
+	b_lohodar = castle
+}
+
+985.4.1 = {
+	b_reusodar = castle
+}
+
+1048.4.1 = {
+	b_kolelder = temple
+}
+

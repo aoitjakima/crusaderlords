@@ -1,0 +1,25 @@
+	title = c_nemeya
+	max_settlements = 4
+	culture = reusadra
+	religion = tonuyu
+	b_leusebia = tribal
+326.4.1 = {
+	culture = tiwics
+}
+
+429.4.1 = {
+	culture = nalaam
+}
+
+494.4.1 = {
+	culture = keraam
+}
+
+553.4.1 = {
+	culture = tiwics
+}
+
+976.4.1 = {
+	b_leusebia = castle
+}
+

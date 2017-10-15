@@ -1,0 +1,25 @@
+	title = c_kyekiel
+	max_settlements = 4
+	culture = nitindik
+	religion = neharis
+	b_kaviel = tribal
+350.4.1 = {
+	culture = talentiy
+}
+
+515.4.1 = {
+	b_kaviel = castle
+}
+
+680.4.1 = {
+	b_ahoosohn = city
+}
+
+845.4.1 = {
+	b_edinohn = temple
+}
+
+902.4.1 = {
+	b_katengel = temple
+}
+

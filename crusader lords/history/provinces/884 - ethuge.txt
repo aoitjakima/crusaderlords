@@ -1,0 +1,17 @@
+	title = c_ethuge
+	max_settlements = 2
+	culture = namyan
+	religion = kusran
+	b_evlania = tribal
+248.4.1 = {
+	culture = abajule
+}
+
+585.4.1 = {
+	b_evlania = castle
+}
+
+720.4.1 = {
+	b_bule = city
+}
+

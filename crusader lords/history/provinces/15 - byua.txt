@@ -1,0 +1,41 @@
+	title = c_byua
+	max_settlements = 5
+	culture = wubihr
+	religion = aratihr
+	b_bedis = tribal
+1.1.1 = {
+	b_satata = ct_port_1
+}
+
+212.4.1 = {
+	culture = laris
+}
+
+356.4.1 = {
+	culture = wubihr
+}
+
+365.4.1 = {
+	culture = selalya
+}
+
+680.4.1 = {
+	b_bedis = castle
+}
+
+804.4.1 = {
+	b_ragako = temple
+}
+
+897.4.1 = {
+	b_satata = city
+}
+
+979.4.1 = {
+	b_ediarihr = temple
+}
+
+1064.4.1 = {
+	b_ryyako = temple
+}
+

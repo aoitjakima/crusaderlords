@@ -1,0 +1,13 @@
+	title = c_kedaveina
+	max_settlements = 2
+	culture = ramarilip
+	religion = qiteka
+	b_darilip = tribal
+822.4.1 = {
+	b_darilip = city
+}
+
+851.4.1 = {
+	b_tavldirra = temple
+}
+

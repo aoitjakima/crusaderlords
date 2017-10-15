@@ -1,0 +1,33 @@
+	title = c_riwina
+	max_settlements = 3
+	culture = digaka
+	religion = raipi
+	b_esiyaed = tribal
+261.4.1 = {
+	culture = sigivkah
+}
+
+271.4.1 = {
+	culture = digaka
+}
+
+293.4.1 = {
+	culture = eluedsalh
+}
+
+474.4.1 = {
+	culture = sigivkah
+}
+
+665.4.1 = {
+	b_esiyaed = castle
+}
+
+803.4.1 = {
+	b_ratada = temple
+}
+
+885.4.1 = {
+	b_tosephen = city
+}
+

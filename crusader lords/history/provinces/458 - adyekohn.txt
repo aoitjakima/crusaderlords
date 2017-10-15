@@ -1,0 +1,25 @@
+	title = c_adyekohn
+	max_settlements = 2
+	culture = syahes
+	religion = neharis
+	b_leheral = tribal
+207.4.1 = {
+	culture = karibel
+}
+
+248.4.1 = {
+	culture = nitindik
+}
+
+540.4.1 = {
+	b_leheral = castle
+}
+
+675.4.1 = {
+	b_keygith = temple
+}
+
+859.4.1 = {
+	culture = syahes
+}
+

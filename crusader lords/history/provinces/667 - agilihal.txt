@@ -1,0 +1,53 @@
+	title = c_agilihal
+	max_settlements = 3
+	culture = ricqa
+	religion = kusran
+	b_qolodar = tribal
+200.4.1 = {
+	culture = disinos
+}
+
+201.3.1 = {
+	religion = wedwig
+}
+
+203.3.1 = {
+	religion = kusran
+}
+
+238.4.1 = {
+	culture = ryanopti
+}
+
+247.3.1 = {
+	religion = wedwig
+}
+
+250.3.1 = {
+	religion = kusran
+}
+
+343.3.1 = {
+	religion = wedwig
+}
+
+347.3.1 = {
+	religion = kusran
+}
+
+347.3.1 = {
+	religion = wedwig
+}
+
+620.4.1 = {
+	b_qolodar = castle
+}
+
+725.4.1 = {
+	b_toladwig = city
+}
+
+837.4.1 = {
+	b_novivi = temple
+}
+

@@ -1,0 +1,17 @@
+	title = c_kaipine
+	max_settlements = 2
+	culture = sigivkah
+	religion = kusran
+	b_ruleid = tribal
+303.3.1 = {
+	religion = qigiyah
+}
+
+324.4.1 = {
+	culture = alaurine
+}
+
+982.4.1 = {
+	b_ruleid = castle
+}
+

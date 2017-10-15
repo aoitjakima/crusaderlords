@@ -1,0 +1,53 @@
+	title = c_avenith
+	max_settlements = 2
+	culture = lerelin
+	religion = naneka
+	b_wepohn = tribal
+347.4.1 = {
+	culture = wates
+}
+
+353.4.1 = {
+	culture = lerelin
+}
+
+373.3.1 = {
+	religion = qiteka
+}
+
+374.3.1 = {
+	religion = naneka
+}
+
+378.3.1 = {
+	religion = qiteka
+}
+
+379.3.1 = {
+	religion = naneka
+}
+
+383.3.1 = {
+	religion = qiteka
+}
+
+397.3.1 = {
+	religion = naneka
+}
+
+398.3.1 = {
+	religion = qiteka
+}
+
+401.4.1 = {
+	culture = wates
+}
+
+665.4.1 = {
+	b_wepohn = castle
+}
+
+803.4.1 = {
+	b_kallevag = city
+}
+

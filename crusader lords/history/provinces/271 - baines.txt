@@ -1,0 +1,29 @@
+	title = c_baines
+	max_settlements = 3
+	culture = syahes
+	religion = neharis
+	b_regeneka = tribal
+283.4.1 = {
+	culture = amuhopti
+}
+
+320.4.1 = {
+	culture = syahes
+}
+
+322.4.1 = {
+	culture = amuhopti
+}
+
+451.4.1 = {
+	culture = syahes
+}
+
+575.4.1 = {
+	b_regeneka = castle
+}
+
+725.4.1 = {
+	b_terarma = temple
+}
+

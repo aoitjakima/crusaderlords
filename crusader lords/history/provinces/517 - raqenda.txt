@@ -1,0 +1,65 @@
+	title = c_raqenda
+	max_settlements = 4
+	culture = taodha
+	religion = wedwig
+	b_baxada = tribal
+200.3.1 = {
+	religion = raipi
+}
+
+204.3.1 = {
+	religion = wedwig
+}
+
+204.3.1 = {
+	religion = raipi
+}
+
+205.3.1 = {
+	religion = wedwig
+}
+
+214.3.1 = {
+	religion = raipi
+}
+
+226.3.1 = {
+	religion = wedwig
+}
+
+230.3.1 = {
+	religion = raipi
+}
+
+233.3.1 = {
+	religion = wedwig
+}
+
+242.3.1 = {
+	religion = raipi
+}
+
+351.4.1 = {
+	culture = sutidoka
+}
+
+526.4.1 = {
+	culture = kapti
+}
+
+680.4.1 = {
+	b_baxada = castle
+}
+
+808.4.1 = {
+	b_nucada = temple
+}
+
+905.4.1 = {
+	b_latya = city
+}
+
+989.4.1 = {
+	b_tiyande = castle
+}
+

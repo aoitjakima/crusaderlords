@@ -1,0 +1,113 @@
+	title = c_edavurga
+	max_settlements = 3
+	culture = qerosa
+	religion = qiteka
+	b_nunilip = tribal
+1.1.1 = {
+	b_adrayaka = ct_port_1
+}
+
+203.3.1 = {
+	religion = terenat
+}
+
+205.3.1 = {
+	religion = qiteka
+}
+
+208.3.1 = {
+	religion = terenat
+}
+
+212.3.1 = {
+	religion = qiteka
+}
+
+212.3.1 = {
+	religion = terenat
+}
+
+213.3.1 = {
+	religion = qiteka
+}
+
+222.3.1 = {
+	religion = terenat
+}
+
+230.3.1 = {
+	religion = qiteka
+}
+
+230.3.1 = {
+	religion = terenat
+}
+
+236.3.1 = {
+	religion = begeka
+}
+
+237.3.1 = {
+	religion = terenat
+}
+
+240.4.1 = {
+	culture = kitule
+}
+
+240.3.1 = {
+	religion = begeka
+}
+
+241.3.1 = {
+	religion = terenat
+}
+
+244.3.1 = {
+	religion = begeka
+}
+
+245.3.1 = {
+	religion = terenat
+}
+
+250.3.1 = {
+	religion = begeka
+}
+
+257.4.1 = {
+	culture = banaila
+}
+
+271.3.1 = {
+	religion = qiteka
+}
+
+273.3.1 = {
+	religion = begeka
+}
+
+282.3.1 = {
+	religion = qiteka
+}
+
+284.3.1 = {
+	religion = begeka
+}
+
+524.4.1 = {
+	culture = kitule
+}
+
+580.4.1 = {
+	b_nunilip = city
+}
+
+695.4.1 = {
+	b_adrayaka = city
+}
+
+843.4.1 = {
+	b_baetllurl = temple
+}
+

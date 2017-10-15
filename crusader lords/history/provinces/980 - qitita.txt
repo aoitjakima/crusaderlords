@@ -1,0 +1,17 @@
+	title = c_qitita
+	max_settlements = 2
+	culture = wedina
+	religion = telayira
+	b_tyai = tribal
+310.4.1 = {
+	culture = laaug
+}
+
+595.4.1 = {
+	b_tyai = castle
+}
+
+690.4.1 = {
+	b_seonita = temple
+}
+

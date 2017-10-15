@@ -1,0 +1,21 @@
+	title = c_lecase
+	max_settlements = 4
+	culture = etirune
+	religion = tonuyu
+	b_renatia = tribal
+1.1.1 = {
+	b_kugine = ct_port_1
+}
+
+880.4.1 = {
+	b_renatia = castle
+}
+
+920.4.1 = {
+	b_kugine = city
+}
+
+990.4.1 = {
+	b_lase = temple
+}
+

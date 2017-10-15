@@ -1,0 +1,37 @@
+	title = c_taxenes
+	max_settlements = 5
+	culture = eluedsalh
+	religion = raipi
+	b_rye = tribal
+406.4.1 = {
+	culture = sigivkah
+}
+
+574.4.1 = {
+	culture = eluedsalh
+}
+
+605.4.1 = {
+	b_rye = castle
+}
+
+642.4.1 = {
+	culture = sigivkah
+}
+
+750.4.1 = {
+	b_wosina = city
+}
+
+838.4.1 = {
+	b_tucery = temple
+}
+
+885.4.1 = {
+	b_ruzada = castle
+}
+
+935.4.1 = {
+	b_qovedelery = temple
+}
+

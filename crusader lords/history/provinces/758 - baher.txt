@@ -1,0 +1,25 @@
+	title = c_baher
+	max_settlements = 6
+	culture = abajule
+	religion = kusran
+	b_deper = tribal
+605.4.1 = {
+	b_deper = castle
+}
+
+740.4.1 = {
+	b_bepayar = temple
+}
+
+868.4.1 = {
+	b_nataila = city
+}
+
+944.4.1 = {
+	b_tulaila = castle
+}
+
+1020.4.1 = {
+	b_topeed = castle
+}
+

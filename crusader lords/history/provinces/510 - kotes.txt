@@ -1,0 +1,25 @@
+	title = c_kotes
+	max_settlements = 3
+	culture = narentiy
+	religion = neharis
+	b_rando = tribal
+251.4.1 = {
+	culture = syahes
+}
+
+278.4.1 = {
+	culture = amuhopti
+}
+
+279.4.1 = {
+	culture = syahes
+}
+
+580.4.1 = {
+	b_rando = castle
+}
+
+730.4.1 = {
+	b_kerando = city
+}
+

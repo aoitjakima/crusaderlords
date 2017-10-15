@@ -1,0 +1,29 @@
+	title = c_qenat
+	max_settlements = 5
+	culture = banaila
+	religion = qiteka
+	b_bolas = tribal
+1.1.1 = {
+	b_adurolas = ct_port_1
+}
+
+585.4.1 = {
+	b_bolas = castle
+}
+
+705.4.1 = {
+	b_duruel = temple
+}
+
+864.4.1 = {
+	b_adurolas = city
+}
+
+937.4.1 = {
+	b_karoza = temple
+}
+
+1004.4.1 = {
+	b_elavuel = city
+}
+

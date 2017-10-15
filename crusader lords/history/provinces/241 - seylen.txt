@@ -1,0 +1,65 @@
+	title = c_seylen
+	max_settlements = 4
+	culture = qosogul
+	religion = kusran
+	b_kyla = tribal
+201.3.1 = {
+	religion = raipi
+}
+
+204.3.1 = {
+	religion = kusran
+}
+
+220.3.1 = {
+	religion = raipi
+}
+
+229.3.1 = {
+	religion = kusran
+}
+
+230.3.1 = {
+	religion = raipi
+}
+
+232.3.1 = {
+	religion = kusran
+}
+
+239.3.1 = {
+	religion = raipi
+}
+
+241.3.1 = {
+	religion = kusran
+}
+
+249.3.1 = {
+	religion = raipi
+}
+
+265.4.1 = {
+	culture = eluedsalh
+}
+
+336.4.1 = {
+	culture = sigivkah
+}
+
+690.4.1 = {
+	b_kyla = castle
+}
+
+808.4.1 = {
+	b_losenrosen = city
+}
+
+901.4.1 = {
+	b_bosina = temple
+}
+
+996.4.1 = {
+	b_qolery = castle
+}
+

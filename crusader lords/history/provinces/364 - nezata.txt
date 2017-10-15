@@ -1,0 +1,17 @@
+	title = c_nezata
+	max_settlements = 2
+	culture = ranibel
+	religion = nukaye
+	b_wodaye = tribal
+318.4.1 = {
+	culture = wili
+}
+
+680.4.1 = {
+	b_wodaye = castle
+}
+
+810.4.1 = {
+	b_enidafiy = temple
+}
+

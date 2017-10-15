@@ -1,0 +1,21 @@
+	title = c_repong
+	max_settlements = 3
+	culture = karibel
+	religion = neharis
+	b_abaline = tribal
+1.1.1 = {
+	b_racohn = ct_port_1
+}
+
+660.4.1 = {
+	b_abaline = castle
+}
+
+755.4.1 = {
+	b_racohn = city
+}
+
+880.4.1 = {
+	b_neonna = temple
+}
+

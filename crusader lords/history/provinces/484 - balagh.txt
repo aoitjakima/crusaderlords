@@ -1,0 +1,33 @@
+	title = c_balagh
+	max_settlements = 2
+	culture = kuhotil
+	religion = eraygnars
+	b_rohrqegna = tribal
+225.4.1 = {
+	culture = nuteria
+}
+
+256.4.1 = {
+	culture = kuhotil
+}
+
+274.4.1 = {
+	culture = nuteria
+}
+
+312.4.1 = {
+	culture = kuhotil
+}
+
+338.4.1 = {
+	culture = nuteria
+}
+
+620.4.1 = {
+	b_rohrqegna = castle
+}
+
+765.4.1 = {
+	b_daikald = temple
+}
+

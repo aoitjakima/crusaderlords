@@ -1,0 +1,13 @@
+	title = c_kosezo
+	max_settlements = 2
+	culture = laaug
+	religion = telayira
+	b_woskwosk = tribal
+595.4.1 = {
+	b_woskwosk = castle
+}
+
+705.4.1 = {
+	b_dezosk = temple
+}
+

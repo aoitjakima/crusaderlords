@@ -1,0 +1,57 @@
+	title = c_anye
+	max_settlements = 3
+	culture = laris
+	religion = aratihr
+	b_lunuyat = tribal
+1.1.1 = {
+	b_tanye = ct_port_1
+}
+
+312.4.1 = {
+	culture = selalya
+}
+
+382.4.1 = {
+	culture = wubihr
+}
+
+441.4.1 = {
+	culture = selalya
+}
+
+457.4.1 = {
+	culture = wubihr
+}
+
+515.4.1 = {
+	culture = selalya
+}
+
+517.4.1 = {
+	culture = wubihr
+}
+
+537.4.1 = {
+	culture = selalya
+}
+
+541.4.1 = {
+	culture = wubihr
+}
+
+570.4.1 = {
+	culture = selalya
+}
+
+685.4.1 = {
+	b_lunuyat = castle
+}
+
+805.4.1 = {
+	b_tanye = city
+}
+
+873.4.1 = {
+	b_rolanni = temple
+}
+

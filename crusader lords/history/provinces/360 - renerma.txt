@@ -1,0 +1,33 @@
+	title = c_renerma
+	max_settlements = 4
+	culture = raraber
+	religion = neharis
+	b_dukerma = tribal
+200.4.1 = {
+	culture = ranibel
+}
+
+201.3.1 = {
+	religion = nukaye
+}
+
+319.4.1 = {
+	culture = wili
+}
+
+680.4.1 = {
+	b_dukerma = castle
+}
+
+810.4.1 = {
+	b_tideya = city
+}
+
+926.4.1 = {
+	b_kaneya = temple
+}
+
+1005.4.1 = {
+	b_asukeh = castle
+}
+

@@ -1,0 +1,21 @@
+	title = c_roparia
+	max_settlements = 2
+	culture = syahes
+	religion = neharis
+	b_qyuganda = tribal
+227.4.1 = {
+	culture = nitindik
+}
+
+234.4.1 = {
+	culture = sodinia
+}
+
+535.4.1 = {
+	b_qyuganda = castle
+}
+
+675.4.1 = {
+	b_rahasohn = city
+}
+

@@ -1,0 +1,109 @@
+	title = c_tarirra
+	max_settlements = 5
+	culture = negasseh
+	religion = wedwig
+	b_asiwelin = tribal
+200.3.1 = {
+	religion = qiteka
+}
+
+202.4.1 = {
+	culture = retose
+}
+
+203.3.1 = {
+	religion = terenat
+}
+
+204.3.1 = {
+	religion = begeka
+}
+
+208.3.1 = {
+	religion = terenat
+}
+
+210.3.1 = {
+	religion = begeka
+}
+
+211.3.1 = {
+	religion = terenat
+}
+
+216.4.1 = {
+	culture = banaila
+}
+
+217.3.1 = {
+	religion = begeka
+}
+
+222.3.1 = {
+	religion = terenat
+}
+
+231.3.1 = {
+	religion = begeka
+}
+
+244.4.1 = {
+	culture = runafu
+}
+
+254.4.1 = {
+	culture = kitule
+}
+
+280.4.1 = {
+	culture = banaila
+}
+
+315.4.1 = {
+	culture = kitule
+}
+
+358.4.1 = {
+	culture = banaila
+}
+
+371.4.1 = {
+	culture = kitule
+}
+
+376.3.1 = {
+	religion = terenat
+}
+
+377.4.1 = {
+	culture = banaila
+}
+
+377.3.1 = {
+	religion = begeka
+}
+
+384.4.1 = {
+	culture = kitule
+}
+
+530.4.1 = {
+	b_asiwelin = castle
+}
+
+655.4.1 = {
+	b_nosa = city
+}
+
+834.4.1 = {
+	b_senat = temple
+}
+
+893.4.1 = {
+	b_qerics = city
+}
+
+949.4.1 = {
+	b_avlayaka = castle
+}
+

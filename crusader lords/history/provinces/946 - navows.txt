@@ -1,0 +1,33 @@
+	title = c_navows
+	max_settlements = 2
+	culture = waetutlu
+	religion = qiteka
+	b_lyevodar = tribal
+1.1.1 = {
+	b_lyos = ct_port_1
+}
+
+308.4.1 = {
+	culture = risutlu
+}
+
+515.4.1 = {
+	b_lyevodar = castle
+}
+
+635.4.1 = {
+	b_lyos = city
+}
+
+727.4.1 = {
+	culture = saimes
+}
+
+733.4.1 = {
+	culture = risutlu
+}
+
+893.4.1 = {
+	culture = saimes
+}
+

@@ -1,0 +1,17 @@
+	title = c_raronka
+	max_settlements = 3
+	culture = rarare
+	religion = qigiyah
+	b_sorkitra = tribal
+823.4.1 = {
+	b_sorkitra = castle
+}
+
+852.4.1 = {
+	b_kanena = city
+}
+
+893.4.1 = {
+	b_egenao = temple
+}
+

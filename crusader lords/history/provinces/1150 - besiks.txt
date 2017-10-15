@@ -1,0 +1,17 @@
+	title = c_besiks
+	max_settlements = 2
+	culture = babosa
+	religion = tonuyu
+	b_welyape = tribal
+267.4.1 = {
+	culture = budandev
+}
+
+807.4.1 = {
+	b_welyape = castle
+}
+
+839.4.1 = {
+	b_rilyape = city
+}
+

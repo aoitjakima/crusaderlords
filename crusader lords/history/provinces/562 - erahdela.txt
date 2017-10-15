@@ -1,0 +1,181 @@
+	title = c_erahdela
+	max_settlements = 3
+	culture = kapti
+	religion = kusran
+	b_wopiid = tribal
+200.3.1 = {
+	religion = raipi
+}
+
+202.3.1 = {
+	religion = kusran
+}
+
+204.3.1 = {
+	religion = raipi
+}
+
+207.3.1 = {
+	religion = kusran
+}
+
+214.3.1 = {
+	religion = raipi
+}
+
+216.3.1 = {
+	religion = kusran
+}
+
+230.3.1 = {
+	religion = raipi
+}
+
+240.3.1 = {
+	religion = kusran
+}
+
+242.3.1 = {
+	religion = raipi
+}
+
+244.3.1 = {
+	religion = kusran
+}
+
+254.3.1 = {
+	religion = raipi
+}
+
+256.3.1 = {
+	religion = kusran
+}
+
+259.3.1 = {
+	religion = raipi
+}
+
+262.3.1 = {
+	religion = kusran
+}
+
+265.3.1 = {
+	religion = raipi
+}
+
+278.3.1 = {
+	religion = kusran
+}
+
+280.3.1 = {
+	religion = raipi
+}
+
+281.3.1 = {
+	religion = kusran
+}
+
+285.3.1 = {
+	religion = raipi
+}
+
+287.3.1 = {
+	religion = kusran
+}
+
+290.3.1 = {
+	religion = raipi
+}
+
+293.3.1 = {
+	religion = kusran
+}
+
+293.3.1 = {
+	religion = raipi
+}
+
+295.3.1 = {
+	religion = kusran
+}
+
+295.3.1 = {
+	religion = raipi
+}
+
+299.3.1 = {
+	religion = kusran
+}
+
+300.3.1 = {
+	religion = raipi
+}
+
+301.3.1 = {
+	religion = kusran
+}
+
+301.3.1 = {
+	religion = raipi
+}
+
+302.3.1 = {
+	religion = kusran
+}
+
+303.3.1 = {
+	religion = raipi
+}
+
+306.3.1 = {
+	religion = kusran
+}
+
+322.3.1 = {
+	religion = raipi
+}
+
+332.3.1 = {
+	religion = kusran
+}
+
+334.3.1 = {
+	religion = raipi
+}
+
+335.3.1 = {
+	religion = kusran
+}
+
+336.3.1 = {
+	religion = raipi
+}
+
+337.3.1 = {
+	religion = kusran
+}
+
+342.3.1 = {
+	religion = raipi
+}
+
+348.3.1 = {
+	religion = kusran
+}
+
+349.3.1 = {
+	religion = raipi
+}
+
+715.4.1 = {
+	b_wopiid = castle
+}
+
+816.4.1 = {
+	b_ratissa = city
+}
+
+898.4.1 = {
+	b_kahdae = temple
+}
+

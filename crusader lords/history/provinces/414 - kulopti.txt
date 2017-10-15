@@ -1,0 +1,29 @@
+	title = c_kulopti
+	max_settlements = 2
+	culture = nuteria
+	religion = eraygnars
+	b_tienus = tribal
+200.3.1 = {
+	religion = wedwig
+}
+
+203.4.1 = {
+	culture = daimeig
+}
+
+231.4.1 = {
+	culture = nuteria
+}
+
+314.4.1 = {
+	culture = waynald
+}
+
+620.4.1 = {
+	b_tienus = castle
+}
+
+745.4.1 = {
+	b_wayan = temple
+}
+

@@ -1,0 +1,33 @@
+	title = c_syyla
+	max_settlements = 2
+	culture = ryanopti
+	religion = kusran
+	b_kousy = tribal
+201.3.1 = {
+	religion = wedwig
+}
+
+205.3.1 = {
+	religion = kusran
+}
+
+241.3.1 = {
+	religion = wedwig
+}
+
+266.3.1 = {
+	religion = kusran
+}
+
+343.3.1 = {
+	religion = wedwig
+}
+
+550.4.1 = {
+	b_kousy = castle
+}
+
+685.4.1 = {
+	b_nadalobey = city
+}
+

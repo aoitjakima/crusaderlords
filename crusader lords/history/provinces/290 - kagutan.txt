@@ -1,0 +1,25 @@
+	title = c_kagutan
+	max_settlements = 6
+	culture = wamata
+	religion = nukaye
+	b_daryan = tribal
+310.4.1 = {
+	culture = qariyah
+}
+
+827.4.1 = {
+	b_daryan = castle
+}
+
+864.4.1 = {
+	b_retutan = temple
+}
+
+966.4.1 = {
+	b_recutan = city
+}
+
+1055.4.1 = {
+	b_abhavpi = castle
+}
+

@@ -1,0 +1,73 @@
+	title = c_banonka
+	max_settlements = 4
+	culture = terikatim
+	religion = telayira
+	b_kelena = tribal
+215.4.1 = {
+	culture = dainbai
+}
+
+222.4.1 = {
+	culture = terikatim
+}
+
+244.3.1 = {
+	religion = bobena
+}
+
+254.3.1 = {
+	religion = telayira
+}
+
+258.3.1 = {
+	religion = bobena
+}
+
+258.3.1 = {
+	religion = telayira
+}
+
+261.4.1 = {
+	culture = titina
+}
+
+264.3.1 = {
+	religion = bobena
+}
+
+265.4.1 = {
+	culture = terikatim
+}
+
+269.3.1 = {
+	religion = telayira
+}
+
+271.3.1 = {
+	religion = bobena
+}
+
+274.3.1 = {
+	religion = telayira
+}
+
+300.4.1 = {
+	culture = titina
+}
+
+825.4.1 = {
+	b_kelena = castle
+}
+
+860.4.1 = {
+	b_telainn = temple
+}
+
+961.4.1 = {
+	b_kobao = city
+}
+
+1048.4.1 = {
+	b_bamiya = castle
+}
+

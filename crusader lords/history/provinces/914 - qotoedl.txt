@@ -1,0 +1,33 @@
+	title = c_qotoedl
+	max_settlements = 4
+	culture = ebeina
+	religion = qiteka
+	b_qinidia = tribal
+1.1.1 = {
+	b_kolinus = ct_port_1
+}
+
+523.4.1 = {
+	culture = risutlu
+}
+
+565.4.1 = {
+	b_qinidia = castle
+}
+
+705.4.1 = {
+	b_wunivi = temple
+}
+
+862.4.1 = {
+	b_kolinus = city
+}
+
+887.4.1 = {
+	culture = saimes
+}
+
+930.4.1 = {
+	b_bidey = temple
+}
+

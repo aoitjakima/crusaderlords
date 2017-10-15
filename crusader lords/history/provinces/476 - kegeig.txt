@@ -1,0 +1,37 @@
+	title = c_kegeig
+	max_settlements = 4
+	culture = daimeja
+	religion = wedwig
+	b_sotil = tribal
+1.1.1 = {
+	b_ageig = ct_port_1
+}
+
+216.4.1 = {
+	culture = davars
+}
+
+326.4.1 = {
+	culture = durga
+}
+
+379.4.1 = {
+	culture = davars
+}
+
+395.4.1 = {
+	culture = durga
+}
+
+417.4.1 = {
+	culture = davars
+}
+
+870.4.1 = {
+	b_sotil = castle
+}
+
+959.4.1 = {
+	b_ageig = city
+}
+

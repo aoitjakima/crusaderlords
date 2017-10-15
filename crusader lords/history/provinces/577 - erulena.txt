@@ -1,0 +1,29 @@
+	title = c_erulena
+	max_settlements = 2
+	culture = raureid
+	religion = wedwig
+	b_ritainn = tribal
+200.3.1 = {
+	religion = qigiyah
+}
+
+251.3.1 = {
+	religion = wedwig
+}
+
+256.4.1 = {
+	culture = alaurine
+}
+
+261.3.1 = {
+	religion = qigiyah
+}
+
+822.4.1 = {
+	b_ritainn = castle
+}
+
+851.4.1 = {
+	b_rulena = city
+}
+

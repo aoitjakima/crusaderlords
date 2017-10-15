@@ -1,0 +1,25 @@
+	title = c_katafu
+	max_settlements = 5
+	culture = narentiy
+	religion = neharis
+	b_sicafu = tribal
+203.4.1 = {
+	culture = syahes
+}
+
+555.4.1 = {
+	b_sicafu = castle
+}
+
+630.4.1 = {
+	b_taudando = temple
+}
+
+813.4.1 = {
+	b_titinus = city
+}
+
+852.4.1 = {
+	b_tisarma = castle
+}
+

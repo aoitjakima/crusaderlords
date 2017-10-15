@@ -1,0 +1,61 @@
+	title = c_dademis
+	max_settlements = 3
+	culture = daimeja
+	religion = wedwig
+	b_neig = tribal
+205.3.1 = {
+	religion = raipi
+}
+
+207.3.1 = {
+	religion = wedwig
+}
+
+213.3.1 = {
+	religion = raipi
+}
+
+214.3.1 = {
+	religion = wedwig
+}
+
+224.3.1 = {
+	religion = raipi
+}
+
+225.3.1 = {
+	religion = wedwig
+}
+
+229.3.1 = {
+	religion = raipi
+}
+
+231.3.1 = {
+	religion = wedwig
+}
+
+232.3.1 = {
+	religion = raipi
+}
+
+236.3.1 = {
+	religion = wedwig
+}
+
+278.4.1 = {
+	culture = weliana
+}
+
+660.4.1 = {
+	b_neig = castle
+}
+
+800.4.1 = {
+	b_laynolf = city
+}
+
+881.4.1 = {
+	b_ewyeg = temple
+}
+

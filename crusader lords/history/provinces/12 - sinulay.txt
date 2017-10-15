@@ -1,0 +1,45 @@
+	title = c_sinulay
+	max_settlements = 5
+	culture = selalya
+	religion = aratihr
+	b_waicyako = tribal
+253.4.1 = {
+	culture = laris
+}
+
+255.4.1 = {
+	culture = wubihr
+}
+
+302.4.1 = {
+	culture = laris
+}
+
+311.4.1 = {
+	culture = wubihr
+}
+
+452.4.1 = {
+	culture = selalya
+}
+
+675.4.1 = {
+	b_waicyako = castle
+}
+
+804.4.1 = {
+	b_kamsouz = city
+}
+
+875.4.1 = {
+	b_aniraz = temple
+}
+
+953.4.1 = {
+	b_epatyako = temple
+}
+
+1011.4.1 = {
+	b_denihr = city
+}
+

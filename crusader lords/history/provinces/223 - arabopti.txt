@@ -1,0 +1,29 @@
+	title = c_arabopti
+	max_settlements = 4
+	culture = watinan
+	religion = kusran
+	b_tahiatan = tribal
+226.4.1 = {
+	culture = rauroka
+}
+
+270.4.1 = {
+	culture = ketamma
+}
+
+828.4.1 = {
+	b_tahiatan = castle
+}
+
+857.4.1 = {
+	b_nauroka = temple
+}
+
+912.4.1 = {
+	b_bankae = city
+}
+
+969.4.1 = {
+	b_sosimii = city
+}
+

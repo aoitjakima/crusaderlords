@@ -1,0 +1,49 @@
+	title = c_waglar
+	max_settlements = 7
+	culture = aqahebel
+	religion = neharis
+	b_raor = tribal
+1.1.1 = {
+	b_kaos = ct_port_1
+}
+
+215.4.1 = {
+	culture = liebes
+}
+
+270.4.1 = {
+	culture = talentiy
+}
+
+302.4.1 = {
+	culture = liebes
+}
+
+530.4.1 = {
+	b_raor = castle
+}
+
+625.4.1 = {
+	b_wagiya = temple
+}
+
+818.4.1 = {
+	b_kaos = city
+}
+
+862.4.1 = {
+	b_beratta = castle
+}
+
+911.4.1 = {
+	b_liloses = temple
+}
+
+962.4.1 = {
+	b_waot = castle
+}
+
+1011.4.1 = {
+	b_tamisi = city
+}
+

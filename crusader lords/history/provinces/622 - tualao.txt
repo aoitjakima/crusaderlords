@@ -1,0 +1,25 @@
+	title = c_tualao
+	max_settlements = 2
+	culture = raureid
+	religion = qigiyah
+	b_neland = tribal
+248.4.1 = {
+	culture = alaurine
+}
+
+270.4.1 = {
+	culture = kyayalen
+}
+
+418.4.1 = {
+	culture = alaurine
+}
+
+823.4.1 = {
+	b_neland = castle
+}
+
+908.4.1 = {
+	b_biubai = city
+}
+

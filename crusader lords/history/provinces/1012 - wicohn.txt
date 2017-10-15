@@ -1,0 +1,13 @@
+	title = c_wicohn
+	max_settlements = 3
+	culture = syahes
+	religion = neharis
+	b_ricith = tribal
+248.4.1 = {
+	culture = liebes
+}
+
+947.4.1 = {
+	b_ricith = castle
+}
+

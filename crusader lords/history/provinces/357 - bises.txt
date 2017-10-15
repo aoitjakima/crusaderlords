@@ -1,0 +1,25 @@
+	title = c_bises
+	max_settlements = 6
+	culture = narentiy
+	religion = neharis
+	b_totule = tribal
+214.4.1 = {
+	culture = syahes
+}
+
+422.4.1 = {
+	culture = amuhopti
+}
+
+451.4.1 = {
+	culture = syahes
+}
+
+540.4.1 = {
+	b_totule = castle
+}
+
+675.4.1 = {
+	b_wegafu = city
+}
+

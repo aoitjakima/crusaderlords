@@ -1,0 +1,5 @@
+	title = c_berida
+	max_settlements = 2
+	culture = kesauluri
+	religion = wedwig
+	b_ruraria = tribal

@@ -1,0 +1,73 @@
+	title = c_qidanay
+	max_settlements = 2
+	culture = wili
+	religion = neharis
+	b_rezaye = tribal
+204.3.1 = {
+	religion = nukaye
+}
+
+206.3.1 = {
+	religion = neharis
+}
+
+210.3.1 = {
+	religion = nukaye
+}
+
+216.3.1 = {
+	religion = neharis
+}
+
+218.3.1 = {
+	religion = nukaye
+}
+
+222.3.1 = {
+	religion = neharis
+}
+
+226.3.1 = {
+	religion = nukaye
+}
+
+229.3.1 = {
+	religion = neharis
+}
+
+230.3.1 = {
+	religion = nukaye
+}
+
+232.3.1 = {
+	religion = neharis
+}
+
+238.3.1 = {
+	religion = nukaye
+}
+
+242.3.1 = {
+	religion = neharis
+}
+
+251.3.1 = {
+	religion = nukaye
+}
+
+256.4.1 = {
+	culture = ranibel
+}
+
+281.4.1 = {
+	culture = wili
+}
+
+720.4.1 = {
+	b_rezaye = castle
+}
+
+816.4.1 = {
+	b_ahodika = city
+}
+

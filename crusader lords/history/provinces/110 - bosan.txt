@@ -1,0 +1,13 @@
+	title = c_bosan
+	max_settlements = 2
+	culture = taroman
+	religion = nukaye
+	b_qurimii = tribal
+236.4.1 = {
+	culture = qariyah
+}
+
+1012.4.1 = {
+	b_qurimii = castle
+}
+

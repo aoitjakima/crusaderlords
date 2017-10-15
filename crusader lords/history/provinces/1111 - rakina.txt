@@ -1,0 +1,33 @@
+	title = c_rakina
+	max_settlements = 3
+	culture = kadalen
+	religion = tonuyu
+	b_korony = tribal
+217.4.1 = {
+	culture = wenira
+}
+
+265.4.1 = {
+	culture = radabor
+}
+
+270.4.1 = {
+	culture = wenira
+}
+
+336.4.1 = {
+	culture = radabor
+}
+
+715.4.1 = {
+	b_korony = castle
+}
+
+823.4.1 = {
+	b_tudabra = temple
+}
+
+950.4.1 = {
+	b_tadalen = city
+}
+

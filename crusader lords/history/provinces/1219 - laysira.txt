@@ -1,0 +1,17 @@
+	title = c_laysira
+	max_settlements = 2
+	culture = kapala
+	religion = tonuyu
+	b_dakina = tribal
+1.1.1 = {
+	b_epetuga = ct_port_1
+}
+
+755.4.1 = {
+	b_dakina = city
+}
+
+828.4.1 = {
+	b_epetuga = city
+}
+

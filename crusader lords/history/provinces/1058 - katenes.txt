@@ -1,0 +1,21 @@
+	title = c_katenes
+	max_settlements = 2
+	culture = davars
+	religion = wedwig
+	b_kaxed = tribal
+232.4.1 = {
+	culture = weliana
+}
+
+285.4.1 = {
+	culture = davars
+}
+
+560.4.1 = {
+	b_kaxed = castle
+}
+
+730.4.1 = {
+	b_wiwina = temple
+}
+

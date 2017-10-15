@@ -1,0 +1,21 @@
+	title = c_lilibor
+	max_settlements = 2
+	culture = radabor
+	religion = tonuyu
+	b_qiceda = tribal
+257.4.1 = {
+	culture = wenira
+}
+
+268.4.1 = {
+	culture = radabor
+}
+
+725.4.1 = {
+	b_qiceda = castle
+}
+
+820.4.1 = {
+	b_bicatti = temple
+}
+

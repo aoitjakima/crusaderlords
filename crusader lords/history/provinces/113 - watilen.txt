@@ -1,0 +1,57 @@
+	title = c_watilen
+	max_settlements = 6
+	culture = ketamma
+	religion = kusran
+	b_recacik = tribal
+202.4.1 = {
+	culture = taroman
+}
+
+203.3.1 = {
+	religion = nukaye
+}
+
+211.3.1 = {
+	religion = kusran
+}
+
+216.3.1 = {
+	religion = nukaye
+}
+
+221.3.1 = {
+	religion = kusran
+}
+
+249.4.1 = {
+	culture = watinan
+}
+
+344.4.1 = {
+	culture = ketamma
+}
+
+356.4.1 = {
+	culture = watinan
+}
+
+359.4.1 = {
+	culture = ketamma
+}
+
+827.4.1 = {
+	b_recacik = castle
+}
+
+853.4.1 = {
+	b_enan = temple
+}
+
+916.4.1 = {
+	b_kuroka = city
+}
+
+985.4.1 = {
+	b_werosan = castle
+}
+

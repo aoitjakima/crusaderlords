@@ -1,0 +1,33 @@
+	title = c_eniconka
+	max_settlements = 3
+	culture = retose
+	religion = qiteka
+	b_lenadir = tribal
+207.3.1 = {
+	religion = neharis
+}
+
+213.3.1 = {
+	religion = qiteka
+}
+
+216.3.1 = {
+	religion = neharis
+}
+
+320.4.1 = {
+	culture = karibel
+}
+
+645.4.1 = {
+	b_lenadir = castle
+}
+
+745.4.1 = {
+	b_waudando = city
+}
+
+834.4.1 = {
+	b_leates = temple
+}
+

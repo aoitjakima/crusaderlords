@@ -1,0 +1,29 @@
+	title = c_tegeid
+	max_settlements = 6
+	culture = disinos
+	religion = qigiyah
+	b_emageid = tribal
+1.1.1 = {
+	b_egedwig = ct_port_1
+}
+
+200.4.1 = {
+	culture = tularda
+}
+
+271.4.1 = {
+	culture = alaurine
+}
+
+857.4.1 = {
+	b_emageid = castle
+}
+
+899.4.1 = {
+	b_egedwig = city
+}
+
+1040.4.1 = {
+	b_ageike = temple
+}
+

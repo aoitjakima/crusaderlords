@@ -1,0 +1,17 @@
+	title = c_wuracik
+	max_settlements = 2
+	culture = watinan
+	religion = kusran
+	b_arozamma = tribal
+258.4.1 = {
+	culture = ketamma
+}
+
+826.4.1 = {
+	b_arozamma = castle
+}
+
+866.4.1 = {
+	b_sarare = temple
+}
+

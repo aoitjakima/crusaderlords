@@ -1,0 +1,25 @@
+	title = c_qahiatan
+	max_settlements = 7
+	culture = wamata
+	religion = nukaye
+	b_akalinan = tribal
+273.4.1 = {
+	culture = qariyah
+}
+
+826.4.1 = {
+	b_akalinan = castle
+}
+
+862.4.1 = {
+	b_sidmiiketya = city
+}
+
+967.4.1 = {
+	b_lahiamma = temple
+}
+
+1040.4.1 = {
+	b_lavare = temple
+}
+

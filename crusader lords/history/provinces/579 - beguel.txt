@@ -1,0 +1,121 @@
+	title = c_beguel
+	max_settlements = 2
+	culture = reatoto
+	religion = qiteka
+	b_erauan = tribal
+200.3.1 = {
+	religion = neharis
+}
+
+205.4.1 = {
+	culture = syahes
+}
+
+206.4.1 = {
+	culture = esunadir
+}
+
+207.3.1 = {
+	religion = begeka
+}
+
+209.4.1 = {
+	culture = syahes
+}
+
+212.3.1 = {
+	religion = neharis
+}
+
+214.3.1 = {
+	religion = begeka
+}
+
+217.3.1 = {
+	religion = neharis
+}
+
+228.3.1 = {
+	religion = begeka
+}
+
+234.3.1 = {
+	religion = neharis
+}
+
+237.3.1 = {
+	religion = begeka
+}
+
+240.3.1 = {
+	religion = neharis
+}
+
+241.3.1 = {
+	religion = begeka
+}
+
+246.3.1 = {
+	religion = neharis
+}
+
+247.4.1 = {
+	culture = reatoto
+}
+
+248.3.1 = {
+	religion = begeka
+}
+
+250.3.1 = {
+	religion = neharis
+}
+
+252.3.1 = {
+	religion = begeka
+}
+
+255.4.1 = {
+	culture = syahes
+}
+
+256.3.1 = {
+	religion = neharis
+}
+
+257.3.1 = {
+	religion = begeka
+}
+
+269.3.1 = {
+	religion = neharis
+}
+
+273.3.1 = {
+	religion = begeka
+}
+
+276.3.1 = {
+	religion = neharis
+}
+
+282.4.1 = {
+	culture = reatoto
+}
+
+291.3.1 = {
+	religion = begeka
+}
+
+319.4.1 = {
+	culture = esunadir
+}
+
+600.4.1 = {
+	b_erauan = castle
+}
+
+720.4.1 = {
+	b_ehlamur = city
+}
+

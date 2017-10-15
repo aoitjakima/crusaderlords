@@ -1,0 +1,33 @@
+	title = c_elecilen
+	max_settlements = 3
+	culture = ebaropti
+	religion = kusran
+	b_tosinan = tribal
+200.3.1 = {
+	religion = nukaye
+}
+
+201.3.1 = {
+	religion = kusran
+}
+
+201.3.1 = {
+	religion = nukaye
+}
+
+217.4.1 = {
+	culture = qariyah
+}
+
+831.4.1 = {
+	b_tosinan = castle
+}
+
+864.4.1 = {
+	b_sagyan = temple
+}
+
+945.4.1 = {
+	b_tetamma = city
+}
+

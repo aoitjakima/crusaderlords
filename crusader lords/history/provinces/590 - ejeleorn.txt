@@ -1,0 +1,21 @@
+	title = c_ejeleorn
+	max_settlements = 2
+	culture = davars
+	religion = wedwig
+	b_kayneja = tribal
+335.4.1 = {
+	culture = durga
+}
+
+367.4.1 = {
+	culture = davars
+}
+
+685.4.1 = {
+	b_kayneja = castle
+}
+
+808.4.1 = {
+	b_waynii = temple
+}
+

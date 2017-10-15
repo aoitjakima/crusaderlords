@@ -1,0 +1,21 @@
+	title = c_arosouwe
+	max_settlements = 2
+	culture = syahes
+	religion = neharis
+	b_wakrelatlqatl = tribal
+218.4.1 = {
+	culture = nitindik
+}
+
+350.4.1 = {
+	culture = talentiy
+}
+
+515.4.1 = {
+	b_wakrelatlqatl = castle
+}
+
+675.4.1 = {
+	b_dasijne = temple
+}
+

@@ -1,0 +1,33 @@
+	title = c_qilows
+	max_settlements = 3
+	culture = risutlu
+	religion = qiteka
+	b_kyevivi = tribal
+1.1.1 = {
+	b_arusiby = ct_port_1
+}
+
+246.4.1 = {
+	culture = waetutlu
+}
+
+401.4.1 = {
+	culture = risutlu
+}
+
+505.4.1 = {
+	b_kyevivi = castle
+}
+
+675.4.1 = {
+	b_arusiby = city
+}
+
+841.4.1 = {
+	b_neusid = temple
+}
+
+999.4.1 = {
+	culture = saimes
+}
+

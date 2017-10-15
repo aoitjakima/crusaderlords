@@ -1,0 +1,17 @@
+	title = c_tayaata
+	max_settlements = 2
+	culture = ranibel
+	religion = nukaye
+	b_sumeya = tribal
+319.4.1 = {
+	culture = wili
+}
+
+685.4.1 = {
+	b_sumeya = castle
+}
+
+813.4.1 = {
+	b_wamata = city
+}
+

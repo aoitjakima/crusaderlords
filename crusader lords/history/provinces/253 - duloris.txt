@@ -1,0 +1,45 @@
+	title = c_duloris
+	max_settlements = 6
+	culture = liebes
+	religion = neharis
+	b_anoses = tribal
+205.4.1 = {
+	culture = talentiy
+}
+
+230.4.1 = {
+	culture = liebes
+}
+
+273.4.1 = {
+	culture = talentiy
+}
+
+319.4.1 = {
+	culture = liebes
+}
+
+535.4.1 = {
+	b_anoses = castle
+}
+
+650.4.1 = {
+	b_wuloses = city
+}
+
+818.4.1 = {
+	b_wamadir = temple
+}
+
+875.4.1 = {
+	b_eweratim = temple
+}
+
+930.4.1 = {
+	b_byaniya = city
+}
+
+979.4.1 = {
+	b_kaor = castle
+}
+

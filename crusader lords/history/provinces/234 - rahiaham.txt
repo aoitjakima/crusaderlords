@@ -1,0 +1,17 @@
+	title = c_rahiaham
+	max_settlements = 4
+	culture = qariyah
+	religion = nukaye
+	b_qaipan = tribal
+860.4.1 = {
+	b_qaipan = castle
+}
+
+891.4.1 = {
+	b_qaipare = temple
+}
+
+979.4.1 = {
+	b_nahiaham = city
+}
+

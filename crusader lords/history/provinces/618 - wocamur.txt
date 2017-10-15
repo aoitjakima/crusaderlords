@@ -1,0 +1,21 @@
+	title = c_wocamur
+	max_settlements = 2
+	culture = reatoto
+	religion = qiteka
+	b_balesira = tribal
+206.4.1 = {
+	culture = esunadir
+}
+
+207.3.1 = {
+	religion = begeka
+}
+
+600.4.1 = {
+	b_balesira = castle
+}
+
+735.4.1 = {
+	b_wanda = temple
+}
+

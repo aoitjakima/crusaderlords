@@ -1,0 +1,37 @@
+	title = c_selyao
+	max_settlements = 6
+	culture = laris
+	religion = aratihr
+	b_waiktas = tribal
+1.1.1 = {
+	b_satihar = ct_port_1
+}
+
+356.4.1 = {
+	culture = wubihr
+}
+
+365.4.1 = {
+	culture = selalya
+}
+
+680.4.1 = {
+	b_waiktas = castle
+}
+
+806.4.1 = {
+	b_satihar = city
+}
+
+897.4.1 = {
+	b_qinalya = temple
+}
+
+979.4.1 = {
+	b_kyouz = city
+}
+
+1054.4.1 = {
+	b_satujku = temple
+}
+

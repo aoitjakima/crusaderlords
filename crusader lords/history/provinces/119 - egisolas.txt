@@ -1,0 +1,25 @@
+	title = c_egisolas
+	max_settlements = 7
+	culture = syahes
+	religion = neharis
+	b_tanolas = tribal
+421.4.1 = {
+	culture = amuhopti
+}
+
+451.4.1 = {
+	culture = syahes
+}
+
+555.4.1 = {
+	b_tanolas = castle
+}
+
+675.4.1 = {
+	b_taimeka = temple
+}
+
+940.4.1 = {
+	b_laimes = city
+}
+

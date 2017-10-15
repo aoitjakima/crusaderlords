@@ -1,0 +1,69 @@
+	title = c_roratti
+	max_settlements = 2
+	culture = nalaam
+	religion = worelen
+	b_keya = tribal
+203.3.1 = {
+	religion = tonuyu
+}
+
+208.3.1 = {
+	religion = worelen
+}
+
+209.3.1 = {
+	religion = tonuyu
+}
+
+211.3.1 = {
+	religion = worelen
+}
+
+213.3.1 = {
+	religion = tonuyu
+}
+
+214.3.1 = {
+	religion = worelen
+}
+
+217.3.1 = {
+	religion = tonuyu
+}
+
+230.3.1 = {
+	religion = worelen
+}
+
+231.3.1 = {
+	religion = tonuyu
+}
+
+232.3.1 = {
+	religion = worelen
+}
+
+243.3.1 = {
+	religion = tonuyu
+}
+
+327.4.1 = {
+	culture = tiwics
+}
+
+400.4.1 = {
+	culture = nalaam
+}
+
+412.4.1 = {
+	culture = tiwics
+}
+
+725.4.1 = {
+	b_keya = castle
+}
+
+816.4.1 = {
+	b_everala = temple
+}
+

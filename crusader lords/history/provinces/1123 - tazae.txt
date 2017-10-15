@@ -1,0 +1,9 @@
+	title = c_tazae
+	max_settlements = 2
+	culture = takukork
+	religion = tonuyu
+	b_byako = tribal
+288.4.1 = {
+	culture = budandev
+}
+

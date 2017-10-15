@@ -1,0 +1,25 @@
+	title = c_kicijne
+	max_settlements = 4
+	culture = licohn
+	religion = neharis
+	b_sasal = tribal
+1.1.1 = {
+	b_razouwe = ct_port_1
+}
+
+805.4.1 = {
+	b_sasal = castle
+}
+
+830.4.1 = {
+	b_razouwe = city
+}
+
+878.4.1 = {
+	b_dazal = temple
+}
+
+933.4.1 = {
+	b_demazohn = castle
+}
+

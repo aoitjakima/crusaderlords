@@ -1,0 +1,9 @@
+	title = c_ravata
+	max_settlements = 2
+	culture = syahes
+	religion = neharis
+	b_lyanohn = tribal
+248.4.1 = {
+	culture = liebes
+}
+

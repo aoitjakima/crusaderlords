@@ -1,0 +1,25 @@
+	title = c_ramar
+	max_settlements = 5
+	culture = lodeid
+	religion = kodine
+	b_soukh = tribal
+201.3.1 = {
+	religion = tonuyu
+}
+
+210.4.1 = {
+	culture = biho
+}
+
+838.4.1 = {
+	b_soukh = castle
+}
+
+872.4.1 = {
+	b_teneta = city
+}
+
+976.4.1 = {
+	b_tasyik = temple
+}
+

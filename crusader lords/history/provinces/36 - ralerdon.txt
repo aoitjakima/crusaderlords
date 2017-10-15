@@ -1,0 +1,25 @@
+	title = c_ralerdon
+	max_settlements = 2
+	culture = rerinya
+	religion = aguninya
+	b_qivalya = tribal
+1.1.1 = {
+	b_eteven = ct_port_1
+}
+
+226.4.1 = {
+	culture = setako
+}
+
+251.4.1 = {
+	culture = rerinya
+}
+
+821.4.1 = {
+	b_qivalya = castle
+}
+
+849.4.1 = {
+	b_eteven = city
+}
+

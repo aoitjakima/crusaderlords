@@ -1,0 +1,49 @@
+	title = c_alishan
+	max_settlements = 2
+	culture = risutlu
+	religion = qiteka
+	b_elivi = tribal
+200.3.1 = {
+	religion = terenat
+}
+
+202.4.1 = {
+	culture = durga
+}
+
+203.3.1 = {
+	religion = qiteka
+}
+
+204.3.1 = {
+	religion = terenat
+}
+
+212.3.1 = {
+	religion = qiteka
+}
+
+214.3.1 = {
+	religion = terenat
+}
+
+218.3.1 = {
+	religion = qiteka
+}
+
+392.4.1 = {
+	culture = risutlu
+}
+
+505.4.1 = {
+	b_elivi = castle
+}
+
+595.4.1 = {
+	b_qovodar = city
+}
+
+735.4.1 = {
+	culture = saimes
+}
+

@@ -1,0 +1,53 @@
+	title = c_senohn
+	max_settlements = 2
+	culture = sereka
+	religion = naneka
+	b_tarahw = tribal
+326.4.1 = {
+	culture = esunadir
+}
+
+341.4.1 = {
+	culture = sereka
+}
+
+398.4.1 = {
+	culture = esunadir
+}
+
+447.4.1 = {
+	culture = sereka
+}
+
+528.4.1 = {
+	culture = esunadir
+}
+
+609.4.1 = {
+	culture = sereka
+}
+
+625.4.1 = {
+	b_tarahw = castle
+}
+
+648.4.1 = {
+	culture = esunadir
+}
+
+696.4.1 = {
+	culture = sereka
+}
+
+721.4.1 = {
+	culture = esunadir
+}
+
+770.4.1 = {
+	b_nacong = temple
+}
+
+884.4.1 = {
+	culture = sereka
+}
+

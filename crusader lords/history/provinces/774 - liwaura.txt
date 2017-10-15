@@ -1,0 +1,105 @@
+	title = c_liwaura
+	max_settlements = 6
+	culture = retose
+	religion = begeka
+	b_sarule = tribal
+203.3.1 = {
+	religion = terenat
+}
+
+206.3.1 = {
+	religion = begeka
+}
+
+208.3.1 = {
+	religion = terenat
+}
+
+209.3.1 = {
+	religion = begeka
+}
+
+211.3.1 = {
+	religion = terenat
+}
+
+215.3.1 = {
+	religion = begeka
+}
+
+222.3.1 = {
+	religion = terenat
+}
+
+224.4.1 = {
+	culture = banaila
+}
+
+228.3.1 = {
+	religion = begeka
+}
+
+228.3.1 = {
+	religion = terenat
+}
+
+230.3.1 = {
+	religion = begeka
+}
+
+230.3.1 = {
+	religion = terenat
+}
+
+236.3.1 = {
+	religion = begeka
+}
+
+238.3.1 = {
+	religion = terenat
+}
+
+240.3.1 = {
+	religion = begeka
+}
+
+241.3.1 = {
+	religion = terenat
+}
+
+244.3.1 = {
+	religion = begeka
+}
+
+256.3.1 = {
+	religion = terenat
+}
+
+263.3.1 = {
+	religion = begeka
+}
+
+482.4.1 = {
+	culture = kitule
+}
+
+595.4.1 = {
+	b_sarule = castle
+}
+
+802.4.1 = {
+	b_wurolas = city
+}
+
+886.4.1 = {
+	b_serurga = temple
+}
+
+968.4.1 = {
+	b_rarutlu = temple
+}
+
+1047.4.1 = {
+	b_nurelin = city
+}
+

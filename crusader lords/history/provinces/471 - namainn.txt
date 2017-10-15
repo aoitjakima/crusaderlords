@@ -1,0 +1,21 @@
+	title = c_namainn
+	max_settlements = 3
+	culture = rarare
+	religion = qigiyah
+	b_belonka = tribal
+1.1.1 = {
+	b_tiatou = ct_port_1
+}
+
+823.4.1 = {
+	b_belonka = castle
+}
+
+851.4.1 = {
+	b_tiatou = city
+}
+
+912.4.1 = {
+	b_nenao = temple
+}
+

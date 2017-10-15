@@ -1,0 +1,17 @@
+	title = c_raleria
+	max_settlements = 3
+	culture = waynald
+	religion = wedwig
+	b_ten = tribal
+630.4.1 = {
+	b_ten = castle
+}
+
+790.4.1 = {
+	b_ehen = city
+}
+
+879.4.1 = {
+	b_karayan = temple
+}
+

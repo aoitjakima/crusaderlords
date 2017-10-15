@@ -1,0 +1,33 @@
+	title = c_kusidia
+	max_settlements = 4
+	culture = ebeina
+	religion = qiteka
+	b_lelacob = tribal
+1.1.1 = {
+	b_solrrensalussa = ct_port_1
+}
+
+339.4.1 = {
+	culture = risutlu
+}
+
+500.4.1 = {
+	b_lelacob = castle
+}
+
+650.4.1 = {
+	b_solrrensalussa = city
+}
+
+729.4.1 = {
+	culture = saimes
+}
+
+832.4.1 = {
+	b_qiatuscobule = temple
+}
+
+889.4.1 = {
+	b_weusid = castle
+}
+

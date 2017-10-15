@@ -1,0 +1,9 @@
+	title = c_neriya
+	max_settlements = 2
+	culture = bakerma
+	religion = neharis
+	b_bakatta = tribal
+357.4.1 = {
+	culture = aqahebel
+}
+

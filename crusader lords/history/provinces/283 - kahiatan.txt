@@ -1,0 +1,29 @@
+	title = c_kahiatan
+	max_settlements = 3
+	culture = rauroka
+	religion = kusran
+	b_kabinan = tribal
+215.4.1 = {
+	culture = watinan
+}
+
+226.4.1 = {
+	culture = rauroka
+}
+
+270.4.1 = {
+	culture = ketamma
+}
+
+828.4.1 = {
+	b_kabinan = castle
+}
+
+857.4.1 = {
+	b_nueloka = city
+}
+
+903.4.1 = {
+	b_bozinan = temple
+}
+

@@ -1,0 +1,29 @@
+	title = c_areria
+	max_settlements = 3
+	culture = talentiy
+	religion = neharis
+	b_wuheria = tribal
+232.4.1 = {
+	culture = syahes
+}
+
+252.4.1 = {
+	culture = talentiy
+}
+
+258.4.1 = {
+	culture = syahes
+}
+
+530.4.1 = {
+	b_wuheria = castle
+}
+
+710.4.1 = {
+	b_etopolk = city
+}
+
+856.4.1 = {
+	b_titen = temple
+}
+

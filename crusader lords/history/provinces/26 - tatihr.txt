@@ -1,0 +1,57 @@
+	title = c_tatihr
+	max_settlements = 3
+	culture = laris
+	religion = aratihr
+	b_tubyako = tribal
+1.1.1 = {
+	b_bedouz = ct_port_1
+}
+
+312.4.1 = {
+	culture = selalya
+}
+
+382.4.1 = {
+	culture = wubihr
+}
+
+441.4.1 = {
+	culture = selalya
+}
+
+457.4.1 = {
+	culture = wubihr
+}
+
+515.4.1 = {
+	culture = selalya
+}
+
+517.4.1 = {
+	culture = wubihr
+}
+
+537.4.1 = {
+	culture = selalya
+}
+
+541.4.1 = {
+	culture = wubihr
+}
+
+570.4.1 = {
+	culture = selalya
+}
+
+780.4.1 = {
+	b_tubyako = castle
+}
+
+832.4.1 = {
+	b_lagis = temple
+}
+
+902.4.1 = {
+	b_bedouz = city
+}
+

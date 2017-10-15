@@ -1,0 +1,37 @@
+	title = c_agenella
+	max_settlements = 2
+	culture = amuhopti
+	religion = neharis
+	b_lavinia = tribal
+203.4.1 = {
+	culture = sodinia
+}
+
+232.4.1 = {
+	culture = syahes
+}
+
+238.4.1 = {
+	culture = sodinia
+}
+
+354.4.1 = {
+	culture = syahes
+}
+
+370.4.1 = {
+	culture = sodinia
+}
+
+391.4.1 = {
+	culture = syahes
+}
+
+515.4.1 = {
+	b_lavinia = castle
+}
+
+625.4.1 = {
+	b_barentiy = temple
+}
+

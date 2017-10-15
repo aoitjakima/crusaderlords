@@ -1,0 +1,134 @@
+200.2.1 = {
+	holder = 1000002
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1000244
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+200.2.3 = {
+	liege = d_banafu
+}
+
+200.2.4 = {
+	holder = 1000243
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+255.2.1 = {
+	holder = 1003250
+}
+
+259.2.1 = {
+	holder = 1005005
+}
+
+259.2.2 = {
+	holder = 1006521
+}
+
+271.2.1 = {
+	holder = 1005111
+}
+
+272.2.1 = {
+	holder = 1007437
+}
+
+299.2.1 = {
+	holder = 1007702
+}
+
+344.2.1 = {
+	holder = 1012052
+}
+
+352.2.1 = {
+	holder = 1012248
+}
+
+417.2.1 = {
+	holder = 1013722
+}
+
+436.2.1 = {
+	holder = 1016686
+}
+
+482.2.1 = {
+	holder = 1017989
+}
+
+498.2.1 = {
+	holder = 1020727
+}
+
+547.2.1 = {
+	holder = 1022817
+}
+
+550.2.1 = {
+	holder = 1024852
+}
+
+551.2.1 = {
+	holder = 1024981
+}
+
+700.2.1 = {
+	holder = 1033533
+}
+
+732.2.1 = {
+	holder = 1034364
+}
+
+735.2.1 = {
+	holder = 1036478
+}
+
+739.2.1 = {
+	holder = 1034625
+}
+
+739.2.2 = {
+	holder = 1036724
+}
+
+900.2.1 = {
+	holder = 1042639
+}
+
+904.2.1 = {
+	holder = 1046618
+}
+
+939.2.1 = {
+	holder = 1048028
+}
+
+988.2.1 = {
+	holder = 1051990
+}
+
+1026.2.1 = {
+	holder = 1052116
+}
+
+1029.2.1 = {
+	holder = 1050870
+}
+
+1029.2.2 = {
+	holder = 1051309
+}
+
+1066.2.1 = {
+	holder = 1053903
+}
+

@@ -44,6 +44,7 @@ casian = {
 
 		modifier = default_culture_modifier
 	}
+}
 	
 estazi_culture_group = {
 	graphical_cultures = { italiangfx southerngfx }
@@ -326,7 +327,7 @@ avasian_culture_group = {
 		mother_name_chance = 5
 	}
 	
-	swap_avasian = {
+	swamp_avasian = {
 		graphical_cultures = { saxongfx }
 		
 		color = { 0.8 0.3 0.3 }

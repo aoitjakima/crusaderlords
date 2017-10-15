@@ -1,0 +1,37 @@
+	title = c_wallith
+	max_settlements = 2
+	culture = retose
+	religion = naneka
+	b_lacah = tribal
+201.3.1 = {
+	religion = qiteka
+}
+
+204.3.1 = {
+	religion = naneka
+}
+
+215.3.1 = {
+	religion = qiteka
+}
+
+229.3.1 = {
+	religion = naneka
+}
+
+239.3.1 = {
+	religion = qiteka
+}
+
+259.4.1 = {
+	culture = banaila
+}
+
+615.4.1 = {
+	b_lacah = castle
+}
+
+705.4.1 = {
+	b_barovat = temple
+}
+

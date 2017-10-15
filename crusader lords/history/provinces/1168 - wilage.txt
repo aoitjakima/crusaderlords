@@ -1,0 +1,25 @@
+	title = c_wilage
+	max_settlements = 4
+	culture = lyarala
+	religion = tonuyu
+	b_nyape = tribal
+204.4.1 = {
+	culture = budandev
+}
+
+817.4.1 = {
+	b_nyape = castle
+}
+
+877.4.1 = {
+	b_kamira = temple
+}
+
+1008.4.1 = {
+	b_qegya = city
+}
+
+1062.4.1 = {
+	b_kekyako = castle
+}
+

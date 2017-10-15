@@ -1,0 +1,101 @@
+	title = c_dalamc
+	max_settlements = 3
+	culture = tawtus
+	religion = kodine
+	b_bouwica = tribal
+1.1.1 = {
+	b_sapirgen = ct_port_1
+}
+
+201.3.1 = {
+	religion = tonuyu
+}
+
+203.3.1 = {
+	religion = kodine
+}
+
+211.3.1 = {
+	religion = tonuyu
+}
+
+223.4.1 = {
+	culture = biho
+}
+
+239.3.1 = {
+	religion = kodine
+}
+
+239.3.1 = {
+	religion = tonuyu
+}
+
+246.3.1 = {
+	religion = kodine
+}
+
+246.3.1 = {
+	religion = tonuyu
+}
+
+247.3.1 = {
+	religion = kodine
+}
+
+249.3.1 = {
+	religion = tonuyu
+}
+
+252.3.1 = {
+	religion = kodine
+}
+
+252.3.1 = {
+	religion = tonuyu
+}
+
+253.3.1 = {
+	religion = kodine
+}
+
+256.3.1 = {
+	religion = tonuyu
+}
+
+257.4.1 = {
+	culture = tawtus
+}
+
+263.4.1 = {
+	culture = biho
+}
+
+314.4.1 = {
+	culture = rubiho
+}
+
+335.4.1 = {
+	culture = biho
+}
+
+537.4.1 = {
+	culture = lodeid
+}
+
+596.4.1 = {
+	culture = biho
+}
+
+860.4.1 = {
+	b_bouwica = castle
+}
+
+907.4.1 = {
+	b_sapirgen = city
+}
+
+1025.4.1 = {
+	b_siliy = temple
+}
+

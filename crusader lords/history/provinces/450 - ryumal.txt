@@ -1,0 +1,25 @@
+	title = c_ryumal
+	max_settlements = 3
+	culture = ranibel
+	religion = nukaye
+	b_keserma = tribal
+1.1.1 = {
+	b_kafiy = ct_port_1
+}
+
+257.4.1 = {
+	culture = asumata
+}
+
+780.4.1 = {
+	b_keserma = castle
+}
+
+831.4.1 = {
+	b_adehaman = temple
+}
+
+893.4.1 = {
+	b_kafiy = city
+}
+

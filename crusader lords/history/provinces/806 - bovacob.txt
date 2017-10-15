@@ -1,0 +1,21 @@
+	title = c_bovacob
+	max_settlements = 2
+	culture = ebeina
+	religion = qiteka
+	b_senivi = tribal
+339.4.1 = {
+	culture = risutlu
+}
+
+605.4.1 = {
+	b_senivi = castle
+}
+
+729.4.1 = {
+	culture = saimes
+}
+
+770.4.1 = {
+	b_erusodar = temple
+}
+

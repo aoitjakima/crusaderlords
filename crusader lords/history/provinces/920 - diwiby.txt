@@ -1,0 +1,29 @@
+	title = c_diwiby
+	max_settlements = 4
+	culture = waetutlu
+	religion = qiteka
+	b_eqyaa = tribal
+319.4.1 = {
+	culture = risutlu
+}
+
+505.4.1 = {
+	b_eqyaa = castle
+}
+
+640.4.1 = {
+	b_tenery = temple
+}
+
+723.4.1 = {
+	culture = saimes
+}
+
+860.4.1 = {
+	b_atiwipp = city
+}
+
+932.4.1 = {
+	b_daudery = castle
+}
+

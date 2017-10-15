@@ -1,0 +1,57 @@
+	title = c_apando
+	max_settlements = 7
+	culture = esunadir
+	religion = qiteka
+	b_kisarma = tribal
+201.3.1 = {
+	religion = naneka
+}
+
+210.4.1 = {
+	culture = retose
+}
+
+258.4.1 = {
+	culture = sereka
+}
+
+317.4.1 = {
+	culture = esunadir
+}
+
+504.4.1 = {
+	culture = sereka
+}
+
+508.4.1 = {
+	culture = esunadir
+}
+
+517.4.1 = {
+	culture = sereka
+}
+
+580.4.1 = {
+	b_kisarma = castle
+}
+
+649.4.1 = {
+	culture = esunadir
+}
+
+715.4.1 = {
+	b_qegule = temple
+}
+
+717.4.1 = {
+	culture = sereka
+}
+
+896.4.1 = {
+	b_nenando = city
+}
+
+967.4.1 = {
+	b_litlanes = temple
+}
+

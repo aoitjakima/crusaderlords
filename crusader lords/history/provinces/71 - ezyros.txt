@@ -1,0 +1,53 @@
+	title = c_ezyros
+	max_settlements = 3
+	culture = rubiho
+	religion = tonuyu
+	b_leid = tribal
+1.1.1 = {
+	b_kodeya = ct_port_1
+}
+
+314.4.1 = {
+	culture = lodeid
+}
+
+343.4.1 = {
+	culture = rubiho
+}
+
+384.4.1 = {
+	culture = lodeid
+}
+
+411.4.1 = {
+	culture = rubiho
+}
+
+420.4.1 = {
+	culture = lodeid
+}
+
+467.4.1 = {
+	culture = rubiho
+}
+
+476.4.1 = {
+	culture = lodeid
+}
+
+540.4.1 = {
+	culture = biho
+}
+
+860.4.1 = {
+	b_leid = castle
+}
+
+903.4.1 = {
+	b_kodeya = city
+}
+
+1032.4.1 = {
+	b_lieid = temple
+}
+

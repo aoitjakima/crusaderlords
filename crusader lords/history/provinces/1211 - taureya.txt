@@ -1,0 +1,33 @@
+	title = c_taureya
+	max_settlements = 3
+	culture = keraam
+	religion = tonuyu
+	b_lohatti = tribal
+1.1.1 = {
+	b_soreya = ct_port_1
+}
+
+291.4.1 = {
+	culture = tiwics
+}
+
+445.4.1 = {
+	culture = nalaam
+}
+
+505.4.1 = {
+	culture = tiwics
+}
+
+821.4.1 = {
+	b_lohatti = castle
+}
+
+884.4.1 = {
+	b_relia = temple
+}
+
+997.4.1 = {
+	b_soreya = city
+}
+

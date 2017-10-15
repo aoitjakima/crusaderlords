@@ -1,0 +1,41 @@
+	title = c_wiana
+	max_settlements = 4
+	culture = davars
+	religion = wedwig
+	b_tusen = tribal
+258.4.1 = {
+	culture = negasseh
+}
+
+263.4.1 = {
+	culture = weliana
+}
+
+306.4.1 = {
+	culture = davars
+}
+
+311.4.1 = {
+	culture = weliana
+}
+
+325.4.1 = {
+	culture = davars
+}
+
+565.4.1 = {
+	b_tusen = castle
+}
+
+710.4.1 = {
+	b_ravgnatr = temple
+}
+
+859.4.1 = {
+	b_ametolf = city
+}
+
+934.4.1 = {
+	b_buheng = temple
+}
+

@@ -1,0 +1,697 @@
+	title = c_ehadeng
+	max_settlements = 3
+	culture = kuhotil
+	religion = wedwig
+	b_neten = tribal
+1.1.1 = {
+	b_taikars = ct_port_1
+}
+
+203.3.1 = {
+	religion = eraygnars
+}
+
+204.3.1 = {
+	religion = wedwig
+}
+
+217.3.1 = {
+	religion = eraygnars
+}
+
+217.3.1 = {
+	religion = wedwig
+}
+
+230.4.1 = {
+	culture = negasseh
+}
+
+306.4.1 = {
+	culture = saimes
+}
+
+306.4.1 = {
+	culture = davars
+}
+
+307.4.1 = {
+	culture = saimes
+}
+
+310.3.1 = {
+	religion = qiteka
+}
+
+313.3.1 = {
+	religion = wedwig
+}
+
+324.3.1 = {
+	religion = qiteka
+}
+
+324.3.1 = {
+	religion = wedwig
+}
+
+326.3.1 = {
+	religion = qiteka
+}
+
+331.3.1 = {
+	religion = wedwig
+}
+
+333.3.1 = {
+	religion = qiteka
+}
+
+333.3.1 = {
+	religion = wedwig
+}
+
+335.3.1 = {
+	religion = qiteka
+}
+
+338.3.1 = {
+	religion = wedwig
+}
+
+340.3.1 = {
+	religion = qiteka
+}
+
+342.3.1 = {
+	religion = wedwig
+}
+
+343.3.1 = {
+	religion = qiteka
+}
+
+345.3.1 = {
+	religion = wedwig
+}
+
+348.3.1 = {
+	religion = qiteka
+}
+
+353.3.1 = {
+	religion = wedwig
+}
+
+358.3.1 = {
+	religion = qiteka
+}
+
+361.3.1 = {
+	religion = wedwig
+}
+
+427.3.1 = {
+	religion = qiteka
+}
+
+430.3.1 = {
+	religion = wedwig
+}
+
+432.3.1 = {
+	religion = qiteka
+}
+
+443.3.1 = {
+	religion = wedwig
+}
+
+447.3.1 = {
+	religion = qiteka
+}
+
+448.3.1 = {
+	religion = wedwig
+}
+
+468.3.1 = {
+	religion = qiteka
+}
+
+469.3.1 = {
+	religion = wedwig
+}
+
+472.3.1 = {
+	religion = qiteka
+}
+
+472.3.1 = {
+	religion = wedwig
+}
+
+473.3.1 = {
+	religion = qiteka
+}
+
+476.3.1 = {
+	religion = wedwig
+}
+
+477.3.1 = {
+	religion = qiteka
+}
+
+492.3.1 = {
+	religion = wedwig
+}
+
+495.3.1 = {
+	religion = qiteka
+}
+
+495.3.1 = {
+	religion = wedwig
+}
+
+498.3.1 = {
+	religion = qiteka
+}
+
+498.3.1 = {
+	religion = wedwig
+}
+
+499.3.1 = {
+	religion = qiteka
+}
+
+501.3.1 = {
+	religion = wedwig
+}
+
+513.3.1 = {
+	religion = qiteka
+}
+
+514.4.1 = {
+	culture = davars
+}
+
+523.3.1 = {
+	religion = wedwig
+}
+
+525.3.1 = {
+	religion = qiteka
+}
+
+526.3.1 = {
+	religion = wedwig
+}
+
+529.3.1 = {
+	religion = qiteka
+}
+
+532.4.1 = {
+	culture = saimes
+}
+
+545.3.1 = {
+	religion = wedwig
+}
+
+546.3.1 = {
+	religion = qiteka
+}
+
+553.3.1 = {
+	religion = wedwig
+}
+
+554.3.1 = {
+	religion = qiteka
+}
+
+555.3.1 = {
+	religion = wedwig
+}
+
+558.3.1 = {
+	religion = qiteka
+}
+
+568.3.1 = {
+	religion = wedwig
+}
+
+570.3.1 = {
+	religion = qiteka
+}
+
+573.3.1 = {
+	religion = wedwig
+}
+
+578.3.1 = {
+	religion = qiteka
+}
+
+581.3.1 = {
+	religion = wedwig
+}
+
+592.3.1 = {
+	religion = qiteka
+}
+
+593.3.1 = {
+	religion = wedwig
+}
+
+595.3.1 = {
+	religion = qiteka
+}
+
+598.3.1 = {
+	religion = wedwig
+}
+
+600.3.1 = {
+	religion = qiteka
+}
+
+601.3.1 = {
+	religion = wedwig
+}
+
+603.3.1 = {
+	religion = qiteka
+}
+
+603.3.1 = {
+	religion = wedwig
+}
+
+609.3.1 = {
+	religion = qiteka
+}
+
+615.4.1 = {
+	b_neten = castle
+}
+
+626.3.1 = {
+	religion = wedwig
+}
+
+635.3.1 = {
+	religion = qiteka
+}
+
+637.3.1 = {
+	religion = wedwig
+}
+
+644.3.1 = {
+	religion = qiteka
+}
+
+647.3.1 = {
+	religion = wedwig
+}
+
+649.3.1 = {
+	religion = qiteka
+}
+
+649.3.1 = {
+	religion = wedwig
+}
+
+654.3.1 = {
+	religion = qiteka
+}
+
+654.3.1 = {
+	religion = wedwig
+}
+
+655.3.1 = {
+	religion = qiteka
+}
+
+661.3.1 = {
+	religion = wedwig
+}
+
+667.3.1 = {
+	religion = qiteka
+}
+
+668.3.1 = {
+	religion = wedwig
+}
+
+669.3.1 = {
+	religion = qiteka
+}
+
+669.3.1 = {
+	religion = wedwig
+}
+
+677.3.1 = {
+	religion = qiteka
+}
+
+680.3.1 = {
+	religion = wedwig
+}
+
+692.3.1 = {
+	religion = qiteka
+}
+
+698.3.1 = {
+	religion = wedwig
+}
+
+700.3.1 = {
+	religion = qiteka
+}
+
+710.3.1 = {
+	religion = wedwig
+}
+
+712.3.1 = {
+	religion = qiteka
+}
+
+713.3.1 = {
+	religion = wedwig
+}
+
+717.3.1 = {
+	religion = qiteka
+}
+
+722.3.1 = {
+	religion = wedwig
+}
+
+723.3.1 = {
+	religion = qiteka
+}
+
+726.3.1 = {
+	religion = wedwig
+}
+
+729.3.1 = {
+	religion = qiteka
+}
+
+739.3.1 = {
+	religion = wedwig
+}
+
+750.4.1 = {
+	b_taikars = city
+}
+
+757.3.1 = {
+	religion = qiteka
+}
+
+765.3.1 = {
+	religion = wedwig
+}
+
+776.3.1 = {
+	religion = qiteka
+}
+
+777.3.1 = {
+	religion = wedwig
+}
+
+779.3.1 = {
+	religion = qiteka
+}
+
+786.3.1 = {
+	religion = wedwig
+}
+
+791.3.1 = {
+	religion = qiteka
+}
+
+792.3.1 = {
+	religion = wedwig
+}
+
+793.3.1 = {
+	religion = qiteka
+}
+
+795.3.1 = {
+	religion = wedwig
+}
+
+797.3.1 = {
+	religion = qiteka
+}
+
+798.3.1 = {
+	religion = wedwig
+}
+
+805.3.1 = {
+	religion = qiteka
+}
+
+805.3.1 = {
+	religion = wedwig
+}
+
+822.3.1 = {
+	religion = qiteka
+}
+
+824.3.1 = {
+	religion = wedwig
+}
+
+833.3.1 = {
+	religion = qiteka
+}
+
+834.3.1 = {
+	religion = wedwig
+}
+
+837.3.1 = {
+	religion = qiteka
+}
+
+839.3.1 = {
+	religion = wedwig
+}
+
+848.3.1 = {
+	religion = qiteka
+}
+
+852.3.1 = {
+	religion = wedwig
+}
+
+855.3.1 = {
+	religion = qiteka
+}
+
+856.3.1 = {
+	religion = wedwig
+}
+
+866.3.1 = {
+	religion = qiteka
+}
+
+867.3.1 = {
+	religion = wedwig
+}
+
+869.3.1 = {
+	religion = qiteka
+}
+
+870.3.1 = {
+	religion = wedwig
+}
+
+871.3.1 = {
+	religion = qiteka
+}
+
+871.3.1 = {
+	religion = wedwig
+}
+
+873.3.1 = {
+	religion = qiteka
+}
+
+877.3.1 = {
+	religion = wedwig
+}
+
+884.4.1 = {
+	b_emuholf = temple
+}
+
+885.3.1 = {
+	religion = qiteka
+}
+
+888.3.1 = {
+	religion = wedwig
+}
+
+890.3.1 = {
+	religion = qiteka
+}
+
+897.3.1 = {
+	religion = wedwig
+}
+
+904.3.1 = {
+	religion = qiteka
+}
+
+904.3.1 = {
+	religion = wedwig
+}
+
+913.3.1 = {
+	religion = qiteka
+}
+
+914.3.1 = {
+	religion = wedwig
+}
+
+916.3.1 = {
+	religion = qiteka
+}
+
+916.3.1 = {
+	religion = wedwig
+}
+
+920.3.1 = {
+	religion = qiteka
+}
+
+921.3.1 = {
+	religion = wedwig
+}
+
+922.3.1 = {
+	religion = qiteka
+}
+
+923.3.1 = {
+	religion = wedwig
+}
+
+925.3.1 = {
+	religion = qiteka
+}
+
+932.3.1 = {
+	religion = wedwig
+}
+
+936.3.1 = {
+	religion = qiteka
+}
+
+937.3.1 = {
+	religion = wedwig
+}
+
+947.3.1 = {
+	religion = qiteka
+}
+
+969.3.1 = {
+	religion = wedwig
+}
+
+973.3.1 = {
+	religion = qiteka
+}
+
+980.3.1 = {
+	religion = wedwig
+}
+
+981.3.1 = {
+	religion = qiteka
+}
+
+985.3.1 = {
+	religion = wedwig
+}
+
+988.3.1 = {
+	religion = qiteka
+}
+
+991.3.1 = {
+	religion = wedwig
+}
+
+997.3.1 = {
+	religion = qiteka
+}
+
+998.3.1 = {
+	religion = wedwig
+}
+
+1006.3.1 = {
+	religion = qiteka
+}
+
+1021.3.1 = {
+	religion = wedwig
+}
+
+1026.3.1 = {
+	religion = qiteka
+}
+
+1032.3.1 = {
+	religion = wedwig
+}
+
+1051.3.1 = {
+	religion = qiteka
+}
+
+1059.3.1 = {
+	religion = wedwig
+}
+
+1060.3.1 = {
+	religion = qiteka
+}
+

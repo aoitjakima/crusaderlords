@@ -1,0 +1,61 @@
+	title = c_nevahaila
+	max_settlements = 3
+	culture = sutidoka
+	religion = kusran
+	b_emadir = tribal
+1.1.1 = {
+	b_baher = ct_port_1
+}
+
+200.3.1 = {
+	religion = raipi
+}
+
+206.3.1 = {
+	religion = kusran
+}
+
+214.3.1 = {
+	religion = raipi
+}
+
+215.3.1 = {
+	religion = kusran
+}
+
+215.3.1 = {
+	religion = raipi
+}
+
+245.4.1 = {
+	culture = kaureid
+}
+
+346.4.1 = {
+	culture = taodha
+}
+
+369.4.1 = {
+	culture = kapti
+}
+
+394.4.1 = {
+	culture = taodha
+}
+
+420.4.1 = {
+	culture = kapti
+}
+
+806.4.1 = {
+	b_emadir = castle
+}
+
+826.4.1 = {
+	b_baher = city
+}
+
+885.4.1 = {
+	b_sepeesi = temple
+}
+

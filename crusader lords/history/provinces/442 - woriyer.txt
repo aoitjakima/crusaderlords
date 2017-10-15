@@ -1,0 +1,33 @@
+	title = c_woriyer
+	max_settlements = 3
+	culture = eluedsalh
+	religion = raipi
+	b_etoreja = tribal
+201.4.1 = {
+	culture = daimeja
+}
+
+202.3.1 = {
+	religion = wedwig
+}
+
+319.4.1 = {
+	culture = eluedsalh
+}
+
+320.3.1 = {
+	religion = raipi
+}
+
+546.4.1 = {
+	culture = sigivkah
+}
+
+907.4.1 = {
+	b_etoreja = castle
+}
+
+1041.4.1 = {
+	b_egotil = temple
+}
+

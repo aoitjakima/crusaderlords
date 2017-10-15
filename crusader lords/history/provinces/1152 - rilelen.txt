@@ -1,0 +1,21 @@
+	title = c_rilelen
+	max_settlements = 2
+	culture = radabor
+	religion = tonuyu
+	b_wilony = tribal
+257.4.1 = {
+	culture = wenira
+}
+
+268.4.1 = {
+	culture = radabor
+}
+
+725.4.1 = {
+	b_wilony = castle
+}
+
+816.4.1 = {
+	b_taysony = temple
+}
+

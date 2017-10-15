@@ -1,0 +1,5 @@
+	title = c_wepevag
+	max_settlements = 2
+	culture = qarevag
+	religion = neharis
+	b_baraslan = tribal

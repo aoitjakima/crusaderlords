@@ -1,0 +1,253 @@
+	title = c_sewnis
+	max_settlements = 2
+	culture = ketamma
+	religion = kusran
+	b_secyan = tribal
+200.3.1 = {
+	religion = raipi
+}
+
+204.3.1 = {
+	religion = kusran
+}
+
+204.3.1 = {
+	religion = raipi
+}
+
+205.3.1 = {
+	religion = kusran
+}
+
+214.3.1 = {
+	religion = raipi
+}
+
+219.3.1 = {
+	religion = kusran
+}
+
+230.3.1 = {
+	religion = raipi
+}
+
+238.3.1 = {
+	religion = kusran
+}
+
+242.3.1 = {
+	religion = raipi
+}
+
+250.3.1 = {
+	religion = kusran
+}
+
+254.3.1 = {
+	religion = raipi
+}
+
+263.3.1 = {
+	religion = kusran
+}
+
+265.3.1 = {
+	religion = raipi
+}
+
+271.3.1 = {
+	religion = kusran
+}
+
+271.3.1 = {
+	religion = raipi
+}
+
+272.3.1 = {
+	religion = kusran
+}
+
+272.3.1 = {
+	religion = raipi
+}
+
+275.3.1 = {
+	religion = kusran
+}
+
+277.3.1 = {
+	religion = raipi
+}
+
+278.3.1 = {
+	religion = kusran
+}
+
+280.3.1 = {
+	religion = raipi
+}
+
+282.3.1 = {
+	religion = kusran
+}
+
+285.3.1 = {
+	religion = raipi
+}
+
+296.3.1 = {
+	religion = kusran
+}
+
+300.3.1 = {
+	religion = raipi
+}
+
+303.3.1 = {
+	religion = kusran
+}
+
+303.3.1 = {
+	religion = raipi
+}
+
+305.3.1 = {
+	religion = kusran
+}
+
+322.3.1 = {
+	religion = raipi
+}
+
+328.3.1 = {
+	religion = kusran
+}
+
+328.3.1 = {
+	religion = raipi
+}
+
+329.3.1 = {
+	religion = kusran
+}
+
+329.3.1 = {
+	religion = raipi
+}
+
+331.3.1 = {
+	religion = kusran
+}
+
+334.3.1 = {
+	religion = raipi
+}
+
+335.3.1 = {
+	religion = kusran
+}
+
+336.3.1 = {
+	religion = raipi
+}
+
+338.3.1 = {
+	religion = kusran
+}
+
+342.3.1 = {
+	religion = raipi
+}
+
+346.3.1 = {
+	religion = kusran
+}
+
+349.3.1 = {
+	religion = raipi
+}
+
+350.3.1 = {
+	religion = kusran
+}
+
+350.3.1 = {
+	religion = raipi
+}
+
+351.3.1 = {
+	religion = kusran
+}
+
+354.3.1 = {
+	religion = raipi
+}
+
+358.3.1 = {
+	religion = kusran
+}
+
+360.3.1 = {
+	religion = raipi
+}
+
+368.3.1 = {
+	religion = kusran
+}
+
+377.3.1 = {
+	religion = raipi
+}
+
+378.3.1 = {
+	religion = kusran
+}
+
+379.3.1 = {
+	religion = raipi
+}
+
+381.3.1 = {
+	religion = kusran
+}
+
+382.3.1 = {
+	religion = raipi
+}
+
+383.3.1 = {
+	religion = kusran
+}
+
+392.3.1 = {
+	religion = raipi
+}
+
+392.4.1 = {
+	culture = kapti
+}
+
+419.4.1 = {
+	culture = kaureid
+}
+
+423.4.1 = {
+	culture = kapti
+}
+
+428.4.1 = {
+	culture = kaureid
+}
+
+526.4.1 = {
+	culture = kapti
+}
+
+820.4.1 = {
+	b_secyan = castle
+}
+
+857.4.1 = {
+	b_nyayapti = city
+}
+

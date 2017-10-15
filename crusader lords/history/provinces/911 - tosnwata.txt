@@ -1,0 +1,29 @@
+	title = c_tosnwata
+	max_settlements = 2
+	culture = ritiatou
+	religion = telayira
+	b_ruzore = tribal
+417.4.1 = {
+	culture = koumas
+}
+
+472.4.1 = {
+	culture = lopher
+}
+
+610.4.1 = {
+	culture = koumas
+}
+
+665.4.1 = {
+	b_ruzore = castle
+}
+
+818.4.1 = {
+	b_adobosk = city
+}
+
+947.4.1 = {
+	culture = lopher
+}
+

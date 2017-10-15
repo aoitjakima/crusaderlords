@@ -1,0 +1,17 @@
+	title = c_legibanl
+	max_settlements = 3
+	culture = saimes
+	religion = qiteka
+	b_riebi = tribal
+600.4.1 = {
+	b_riebi = castle
+}
+
+730.4.1 = {
+	b_danive = city
+}
+
+873.4.1 = {
+	b_kaudamur = temple
+}
+

@@ -1,0 +1,17 @@
+	title = c_kauu
+	max_settlements = 2
+	culture = dainbai
+	religion = telayira
+	b_qetina = tribal
+418.4.1 = {
+	culture = wedina
+}
+
+730.4.1 = {
+	b_qetina = castle
+}
+
+819.4.1 = {
+	b_wigina = city
+}
+

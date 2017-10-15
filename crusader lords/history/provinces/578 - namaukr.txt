@@ -1,0 +1,41 @@
+	title = c_namaukr
+	max_settlements = 5
+	culture = raureid
+	religion = wedwig
+	b_benand = tribal
+200.3.1 = {
+	religion = qigiyah
+}
+
+251.3.1 = {
+	religion = wedwig
+}
+
+256.4.1 = {
+	culture = alaurine
+}
+
+261.3.1 = {
+	religion = qigiyah
+}
+
+822.4.1 = {
+	b_benand = castle
+}
+
+851.4.1 = {
+	b_tiubai = city
+}
+
+895.4.1 = {
+	b_ditainn = temple
+}
+
+946.4.1 = {
+	b_ratim = temple
+}
+
+997.4.1 = {
+	b_ricsa = castle
+}
+

@@ -1,0 +1,13 @@
+	title = c_ewopolk
+	max_settlements = 2
+	culture = waynald
+	religion = wedwig
+	b_sitsisas = tribal
+620.4.1 = {
+	b_sitsisas = castle
+}
+
+795.4.1 = {
+	b_akutayan = temple
+}
+

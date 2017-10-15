@@ -1,0 +1,25 @@
+	title = c_wurar
+	max_settlements = 2
+	culture = rauroka
+	religion = kusran
+	b_erewdant = tribal
+215.4.1 = {
+	culture = watinan
+}
+
+226.4.1 = {
+	culture = rauroka
+}
+
+270.4.1 = {
+	culture = ketamma
+}
+
+828.4.1 = {
+	b_erewdant = castle
+}
+
+857.4.1 = {
+	b_enicusha = temple
+}
+

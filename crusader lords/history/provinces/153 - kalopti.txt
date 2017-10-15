@@ -1,0 +1,61 @@
+	title = c_kalopti
+	max_settlements = 4
+	culture = latuma
+	religion = atheociu
+	b_nalaham = tribal
+204.4.1 = {
+	culture = rarare
+}
+
+205.3.1 = {
+	religion = kusran
+}
+
+205.3.1 = {
+	religion = atheociu
+}
+
+210.3.1 = {
+	religion = kusran
+}
+
+222.3.1 = {
+	religion = atheociu
+}
+
+224.3.1 = {
+	religion = kusran
+}
+
+230.3.1 = {
+	religion = atheociu
+}
+
+232.3.1 = {
+	religion = kusran
+}
+
+235.4.1 = {
+	culture = latuma
+}
+
+237.3.1 = {
+	religion = atheociu
+}
+
+835.4.1 = {
+	b_nalaham = castle
+}
+
+866.4.1 = {
+	b_wagilen = city
+}
+
+958.4.1 = {
+	b_kurilen = temple
+}
+
+1060.4.1 = {
+	b_qyayaham = temple
+}
+

@@ -1,0 +1,37 @@
+	title = c_kaematha
+	max_settlements = 6
+	culture = radabor
+	religion = tonuyu
+	b_sakabra = tribal
+257.4.1 = {
+	culture = wenira
+}
+
+263.4.1 = {
+	culture = radabor
+}
+
+730.4.1 = {
+	b_sakabra = castle
+}
+
+809.4.1 = {
+	b_kudony = temple
+}
+
+872.4.1 = {
+	b_kuareda = city
+}
+
+923.4.1 = {
+	b_wudira = castle
+}
+
+978.4.1 = {
+	b_baysony = temple
+}
+
+1022.4.1 = {
+	b_agilira = castle
+}
+

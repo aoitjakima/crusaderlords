@@ -1,0 +1,17 @@
+	title = c_qulauf
+	max_settlements = 2
+	culture = loguslan
+	religion = neharis
+	b_laol = tribal
+369.4.1 = {
+	culture = liebes
+}
+
+895.4.1 = {
+	b_laol = castle
+}
+
+1032.4.1 = {
+	b_neraoro = city
+}
+

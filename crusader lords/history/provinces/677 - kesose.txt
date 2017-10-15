@@ -1,0 +1,49 @@
+	title = c_kesose
+	max_settlements = 4
+	culture = negasseh
+	religion = wedwig
+	b_ekopiletm = tribal
+1.1.1 = {
+	b_tasordan = ct_port_1
+}
+
+247.4.1 = {
+	culture = davars
+}
+
+258.4.1 = {
+	culture = negasseh
+}
+
+263.4.1 = {
+	culture = weliana
+}
+
+306.4.1 = {
+	culture = davars
+}
+
+311.4.1 = {
+	culture = weliana
+}
+
+325.4.1 = {
+	culture = davars
+}
+
+565.4.1 = {
+	b_ekopiletm = castle
+}
+
+690.4.1 = {
+	b_kiam = temple
+}
+
+854.4.1 = {
+	b_tasordan = city
+}
+
+924.4.1 = {
+	b_qiebdat = castle
+}
+

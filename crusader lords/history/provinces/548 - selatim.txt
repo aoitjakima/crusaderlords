@@ -1,0 +1,25 @@
+	title = c_selatim
+	max_settlements = 5
+	culture = raureid
+	religion = qigiyah
+	b_robgik = tribal
+242.4.1 = {
+	culture = disinos
+}
+
+294.4.1 = {
+	culture = alaurine
+}
+
+822.4.1 = {
+	b_robgik = castle
+}
+
+879.4.1 = {
+	b_renina = temple
+}
+
+1006.4.1 = {
+	b_lulatim = city
+}
+

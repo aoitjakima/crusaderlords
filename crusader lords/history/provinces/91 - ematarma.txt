@@ -1,0 +1,21 @@
+	title = c_ematarma
+	max_settlements = 7
+	culture = syahes
+	religion = neharis
+	b_qisive = tribal
+200.4.1 = {
+	culture = amuhopti
+}
+
+207.4.1 = {
+	culture = syahes
+}
+
+530.4.1 = {
+	b_qisive = castle
+}
+
+665.4.1 = {
+	b_dainive = temple
+}
+

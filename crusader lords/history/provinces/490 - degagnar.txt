@@ -1,0 +1,25 @@
+	title = c_degagnar
+	max_settlements = 3
+	culture = daimeja
+	religion = wedwig
+	b_ajohars = tribal
+203.4.1 = {
+	culture = davars
+}
+
+266.4.1 = {
+	culture = weliana
+}
+
+585.4.1 = {
+	b_ajohars = castle
+}
+
+695.4.1 = {
+	b_qeliyer = temple
+}
+
+877.4.1 = {
+	b_ahadiyer = city
+}
+

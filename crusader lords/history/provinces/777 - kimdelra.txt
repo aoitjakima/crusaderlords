@@ -1,0 +1,37 @@
+	title = c_kimdelra
+	max_settlements = 2
+	culture = litya
+	religion = bobena
+	b_rina = tribal
+663.3.1 = {
+	religion = telayira
+}
+
+672.4.1 = {
+	culture = ween
+}
+
+767.4.1 = {
+	culture = welitya
+}
+
+834.4.1 = {
+	culture = ween
+}
+
+944.4.1 = {
+	culture = titina
+}
+
+956.4.1 = {
+	culture = ween
+}
+
+1007.4.1 = {
+	culture = titina
+}
+
+1025.4.1 = {
+	culture = ween
+}
+

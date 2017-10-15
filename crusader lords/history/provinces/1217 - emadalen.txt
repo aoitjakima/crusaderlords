@@ -1,0 +1,21 @@
+	title = c_emadalen
+	max_settlements = 3
+	culture = ahenatha
+	religion = tonuyu
+	b_ludoumas = tribal
+313.3.1 = {
+	religion = worelen
+}
+
+322.4.1 = {
+	culture = nalaam
+}
+
+348.4.1 = {
+	culture = ahenatha
+}
+
+507.4.1 = {
+	culture = nalaam
+}
+

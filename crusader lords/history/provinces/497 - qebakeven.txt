@@ -1,0 +1,33 @@
+	title = c_qebakeven
+	max_settlements = 6
+	culture = syahes
+	religion = neharis
+	b_lical = tribal
+1.1.1 = {
+	b_sahouwe = ct_port_1
+}
+
+242.4.1 = {
+	culture = karibel
+}
+
+545.4.1 = {
+	b_lical = castle
+}
+
+665.4.1 = {
+	b_sahouwe = city
+}
+
+833.4.1 = {
+	b_alyanenna = temple
+}
+
+891.4.1 = {
+	b_beiliel = castle
+}
+
+984.4.1 = {
+	b_neilal = temple
+}
+

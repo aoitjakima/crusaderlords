@@ -1,0 +1,33 @@
+	title = c_deduga
+	max_settlements = 3
+	culture = wenira
+	religion = tonuyu
+	b_lalatti = tribal
+1.1.1 = {
+	b_takina = ct_port_1
+}
+
+204.4.1 = {
+	culture = budandev
+}
+
+253.4.1 = {
+	culture = wenira
+}
+
+282.4.1 = {
+	culture = radabor
+}
+
+715.4.1 = {
+	b_lalatti = castle
+}
+
+818.4.1 = {
+	b_letibor = temple
+}
+
+914.4.1 = {
+	b_takina = city
+}
+

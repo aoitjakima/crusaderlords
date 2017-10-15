@@ -1,0 +1,45 @@
+	title = c_koriam
+	max_settlements = 5
+	culture = negasseh
+	religion = wedwig
+	b_tetiam = tribal
+306.4.1 = {
+	culture = davars
+}
+
+333.4.1 = {
+	culture = negasseh
+}
+
+388.4.1 = {
+	culture = durga
+}
+
+416.4.1 = {
+	culture = negasseh
+}
+
+459.4.1 = {
+	culture = davars
+}
+
+550.4.1 = {
+	b_tetiam = castle
+}
+
+685.4.1 = {
+	b_kauduel = temple
+}
+
+868.4.1 = {
+	b_nanuvdi = city
+}
+
+943.4.1 = {
+	b_qetamur = temple
+}
+
+1008.4.1 = {
+	b_leseodat = temple
+}
+

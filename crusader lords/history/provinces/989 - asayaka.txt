@@ -1,0 +1,89 @@
+	title = c_asayaka
+	max_settlements = 2
+	culture = ruraura
+	religion = qiteka
+	b_netilip = tribal
+203.3.1 = {
+	religion = terenat
+}
+
+205.4.1 = {
+	culture = kitule
+}
+
+208.3.1 = {
+	religion = qiteka
+}
+
+208.3.1 = {
+	religion = terenat
+}
+
+212.4.1 = {
+	culture = qerosa
+}
+
+217.3.1 = {
+	religion = qiteka
+}
+
+222.3.1 = {
+	religion = terenat
+}
+
+231.3.1 = {
+	religion = qiteka
+}
+
+236.3.1 = {
+	religion = begeka
+}
+
+241.4.1 = {
+	culture = banaila
+}
+
+242.3.1 = {
+	religion = qiteka
+}
+
+244.3.1 = {
+	religion = begeka
+}
+
+245.3.1 = {
+	religion = qiteka
+}
+
+250.3.1 = {
+	religion = begeka
+}
+
+271.3.1 = {
+	religion = qiteka
+}
+
+273.3.1 = {
+	religion = begeka
+}
+
+282.3.1 = {
+	religion = qiteka
+}
+
+284.3.1 = {
+	religion = begeka
+}
+
+475.4.1 = {
+	culture = kitule
+}
+
+520.4.1 = {
+	b_netilip = castle
+}
+
+645.4.1 = {
+	b_savoza = temple
+}
+

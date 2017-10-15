@@ -1,0 +1,41 @@
+	title = c_namarilip
+	max_settlements = 2
+	culture = ruraura
+	religion = qiteka
+	b_adavurga = tribal
+203.3.1 = {
+	religion = terenat
+}
+
+236.3.1 = {
+	religion = begeka
+}
+
+273.4.1 = {
+	culture = banaila
+}
+
+285.4.1 = {
+	culture = ruraura
+}
+
+293.4.1 = {
+	culture = kitule
+}
+
+357.4.1 = {
+	culture = banaila
+}
+
+405.4.1 = {
+	culture = kitule
+}
+
+520.4.1 = {
+	b_adavurga = castle
+}
+
+640.4.1 = {
+	b_boanuel = temple
+}
+

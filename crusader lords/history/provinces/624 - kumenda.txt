@@ -1,0 +1,73 @@
+	title = c_kumenda
+	max_settlements = 3
+	culture = esunadir
+	religion = qiteka
+	b_ebhuvdi = tribal
+201.3.1 = {
+	religion = naneka
+}
+
+204.3.1 = {
+	religion = qiteka
+}
+
+208.3.1 = {
+	religion = naneka
+}
+
+210.3.1 = {
+	religion = qiteka
+}
+
+211.3.1 = {
+	religion = naneka
+}
+
+212.3.1 = {
+	religion = qiteka
+}
+
+213.3.1 = {
+	religion = naneka
+}
+
+219.3.1 = {
+	religion = qiteka
+}
+
+219.3.1 = {
+	religion = naneka
+}
+
+440.4.1 = {
+	culture = sereka
+}
+
+444.4.1 = {
+	culture = esunadir
+}
+
+471.4.1 = {
+	culture = sereka
+}
+
+590.4.1 = {
+	b_ebhuvdi = castle
+}
+
+659.4.1 = {
+	culture = esunadir
+}
+
+740.4.1 = {
+	b_tegiam = temple
+}
+
+785.4.1 = {
+	culture = sereka
+}
+
+866.4.1 = {
+	b_detenda = city
+}
+

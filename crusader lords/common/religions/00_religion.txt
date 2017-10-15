@@ -98,7 +98,7 @@ terrorian_group = {
 		crawling_chaos
 		the_terror
 		greater_daemon }
-		evil_god_names = { lesser daemon
+		evil_god_names = { lesser_daemon
 		insidious_wrath
 		greater_daemons_bad}
 		piety_name = reverance
@@ -132,7 +132,7 @@ terrorian_group = {
 		high_god_name = malevolant_discourse
 		god_names = {malevolant_discourse
 		greater_daemon }
-		evil_god_names = { lesser daemon
+		evil_god_names = { lesser_daemon
 		insidious_wrath
 		writhing_terror
 		greater_daemons_bad}
@@ -165,7 +165,7 @@ terrorian_group = {
 		high_god_name = capricious_curiosity
 		god_names = {capricious_curiosity
 		greater_daemon }
-		evil_god_names = { lesser daemon
+		evil_god_names = { lesser_daemon
 		insidious_wrath
 		writhing_terror
 		greater_daemons_bad}
@@ -198,7 +198,7 @@ terrorian_group = {
 		high_god_name = uncaring_apathy
 		god_names = {uncaring_apathy
 		greater_daemon }
-		evil_god_names = { lesser daemon
+		evil_god_names = { lesser_daemon
 		insidious_wrath
 		writhing_terror
 		greater_daemons_bad}
@@ -231,7 +231,7 @@ terrorian_group = {
 		high_god_name = insidious_wrath
 		god_names = {insidious_wrath
 		greater_daemon }
-		evil_god_names = { lesser daemon
+		evil_god_names = { lesser_daemon
 		writhing_terror
 		greater_daemons_bad}
 		piety_name = reverance
@@ -263,7 +263,7 @@ terrorian_group = {
 		high_god_name = howling_hunger
 		god_names = {howling_hunger
 		greater_daemon }
-		evil_god_names = { lesser daemon
+		evil_god_names = { lesser_daemon
 		writhing_terror
 		greater_daemons_bad}
 		piety_name = reverance
@@ -282,6 +282,7 @@ terrorian_group = {
 		female_temple_holders = yes
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
+	}
 }
 
 kiroth_faith = {

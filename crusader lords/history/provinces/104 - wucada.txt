@@ -1,0 +1,33 @@
+	title = c_wucada
+	max_settlements = 4
+	culture = remis
+	religion = raipi
+	b_ryla = tribal
+205.3.1 = {
+	religion = wedwig
+}
+
+217.3.1 = {
+	religion = raipi
+}
+
+229.4.1 = {
+	culture = digaka
+}
+
+735.4.1 = {
+	b_ryla = castle
+}
+
+822.4.1 = {
+	b_quren = temple
+}
+
+914.4.1 = {
+	b_qolyhon = city
+}
+
+1042.4.1 = {
+	b_syoo = temple
+}
+

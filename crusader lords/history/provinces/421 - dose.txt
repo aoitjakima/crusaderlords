@@ -1,0 +1,25 @@
+	title = c_dose
+	max_settlements = 2
+	culture = nuteria
+	religion = eraygnars
+	b_niamaranl = tribal
+202.3.1 = {
+	religion = neharis
+}
+
+203.4.1 = {
+	culture = qindik
+}
+
+254.4.1 = {
+	culture = syahes
+}
+
+621.4.1 = {
+	b_niamaranl = castle
+}
+
+750.4.1 = {
+	b_qameina = temple
+}
+

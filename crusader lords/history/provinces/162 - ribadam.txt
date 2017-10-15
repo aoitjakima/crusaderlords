@@ -1,0 +1,17 @@
+	title = c_ribadam
+	max_settlements = 2
+	culture = amuhopti
+	religion = neharis
+	b_tutaboi = tribal
+207.4.1 = {
+	culture = syahes
+}
+
+530.4.1 = {
+	b_tutaboi = castle
+}
+
+685.4.1 = {
+	b_lyahuda = city
+}
+

@@ -1,0 +1,157 @@
+	title = c_qeland
+	max_settlements = 2
+	culture = tainand
+	religion = bobena
+	b_danitya = tribal
+208.4.1 = {
+	culture = raureid
+}
+
+223.4.1 = {
+	culture = wedina
+}
+
+248.4.1 = {
+	culture = ween
+}
+
+264.4.1 = {
+	culture = welitya
+}
+
+409.4.1 = {
+	culture = ween
+}
+
+432.4.1 = {
+	culture = welitya
+}
+
+441.4.1 = {
+	culture = ween
+}
+
+519.4.1 = {
+	culture = welitya
+}
+
+587.4.1 = {
+	culture = titina
+}
+
+592.3.1 = {
+	religion = telayira
+}
+
+595.4.1 = {
+	culture = welitya
+}
+
+597.3.1 = {
+	religion = bobena
+}
+
+599.3.1 = {
+	religion = telayira
+}
+
+601.3.1 = {
+	religion = bobena
+}
+
+608.3.1 = {
+	religion = telayira
+}
+
+611.3.1 = {
+	religion = bobena
+}
+
+624.3.1 = {
+	religion = telayira
+}
+
+629.3.1 = {
+	religion = bobena
+}
+
+631.3.1 = {
+	religion = telayira
+}
+
+634.3.1 = {
+	religion = bobena
+}
+
+640.3.1 = {
+	religion = telayira
+}
+
+640.4.1 = {
+	culture = titina
+}
+
+674.4.1 = {
+	culture = ween
+}
+
+680.4.1 = {
+	culture = welitya
+}
+
+690.4.1 = {
+	culture = ween
+}
+
+695.4.1 = {
+	culture = welitya
+}
+
+697.3.1 = {
+	religion = bobena
+}
+
+711.3.1 = {
+	religion = telayira
+}
+
+712.3.1 = {
+	religion = bobena
+}
+
+714.3.1 = {
+	religion = telayira
+}
+
+727.3.1 = {
+	religion = bobena
+}
+
+733.3.1 = {
+	religion = telayira
+}
+
+736.4.1 = {
+	culture = ween
+}
+
+758.4.1 = {
+	culture = welitya
+}
+
+761.4.1 = {
+	culture = titina
+}
+
+765.4.1 = {
+	culture = welitya
+}
+
+918.4.1 = {
+	culture = ween
+}
+
+1013.4.1 = {
+	culture = titina
+}
+

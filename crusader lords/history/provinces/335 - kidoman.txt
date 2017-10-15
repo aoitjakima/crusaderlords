@@ -1,0 +1,109 @@
+	title = c_kidoman
+	max_settlements = 2
+	culture = raraber
+	religion = neharis
+	b_behaeya = tribal
+204.3.1 = {
+	religion = nukaye
+}
+
+207.3.1 = {
+	religion = neharis
+}
+
+210.3.1 = {
+	religion = nukaye
+}
+
+212.3.1 = {
+	religion = neharis
+}
+
+212.3.1 = {
+	religion = nukaye
+}
+
+214.3.1 = {
+	religion = neharis
+}
+
+218.3.1 = {
+	religion = nukaye
+}
+
+219.3.1 = {
+	religion = neharis
+}
+
+220.3.1 = {
+	religion = nukaye
+}
+
+222.3.1 = {
+	religion = neharis
+}
+
+223.4.1 = {
+	culture = loguslan
+}
+
+226.3.1 = {
+	religion = nukaye
+}
+
+236.3.1 = {
+	religion = neharis
+}
+
+238.3.1 = {
+	religion = nukaye
+}
+
+239.3.1 = {
+	religion = neharis
+}
+
+240.3.1 = {
+	religion = nukaye
+}
+
+248.3.1 = {
+	religion = neharis
+}
+
+251.3.1 = {
+	religion = nukaye
+}
+
+256.3.1 = {
+	religion = neharis
+}
+
+257.3.1 = {
+	religion = nukaye
+}
+
+259.3.1 = {
+	religion = neharis
+}
+
+262.3.1 = {
+	religion = nukaye
+}
+
+268.4.1 = {
+	culture = ranibel
+}
+
+391.4.1 = {
+	culture = wili
+}
+
+635.4.1 = {
+	b_behaeya = castle
+}
+
+802.4.1 = {
+	b_ranafiy = temple
+}
+

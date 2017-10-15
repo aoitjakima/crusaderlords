@@ -1,0 +1,21 @@
+	title = c_apritaug
+	max_settlements = 3
+	culture = kyayalen
+	religion = qigiyah
+	b_karand = tribal
+221.4.1 = {
+	culture = alaurine
+}
+
+823.4.1 = {
+	b_karand = castle
+}
+
+859.4.1 = {
+	b_elayira = city
+}
+
+988.4.1 = {
+	b_kelrarikg = temple
+}
+

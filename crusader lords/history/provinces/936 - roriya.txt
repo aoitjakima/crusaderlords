@@ -1,0 +1,21 @@
+	title = c_roriya
+	max_settlements = 2
+	culture = titina
+	religion = telayira
+	b_wanimha = tribal
+215.4.1 = {
+	culture = dainbai
+}
+
+225.4.1 = {
+	culture = titina
+}
+
+800.4.1 = {
+	b_wanimha = castle
+}
+
+823.4.1 = {
+	b_bainra = temple
+}
+

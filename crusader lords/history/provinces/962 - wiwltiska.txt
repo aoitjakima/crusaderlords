@@ -1,0 +1,49 @@
+	title = c_wiwltiska
+	max_settlements = 5
+	culture = wareina
+	religion = qiteka
+	b_qeroza = tribal
+1.1.1 = {
+	b_sunilip = ct_port_1
+}
+
+204.4.1 = {
+	culture = norse
+}
+
+234.4.1 = {
+	culture = waetutlu
+}
+
+307.4.1 = {
+	culture = risutlu
+}
+
+560.4.1 = {
+	b_qeroza = castle
+}
+
+640.4.1 = {
+	b_sunilip = city
+}
+
+802.4.1 = {
+	b_naradi = temple
+}
+
+833.4.1 = {
+	b_daetabra = city
+}
+
+863.4.1 = {
+	b_ruruel = castle
+}
+
+1060.4.1 = {
+	culture = saimes
+}
+
+1063.4.1 = {
+	culture = risutlu
+}
+

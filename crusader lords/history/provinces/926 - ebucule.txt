@@ -1,0 +1,133 @@
+	title = c_ebucule
+	max_settlements = 2
+	culture = banaila
+	religion = begeka
+	b_raruel = tribal
+200.3.1 = {
+	religion = qiteka
+}
+
+203.3.1 = {
+	religion = terenat
+}
+
+208.3.1 = {
+	religion = qiteka
+}
+
+208.3.1 = {
+	religion = terenat
+}
+
+216.3.1 = {
+	religion = qiteka
+}
+
+222.3.1 = {
+	religion = terenat
+}
+
+235.4.1 = {
+	culture = kitule
+}
+
+236.3.1 = {
+	religion = begeka
+}
+
+241.3.1 = {
+	religion = terenat
+}
+
+244.3.1 = {
+	religion = begeka
+}
+
+246.4.1 = {
+	culture = banaila
+}
+
+247.3.1 = {
+	religion = terenat
+}
+
+250.3.1 = {
+	religion = begeka
+}
+
+252.3.1 = {
+	religion = terenat
+}
+
+263.3.1 = {
+	religion = begeka
+}
+
+264.3.1 = {
+	religion = terenat
+}
+
+265.3.1 = {
+	religion = begeka
+}
+
+268.3.1 = {
+	religion = terenat
+}
+
+269.3.1 = {
+	religion = begeka
+}
+
+278.3.1 = {
+	religion = terenat
+}
+
+284.3.1 = {
+	religion = begeka
+}
+
+291.3.1 = {
+	religion = terenat
+}
+
+297.3.1 = {
+	religion = begeka
+}
+
+303.3.1 = {
+	religion = terenat
+}
+
+304.3.1 = {
+	religion = begeka
+}
+
+306.3.1 = {
+	religion = terenat
+}
+
+306.3.1 = {
+	religion = begeka
+}
+
+385.4.1 = {
+	culture = kitule
+}
+
+393.4.1 = {
+	culture = banaila
+}
+
+448.4.1 = {
+	culture = kitule
+}
+
+570.4.1 = {
+	b_raruel = castle
+}
+
+705.4.1 = {
+	b_dosa = city
+}
+

@@ -1,0 +1,17 @@
+	title = c_alatta
+	max_settlements = 2
+	culture = aqahebel
+	religion = neharis
+	b_reras = tribal
+475.4.1 = {
+	culture = talentiy
+}
+
+546.4.1 = {
+	b_reras = castle
+}
+
+670.4.1 = {
+	b_wyanisi = temple
+}
+

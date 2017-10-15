@@ -1,0 +1,33 @@
+	title = c_tobison
+	max_settlements = 5
+	culture = kaureid
+	religion = raipi
+	b_quciby = tribal
+286.4.1 = {
+	culture = eluedsalh
+}
+
+343.4.1 = {
+	culture = sigivkah
+}
+
+690.4.1 = {
+	b_quciby = castle
+}
+
+808.4.1 = {
+	b_bobotos = temple
+}
+
+891.4.1 = {
+	b_tobande = city
+}
+
+972.4.1 = {
+	b_nyee = castle
+}
+
+1055.4.1 = {
+	b_saten = castle
+}
+

@@ -1,0 +1,29 @@
+	title = c_ebhavyan
+	max_settlements = 3
+	culture = watinan
+	religion = kusran
+	b_sahian = tribal
+344.4.1 = {
+	culture = ketamma
+}
+
+348.4.1 = {
+	culture = watinan
+}
+
+359.4.1 = {
+	culture = ketamma
+}
+
+831.4.1 = {
+	b_sahian = castle
+}
+
+864.4.1 = {
+	b_bayipti = city
+}
+
+960.4.1 = {
+	b_taloka = temple
+}
+

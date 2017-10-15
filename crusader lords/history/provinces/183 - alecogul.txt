@@ -1,0 +1,17 @@
+	title = c_alecogul
+	max_settlements = 2
+	culture = watinan
+	religion = kusran
+	b_rahian = tribal
+258.4.1 = {
+	culture = ketamma
+}
+
+826.4.1 = {
+	b_rahian = castle
+}
+
+904.4.1 = {
+	b_legueloka = city
+}
+

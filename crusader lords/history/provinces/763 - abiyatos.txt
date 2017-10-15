@@ -1,0 +1,61 @@
+	title = c_abiyatos
+	max_settlements = 5
+	culture = risutlu
+	religion = qiteka
+	b_bosoros = tribal
+204.3.1 = {
+	religion = wedwig
+}
+
+207.3.1 = {
+	religion = qiteka
+}
+
+207.3.1 = {
+	religion = wedwig
+}
+
+214.4.1 = {
+	culture = davars
+}
+
+256.4.1 = {
+	culture = negasseh
+}
+
+270.4.1 = {
+	culture = davars
+}
+
+317.4.1 = {
+	culture = weliana
+}
+
+379.4.1 = {
+	culture = durga
+}
+
+480.4.1 = {
+	culture = davars
+}
+
+520.4.1 = {
+	b_bosoros = castle
+}
+
+610.4.1 = {
+	b_tucoros = temple
+}
+
+823.4.1 = {
+	b_bovesind = city
+}
+
+886.4.1 = {
+	b_qovyhon = castle
+}
+
+947.4.1 = {
+	b_sande = city
+}
+

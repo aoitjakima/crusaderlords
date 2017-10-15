@@ -1,0 +1,21 @@
+	title = c_busor
+	max_settlements = 7
+	culture = latuma
+	religion = atheociu
+	b_suahrt = tribal
+827.4.1 = {
+	b_suahrt = castle
+}
+
+860.4.1 = {
+	b_nozemor = city
+}
+
+964.4.1 = {
+	b_leloxr = temple
+}
+
+1042.4.1 = {
+	b_barikrozor = temple
+}
+

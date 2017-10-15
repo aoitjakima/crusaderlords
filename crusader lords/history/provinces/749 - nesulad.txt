@@ -1,0 +1,33 @@
+	title = c_nesulad
+	max_settlements = 2
+	culture = negasseh
+	religion = wedwig
+	b_tordan = tribal
+306.4.1 = {
+	culture = davars
+}
+
+333.4.1 = {
+	culture = negasseh
+}
+
+388.4.1 = {
+	culture = durga
+}
+
+416.4.1 = {
+	culture = negasseh
+}
+
+459.4.1 = {
+	culture = davars
+}
+
+550.4.1 = {
+	b_tordan = castle
+}
+
+675.4.1 = {
+	b_ramenda = temple
+}
+

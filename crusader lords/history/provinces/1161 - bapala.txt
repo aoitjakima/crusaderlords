@@ -1,0 +1,45 @@
+	title = c_bapala
+	max_settlements = 2
+	culture = reasep
+	religion = worelen
+	b_teusabra = tribal
+203.3.1 = {
+	religion = tonuyu
+}
+
+205.3.1 = {
+	religion = worelen
+}
+
+209.3.1 = {
+	religion = tonuyu
+}
+
+219.3.1 = {
+	religion = worelen
+}
+
+221.3.1 = {
+	religion = tonuyu
+}
+
+225.4.1 = {
+	culture = tiwics
+}
+
+444.4.1 = {
+	culture = nalaam
+}
+
+447.4.1 = {
+	culture = tiwics
+}
+
+720.4.1 = {
+	b_teusabra = castle
+}
+
+818.4.1 = {
+	b_qepeya = city
+}
+

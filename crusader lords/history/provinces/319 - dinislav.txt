@@ -1,0 +1,29 @@
+	title = c_dinislav
+	max_settlements = 2
+	culture = asumata
+	religion = nukaye
+	b_kahafiy = tribal
+204.4.1 = {
+	culture = qariyah
+}
+
+241.4.1 = {
+	culture = asumata
+}
+
+242.4.1 = {
+	culture = ranibel
+}
+
+265.4.1 = {
+	culture = asumata
+}
+
+685.4.1 = {
+	b_kahafiy = castle
+}
+
+780.4.1 = {
+	b_ekesovya = temple
+}
+

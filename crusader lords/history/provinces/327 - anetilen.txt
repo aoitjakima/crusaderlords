@@ -1,0 +1,29 @@
+	title = c_anetilen
+	max_settlements = 2
+	culture = ebaropti
+	religion = kusran
+	b_ectadeva = tribal
+200.3.1 = {
+	religion = nukaye
+}
+
+201.3.1 = {
+	religion = kusran
+}
+
+201.3.1 = {
+	religion = nukaye
+}
+
+217.4.1 = {
+	culture = qariyah
+}
+
+831.4.1 = {
+	b_ectadeva = castle
+}
+
+863.4.1 = {
+	b_qecimii = temple
+}
+

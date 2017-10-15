@@ -1,0 +1,61 @@
+	title = c_atatia
+	max_settlements = 7
+	culture = wabuzhi
+	religion = tonuyu
+	b_lonuzhi = tribal
+229.4.1 = {
+	culture = ranahim
+}
+
+442.4.1 = {
+	culture = qenoos
+}
+
+457.4.1 = {
+	culture = ranahim
+}
+
+697.4.1 = {
+	culture = qenoos
+}
+
+748.4.1 = {
+	culture = ranahim
+}
+
+752.4.1 = {
+	culture = qenoos
+}
+
+841.4.1 = {
+	b_lonuzhi = castle
+}
+
+879.4.1 = {
+	b_dalayaka = temple
+}
+
+982.4.1 = {
+	b_denkakab = city
+}
+
+991.4.1 = {
+	culture = ranahim
+}
+
+1007.4.1 = {
+	culture = qenoos
+}
+
+1015.4.1 = {
+	culture = ranahim
+}
+
+1021.4.1 = {
+	culture = qenoos
+}
+
+1031.4.1 = {
+	culture = ranahim
+}
+

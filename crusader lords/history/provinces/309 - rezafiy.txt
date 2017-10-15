@@ -1,0 +1,29 @@
+	title = c_rezafiy
+	max_settlements = 4
+	culture = asumata
+	religion = nukaye
+	b_kidita = tribal
+263.4.1 = {
+	culture = ranibel
+}
+
+301.4.1 = {
+	culture = asumata
+}
+
+804.4.1 = {
+	b_kidita = castle
+}
+
+826.4.1 = {
+	b_tamoman = city
+}
+
+922.4.1 = {
+	b_aqogislav = temple
+}
+
+1004.4.1 = {
+	b_kodafiy = city
+}
+

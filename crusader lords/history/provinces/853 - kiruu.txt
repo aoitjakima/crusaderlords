@@ -1,0 +1,17 @@
+	title = c_kiruu
+	max_settlements = 2
+	culture = namyan
+	religion = kusran
+	b_qirue = tribal
+248.4.1 = {
+	culture = abajule
+}
+
+675.4.1 = {
+	b_qirue = castle
+}
+
+808.4.1 = {
+	b_walougu = temple
+}
+

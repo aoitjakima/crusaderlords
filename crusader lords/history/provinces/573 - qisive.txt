@@ -1,0 +1,29 @@
+	title = c_qisive
+	max_settlements = 5
+	culture = karibel
+	religion = neharis
+	b_kenadir = tribal
+242.4.1 = {
+	culture = narentiy
+}
+
+560.4.1 = {
+	b_kenadir = castle
+}
+
+655.4.1 = {
+	b_kanule = temple
+}
+
+836.4.1 = {
+	b_tuninus = city
+}
+
+903.4.1 = {
+	b_leative = castle
+}
+
+967.4.1 = {
+	b_taimes = temple
+}
+

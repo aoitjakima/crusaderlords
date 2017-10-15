@@ -1,0 +1,33 @@
+	title = c_neliby
+	max_settlements = 4
+	culture = risutlu
+	religion = qiteka
+	b_beriby = tribal
+270.4.1 = {
+	culture = waetutlu
+}
+
+274.4.1 = {
+	culture = risutlu
+}
+
+505.4.1 = {
+	b_beriby = castle
+}
+
+650.4.1 = {
+	b_werer = temple
+}
+
+828.4.1 = {
+	culture = saimes
+}
+
+838.4.1 = {
+	b_dohada = city
+}
+
+901.4.1 = {
+	b_satid = castle
+}
+

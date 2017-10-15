@@ -1,0 +1,121 @@
+	title = c_dai
+	max_settlements = 3
+	culture = raraber
+	religion = neharis
+	b_baniyah = tribal
+202.4.1 = {
+	culture = wili
+}
+
+204.3.1 = {
+	religion = nukaye
+}
+
+206.3.1 = {
+	religion = neharis
+}
+
+210.3.1 = {
+	religion = nukaye
+}
+
+211.3.1 = {
+	religion = neharis
+}
+
+211.3.1 = {
+	religion = nukaye
+}
+
+218.3.1 = {
+	religion = neharis
+}
+
+218.3.1 = {
+	religion = nukaye
+}
+
+220.3.1 = {
+	religion = neharis
+}
+
+220.3.1 = {
+	religion = nukaye
+}
+
+221.3.1 = {
+	religion = neharis
+}
+
+226.3.1 = {
+	religion = nukaye
+}
+
+229.3.1 = {
+	religion = neharis
+}
+
+230.3.1 = {
+	religion = nukaye
+}
+
+231.3.1 = {
+	religion = neharis
+}
+
+238.3.1 = {
+	religion = nukaye
+}
+
+243.3.1 = {
+	religion = neharis
+}
+
+251.3.1 = {
+	religion = nukaye
+}
+
+253.3.1 = {
+	religion = neharis
+}
+
+254.3.1 = {
+	religion = nukaye
+}
+
+255.3.1 = {
+	religion = neharis
+}
+
+255.3.1 = {
+	religion = nukaye
+}
+
+256.3.1 = {
+	religion = neharis
+}
+
+257.3.1 = {
+	religion = nukaye
+}
+
+259.4.1 = {
+	culture = ranibel
+}
+
+394.4.1 = {
+	culture = wili
+}
+
+635.4.1 = {
+	b_baniyah = castle
+}
+
+780.4.1 = {
+	b_epandi = temple
+}
+
+881.4.1 = {
+	b_lidanay = city
+}
+

@@ -1,0 +1,17 @@
+	title = c_donayaka
+	max_settlements = 2
+	culture = nonayaka
+	religion = tonuyu
+	b_koling = tribal
+204.4.1 = {
+	culture = budandev
+}
+
+817.4.1 = {
+	b_koling = castle
+}
+
+844.4.1 = {
+	b_rinuzhi = city
+}
+

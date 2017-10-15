@@ -1,0 +1,29 @@
+	title = c_recane
+	max_settlements = 3
+	culture = eweseedun
+	religion = tonuyu
+	b_lenunan = tribal
+1.1.1 = {
+	b_ateran = ct_port_1
+}
+
+241.4.1 = {
+	culture = rubiho
+}
+
+397.4.1 = {
+	culture = biho
+}
+
+858.4.1 = {
+	b_lenunan = castle
+}
+
+896.4.1 = {
+	b_ateran = city
+}
+
+1012.4.1 = {
+	b_wilica = temple
+}
+

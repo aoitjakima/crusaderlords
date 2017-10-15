@@ -1,0 +1,45 @@
+	title = c_ewyaz
+	max_settlements = 4
+	culture = selalya
+	religion = aratihr
+	b_taikaba = tribal
+1.1.1 = {
+	b_kamsihr = ct_port_1
+}
+
+222.4.1 = {
+	culture = laris
+}
+
+256.4.1 = {
+	culture = wubihr
+}
+
+302.4.1 = {
+	culture = laris
+}
+
+311.4.1 = {
+	culture = wubihr
+}
+
+379.4.1 = {
+	culture = selalya
+}
+
+665.4.1 = {
+	b_taikaba = castle
+}
+
+765.4.1 = {
+	b_katulay = temple
+}
+
+848.4.1 = {
+	b_kamsihr = city
+}
+
+895.4.1 = {
+	b_tyao = city
+}
+

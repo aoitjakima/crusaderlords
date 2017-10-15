@@ -1,0 +1,29 @@
+	title = c_tiatou
+	max_settlements = 2
+	culture = raureid
+	religion = wedwig
+	b_qualtou = tribal
+200.3.1 = {
+	religion = qigiyah
+}
+
+248.4.1 = {
+	culture = alaurine
+}
+
+270.4.1 = {
+	culture = kyayalen
+}
+
+418.4.1 = {
+	culture = alaurine
+}
+
+865.4.1 = {
+	b_qualtou = castle
+}
+
+907.4.1 = {
+	b_sanitya = city
+}
+

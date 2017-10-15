@@ -1,0 +1,45 @@
+	title = c_teherdon
+	max_settlements = 7
+	culture = syahes
+	religion = neharis
+	b_tosiel = tribal
+1.1.1 = {
+	b_rasaria = ct_port_1
+}
+
+211.4.1 = {
+	culture = karibel
+}
+
+334.4.1 = {
+	culture = nitindik
+}
+
+625.4.1 = {
+	b_tosiel = castle
+}
+
+720.4.1 = {
+	b_syaner = temple
+}
+
+840.4.1 = {
+	b_rasaria = city
+}
+
+851.4.1 = {
+	culture = syahes
+}
+
+892.4.1 = {
+	b_ticith = temple
+}
+
+1004.4.1 = {
+	b_taviel = city
+}
+
+1054.4.1 = {
+	b_rahata = temple
+}
+

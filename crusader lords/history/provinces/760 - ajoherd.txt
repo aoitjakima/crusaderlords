@@ -1,0 +1,25 @@
+	title = c_ajoherd
+	max_settlements = 4
+	culture = ryanopti
+	religion = kusran
+	b_liwows = tribal
+201.4.1 = {
+	culture = disinos
+}
+
+293.4.1 = {
+	culture = ryanopti
+}
+
+387.3.1 = {
+	religion = wedwig
+}
+
+839.4.1 = {
+	b_liwows = castle
+}
+
+966.4.1 = {
+	b_delihal = temple
+}
+

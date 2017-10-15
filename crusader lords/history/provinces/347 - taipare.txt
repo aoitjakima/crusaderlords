@@ -1,0 +1,29 @@
+	title = c_taipare
+	max_settlements = 6
+	culture = wamata
+	religion = nukaye
+	b_bagamma = tribal
+203.4.1 = {
+	culture = qariyah
+}
+
+224.4.1 = {
+	culture = wamata
+}
+
+254.4.1 = {
+	culture = qariyah
+}
+
+859.4.1 = {
+	b_bagamma = castle
+}
+
+892.4.1 = {
+	b_taurare = temple
+}
+
+1008.4.1 = {
+	b_qavnan = city
+}
+

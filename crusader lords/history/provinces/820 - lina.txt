@@ -1,0 +1,37 @@
+	title = c_lina
+	max_settlements = 7
+	culture = titina
+	religion = telayira
+	b_ligiuthd = tribal
+210.4.1 = {
+	culture = dainbai
+}
+
+237.4.1 = {
+	culture = terikatim
+}
+
+296.4.1 = {
+	culture = dainbai
+}
+
+496.4.1 = {
+	culture = wedina
+}
+
+745.4.1 = {
+	b_ligiuthd = castle
+}
+
+818.4.1 = {
+	b_qosiu = temple
+}
+
+909.4.1 = {
+	b_wadina = city
+}
+
+994.4.1 = {
+	b_qeored = temple
+}
+

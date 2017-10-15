@@ -1,0 +1,29 @@
+	title = c_amazal
+	max_settlements = 4
+	culture = karibel
+	religion = neharis
+	b_savre = tribal
+248.4.1 = {
+	culture = nitindik
+}
+
+540.4.1 = {
+	b_savre = castle
+}
+
+690.4.1 = {
+	b_rasijne = city
+}
+
+835.4.1 = {
+	b_tazata = temple
+}
+
+859.4.1 = {
+	culture = syahes
+}
+
+881.4.1 = {
+	b_wyeker = temple
+}
+

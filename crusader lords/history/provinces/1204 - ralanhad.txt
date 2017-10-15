@@ -1,0 +1,25 @@
+	title = c_ralanhad
+	max_settlements = 2
+	culture = kapala
+	religion = tonuyu
+	b_dudandev = tribal
+252.4.1 = {
+	culture = ahenatha
+}
+
+313.3.1 = {
+	religion = worelen
+}
+
+322.4.1 = {
+	culture = nalaam
+}
+
+348.4.1 = {
+	culture = ahenatha
+}
+
+507.4.1 = {
+	culture = nalaam
+}
+

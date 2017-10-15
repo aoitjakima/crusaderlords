@@ -1,0 +1,33 @@
+	title = c_tulinia
+	max_settlements = 5
+	culture = aqahebel
+	religion = neharis
+	b_kahella = tribal
+279.4.1 = {
+	culture = nitindik
+}
+
+413.4.1 = {
+	culture = talentiy
+}
+
+500.4.1 = {
+	b_kahella = castle
+}
+
+600.4.1 = {
+	b_bahius = temple
+}
+
+823.4.1 = {
+	b_bodius = city
+}
+
+883.4.1 = {
+	b_tulayan = city
+}
+
+939.4.1 = {
+	b_kyahibel = castle
+}
+

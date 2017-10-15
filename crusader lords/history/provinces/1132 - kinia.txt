@@ -1,0 +1,85 @@
+	title = c_kinia
+	max_settlements = 4
+	culture = qenoos
+	religion = binuyu
+	b_batuge = tribal
+1.1.1 = {
+	b_qoloos = ct_port_1
+}
+
+200.3.1 = {
+	religion = tonuyu
+}
+
+221.4.1 = {
+	culture = ranahim
+}
+
+240.4.1 = {
+	culture = qenoos
+}
+
+280.4.1 = {
+	culture = ranahim
+}
+
+352.4.1 = {
+	culture = qenoos
+}
+
+578.4.1 = {
+	culture = ranahim
+}
+
+719.4.1 = {
+	culture = qenoos
+}
+
+726.4.1 = {
+	culture = ranahim
+}
+
+811.4.1 = {
+	culture = qenoos
+}
+
+817.4.1 = {
+	culture = ranahim
+}
+
+868.4.1 = {
+	b_batuge = castle
+}
+
+909.4.1 = {
+	b_qoloos = city
+}
+
+974.4.1 = {
+	culture = qenoos
+}
+
+979.4.1 = {
+	culture = ranahim
+}
+
+1007.4.1 = {
+	culture = qenoos
+}
+
+1018.4.1 = {
+	culture = ranahim
+}
+
+1021.4.1 = {
+	culture = qenoos
+}
+
+1024.4.1 = {
+	culture = ranahim
+}
+
+1053.4.1 = {
+	culture = qenoos
+}
+

@@ -1,0 +1,85 @@
+	title = c_lalourt
+	max_settlements = 2
+	culture = welitya
+	religion = bobena
+	b_darikao = tribal
+251.4.1 = {
+	culture = ween
+}
+
+262.4.1 = {
+	culture = welitya
+}
+
+587.4.1 = {
+	culture = titina
+}
+
+589.4.1 = {
+	culture = welitya
+}
+
+592.3.1 = {
+	religion = telayira
+}
+
+601.3.1 = {
+	religion = bobena
+}
+
+608.3.1 = {
+	religion = telayira
+}
+
+613.3.1 = {
+	religion = bobena
+}
+
+624.3.1 = {
+	religion = telayira
+}
+
+632.3.1 = {
+	religion = bobena
+}
+
+633.3.1 = {
+	religion = telayira
+}
+
+637.3.1 = {
+	religion = bobena
+}
+
+646.3.1 = {
+	religion = telayira
+}
+
+647.3.1 = {
+	religion = bobena
+}
+
+650.3.1 = {
+	religion = telayira
+}
+
+761.4.1 = {
+	culture = titina
+}
+
+773.4.1 = {
+	culture = welitya
+}
+
+855.4.1 = {
+	culture = ween
+}
+
+1024.4.1 = {
+	culture = titina
+}
+
+1027.4.1 = {
+	culture = ween
+}
+

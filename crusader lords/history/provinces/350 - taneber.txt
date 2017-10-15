@@ -1,0 +1,29 @@
+	title = c_taneber
+	max_settlements = 3
+	culture = teber
+	religion = neharis
+	b_nuderd = tribal
+244.3.1 = {
+	religion = nukaye
+}
+
+244.4.1 = {
+	culture = wili
+}
+
+308.4.1 = {
+	culture = ranibel
+}
+
+346.4.1 = {
+	culture = wili
+}
+
+898.4.1 = {
+	b_nuderd = castle
+}
+
+999.4.1 = {
+	b_tanesi = temple
+}
+

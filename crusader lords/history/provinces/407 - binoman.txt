@@ -1,0 +1,33 @@
+	title = c_binoman
+	max_settlements = 5
+	culture = tumata
+	religion = nukaye
+	b_wijutan = tribal
+245.4.1 = {
+	culture = wamata
+}
+
+277.4.1 = {
+	culture = qariyah
+}
+
+830.4.1 = {
+	b_wijutan = castle
+}
+
+858.4.1 = {
+	b_toman = temple
+}
+
+925.4.1 = {
+	b_qijibijikehaman = city
+}
+
+990.4.1 = {
+	b_kolaw = temple
+}
+
+1043.4.1 = {
+	b_sijica = temple
+}
+

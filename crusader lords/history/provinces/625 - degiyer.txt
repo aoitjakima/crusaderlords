@@ -1,0 +1,25 @@
+	title = c_degiyer
+	max_settlements = 3
+	culture = davars
+	religion = wedwig
+	b_erauen = tribal
+232.4.1 = {
+	culture = weliana
+}
+
+285.4.1 = {
+	culture = davars
+}
+
+560.4.1 = {
+	b_erauen = castle
+}
+
+705.4.1 = {
+	b_legotil = city
+}
+
+848.4.1 = {
+	b_regemis = temple
+}
+

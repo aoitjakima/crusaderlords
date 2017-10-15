@@ -1,0 +1,41 @@
+	title = c_dorala
+	max_settlements = 3
+	culture = reasep
+	religion = tonuyu
+	b_retabra = tribal
+1.1.1 = {
+	b_wandev = ct_port_1
+}
+
+347.4.1 = {
+	culture = tiwics
+}
+
+376.4.1 = {
+	culture = reasep
+}
+
+412.4.1 = {
+	culture = tiwics
+}
+
+439.4.1 = {
+	culture = reasep
+}
+
+455.4.1 = {
+	culture = tiwics
+}
+
+720.4.1 = {
+	b_retabra = castle
+}
+
+822.4.1 = {
+	b_sahkala = temple
+}
+
+918.4.1 = {
+	b_wandev = city
+}
+

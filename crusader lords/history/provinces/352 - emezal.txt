@@ -1,0 +1,21 @@
+	title = c_emezal
+	max_settlements = 4
+	culture = rarare
+	religion = qigiyah
+	b_ezahamon = tribal
+823.4.1 = {
+	b_ezahamon = castle
+}
+
+853.4.1 = {
+	b_areth = temple
+}
+
+907.4.1 = {
+	b_wudemor = city
+}
+
+963.4.1 = {
+	b_rozius = city
+}
+

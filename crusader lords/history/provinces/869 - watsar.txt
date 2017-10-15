@@ -1,0 +1,73 @@
+	title = c_watsar
+	max_settlements = 3
+	culture = sereka
+	religion = naneka
+	b_ralevag = tribal
+211.4.1 = {
+	culture = wates
+}
+
+224.4.1 = {
+	culture = sereka
+}
+
+326.4.1 = {
+	culture = esunadir
+}
+
+342.4.1 = {
+	culture = sereka
+}
+
+418.4.1 = {
+	culture = esunadir
+}
+
+429.4.1 = {
+	culture = sereka
+}
+
+524.4.1 = {
+	culture = esunadir
+}
+
+620.4.1 = {
+	b_ralevag = castle
+}
+
+631.4.1 = {
+	culture = sereka
+}
+
+691.4.1 = {
+	culture = esunadir
+}
+
+768.4.1 = {
+	culture = sereka
+}
+
+775.4.1 = {
+	b_ekukong = city
+}
+
+783.4.1 = {
+	culture = esunadir
+}
+
+870.4.1 = {
+	b_tarevag = temple
+}
+
+898.4.1 = {
+	culture = sereka
+}
+
+914.4.1 = {
+	culture = esunadir
+}
+
+934.4.1 = {
+	culture = sereka
+}
+

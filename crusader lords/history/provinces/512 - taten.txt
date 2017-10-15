@@ -1,0 +1,77 @@
+	title = c_taten
+	max_settlements = 4
+	culture = eluedsalh
+	religion = raipi
+	b_agunduz = tribal
+207.3.1 = {
+	religion = wedwig
+}
+
+219.3.1 = {
+	religion = raipi
+}
+
+223.3.1 = {
+	religion = wedwig
+}
+
+224.3.1 = {
+	religion = raipi
+}
+
+225.3.1 = {
+	religion = wedwig
+}
+
+226.3.1 = {
+	religion = raipi
+}
+
+231.3.1 = {
+	religion = wedwig
+}
+
+237.3.1 = {
+	religion = raipi
+}
+
+239.3.1 = {
+	religion = wedwig
+}
+
+242.3.1 = {
+	religion = raipi
+}
+
+246.3.1 = {
+	religion = wedwig
+}
+
+247.3.1 = {
+	religion = raipi
+}
+
+248.3.1 = {
+	religion = wedwig
+}
+
+254.4.1 = {
+	culture = weliana
+}
+
+585.4.1 = {
+	b_agunduz = castle
+}
+
+680.4.1 = {
+	b_radars = temple
+}
+
+827.4.1 = {
+	b_natars = city
+}
+
+869.4.1 = {
+	b_raikald = temple
+}
+

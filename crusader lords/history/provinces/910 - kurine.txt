@@ -1,0 +1,37 @@
+	title = c_kurine
+	max_settlements = 2
+	culture = retose
+	religion = naneka
+	b_taijong = tribal
+201.3.1 = {
+	religion = qiteka
+}
+
+204.3.1 = {
+	religion = naneka
+}
+
+215.3.1 = {
+	religion = qiteka
+}
+
+229.3.1 = {
+	religion = naneka
+}
+
+239.3.1 = {
+	religion = qiteka
+}
+
+259.4.1 = {
+	culture = banaila
+}
+
+615.4.1 = {
+	b_taijong = castle
+}
+
+715.4.1 = {
+	b_sanantay = temple
+}
+

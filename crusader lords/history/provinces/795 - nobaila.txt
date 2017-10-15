@@ -1,0 +1,33 @@
+	title = c_nobaila
+	max_settlements = 4
+	culture = risutlu
+	religion = qiteka
+	b_niwen = tribal
+246.4.1 = {
+	culture = waetutlu
+}
+
+401.4.1 = {
+	culture = risutlu
+}
+
+506.4.1 = {
+	b_niwen = castle
+}
+
+665.4.1 = {
+	b_tovidia = temple
+}
+
+844.4.1 = {
+	b_dawaenr = city
+}
+
+912.4.1 = {
+	b_tiwaila = temple
+}
+
+999.4.1 = {
+	culture = saimes
+}
+

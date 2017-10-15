@@ -1,0 +1,37 @@
+	title = c_amaudey
+	max_settlements = 6
+	culture = disinos
+	religion = kusran
+	b_dusipp = tribal
+632.3.1 = {
+	religion = qiteka
+}
+
+640.4.1 = {
+	culture = risutlu
+}
+
+667.4.1 = {
+	culture = disinos
+}
+
+873.4.1 = {
+	culture = risutlu
+}
+
+883.4.1 = {
+	culture = saimes
+}
+
+902.4.1 = {
+	culture = risutlu
+}
+
+958.4.1 = {
+	b_dusipp = castle
+}
+
+1002.4.1 = {
+	b_wavacob = temple
+}
+

@@ -1,0 +1,45 @@
+	title = c_nucics
+	max_settlements = 5
+	culture = norse
+	religion = qiteka
+	b_kerlta = tribal
+1.1.1 = {
+	b_wiwutlu = ct_port_1
+}
+
+234.4.1 = {
+	culture = waetutlu
+}
+
+307.4.1 = {
+	culture = risutlu
+}
+
+565.4.1 = {
+	b_kerlta = castle
+}
+
+640.4.1 = {
+	b_sucilip = temple
+}
+
+790.4.1 = {
+	b_wiwutlu = city
+}
+
+825.4.1 = {
+	b_qunutlu = temple
+}
+
+852.4.1 = {
+	b_erutlu = city
+}
+
+1060.4.1 = {
+	culture = saimes
+}
+
+1063.4.1 = {
+	culture = risutlu
+}
+

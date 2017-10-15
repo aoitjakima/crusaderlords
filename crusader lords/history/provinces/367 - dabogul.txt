@@ -1,0 +1,65 @@
+	title = c_dabogul
+	max_settlements = 3
+	culture = rauroka
+	religion = kusran
+	b_wewnis = tribal
+202.3.1 = {
+	religion = atheociu
+}
+
+203.3.1 = {
+	religion = kusran
+}
+
+203.3.1 = {
+	religion = atheociu
+}
+
+204.3.1 = {
+	religion = kusran
+}
+
+204.3.1 = {
+	religion = atheociu
+}
+
+207.3.1 = {
+	religion = kusran
+}
+
+217.4.1 = {
+	culture = latuma
+}
+
+220.4.1 = {
+	culture = sigivkah
+}
+
+222.3.1 = {
+	religion = atheociu
+}
+
+235.4.1 = {
+	culture = latuma
+}
+
+244.4.1 = {
+	culture = sigivkah
+}
+
+400.4.1 = {
+	culture = latuma
+}
+
+827.4.1 = {
+	b_wewnis = castle
+}
+
+862.4.1 = {
+	b_kanbarn = city
+}
+
+969.4.1 = {
+	b_efabutan = temple
+}
+

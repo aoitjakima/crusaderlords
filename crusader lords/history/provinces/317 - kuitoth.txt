@@ -1,0 +1,53 @@
+	title = c_kuitoth
+	max_settlements = 2
+	culture = rarare
+	religion = qigiyah
+	b_kasiya = tribal
+202.3.1 = {
+	religion = atheociu
+}
+
+206.3.1 = {
+	religion = qigiyah
+}
+
+222.3.1 = {
+	religion = atheociu
+}
+
+235.3.1 = {
+	religion = qigiyah
+}
+
+235.4.1 = {
+	culture = latuma
+}
+
+237.3.1 = {
+	religion = atheociu
+}
+
+262.4.1 = {
+	culture = sigivkah
+}
+
+282.4.1 = {
+	culture = latuma
+}
+
+327.4.1 = {
+	culture = sigivkah
+}
+
+336.4.1 = {
+	culture = latuma
+}
+
+824.4.1 = {
+	b_kasiya = castle
+}
+
+854.4.1 = {
+	b_kusoth = temple
+}
+

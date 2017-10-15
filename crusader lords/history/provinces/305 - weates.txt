@@ -1,0 +1,21 @@
+	title = c_weates
+	max_settlements = 5
+	culture = qindik
+	religion = neharis
+	b_satily = tribal
+254.4.1 = {
+	culture = syahes
+}
+
+590.4.1 = {
+	b_satily = castle
+}
+
+730.4.1 = {
+	b_sicily = temple
+}
+
+1055.4.1 = {
+	b_adily = city
+}
+

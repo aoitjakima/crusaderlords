@@ -1,0 +1,21 @@
+	title = c_reusid
+	max_settlements = 2
+	culture = ebeina
+	religion = qiteka
+	b_tovery = tribal
+523.4.1 = {
+	culture = risutlu
+}
+
+575.4.1 = {
+	b_tovery = castle
+}
+
+710.4.1 = {
+	b_tohiby = city
+}
+
+887.4.1 = {
+	culture = saimes
+}
+

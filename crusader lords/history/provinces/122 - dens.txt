@@ -1,0 +1,25 @@
+	title = c_dens
+	max_settlements = 2
+	culture = talentiy
+	religion = neharis
+	b_bensan = tribal
+232.4.1 = {
+	culture = syahes
+}
+
+252.4.1 = {
+	culture = talentiy
+}
+
+258.4.1 = {
+	culture = syahes
+}
+
+525.4.1 = {
+	b_bensan = castle
+}
+
+705.4.1 = {
+	b_salella = city
+}
+

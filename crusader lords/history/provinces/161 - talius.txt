@@ -1,0 +1,37 @@
+	title = c_talius
+	max_settlements = 6
+	culture = sodinia
+	religion = neharis
+	b_titentiy = tribal
+339.4.1 = {
+	culture = nitindik
+}
+
+350.4.1 = {
+	culture = talentiy
+}
+
+505.4.1 = {
+	b_titentiy = castle
+}
+
+630.4.1 = {
+	b_bulibel = temple
+}
+
+835.4.1 = {
+	b_renayan = city
+}
+
+907.4.1 = {
+	b_ritindik = city
+}
+
+973.4.1 = {
+	b_demibel = temple
+}
+
+1022.4.1 = {
+	b_qenens = temple
+}
+

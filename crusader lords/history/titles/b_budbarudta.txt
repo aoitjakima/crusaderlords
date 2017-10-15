@@ -1,0 +1,12 @@
+755.2.1 = {
+	liege = d_kavenha
+}
+
+755.2.2 = {
+	holder = 1037720
+}
+
+755.4.1 = {
+	holding_dynasty = 19571
+}
+

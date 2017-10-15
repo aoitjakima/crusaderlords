@@ -1,0 +1,37 @@
+	title = c_saleslav
+	max_settlements = 2
+	culture = budandev
+	religion = tonuyu
+	b_tilatha = tribal
+203.4.1 = {
+	culture = retlennakta
+}
+
+225.4.1 = {
+	culture = radabor
+}
+
+254.4.1 = {
+	culture = retlennakta
+}
+
+257.4.1 = {
+	culture = wenira
+}
+
+261.4.1 = {
+	culture = retlennakta
+}
+
+354.4.1 = {
+	culture = radabor
+}
+
+730.4.1 = {
+	b_tilatha = castle
+}
+
+808.4.1 = {
+	b_amadabor = temple
+}
+

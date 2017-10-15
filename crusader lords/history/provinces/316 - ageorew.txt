@@ -1,0 +1,45 @@
+	title = c_ageorew
+	max_settlements = 4
+	culture = rauroka
+	religion = kusran
+	b_narilen = tribal
+202.3.1 = {
+	religion = atheociu
+}
+
+208.3.1 = {
+	religion = kusran
+}
+
+222.3.1 = {
+	religion = atheociu
+}
+
+235.4.1 = {
+	culture = latuma
+}
+
+240.4.1 = {
+	culture = rauroka
+}
+
+300.4.1 = {
+	culture = latuma
+}
+
+828.4.1 = {
+	b_narilen = castle
+}
+
+861.4.1 = {
+	b_reorakk = city
+}
+
+960.4.1 = {
+	b_toripac = temple
+}
+
+1055.4.1 = {
+	b_amutakk = castle
+}
+

@@ -1,0 +1,21 @@
+	title = c_qices
+	max_settlements = 4
+	culture = karibel
+	religion = neharis
+	b_danule = tribal
+565.4.1 = {
+	b_danule = castle
+}
+
+680.4.1 = {
+	b_reginus = temple
+}
+
+853.4.1 = {
+	b_nesule = city
+}
+
+915.4.1 = {
+	b_degafu = castle
+}
+

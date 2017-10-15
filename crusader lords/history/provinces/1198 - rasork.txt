@@ -1,0 +1,17 @@
+	title = c_rasork
+	max_settlements = 2
+	culture = nonayaka
+	religion = tonuyu
+	b_qetolappa = tribal
+204.4.1 = {
+	culture = budandev
+}
+
+846.4.1 = {
+	b_qetolappa = castle
+}
+
+873.4.1 = {
+	b_nonkabols = temple
+}
+

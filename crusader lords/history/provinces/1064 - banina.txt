@@ -1,0 +1,33 @@
+	title = c_banina
+	max_settlements = 7
+	culture = wedina
+	religion = telayira
+	b_witerd = tribal
+1.1.1 = {
+	b_nitina = ct_port_1
+}
+
+202.4.1 = {
+	culture = dainbai
+}
+
+420.4.1 = {
+	culture = wedina
+}
+
+745.4.1 = {
+	b_witerd = castle
+}
+
+820.4.1 = {
+	b_nitina = city
+}
+
+906.4.1 = {
+	b_qebedigebebe = temple
+}
+
+972.4.1 = {
+	b_reon = temple
+}
+

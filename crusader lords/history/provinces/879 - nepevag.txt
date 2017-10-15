@@ -1,0 +1,73 @@
+	title = c_nepevag
+	max_settlements = 3
+	culture = retose
+	religion = naneka
+	b_datah = tribal
+211.4.1 = {
+	culture = wates
+}
+
+224.4.1 = {
+	culture = sereka
+}
+
+326.4.1 = {
+	culture = esunadir
+}
+
+342.4.1 = {
+	culture = sereka
+}
+
+418.4.1 = {
+	culture = esunadir
+}
+
+429.4.1 = {
+	culture = sereka
+}
+
+524.4.1 = {
+	culture = esunadir
+}
+
+620.4.1 = {
+	b_datah = castle
+}
+
+631.4.1 = {
+	culture = sereka
+}
+
+691.4.1 = {
+	culture = esunadir
+}
+
+768.4.1 = {
+	culture = sereka
+}
+
+770.4.1 = {
+	b_akamine = temple
+}
+
+783.4.1 = {
+	culture = esunadir
+}
+
+879.4.1 = {
+	b_qurevag = city
+}
+
+898.4.1 = {
+	culture = sereka
+}
+
+914.4.1 = {
+	culture = esunadir
+}
+
+934.4.1 = {
+	culture = sereka
+}
+

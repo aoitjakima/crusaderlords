@@ -1,0 +1,17 @@
+	title = c_tamega
+	max_settlements = 2
+	culture = nahuda
+	religion = neharis
+	b_kuxsas = tribal
+1.1.1 = {
+	b_tamrivdi = ct_port_1
+}
+
+823.4.1 = {
+	b_kuxsas = castle
+}
+
+852.4.1 = {
+	b_tamrivdi = city
+}
+

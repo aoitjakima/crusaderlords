@@ -1,0 +1,33 @@
+	title = c_tolalt
+	max_settlements = 5
+	culture = weliana
+	religion = wedwig
+	b_kosyhon = tribal
+203.4.1 = {
+	culture = davars
+}
+
+266.4.1 = {
+	culture = weliana
+}
+
+580.4.1 = {
+	b_kosyhon = castle
+}
+
+740.4.1 = {
+	b_riyalla = city
+}
+
+886.4.1 = {
+	b_ninasa = temple
+}
+
+956.4.1 = {
+	b_saxed = temple
+}
+
+1046.4.1 = {
+	b_katande = city
+}
+

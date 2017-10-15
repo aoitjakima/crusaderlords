@@ -1,0 +1,29 @@
+	title = c_keduga
+	max_settlements = 2
+	culture = radabor
+	religion = tonuyu
+	b_dededa = tribal
+217.4.1 = {
+	culture = wenira
+}
+
+265.4.1 = {
+	culture = radabor
+}
+
+270.4.1 = {
+	culture = wenira
+}
+
+336.4.1 = {
+	culture = radabor
+}
+
+715.4.1 = {
+	b_dededa = castle
+}
+
+824.4.1 = {
+	b_ruduga = city
+}
+

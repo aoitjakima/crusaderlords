@@ -1,0 +1,25 @@
+	title = c_sousy
+	max_settlements = 2
+	culture = weliana
+	religion = wedwig
+	b_kuziby = tribal
+306.4.1 = {
+	culture = davars
+}
+
+308.4.1 = {
+	culture = weliana
+}
+
+351.4.1 = {
+	culture = davars
+}
+
+585.4.1 = {
+	b_kuziby = castle
+}
+
+680.4.1 = {
+	b_awosande = city
+}
+

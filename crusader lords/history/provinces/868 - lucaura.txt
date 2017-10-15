@@ -1,0 +1,29 @@
+	title = c_lucaura
+	max_settlements = 3
+	culture = kitule
+	religion = terenat
+	b_riwoza = tribal
+236.3.1 = {
+	religion = begeka
+}
+
+255.4.1 = {
+	culture = banaila
+}
+
+371.4.1 = {
+	culture = kitule
+}
+
+550.4.1 = {
+	b_riwoza = castle
+}
+
+680.4.1 = {
+	b_runutlu = city
+}
+
+853.4.1 = {
+	b_edavurga = temple
+}
+

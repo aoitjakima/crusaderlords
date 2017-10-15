@@ -1,0 +1,41 @@
+	title = c_qitata
+	max_settlements = 3
+	culture = ritiatou
+	religion = telayira
+	b_nitiyan = tribal
+313.4.1 = {
+	culture = koumas
+}
+
+593.4.1 = {
+	culture = lopher
+}
+
+605.4.1 = {
+	b_nitiyan = castle
+}
+
+621.4.1 = {
+	culture = koumas
+}
+
+725.4.1 = {
+	b_weliz = city
+}
+
+767.4.1 = {
+	culture = lopher
+}
+
+846.4.1 = {
+	culture = koumas
+}
+
+847.4.1 = {
+	b_eqitinia = temple
+}
+
+852.4.1 = {
+	culture = lopher
+}
+

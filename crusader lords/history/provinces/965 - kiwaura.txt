@@ -1,0 +1,69 @@
+	title = c_kiwaura
+	max_settlements = 2
+	culture = ruraura
+	religion = qiteka
+	b_erolas = tribal
+203.3.1 = {
+	religion = terenat
+}
+
+209.3.1 = {
+	religion = qiteka
+}
+
+211.3.1 = {
+	religion = terenat
+}
+
+213.3.1 = {
+	religion = qiteka
+}
+
+220.4.1 = {
+	culture = banaila
+}
+
+222.3.1 = {
+	religion = terenat
+}
+
+224.3.1 = {
+	religion = begeka
+}
+
+228.3.1 = {
+	religion = terenat
+}
+
+236.3.1 = {
+	religion = begeka
+}
+
+514.4.1 = {
+	culture = kitule
+}
+
+520.4.1 = {
+	b_erolas = castle
+}
+
+558.4.1 = {
+	culture = banaila
+}
+
+559.4.1 = {
+	culture = kitule
+}
+
+560.4.1 = {
+	culture = banaila
+}
+
+568.4.1 = {
+	culture = kitule
+}
+
+645.4.1 = {
+	b_esilip = city
+}
+

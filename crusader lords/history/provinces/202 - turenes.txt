@@ -1,0 +1,33 @@
+	title = c_turenes
+	max_settlements = 4
+	culture = digaka
+	religion = raipi
+	b_duzey = tribal
+269.4.1 = {
+	culture = sigivkah
+}
+
+303.4.1 = {
+	culture = digaka
+}
+
+304.4.1 = {
+	culture = sigivkah
+}
+
+670.4.1 = {
+	b_duzey = castle
+}
+
+807.4.1 = {
+	b_niwed = temple
+}
+
+894.4.1 = {
+	b_saleryaled = city
+}
+
+979.4.1 = {
+	b_atiyamey = city
+}
+

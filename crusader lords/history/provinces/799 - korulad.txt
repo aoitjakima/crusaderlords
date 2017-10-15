@@ -1,0 +1,77 @@
+	title = c_korulad
+	max_settlements = 2
+	culture = sereka
+	religion = naneka
+	b_damamur = tribal
+202.3.1 = {
+	religion = begeka
+}
+
+233.4.1 = {
+	culture = runafu
+}
+
+238.3.1 = {
+	religion = naneka
+}
+
+242.3.1 = {
+	religion = begeka
+}
+
+246.3.1 = {
+	religion = naneka
+}
+
+253.4.1 = {
+	culture = sereka
+}
+
+263.3.1 = {
+	religion = begeka
+}
+
+264.3.1 = {
+	religion = naneka
+}
+
+265.3.1 = {
+	religion = begeka
+}
+
+269.3.1 = {
+	religion = naneka
+}
+
+338.4.1 = {
+	culture = runafu
+}
+
+369.4.1 = {
+	culture = sereka
+}
+
+399.4.1 = {
+	culture = runafu
+}
+
+674.4.1 = {
+	culture = sereka
+}
+
+697.4.1 = {
+	culture = runafu
+}
+
+724.4.1 = {
+	culture = sereka
+}
+
+755.4.1 = {
+	b_damamur = castle
+}
+
+814.4.1 = {
+	b_kesamur = city
+}
+

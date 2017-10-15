@@ -1,0 +1,33 @@
+	title = c_ropher
+	max_settlements = 2
+	culture = laaug
+	religion = telayira
+	b_nobita = tribal
+216.4.1 = {
+	culture = ritiatou
+}
+
+300.4.1 = {
+	culture = koumas
+}
+
+531.4.1 = {
+	culture = lopher
+}
+
+539.4.1 = {
+	culture = koumas
+}
+
+710.4.1 = {
+	b_nobita = castle
+}
+
+816.4.1 = {
+	b_sitore = city
+}
+
+867.4.1 = {
+	culture = lopher
+}
+

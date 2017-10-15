@@ -1,0 +1,33 @@
+	title = c_agodafiy
+	max_settlements = 5
+	culture = asumata
+	religion = nukaye
+	b_atukerma = tribal
+1.1.1 = {
+	b_kesata = ct_port_1
+}
+
+200.4.1 = {
+	culture = ranibel
+}
+
+257.4.1 = {
+	culture = asumata
+}
+
+780.4.1 = {
+	b_atukerma = castle
+}
+
+829.4.1 = {
+	b_kesata = city
+}
+
+888.4.1 = {
+	b_numata = temple
+}
+
+980.4.1 = {
+	b_tidita = city
+}
+

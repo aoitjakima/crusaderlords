@@ -1,0 +1,53 @@
+	title = c_wemebia
+	max_settlements = 7
+	culture = deusala
+	religion = tonuyu
+	b_depadra = tribal
+1.1.1 = {
+	b_qala = ct_port_1
+}
+
+215.4.1 = {
+	culture = keraam
+}
+
+339.4.1 = {
+	culture = tiwics
+}
+
+377.4.1 = {
+	culture = keraam
+}
+
+412.4.1 = {
+	culture = tiwics
+}
+
+418.4.1 = {
+	culture = keraam
+}
+
+419.4.1 = {
+	culture = tiwics
+}
+
+427.4.1 = {
+	culture = keraam
+}
+
+577.4.1 = {
+	culture = tiwics
+}
+
+842.4.1 = {
+	b_depadra = castle
+}
+
+878.4.1 = {
+	b_qala = city
+}
+
+977.4.1 = {
+	b_talebia = temple
+}
+

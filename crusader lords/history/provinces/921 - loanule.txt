@@ -1,0 +1,69 @@
+	title = c_loanule
+	max_settlements = 2
+	culture = retose
+	religion = naneka
+	b_lerucenat = tribal
+201.3.1 = {
+	religion = qiteka
+}
+
+204.3.1 = {
+	religion = naneka
+}
+
+213.4.1 = {
+	culture = sereka
+}
+
+215.3.1 = {
+	religion = qiteka
+}
+
+217.3.1 = {
+	religion = naneka
+}
+
+220.3.1 = {
+	religion = qiteka
+}
+
+221.3.1 = {
+	religion = naneka
+}
+
+223.3.1 = {
+	religion = qiteka
+}
+
+236.3.1 = {
+	religion = naneka
+}
+
+239.3.1 = {
+	religion = qiteka
+}
+
+242.3.1 = {
+	religion = naneka
+}
+
+244.4.1 = {
+	culture = retose
+}
+
+245.3.1 = {
+	religion = qiteka
+}
+
+249.4.1 = {
+	culture = banaila
+}
+
+615.4.1 = {
+	b_lerucenat = castle
+}
+
+750.4.1 = {
+	b_raradi = city
+}
+

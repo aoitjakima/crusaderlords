@@ -1,0 +1,137 @@
+	title = c_esusutan
+	max_settlements = 5
+	culture = rauroka
+	religion = kusran
+	b_wicew = tribal
+202.3.1 = {
+	religion = atheociu
+}
+
+235.4.1 = {
+	culture = latuma
+}
+
+237.4.1 = {
+	culture = rauroka
+}
+
+295.3.1 = {
+	religion = kusran
+}
+
+295.3.1 = {
+	religion = atheociu
+}
+
+300.3.1 = {
+	religion = kusran
+}
+
+303.3.1 = {
+	religion = atheociu
+}
+
+317.3.1 = {
+	religion = kusran
+}
+
+325.3.1 = {
+	religion = atheociu
+}
+
+330.3.1 = {
+	religion = kusran
+}
+
+330.3.1 = {
+	religion = atheociu
+}
+
+335.3.1 = {
+	religion = kusran
+}
+
+336.3.1 = {
+	religion = atheociu
+}
+
+337.3.1 = {
+	religion = kusran
+}
+
+342.3.1 = {
+	religion = atheociu
+}
+
+344.3.1 = {
+	religion = kusran
+}
+
+347.3.1 = {
+	religion = atheociu
+}
+
+350.3.1 = {
+	religion = kusran
+}
+
+356.3.1 = {
+	religion = atheociu
+}
+
+359.3.1 = {
+	religion = kusran
+}
+
+361.4.1 = {
+	culture = latuma
+}
+
+365.3.1 = {
+	religion = atheociu
+}
+
+405.3.1 = {
+	religion = kusran
+}
+
+407.3.1 = {
+	religion = atheociu
+}
+
+409.3.1 = {
+	religion = kusran
+}
+
+414.3.1 = {
+	religion = atheociu
+}
+
+417.3.1 = {
+	religion = kusran
+}
+
+424.3.1 = {
+	religion = atheociu
+}
+
+827.4.1 = {
+	b_wicew = castle
+}
+
+861.4.1 = {
+	b_taurar = city
+}
+
+922.4.1 = {
+	b_turava = temple
+}
+
+984.4.1 = {
+	b_neorakk = castle
+}
+
+1064.4.1 = {
+	b_baurew = temple
+}
+

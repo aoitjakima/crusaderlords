@@ -1,0 +1,29 @@
+	title = c_afoliel
+	max_settlements = 4
+	culture = namyan
+	religion = kusran
+	b_kihoedl = tribal
+1.1.1 = {
+	b_sunacob = ct_port_1
+}
+
+248.4.1 = {
+	culture = abajule
+}
+
+590.4.1 = {
+	b_kihoedl = castle
+}
+
+740.4.1 = {
+	b_sunacob = city
+}
+
+871.4.1 = {
+	b_esunoedl = temple
+}
+
+947.4.1 = {
+	b_dotius = castle
+}
+

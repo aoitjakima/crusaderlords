@@ -1,0 +1,17 @@
+	title = c_letopti
+	max_settlements = 2
+	culture = watinan
+	religion = kusran
+	b_tecinan = tribal
+275.4.1 = {
+	culture = ketamma
+}
+
+893.4.1 = {
+	b_tecinan = castle
+}
+
+984.4.1 = {
+	b_tyayalen = temple
+}
+

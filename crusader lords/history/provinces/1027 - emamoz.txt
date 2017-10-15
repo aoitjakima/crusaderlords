@@ -1,0 +1,33 @@
+	title = c_emamoz
+	max_settlements = 3
+	culture = liebes
+	religion = neharis
+	b_saoas = tribal
+205.4.1 = {
+	culture = talentiy
+}
+
+230.4.1 = {
+	culture = liebes
+}
+
+273.4.1 = {
+	culture = talentiy
+}
+
+319.4.1 = {
+	culture = liebes
+}
+
+550.4.1 = {
+	b_saoas = castle
+}
+
+685.4.1 = {
+	b_ramlanar = temple
+}
+
+892.4.1 = {
+	b_seriya = city
+}
+

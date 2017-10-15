@@ -1,0 +1,17 @@
+	title = c_baladam
+	max_settlements = 2
+	culture = amuhopti
+	religion = neharis
+	b_titafnai = tribal
+301.4.1 = {
+	culture = syahes
+}
+
+530.4.1 = {
+	b_titafnai = castle
+}
+
+665.4.1 = {
+	b_wusarva = temple
+}
+

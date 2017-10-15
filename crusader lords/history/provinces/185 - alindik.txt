@@ -1,0 +1,45 @@
+	title = c_alindik
+	max_settlements = 5
+	culture = sodinia
+	religion = neharis
+	b_kuhibel = tribal
+232.4.1 = {
+	culture = syahes
+}
+
+238.4.1 = {
+	culture = sodinia
+}
+
+354.4.1 = {
+	culture = syahes
+}
+
+370.4.1 = {
+	culture = sodinia
+}
+
+391.4.1 = {
+	culture = syahes
+}
+
+511.4.1 = {
+	b_kuhibel = castle
+}
+
+660.4.1 = {
+	b_kitayan = city
+}
+
+836.4.1 = {
+	b_bahayan = temple
+}
+
+907.4.1 = {
+	b_qodens = temple
+}
+
+979.4.1 = {
+	b_woden = castle
+}
+

@@ -1,0 +1,25 @@
+	title = c_sotarma
+	max_settlements = 4
+	culture = karibel
+	religion = neharis
+	b_aberes = tribal
+242.4.1 = {
+	culture = narentiy
+}
+
+560.4.1 = {
+	b_aberes = castle
+}
+
+650.4.1 = {
+	b_kenive = temple
+}
+
+841.4.1 = {
+	b_bawzia = city
+}
+
+908.4.1 = {
+	b_risonka = castle
+}
+

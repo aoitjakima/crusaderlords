@@ -1,0 +1,21 @@
+	title = c_relesisorm
+	max_settlements = 2
+	culture = reatoto
+	religion = qiteka
+	b_topanda = tribal
+206.4.1 = {
+	culture = esunadir
+}
+
+207.3.1 = {
+	religion = begeka
+}
+
+775.4.1 = {
+	b_topanda = castle
+}
+
+832.4.1 = {
+	b_wesamur = city
+}
+

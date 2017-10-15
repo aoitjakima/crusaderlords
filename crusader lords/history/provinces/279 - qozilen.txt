@@ -1,0 +1,33 @@
+	title = c_qozilen
+	max_settlements = 3
+	culture = ebaropti
+	religion = kusran
+	b_bavnan = tribal
+214.4.1 = {
+	culture = watinan
+}
+
+344.4.1 = {
+	culture = ketamma
+}
+
+348.4.1 = {
+	culture = watinan
+}
+
+359.4.1 = {
+	culture = ketamma
+}
+
+831.4.1 = {
+	b_bavnan = castle
+}
+
+864.4.1 = {
+	b_kamma = city
+}
+
+964.4.1 = {
+	b_dosopti = temple
+}
+

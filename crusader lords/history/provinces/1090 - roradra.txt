@@ -1,0 +1,37 @@
+	title = c_roradra
+	max_settlements = 7
+	culture = deusala
+	religion = worelen
+	b_lereya = tribal
+200.4.1 = {
+	culture = tiwics
+}
+
+203.3.1 = {
+	religion = tonuyu
+}
+
+426.4.1 = {
+	culture = nalaam
+}
+
+457.4.1 = {
+	culture = tiwics
+}
+
+725.4.1 = {
+	b_lereya = castle
+}
+
+816.4.1 = {
+	b_toratti = temple
+}
+
+905.4.1 = {
+	b_norala = city
+}
+
+996.4.1 = {
+	b_wegroumas = city
+}
+

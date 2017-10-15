@@ -1,0 +1,29 @@
+	title = c_ruagada
+	max_settlements = 3
+	culture = radabor
+	religion = tonuyu
+	b_ralaspal = tribal
+204.4.1 = {
+	culture = budandev
+}
+
+253.4.1 = {
+	culture = wenira
+}
+
+282.4.1 = {
+	culture = radabor
+}
+
+810.4.1 = {
+	b_ralaspal = castle
+}
+
+853.4.1 = {
+	b_daysuga = temple
+}
+
+977.4.1 = {
+	b_agilibor = city
+}
+

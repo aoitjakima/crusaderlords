@@ -1,0 +1,21 @@
+	title = c_rimha
+	max_settlements = 2
+	culture = rarare
+	religion = qigiyah
+	b_qengi = tribal
+206.4.1 = {
+	culture = kyayalen
+}
+
+449.4.1 = {
+	culture = alaurine
+}
+
+823.4.1 = {
+	b_qengi = castle
+}
+
+912.4.1 = {
+	b_tayira = city
+}
+

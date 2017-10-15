@@ -1,0 +1,65 @@
+	title = c_adruge
+	max_settlements = 2
+	culture = ranahim
+	religion = tonuyu
+	b_datoos = tribal
+1.1.1 = {
+	b_linala = ct_port_1
+}
+
+204.4.1 = {
+	culture = wabuzhi
+}
+
+297.4.1 = {
+	culture = ranahim
+}
+
+442.4.1 = {
+	culture = qenoos
+}
+
+444.4.1 = {
+	culture = ranahim
+}
+
+547.4.1 = {
+	culture = qenoos
+}
+
+627.4.1 = {
+	culture = ranahim
+}
+
+633.4.1 = {
+	culture = qenoos
+}
+
+688.4.1 = {
+	culture = ranahim
+}
+
+741.4.1 = {
+	culture = qenoos
+}
+
+748.4.1 = {
+	culture = ranahim
+}
+
+811.4.1 = {
+	culture = qenoos
+}
+
+924.4.1 = {
+	b_datoos = castle
+}
+
+1055.4.1 = {
+	culture = ranahim
+}
+
+1055.4.1 = {
+	b_linala = city
+}
+

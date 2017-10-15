@@ -1,0 +1,13 @@
+	title = c_beyl
+	max_settlements = 2
+	culture = laaug
+	religion = telayira
+	b_esposye = tribal
+790.4.1 = {
+	b_esposye = castle
+}
+
+819.4.1 = {
+	b_qicita = temple
+}
+

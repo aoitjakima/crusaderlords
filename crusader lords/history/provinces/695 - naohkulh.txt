@@ -1,0 +1,13 @@
+	title = c_naohkulh
+	max_settlements = 2
+	culture = tasule
+	religion = kusran
+	b_keseid = tribal
+209.4.1 = {
+	culture = disinos
+}
+
+242.4.1 = {
+	culture = abajule
+}
+

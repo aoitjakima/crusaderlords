@@ -1,0 +1,21 @@
+	title = c_edijesek
+	max_settlements = 2
+	culture = tumata
+	religion = nukaye
+	b_rijipac = tribal
+206.4.1 = {
+	culture = qariyah
+}
+
+218.4.1 = {
+	culture = asumata
+}
+
+823.4.1 = {
+	b_rijipac = castle
+}
+
+862.4.1 = {
+	b_ejohaw = temple
+}
+

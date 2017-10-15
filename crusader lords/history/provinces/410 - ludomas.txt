@@ -1,0 +1,77 @@
+	title = c_ludomas
+	max_settlements = 5
+	culture = waheber
+	religion = neharis
+	b_sereber = tribal
+203.4.1 = {
+	culture = raraber
+}
+
+204.3.1 = {
+	religion = nukaye
+}
+
+206.3.1 = {
+	religion = neharis
+}
+
+210.3.1 = {
+	religion = nukaye
+}
+
+214.3.1 = {
+	religion = neharis
+}
+
+218.3.1 = {
+	religion = nukaye
+}
+
+224.3.1 = {
+	religion = neharis
+}
+
+226.3.1 = {
+	religion = nukaye
+}
+
+227.3.1 = {
+	religion = neharis
+}
+
+230.3.1 = {
+	religion = nukaye
+}
+
+235.3.1 = {
+	religion = neharis
+}
+
+238.3.1 = {
+	religion = nukaye
+}
+
+251.4.1 = {
+	culture = wili
+}
+
+611.4.1 = {
+	b_sereber = castle
+}
+
+695.4.1 = {
+	b_sinili = temple
+}
+
+830.4.1 = {
+	b_kanure = city
+}
+
+880.4.1 = {
+	b_kerica = temple
+}
+
+928.4.1 = {
+	b_nudica = castle
+}
+

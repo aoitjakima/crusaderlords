@@ -1,0 +1,9 @@
+	title = c_raribel
+	max_settlements = 3
+	culture = daimeig
+	religion = wedwig
+	b_amuhella = tribal
+207.4.1 = {
+	culture = waynald
+}
+

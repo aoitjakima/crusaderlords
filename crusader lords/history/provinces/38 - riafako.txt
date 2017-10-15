@@ -1,0 +1,13 @@
+	title = c_riafako
+	max_settlements = 2
+	culture = rerinya
+	religion = aguninya
+	b_qanatant = tribal
+803.4.1 = {
+	b_qanatant = castle
+}
+
+827.4.1 = {
+	b_ranergun = city
+}
+

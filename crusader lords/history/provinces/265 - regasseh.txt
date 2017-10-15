@@ -1,0 +1,29 @@
+	title = c_regasseh
+	max_settlements = 2
+	culture = daimeja
+	religion = raipi
+	b_segiana = tribal
+1.1.1 = {
+	b_behaimolf = ct_port_1
+}
+
+222.4.1 = {
+	culture = nuteria
+}
+
+228.4.1 = {
+	culture = eluedsalh
+}
+
+565.4.1 = {
+	culture = sigivkah
+}
+
+645.4.1 = {
+	b_segiana = castle
+}
+
+801.4.1 = {
+	b_behaimolf = city
+}
+

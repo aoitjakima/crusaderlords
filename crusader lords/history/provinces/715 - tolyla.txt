@@ -1,0 +1,41 @@
+	title = c_tolyla
+	max_settlements = 2
+	culture = ryanopti
+	religion = kusran
+	b_kaxenes = tribal
+204.3.1 = {
+	religion = wedwig
+}
+
+215.3.1 = {
+	religion = kusran
+}
+
+218.3.1 = {
+	religion = wedwig
+}
+
+288.4.1 = {
+	culture = durga
+}
+
+306.4.1 = {
+	culture = davars
+}
+
+308.4.1 = {
+	culture = durga
+}
+
+456.4.1 = {
+	culture = davars
+}
+
+550.4.1 = {
+	b_kaxenes = castle
+}
+
+690.4.1 = {
+	b_sucoros = city
+}
+

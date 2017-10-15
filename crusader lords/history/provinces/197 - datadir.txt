@@ -1,0 +1,21 @@
+	title = c_datadir
+	max_settlements = 6
+	culture = syahes
+	religion = neharis
+	b_keronka = tribal
+421.4.1 = {
+	culture = amuhopti
+}
+
+451.4.1 = {
+	culture = syahes
+}
+
+555.4.1 = {
+	b_keronka = castle
+}
+
+710.4.1 = {
+	b_saila = city
+}
+

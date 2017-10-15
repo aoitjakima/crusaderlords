@@ -1,0 +1,37 @@
+	title = c_ryevacob
+	max_settlements = 2
+	culture = waetutlu
+	religion = qiteka
+	b_ekenodar = tribal
+201.3.1 = {
+	religion = terenat
+}
+
+203.4.1 = {
+	culture = durga
+}
+
+203.3.1 = {
+	religion = qiteka
+}
+
+210.4.1 = {
+	culture = waetutlu
+}
+
+335.4.1 = {
+	culture = risutlu
+}
+
+505.4.1 = {
+	b_ekenodar = castle
+}
+
+635.4.1 = {
+	b_tyoa = temple
+}
+
+734.4.1 = {
+	culture = saimes
+}
+

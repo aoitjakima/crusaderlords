@@ -1,0 +1,93 @@
+	title = c_teorew
+	max_settlements = 3
+	culture = rauroka
+	religion = kusran
+	b_tohusha = tribal
+202.3.1 = {
+	religion = atheociu
+}
+
+203.3.1 = {
+	religion = kusran
+}
+
+203.3.1 = {
+	religion = atheociu
+}
+
+204.4.1 = {
+	culture = sigivkah
+}
+
+208.3.1 = {
+	religion = kusran
+}
+
+210.3.1 = {
+	religion = atheociu
+}
+
+235.4.1 = {
+	culture = latuma
+}
+
+252.4.1 = {
+	culture = sigivkah
+}
+
+288.4.1 = {
+	culture = latuma
+}
+
+298.3.1 = {
+	religion = kusran
+}
+
+303.4.1 = {
+	culture = rauroka
+}
+
+303.3.1 = {
+	religion = atheociu
+}
+
+309.3.1 = {
+	religion = kusran
+}
+
+309.3.1 = {
+	religion = atheociu
+}
+
+322.3.1 = {
+	religion = kusran
+}
+
+325.3.1 = {
+	religion = atheociu
+}
+
+327.3.1 = {
+	religion = kusran
+}
+
+327.3.1 = {
+	religion = atheociu
+}
+
+335.4.1 = {
+	culture = latuma
+}
+
+856.4.1 = {
+	b_tohusha = castle
+}
+
+893.4.1 = {
+	b_navar = city
+}
+
+1017.4.1 = {
+	b_luroatl = temple
+}
+

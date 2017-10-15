@@ -1,0 +1,17 @@
+	title = c_qamuvdi
+	max_settlements = 2
+	culture = davars
+	religion = wedwig
+	b_wulad = tribal
+1.1.1 = {
+	b_doceina = ct_port_1
+}
+
+695.4.1 = {
+	b_wulad = castle
+}
+
+819.4.1 = {
+	b_doceina = city
+}
+

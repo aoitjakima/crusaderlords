@@ -1,0 +1,25 @@
+	title = c_taemoran
+	max_settlements = 2
+	culture = kadalen
+	religion = tonuyu
+	b_tenony = tribal
+213.4.1 = {
+	culture = radabor
+}
+
+257.4.1 = {
+	culture = wenira
+}
+
+260.4.1 = {
+	culture = radabor
+}
+
+715.4.1 = {
+	b_tenony = castle
+}
+
+823.4.1 = {
+	b_dudelen = temple
+}
+

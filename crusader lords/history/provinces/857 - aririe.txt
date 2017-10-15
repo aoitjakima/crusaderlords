@@ -1,0 +1,21 @@
+	title = c_aririe
+	max_settlements = 3
+	culture = namyan
+	religion = kusran
+	b_laysule = tribal
+262.4.1 = {
+	culture = abajule
+}
+
+585.4.1 = {
+	b_laysule = castle
+}
+
+735.4.1 = {
+	b_balougu = temple
+}
+
+891.4.1 = {
+	b_kihuge = city
+}
+

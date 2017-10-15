@@ -1,0 +1,49 @@
+	title = c_kolafiy
+	max_settlements = 7
+	culture = qenoos
+	religion = binuyu
+	b_bimpia = tribal
+1.1.1 = {
+	b_alelay = ct_port_1
+}
+
+201.3.1 = {
+	religion = tonuyu
+}
+
+212.3.1 = {
+	religion = binuyu
+}
+
+217.3.1 = {
+	religion = tonuyu
+}
+
+278.4.1 = {
+	culture = ranahim
+}
+
+303.4.1 = {
+	culture = qenoos
+}
+
+549.4.1 = {
+	culture = ranahim
+}
+
+807.4.1 = {
+	culture = qenoos
+}
+
+868.4.1 = {
+	b_bimpia = castle
+}
+
+912.4.1 = {
+	b_kigita = temple
+}
+
+1015.4.1 = {
+	b_alelay = city
+}
+

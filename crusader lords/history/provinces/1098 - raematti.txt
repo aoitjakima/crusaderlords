@@ -1,0 +1,101 @@
+	title = c_raematti
+	max_settlements = 3
+	culture = reasep
+	religion = worelen
+	b_agraspal = tribal
+200.3.1 = {
+	religion = tonuyu
+}
+
+206.4.1 = {
+	culture = keraam
+}
+
+254.3.1 = {
+	religion = worelen
+}
+
+258.3.1 = {
+	religion = tonuyu
+}
+
+260.3.1 = {
+	religion = worelen
+}
+
+260.3.1 = {
+	religion = tonuyu
+}
+
+261.3.1 = {
+	religion = worelen
+}
+
+261.3.1 = {
+	religion = tonuyu
+}
+
+263.3.1 = {
+	religion = worelen
+}
+
+272.3.1 = {
+	religion = tonuyu
+}
+
+273.3.1 = {
+	religion = worelen
+}
+
+274.4.1 = {
+	culture = tudatha
+}
+
+274.3.1 = {
+	religion = tonuyu
+}
+
+277.3.1 = {
+	religion = worelen
+}
+
+277.3.1 = {
+	religion = tonuyu
+}
+
+299.4.1 = {
+	culture = nalaam
+}
+
+325.4.1 = {
+	culture = tudatha
+}
+
+351.4.1 = {
+	culture = nalaam
+}
+
+412.4.1 = {
+	culture = tiwics
+}
+
+420.4.1 = {
+	culture = nalaam
+}
+
+467.4.1 = {
+	culture = tiwics
+}
+
+720.4.1 = {
+	b_agraspal = castle
+}
+
+821.4.1 = {
+	b_bohadra = city
+}
+
+908.4.1 = {
+	b_nepatti = temple
+}
+

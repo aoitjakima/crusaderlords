@@ -1,0 +1,41 @@
+	title = c_revenovat
+	max_settlements = 6
+	culture = retose
+	religion = naneka
+	b_banahtag = tribal
+1.1.1 = {
+	b_rukeki = ct_port_1
+}
+
+201.3.1 = {
+	religion = qiteka
+}
+
+203.4.1 = {
+	culture = banaila
+}
+
+575.4.1 = {
+	b_banahtag = castle
+}
+
+730.4.1 = {
+	b_rukeki = city
+}
+
+863.4.1 = {
+	b_tesepevag = temple
+}
+
+933.4.1 = {
+	b_reovag = temple
+}
+
+1000.4.1 = {
+	b_darovat = temple
+}
+
+1045.4.1 = {
+	b_rallong = castle
+}
+

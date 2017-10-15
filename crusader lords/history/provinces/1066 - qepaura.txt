@@ -1,0 +1,5 @@
+	title = c_qepaura
+	max_settlements = 7
+	culture = everala
+	religion = tonuyu
+	b_reusler = tribal

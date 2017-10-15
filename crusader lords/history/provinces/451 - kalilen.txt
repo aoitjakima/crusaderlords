@@ -1,0 +1,21 @@
+	title = c_kalilen
+	max_settlements = 2
+	culture = wamata
+	religion = neharis
+	b_wataham = tribal
+200.3.1 = {
+	religion = nukaye
+}
+
+273.4.1 = {
+	culture = qariyah
+}
+
+892.4.1 = {
+	b_wataham = castle
+}
+
+936.4.1 = {
+	b_ketaham = city
+}
+

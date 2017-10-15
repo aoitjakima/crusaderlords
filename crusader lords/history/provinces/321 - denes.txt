@@ -1,0 +1,25 @@
+	title = c_denes
+	max_settlements = 3
+	culture = waynald
+	religion = wedwig
+	b_ritetian = tribal
+263.4.1 = {
+	culture = nuteria
+}
+
+299.4.1 = {
+	culture = waynald
+}
+
+620.4.1 = {
+	b_ritetian = castle
+}
+
+808.4.1 = {
+	b_rutopti = temple
+}
+
+860.4.1 = {
+	b_suhibel = city
+}
+

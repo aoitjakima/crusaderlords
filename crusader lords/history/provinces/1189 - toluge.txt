@@ -1,0 +1,41 @@
+	title = c_toluge
+	max_settlements = 7
+	culture = nonayaka
+	religion = tonuyu
+	b_rinuyu = tribal
+202.4.1 = {
+	culture = wabuzhi
+}
+
+204.4.1 = {
+	culture = budandev
+}
+
+208.4.1 = {
+	culture = wabuzhi
+}
+
+219.4.1 = {
+	culture = budandev
+}
+
+817.4.1 = {
+	b_rinuyu = castle
+}
+
+853.4.1 = {
+	b_acenoos = temple
+}
+
+927.4.1 = {
+	b_talala = city
+}
+
+988.4.1 = {
+	b_kaladra = city
+}
+
+1033.4.1 = {
+	b_ralayaka = castle
+}
+

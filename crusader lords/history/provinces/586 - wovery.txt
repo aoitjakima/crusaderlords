@@ -1,0 +1,49 @@
+	title = c_wovery
+	max_settlements = 5
+	culture = weliana
+	religion = wedwig
+	b_tolyo = tribal
+204.4.1 = {
+	culture = ryanopti
+}
+
+208.3.1 = {
+	religion = kusran
+}
+
+247.3.1 = {
+	religion = wedwig
+}
+
+259.3.1 = {
+	religion = kusran
+}
+
+343.3.1 = {
+	religion = wedwig
+}
+
+347.3.1 = {
+	religion = kusran
+}
+
+347.3.1 = {
+	religion = wedwig
+}
+
+585.4.1 = {
+	b_tolyo = castle
+}
+
+730.4.1 = {
+	b_talt = temple
+}
+
+871.4.1 = {
+	b_nolentosla = city
+}
+
+957.4.1 = {
+	b_ebiwery = castle
+}
+

@@ -1,0 +1,29 @@
+	title = c_wamur
+	max_settlements = 4
+	culture = nuteria
+	religion = eraygnars
+	b_saunry = tribal
+206.4.1 = {
+	culture = esunadir
+}
+
+207.3.1 = {
+	religion = begeka
+}
+
+600.4.1 = {
+	b_saunry = castle
+}
+
+700.4.1 = {
+	b_asenda = city
+}
+
+835.4.1 = {
+	b_saudiam = temple
+}
+
+890.4.1 = {
+	b_taudamur = city
+}
+

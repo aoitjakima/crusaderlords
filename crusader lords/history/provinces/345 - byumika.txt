@@ -1,0 +1,21 @@
+	title = c_byumika
+	max_settlements = 2
+	culture = asumata
+	religion = nukaye
+	b_baroman = tribal
+263.4.1 = {
+	culture = ranibel
+}
+
+301.4.1 = {
+	culture = asumata
+}
+
+804.4.1 = {
+	b_baroman = castle
+}
+
+827.4.1 = {
+	b_sumata = city
+}
+

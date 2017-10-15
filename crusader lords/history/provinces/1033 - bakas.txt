@@ -1,0 +1,13 @@
+	title = c_bakas
+	max_settlements = 2
+	culture = aqahebel
+	religion = neharis
+	b_kakauf = tribal
+600.4.1 = {
+	b_kakauf = castle
+}
+
+695.4.1 = {
+	b_tamiya = temple
+}
+

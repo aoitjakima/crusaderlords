@@ -1,0 +1,33 @@
+	title = c_suziya
+	max_settlements = 5
+	culture = talda
+	religion = atheociu
+	b_qyaher = tribal
+204.3.1 = {
+	religion = bobena
+}
+
+205.4.1 = {
+	culture = welitya
+}
+
+833.4.1 = {
+	b_qyaher = castle
+}
+
+861.4.1 = {
+	b_lusius = temple
+}
+
+930.4.1 = {
+	b_beloxal = city
+}
+
+993.4.1 = {
+	b_kyahalda = temple
+}
+
+1053.4.1 = {
+	b_ryahalda = temple
+}
+

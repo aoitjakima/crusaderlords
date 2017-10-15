@@ -1,0 +1,45 @@
+	title = c_ratarma
+	max_settlements = 4
+	culture = syahes
+	religion = neharis
+	b_tanarma = tribal
+202.3.1 = {
+	religion = qiteka
+}
+
+207.3.1 = {
+	religion = neharis
+}
+
+210.4.1 = {
+	culture = retose
+}
+
+213.3.1 = {
+	religion = qiteka
+}
+
+216.3.1 = {
+	religion = neharis
+}
+
+320.4.1 = {
+	culture = karibel
+}
+
+640.4.1 = {
+	b_tanarma = castle
+}
+
+760.4.1 = {
+	b_epartn = temple
+}
+
+843.4.1 = {
+	b_kily = city
+}
+
+885.4.1 = {
+	b_enunadir = castle
+}
+

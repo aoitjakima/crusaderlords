@@ -1,0 +1,37 @@
+	title = c_nuliid
+	max_settlements = 2
+	culture = ricqa
+	religion = kusran
+	b_ebiid = tribal
+272.4.1 = {
+	culture = kapti
+}
+
+283.3.1 = {
+	religion = raipi
+}
+
+293.4.1 = {
+	culture = taodha
+}
+
+315.4.1 = {
+	culture = kapti
+}
+
+414.4.1 = {
+	culture = sutidoka
+}
+
+533.4.1 = {
+	culture = kapti
+}
+
+907.4.1 = {
+	b_ebiid = castle
+}
+
+1022.4.1 = {
+	b_budiid = city
+}
+

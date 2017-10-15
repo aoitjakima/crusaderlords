@@ -1,0 +1,81 @@
+	title = c_laina
+	max_settlements = 5
+	culture = welitya
+	religion = bobena
+	b_taritya = tribal
+220.4.1 = {
+	culture = tainand
+}
+
+235.4.1 = {
+	culture = ween
+}
+
+401.4.1 = {
+	culture = welitya
+}
+
+587.4.1 = {
+	culture = titina
+}
+
+592.3.1 = {
+	religion = telayira
+}
+
+598.3.1 = {
+	religion = bobena
+}
+
+599.3.1 = {
+	religion = telayira
+}
+
+602.3.1 = {
+	religion = bobena
+}
+
+608.3.1 = {
+	religion = telayira
+}
+
+614.3.1 = {
+	religion = bobena
+}
+
+624.3.1 = {
+	religion = telayira
+}
+
+650.4.1 = {
+	culture = ween
+}
+
+666.4.1 = {
+	culture = welitya
+}
+
+714.4.1 = {
+	culture = ween
+}
+
+761.4.1 = {
+	culture = titina
+}
+
+769.4.1 = {
+	culture = ween
+}
+
+795.4.1 = {
+	culture = titina
+}
+
+830.4.1 = {
+	culture = ween
+}
+
+1022.4.1 = {
+	culture = titina
+}
+

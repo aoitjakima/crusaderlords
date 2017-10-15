@@ -1,0 +1,49 @@
+	title = c_qunilip
+	max_settlements = 7
+	culture = banaila
+	religion = begeka
+	b_ataetenat = tribal
+203.3.1 = {
+	religion = terenat
+}
+
+206.4.1 = {
+	culture = kitule
+}
+
+236.3.1 = {
+	religion = begeka
+}
+
+269.4.1 = {
+	culture = banaila
+}
+
+294.4.1 = {
+	culture = kitule
+}
+
+358.4.1 = {
+	culture = banaila
+}
+
+361.4.1 = {
+	culture = kitule
+}
+
+560.4.1 = {
+	b_ataetenat = castle
+}
+
+700.4.1 = {
+	b_raetelin = city
+}
+
+897.4.1 = {
+	b_kucurga = temple
+}
+
+1001.4.1 = {
+	b_tabra = temple
+}
+

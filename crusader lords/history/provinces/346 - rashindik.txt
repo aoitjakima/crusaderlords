@@ -1,0 +1,25 @@
+	title = c_rashindik
+	max_settlements = 3
+	culture = waynald
+	religion = wedwig
+	b_taves = tribal
+263.4.1 = {
+	culture = nuteria
+}
+
+299.4.1 = {
+	culture = waynald
+}
+
+625.4.1 = {
+	b_taves = castle
+}
+
+809.4.1 = {
+	b_rezahopti = city
+}
+
+861.4.1 = {
+	b_qulibel = temple
+}
+

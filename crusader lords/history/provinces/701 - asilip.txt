@@ -1,0 +1,25 @@
+	title = c_asilip
+	max_settlements = 4
+	culture = saimes
+	religion = begeka
+	b_nisadi = tribal
+207.3.1 = {
+	religion = qiteka
+}
+
+600.4.1 = {
+	b_nisadi = castle
+}
+
+740.4.1 = {
+	b_qoza = city
+}
+
+900.4.1 = {
+	b_taruclela = temple
+}
+
+971.4.1 = {
+	b_evlutlu = castle
+}
+

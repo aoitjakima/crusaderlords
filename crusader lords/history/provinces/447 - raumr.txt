@@ -1,0 +1,57 @@
+	title = c_raumr
+	max_settlements = 3
+	culture = kuhotil
+	religion = eraygnars
+	b_qegordan = tribal
+207.3.1 = {
+	religion = qiteka
+}
+
+208.3.1 = {
+	religion = eraygnars
+}
+
+210.3.1 = {
+	religion = qiteka
+}
+
+211.3.1 = {
+	religion = eraygnars
+}
+
+212.3.1 = {
+	religion = qiteka
+}
+
+213.3.1 = {
+	religion = eraygnars
+}
+
+213.3.1 = {
+	religion = qiteka
+}
+
+228.3.1 = {
+	religion = eraygnars
+}
+
+228.3.1 = {
+	religion = qiteka
+}
+
+265.4.1 = {
+	culture = saimes
+}
+
+620.4.1 = {
+	b_qegordan = castle
+}
+
+705.4.1 = {
+	b_eliafi = city
+}
+
+825.4.1 = {
+	b_samur = temple
+}
+

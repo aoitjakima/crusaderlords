@@ -1,0 +1,21 @@
+	title = c_dateka
+	max_settlements = 3
+	culture = narentiy
+	religion = neharis
+	b_ekisadir = tribal
+203.4.1 = {
+	culture = syahes
+}
+
+555.4.1 = {
+	b_ekisadir = castle
+}
+
+650.4.1 = {
+	b_ranarma = city
+}
+
+813.4.1 = {
+	b_laines = temple
+}
+

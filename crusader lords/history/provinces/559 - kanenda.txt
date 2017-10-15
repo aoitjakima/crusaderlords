@@ -1,0 +1,37 @@
+	title = c_kanenda
+	max_settlements = 3
+	culture = kuhotil
+	religion = eraygnars
+	b_ranmol = tribal
+225.4.1 = {
+	culture = nuteria
+}
+
+256.4.1 = {
+	culture = kuhotil
+}
+
+274.4.1 = {
+	culture = nuteria
+}
+
+312.4.1 = {
+	culture = kuhotil
+}
+
+338.4.1 = {
+	culture = nuteria
+}
+
+630.4.1 = {
+	b_ranmol = castle
+}
+
+770.4.1 = {
+	b_rundes = city
+}
+
+858.4.1 = {
+	b_qocance = temple
+}
+

@@ -1,0 +1,33 @@
+	title = c_wodika
+	max_settlements = 4
+	culture = teber
+	religion = neharis
+	b_qayaata = tribal
+204.3.1 = {
+	religion = nukaye
+}
+
+255.4.1 = {
+	culture = ranibel
+}
+
+443.4.1 = {
+	culture = wili
+}
+
+740.4.1 = {
+	b_qayaata = castle
+}
+
+819.4.1 = {
+	b_ekenata = temple
+}
+
+916.4.1 = {
+	b_weniren = city
+}
+
+997.4.1 = {
+	b_tesovya = city
+}
+

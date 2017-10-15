@@ -1,0 +1,29 @@
+	title = c_bensie
+	max_settlements = 3
+	culture = sodinia
+	religion = neharis
+	b_elutava = tribal
+202.4.1 = {
+	culture = aqahebel
+}
+
+263.4.1 = {
+	culture = sodinia
+}
+
+291.4.1 = {
+	culture = talentiy
+}
+
+500.4.1 = {
+	b_elutava = castle
+}
+
+650.4.1 = {
+	b_neneria = temple
+}
+
+844.4.1 = {
+	b_tuhnes = city
+}
+

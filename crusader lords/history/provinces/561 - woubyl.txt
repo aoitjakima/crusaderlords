@@ -1,0 +1,65 @@
+	title = c_woubyl
+	max_settlements = 5
+	culture = weliana
+	religion = wedwig
+	b_solery = tribal
+200.3.1 = {
+	religion = raipi
+}
+
+203.3.1 = {
+	religion = wedwig
+}
+
+204.3.1 = {
+	religion = raipi
+}
+
+209.4.1 = {
+	culture = eluedsalh
+}
+
+215.3.1 = {
+	religion = wedwig
+}
+
+215.3.1 = {
+	religion = raipi
+}
+
+224.3.1 = {
+	religion = wedwig
+}
+
+229.3.1 = {
+	religion = raipi
+}
+
+231.4.1 = {
+	culture = taodha
+}
+
+405.4.1 = {
+	culture = kapti
+}
+
+606.4.1 = {
+	b_solery = castle
+}
+
+750.4.1 = {
+	b_kuyande = temple
+}
+
+874.4.1 = {
+	b_kuralt = city
+}
+
+953.4.1 = {
+	b_dyaa = temple
+}
+
+1035.4.1 = {
+	b_tolery = castle
+}
+

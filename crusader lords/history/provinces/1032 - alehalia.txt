@@ -1,0 +1,29 @@
+	title = c_alehalia
+	max_settlements = 7
+	culture = qariyah
+	religion = nukaye
+	b_sehagos = tribal
+204.4.1 = {
+	culture = tumata
+}
+
+233.4.1 = {
+	culture = wamata
+}
+
+332.4.1 = {
+	culture = qariyah
+}
+
+830.4.1 = {
+	b_sehagos = castle
+}
+
+867.4.1 = {
+	b_kesidipac = temple
+}
+
+979.4.1 = {
+	b_radesek = city
+}
+

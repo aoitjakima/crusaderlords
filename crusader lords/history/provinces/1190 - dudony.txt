@@ -1,0 +1,37 @@
+	title = c_dudony
+	max_settlements = 5
+	culture = radabor
+	religion = tonuyu
+	b_tedatti = tribal
+1.1.1 = {
+	b_kuarmas = ct_port_1
+}
+
+204.4.1 = {
+	culture = budandev
+}
+
+253.4.1 = {
+	culture = wenira
+}
+
+282.4.1 = {
+	culture = radabor
+}
+
+715.4.1 = {
+	b_tedatti = castle
+}
+
+818.4.1 = {
+	b_kuarmas = city
+}
+
+914.4.1 = {
+	b_wenira = temple
+}
+
+999.4.1 = {
+	b_naleslav = city
+}
+

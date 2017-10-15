@@ -1,0 +1,13 @@
+	title = c_kanafu
+	max_settlements = 2
+	culture = karibel
+	religion = neharis
+	b_danaila = tribal
+565.4.1 = {
+	b_danaila = castle
+}
+
+695.4.1 = {
+	b_kises = city
+}
+

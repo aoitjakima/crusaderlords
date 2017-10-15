@@ -1,0 +1,29 @@
+	title = c_akukas
+	max_settlements = 4
+	culture = babosa
+	religion = tonuyu
+	b_welune = tribal
+1.1.1 = {
+	b_qosira = ct_port_1
+}
+
+251.4.1 = {
+	culture = budandev
+}
+
+807.4.1 = {
+	b_welune = castle
+}
+
+832.4.1 = {
+	b_qosira = city
+}
+
+893.4.1 = {
+	b_sudo = temple
+}
+
+967.4.1 = {
+	b_abaxpeke = city
+}
+

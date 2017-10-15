@@ -1,0 +1,81 @@
+	title = c_welafu
+	max_settlements = 3
+	culture = kapti
+	religion = kusran
+	b_roper = tribal
+1.1.1 = {
+	b_tulayar = ct_port_1
+}
+
+200.3.1 = {
+	religion = raipi
+}
+
+202.3.1 = {
+	religion = kusran
+}
+
+204.3.1 = {
+	religion = raipi
+}
+
+205.3.1 = {
+	religion = kusran
+}
+
+214.3.1 = {
+	religion = raipi
+}
+
+231.4.1 = {
+	culture = biosupo
+}
+
+238.3.1 = {
+	religion = kusran
+}
+
+242.3.1 = {
+	religion = raipi
+}
+
+243.3.1 = {
+	religion = kusran
+}
+
+254.3.1 = {
+	religion = raipi
+}
+
+255.4.1 = {
+	culture = kapti
+}
+
+332.4.1 = {
+	culture = kaureid
+}
+
+339.4.1 = {
+	culture = kapti
+}
+
+392.4.1 = {
+	culture = sutidoka
+}
+
+446.4.1 = {
+	culture = kapti
+}
+
+806.4.1 = {
+	b_roper = castle
+}
+
+842.4.1 = {
+	b_tulayar = city
+}
+
+997.4.1 = {
+	b_tuddared = temple
+}
+

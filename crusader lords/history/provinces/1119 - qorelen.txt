@@ -1,0 +1,25 @@
+	title = c_qorelen
+	max_settlements = 2
+	culture = budandev
+	religion = tonuyu
+	b_roribor = tribal
+1.1.1 = {
+	b_kaloran = ct_port_1
+}
+
+208.4.1 = {
+	culture = babosa
+}
+
+251.4.1 = {
+	culture = budandev
+}
+
+735.4.1 = {
+	b_roribor = castle
+}
+
+848.4.1 = {
+	b_kaloran = city
+}
+

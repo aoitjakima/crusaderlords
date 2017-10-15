@@ -1,0 +1,29 @@
+	title = c_apive
+	max_settlements = 5
+	culture = karibel
+	religion = neharis
+	b_keneka = tribal
+204.4.1 = {
+	culture = narentiy
+}
+
+560.4.1 = {
+	b_keneka = castle
+}
+
+695.4.1 = {
+	b_ragisadir = temple
+}
+
+833.4.1 = {
+	b_nitesela = city
+}
+
+886.4.1 = {
+	b_keses = temple
+}
+
+943.4.1 = {
+	b_kerinus = city
+}
+

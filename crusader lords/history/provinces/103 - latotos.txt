@@ -1,0 +1,29 @@
+	title = c_latotos
+	max_settlements = 5
+	culture = remis
+	religion = raipi
+	b_dovesind = tribal
+205.3.1 = {
+	religion = wedwig
+}
+
+216.4.1 = {
+	culture = digaka
+}
+
+217.3.1 = {
+	religion = raipi
+}
+
+735.4.1 = {
+	b_dovesind = castle
+}
+
+816.4.1 = {
+	b_kaxande = temple
+}
+
+991.4.1 = {
+	b_woliby = city
+}
+

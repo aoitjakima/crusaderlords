@@ -1,0 +1,41 @@
+	title = c_sekamopti
+	max_settlements = 5
+	culture = namyan
+	religion = telayira
+	b_qajayya = tribal
+266.4.1 = {
+	culture = koumas
+}
+
+510.4.1 = {
+	culture = lopher
+}
+
+523.4.1 = {
+	culture = koumas
+}
+
+595.4.1 = {
+	b_qajayya = castle
+}
+
+730.4.1 = {
+	b_lesudadi = temple
+}
+
+868.4.1 = {
+	b_baheva = city
+}
+
+931.4.1 = {
+	culture = lopher
+}
+
+945.4.1 = {
+	b_wayya = city
+}
+
+1012.4.1 = {
+	b_kesica = temple
+}
+

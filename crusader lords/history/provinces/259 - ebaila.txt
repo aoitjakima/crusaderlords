@@ -1,0 +1,61 @@
+	title = c_ebaila
+	max_settlements = 2
+	culture = remis
+	religion = raipi
+	b_niyaed = tribal
+201.4.1 = {
+	culture = eluedsalh
+}
+
+232.4.1 = {
+	culture = sigivkah
+}
+
+233.3.1 = {
+	religion = kusran
+}
+
+239.3.1 = {
+	religion = raipi
+}
+
+241.3.1 = {
+	religion = kusran
+}
+
+251.3.1 = {
+	religion = raipi
+}
+
+252.3.1 = {
+	religion = kusran
+}
+
+254.3.1 = {
+	religion = raipi
+}
+
+291.4.1 = {
+	culture = eluedsalh
+}
+
+325.4.1 = {
+	culture = sigivkah
+}
+
+585.4.1 = {
+	culture = eluedsalh
+}
+
+593.4.1 = {
+	culture = sigivkah
+}
+
+645.4.1 = {
+	b_niyaed = castle
+}
+
+800.4.1 = {
+	b_tatey = city
+}
+

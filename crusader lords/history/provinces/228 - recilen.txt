@@ -1,0 +1,13 @@
+	title = c_recilen
+	max_settlements = 6
+	culture = taroman
+	religion = nukaye
+	b_asaloka = tribal
+236.4.1 = {
+	culture = qariyah
+}
+
+929.4.1 = {
+	b_asaloka = castle
+}
+

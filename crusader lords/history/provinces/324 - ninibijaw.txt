@@ -1,0 +1,29 @@
+	title = c_ninibijaw
+	max_settlements = 7
+	culture = tumata
+	religion = nukaye
+	b_sehaman = tribal
+233.4.1 = {
+	culture = wamata
+}
+
+332.4.1 = {
+	culture = qariyah
+}
+
+824.4.1 = {
+	b_sehaman = castle
+}
+
+855.4.1 = {
+	b_tijelen = temple
+}
+
+934.4.1 = {
+	b_rehalen = city
+}
+
+1014.4.1 = {
+	b_tijica = city
+}
+

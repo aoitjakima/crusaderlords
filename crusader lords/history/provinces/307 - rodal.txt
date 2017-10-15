@@ -1,0 +1,21 @@
+	title = c_rodal
+	max_settlements = 2
+	culture = wili
+	religion = nukaye
+	b_qayaeya = tribal
+217.4.1 = {
+	culture = ranibel
+}
+
+318.4.1 = {
+	culture = wili
+}
+
+680.4.1 = {
+	b_qayaeya = castle
+}
+
+810.4.1 = {
+	b_banirini = city
+}
+

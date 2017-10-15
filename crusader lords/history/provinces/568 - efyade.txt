@@ -1,0 +1,61 @@
+	title = c_efyade
+	max_settlements = 4
+	culture = taodha
+	religion = kusran
+	b_doun = tribal
+200.3.1 = {
+	religion = raipi
+}
+
+203.3.1 = {
+	religion = kusran
+}
+
+204.3.1 = {
+	religion = raipi
+}
+
+205.3.1 = {
+	religion = kusran
+}
+
+214.3.1 = {
+	religion = raipi
+}
+
+215.3.1 = {
+	religion = kusran
+}
+
+215.3.1 = {
+	religion = raipi
+}
+
+220.3.1 = {
+	religion = kusran
+}
+
+230.3.1 = {
+	religion = raipi
+}
+
+359.4.1 = {
+	culture = kapti
+}
+
+655.4.1 = {
+	b_doun = castle
+}
+
+801.4.1 = {
+	b_etaqovey = temple
+}
+
+888.4.1 = {
+	b_anatison = city
+}
+
+971.4.1 = {
+	b_lyat = castle
+}
+

@@ -1,0 +1,160 @@
+200.2.1 = {
+	holder = 1000006
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000557
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_qosyhon
+}
+
+200.2.4 = {
+	holder = 1000558
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+200.2.5 = {
+	holder = 1000553
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+252.2.1 = {
+	holder = 1003169
+}
+
+273.2.1 = {
+	holder = 1007515
+}
+
+283.2.1 = {
+	holder = 1007711
+}
+
+334.2.1 = {
+	holder = 1009680
+}
+
+369.2.1 = {
+	holder = 1012320
+}
+
+377.2.1 = {
+	holder = 1013862
+}
+
+398.2.1 = {
+	holder = 1015073
+}
+
+419.2.1 = {
+	holder = 1016513
+}
+
+443.2.1 = {
+	holder = 1017506
+}
+
+493.2.1 = {
+	holder = 1019044
+}
+
+496.2.1 = {
+	holder = 1020252
+}
+
+514.2.1 = {
+	holder = 1020914
+}
+
+544.2.1 = {
+	holder = 1023182
+}
+
+591.2.1 = {
+	holder = 1025434
+}
+
+604.2.1 = {
+	holder = 1027740
+}
+
+651.2.1 = {
+	holder = 1029207
+}
+
+682.2.1 = {
+	holder = 1031319
+}
+
+706.2.1 = {
+	holder = 1033639
+}
+
+748.2.1 = {
+	holder = 1034675
+}
+
+752.2.1 = {
+	holder = 1035844
+}
+
+764.2.1 = {
+	holder = 1035921
+}
+
+771.2.1 = {
+	holder = 1036240
+}
+
+779.2.1 = {
+	holder = 1039189
+}
+
+831.2.1 = {
+	holder = 1040627
+}
+
+862.2.1 = {
+	holder = 1042622
+}
+
+877.2.1 = {
+	holder = 1045116
+}
+
+899.2.1 = {
+	holder = 1046176
+}
+
+917.2.1 = {
+	holder = 1047448
+}
+
+975.2.1 = {
+	holder = 1048631
+}
+
+992.2.1 = {
+	holder = 1051850
+}
+
+996.2.1 = {
+	holder = 1048455
+}
+
+1021.2.1 = {
+	holder = 1052596
+}
+
+1043.2.1 = {
+	holder = 1053511
+}
+

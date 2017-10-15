@@ -1,0 +1,41 @@
+	title = c_lepala
+	max_settlements = 2
+	culture = keraam
+	religion = tonuyu
+	b_selia = tribal
+339.4.1 = {
+	culture = tiwics
+}
+
+377.4.1 = {
+	culture = keraam
+}
+
+412.4.1 = {
+	culture = tiwics
+}
+
+418.4.1 = {
+	culture = keraam
+}
+
+419.4.1 = {
+	culture = tiwics
+}
+
+427.4.1 = {
+	culture = keraam
+}
+
+577.4.1 = {
+	culture = tiwics
+}
+
+725.4.1 = {
+	b_selia = castle
+}
+
+829.4.1 = {
+	b_randev = temple
+}
+

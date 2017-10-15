@@ -1,0 +1,17 @@
+	title = c_waipine
+	max_settlements = 5
+	culture = tasule
+	religion = qigiyah
+	b_riosine = tribal
+200.3.1 = {
+	religion = kusran
+}
+
+209.4.1 = {
+	culture = disinos
+}
+
+242.4.1 = {
+	culture = abajule
+}
+

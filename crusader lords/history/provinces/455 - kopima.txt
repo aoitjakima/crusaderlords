@@ -1,0 +1,13 @@
+	title = c_kopima
+	max_settlements = 2
+	culture = terilip
+	religion = wedwig
+	b_qeriu = tribal
+239.4.1 = {
+	culture = lagond
+}
+
+321.3.1 = {
+	religion = qigiyah
+}
+

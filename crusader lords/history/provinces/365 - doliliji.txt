@@ -1,0 +1,29 @@
+	title = c_doliliji
+	max_settlements = 7
+	culture = tumata
+	religion = nukaye
+	b_tijirijiapi = tribal
+206.4.1 = {
+	culture = qariyah
+}
+
+218.4.1 = {
+	culture = asumata
+}
+
+823.4.1 = {
+	b_tijirijiapi = castle
+}
+
+857.4.1 = {
+	b_kinutan = temple
+}
+
+930.4.1 = {
+	b_nidutan = city
+}
+
+999.4.1 = {
+	b_nerika = castle
+}
+

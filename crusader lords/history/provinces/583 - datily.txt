@@ -1,0 +1,33 @@
+	title = c_datily
+	max_settlements = 6
+	culture = karibel
+	religion = neharis
+	b_qatando = tribal
+1.1.1 = {
+	b_lenily = ct_port_1
+}
+
+570.4.1 = {
+	b_qatando = castle
+}
+
+685.4.1 = {
+	b_qotinus = temple
+}
+
+862.4.1 = {
+	b_lenily = city
+}
+
+924.4.1 = {
+	b_rarma = city
+}
+
+979.4.1 = {
+	b_ataila = city
+}
+
+1019.4.1 = {
+	b_kegadir = temple
+}
+

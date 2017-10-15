@@ -1,0 +1,25 @@
+	title = c_raysira
+	max_settlements = 3
+	culture = wenira
+	religion = tonuyu
+	b_naemborkalabilb = tribal
+1.1.1 = {
+	b_torelen = ct_port_1
+}
+
+337.4.1 = {
+	culture = radabor
+}
+
+650.4.1 = {
+	b_naemborkalabilb = castle
+}
+
+820.4.1 = {
+	b_lenira = temple
+}
+
+938.4.1 = {
+	b_torelen = city
+}
+

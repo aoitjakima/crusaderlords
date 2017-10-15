@@ -1,0 +1,33 @@
+	title = c_diwabra
+	max_settlements = 7
+	culture = banaila
+	religion = qiteka
+	b_ataura = tribal
+570.4.1 = {
+	b_ataura = castle
+}
+
+675.4.1 = {
+	b_dereina = city
+}
+
+830.4.1 = {
+	b_wule = temple
+}
+
+880.4.1 = {
+	b_wucutlu = temple
+}
+
+922.4.1 = {
+	b_resiwlrerl = temple
+}
+
+961.4.1 = {
+	b_arasunl = castle
+}
+
+1001.4.1 = {
+	b_ravaura = temple
+}
+

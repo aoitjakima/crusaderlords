@@ -1,0 +1,33 @@
+	title = c_retina
+	max_settlements = 6
+	culture = wedina
+	religion = telayira
+	b_etadann = tribal
+202.4.1 = {
+	culture = dainbai
+}
+
+420.4.1 = {
+	culture = wedina
+}
+
+745.4.1 = {
+	b_etadann = castle
+}
+
+821.4.1 = {
+	b_ledewigiu = temple
+}
+
+905.4.1 = {
+	b_taunn = city
+}
+
+963.4.1 = {
+	b_atrand = castle
+}
+
+1054.4.1 = {
+	b_esoserd = temple
+}
+

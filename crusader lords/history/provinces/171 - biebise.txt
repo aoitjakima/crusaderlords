@@ -1,0 +1,17 @@
+	title = c_biebise
+	max_settlements = 5
+	culture = amuhopti
+	religion = neharis
+	b_qicunye = tribal
+207.4.1 = {
+	culture = syahes
+}
+
+530.4.1 = {
+	b_qicunye = castle
+}
+
+670.4.1 = {
+	b_nunye = temple
+}
+

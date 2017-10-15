@@ -1,0 +1,17 @@
+	title = c_tosyape
+	max_settlements = 2
+	culture = lyarala
+	religion = tonuyu
+	b_rabira = tribal
+318.4.1 = {
+	culture = budandev
+}
+
+822.4.1 = {
+	b_rabira = castle
+}
+
+855.4.1 = {
+	b_ezabiks = city
+}
+

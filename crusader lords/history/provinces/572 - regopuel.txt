@@ -1,0 +1,45 @@
+	title = c_regopuel
+	max_settlements = 2
+	culture = syahes
+	religion = neharis
+	b_lasiwanl = tribal
+236.4.1 = {
+	culture = narentiy
+}
+
+318.4.1 = {
+	culture = syahes
+}
+
+422.4.1 = {
+	culture = amuhopti
+}
+
+451.4.1 = {
+	culture = syahes
+}
+
+456.4.1 = {
+	culture = amuhopti
+}
+
+468.4.1 = {
+	culture = syahes
+}
+
+485.4.1 = {
+	culture = amuhopti
+}
+
+539.4.1 = {
+	culture = syahes
+}
+
+665.4.1 = {
+	b_lasiwanl = castle
+}
+
+808.4.1 = {
+	b_sance = city
+}
+

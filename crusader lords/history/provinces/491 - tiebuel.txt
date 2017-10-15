@@ -1,0 +1,57 @@
+	title = c_tiebuel
+	max_settlements = 5
+	culture = nuteria
+	religion = eraygnars
+	b_retamur = tribal
+201.3.1 = {
+	religion = neharis
+}
+
+203.4.1 = {
+	culture = syahes
+}
+
+248.4.1 = {
+	culture = amuhopti
+}
+
+320.4.1 = {
+	culture = syahes
+}
+
+331.4.1 = {
+	culture = amuhopti
+}
+
+366.4.1 = {
+	culture = qindik
+}
+
+377.4.1 = {
+	culture = amuhopti
+}
+
+451.4.1 = {
+	culture = syahes
+}
+
+462.4.1 = {
+	culture = amuhopti
+}
+
+486.4.1 = {
+	culture = syahes
+}
+
+590.4.1 = {
+	b_retamur = castle
+}
+
+725.4.1 = {
+	b_ropulad = city
+}
+
+1004.4.1 = {
+	b_kotiam = temple
+}
+

@@ -1,0 +1,37 @@
+	title = c_kalaura
+	max_settlements = 2
+	culture = keusaam
+	religion = tonuyu
+	b_eshaura = tribal
+266.4.1 = {
+	culture = nalaam
+}
+
+284.4.1 = {
+	culture = tiwics
+}
+
+293.4.1 = {
+	culture = nalaam
+}
+
+300.4.1 = {
+	culture = tiwics
+}
+
+391.4.1 = {
+	culture = nalaam
+}
+
+437.4.1 = {
+	culture = tiwics
+}
+
+444.4.1 = {
+	culture = nalaam
+}
+
+538.4.1 = {
+	culture = tiwics
+}
+

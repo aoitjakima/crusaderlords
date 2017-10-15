@@ -1,0 +1,53 @@
+	title = c_tonili
+	max_settlements = 5
+	culture = eweseedun
+	religion = tonuyu
+	b_touwica = tribal
+1.1.1 = {
+	b_touwan = ct_port_1
+}
+
+263.4.1 = {
+	culture = lodeid
+}
+
+264.3.1 = {
+	religion = kodine
+}
+
+264.3.1 = {
+	religion = tonuyu
+}
+
+266.3.1 = {
+	religion = kodine
+}
+
+271.3.1 = {
+	religion = tonuyu
+}
+
+274.3.1 = {
+	religion = kodine
+}
+
+281.3.1 = {
+	religion = tonuyu
+}
+
+423.4.1 = {
+	culture = biho
+}
+
+858.4.1 = {
+	b_touwica = castle
+}
+
+899.4.1 = {
+	b_touwan = city
+}
+
+1047.4.1 = {
+	b_sigrr = temple
+}
+

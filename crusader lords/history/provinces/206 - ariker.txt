@@ -1,0 +1,25 @@
+	title = c_ariker
+	max_settlements = 7
+	culture = latuma
+	religion = atheociu
+	b_neloxr = tribal
+200.3.1 = {
+	religion = qigiyah
+}
+
+200.4.1 = {
+	culture = rarare
+}
+
+243.4.1 = {
+	culture = lagond
+}
+
+858.4.1 = {
+	b_neloxr = castle
+}
+
+922.4.1 = {
+	b_sudamon = temple
+}
+

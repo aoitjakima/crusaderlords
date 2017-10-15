@@ -1,0 +1,45 @@
+	title = c_alaraja
+	max_settlements = 2
+	culture = raureid
+	religion = wedwig
+	b_lelainn = tribal
+200.3.1 = {
+	religion = qigiyah
+}
+
+212.3.1 = {
+	religion = wedwig
+}
+
+214.3.1 = {
+	religion = qigiyah
+}
+
+221.3.1 = {
+	religion = wedwig
+}
+
+226.3.1 = {
+	religion = qigiyah
+}
+
+234.4.1 = {
+	culture = alaurine
+}
+
+261.4.1 = {
+	culture = raureid
+}
+
+335.4.1 = {
+	culture = alaurine
+}
+
+949.4.1 = {
+	b_lelainn = castle
+}
+
+996.4.1 = {
+	b_doraukr = temple
+}
+

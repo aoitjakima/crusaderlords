@@ -1,0 +1,33 @@
+	title = c_risenat
+	max_settlements = 2
+	culture = banaila
+	religion = qiteka
+	b_tiwoza = tribal
+203.3.1 = {
+	religion = terenat
+}
+
+207.3.1 = {
+	religion = qiteka
+}
+
+208.3.1 = {
+	religion = terenat
+}
+
+236.3.1 = {
+	religion = begeka
+}
+
+414.4.1 = {
+	culture = kitule
+}
+
+570.4.1 = {
+	b_tiwoza = castle
+}
+
+750.4.1 = {
+	b_bucule = temple
+}
+

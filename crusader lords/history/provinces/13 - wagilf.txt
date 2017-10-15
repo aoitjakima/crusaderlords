@@ -1,0 +1,41 @@
+	title = c_wagilf
+	max_settlements = 5
+	culture = wubihr
+	religion = aratihr
+	b_alyia = tribal
+1.1.1 = {
+	b_bafyao = ct_port_1
+}
+
+270.4.1 = {
+	culture = laris
+}
+
+361.4.1 = {
+	culture = wubihr
+}
+
+444.4.1 = {
+	culture = selalya
+}
+
+680.4.1 = {
+	b_alyia = castle
+}
+
+805.4.1 = {
+	b_bafyao = city
+}
+
+896.4.1 = {
+	b_taicako = temple
+}
+
+973.4.1 = {
+	b_kedako = temple
+}
+
+1064.4.1 = {
+	b_ramaikihr = temple
+}
+

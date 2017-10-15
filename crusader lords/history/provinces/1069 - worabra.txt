@@ -1,0 +1,25 @@
+	title = c_worabra
+	max_settlements = 3
+	culture = tiwics
+	religion = tonuyu
+	b_teuseya = tribal
+200.4.1 = {
+	culture = keusaam
+}
+
+413.4.1 = {
+	culture = keraam
+}
+
+705.4.1 = {
+	culture = tiwics
+}
+
+721.4.1 = {
+	culture = keraam
+}
+
+748.4.1 = {
+	culture = tiwics
+}
+

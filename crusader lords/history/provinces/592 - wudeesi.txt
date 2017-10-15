@@ -1,0 +1,101 @@
+	title = c_wudeesi
+	max_settlements = 4
+	culture = kapti
+	religion = kusran
+	b_waraila = tribal
+1.1.1 = {
+	b_tahiid = ct_port_1
+}
+
+200.3.1 = {
+	religion = raipi
+}
+
+212.4.1 = {
+	culture = kaureid
+}
+
+243.3.1 = {
+	religion = wedwig
+}
+
+243.4.1 = {
+	culture = eluedsalh
+}
+
+254.3.1 = {
+	religion = raipi
+}
+
+258.3.1 = {
+	religion = wedwig
+}
+
+259.3.1 = {
+	religion = raipi
+}
+
+268.3.1 = {
+	religion = wedwig
+}
+
+270.3.1 = {
+	religion = raipi
+}
+
+275.4.1 = {
+	culture = kapti
+}
+
+284.3.1 = {
+	religion = kusran
+}
+
+285.3.1 = {
+	religion = raipi
+}
+
+288.3.1 = {
+	religion = kusran
+}
+
+290.3.1 = {
+	religion = raipi
+}
+
+292.4.1 = {
+	culture = taodha
+}
+
+350.4.1 = {
+	culture = sutidoka
+}
+
+381.4.1 = {
+	culture = kapti
+}
+
+448.4.1 = {
+	culture = sutidoka
+}
+
+465.4.1 = {
+	culture = kapti
+}
+
+800.4.1 = {
+	b_waraila = castle
+}
+
+832.4.1 = {
+	b_nudoris = temple
+}
+
+936.4.1 = {
+	b_tahiid = city
+}
+
+1027.4.1 = {
+	b_lahaka = temple
+}
+

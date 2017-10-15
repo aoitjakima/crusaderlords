@@ -1,0 +1,21 @@
+	title = c_naunda
+	max_settlements = 2
+	culture = saimes
+	religion = qiteka
+	b_totiam = tribal
+206.4.1 = {
+	culture = esunadir
+}
+
+207.3.1 = {
+	religion = begeka
+}
+
+800.4.1 = {
+	b_totiam = castle
+}
+
+839.4.1 = {
+	b_regeodat = temple
+}
+

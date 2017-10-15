@@ -1,0 +1,73 @@
+	title = c_abang
+	max_settlements = 5
+	culture = tainand
+	religion = bobena
+	b_keland = tribal
+224.4.1 = {
+	culture = wedina
+}
+
+233.4.1 = {
+	culture = tainand
+}
+
+236.4.1 = {
+	culture = ween
+}
+
+291.4.1 = {
+	culture = tainand
+}
+
+401.4.1 = {
+	culture = welitya
+}
+
+409.4.1 = {
+	culture = tainand
+}
+
+432.4.1 = {
+	culture = welitya
+}
+
+587.4.1 = {
+	culture = titina
+}
+
+592.3.1 = {
+	religion = telayira
+}
+
+601.3.1 = {
+	religion = bobena
+}
+
+605.4.1 = {
+	culture = ween
+}
+
+608.3.1 = {
+	religion = telayira
+}
+
+609.3.1 = {
+	religion = bobena
+}
+
+624.3.1 = {
+	religion = telayira
+}
+
+761.4.1 = {
+	culture = titina
+}
+
+764.4.1 = {
+	culture = ween
+}
+
+984.4.1 = {
+	culture = titina
+}
+

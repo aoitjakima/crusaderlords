@@ -1,0 +1,45 @@
+	title = c_tirey
+	max_settlements = 4
+	culture = waetutlu
+	religion = qiteka
+	b_teleyo = tribal
+201.3.1 = {
+	religion = terenat
+}
+
+203.4.1 = {
+	culture = durga
+}
+
+203.3.1 = {
+	religion = qiteka
+}
+
+210.4.1 = {
+	culture = waetutlu
+}
+
+335.4.1 = {
+	culture = risutlu
+}
+
+500.4.1 = {
+	b_teleyo = castle
+}
+
+620.4.1 = {
+	b_akirada = city
+}
+
+734.4.1 = {
+	culture = saimes
+}
+
+830.4.1 = {
+	b_tyevery = temple
+}
+
+892.4.1 = {
+	b_kyevacob = castle
+}
+

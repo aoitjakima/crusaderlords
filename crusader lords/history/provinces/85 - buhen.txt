@@ -1,0 +1,29 @@
+	title = c_buhen
+	max_settlements = 3
+	culture = sodinia
+	religion = neharis
+	b_luhius = tribal
+202.4.1 = {
+	culture = aqahebel
+}
+
+263.4.1 = {
+	culture = sodinia
+}
+
+291.4.1 = {
+	culture = talentiy
+}
+
+500.4.1 = {
+	b_luhius = castle
+}
+
+620.4.1 = {
+	b_reribel = city
+}
+
+833.4.1 = {
+	b_erindik = temple
+}
+

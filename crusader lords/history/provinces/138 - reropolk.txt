@@ -1,0 +1,25 @@
+	title = c_reropolk
+	max_settlements = 2
+	culture = daimeig
+	religion = wedwig
+	b_ryaheria = tribal
+322.4.1 = {
+	culture = waynald
+}
+
+323.4.1 = {
+	culture = daimeig
+}
+
+382.4.1 = {
+	culture = waynald
+}
+
+710.4.1 = {
+	b_ryaheria = castle
+}
+
+802.4.1 = {
+	b_qibel = temple
+}
+

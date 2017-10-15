@@ -1,0 +1,93 @@
+	title = c_tated
+	max_settlements = 2
+	culture = eluedsalh
+	religion = wedwig
+	b_dyade = tribal
+200.3.1 = {
+	religion = raipi
+}
+
+206.3.1 = {
+	religion = wedwig
+}
+
+214.3.1 = {
+	religion = raipi
+}
+
+216.3.1 = {
+	religion = wedwig
+}
+
+230.3.1 = {
+	religion = raipi
+}
+
+231.3.1 = {
+	religion = wedwig
+}
+
+242.3.1 = {
+	religion = raipi
+}
+
+243.3.1 = {
+	religion = wedwig
+}
+
+254.3.1 = {
+	religion = raipi
+}
+
+258.3.1 = {
+	religion = wedwig
+}
+
+259.3.1 = {
+	religion = raipi
+}
+
+268.3.1 = {
+	religion = wedwig
+}
+
+270.3.1 = {
+	religion = raipi
+}
+
+278.3.1 = {
+	religion = kusran
+}
+
+280.3.1 = {
+	religion = raipi
+}
+
+287.4.1 = {
+	culture = kapti
+}
+
+306.4.1 = {
+	culture = eluedsalh
+}
+
+390.4.1 = {
+	culture = kapti
+}
+
+517.4.1 = {
+	culture = sutidoka
+}
+
+582.4.1 = {
+	culture = kapti
+}
+
+605.4.1 = {
+	b_dyade = castle
+}
+
+745.4.1 = {
+	b_kolyhon = temple
+}
+

@@ -1,0 +1,17 @@
+	title = c_qaramma
+	max_settlements = 4
+	culture = ketamma
+	religion = kusran
+	b_sarnyoka = tribal
+827.4.1 = {
+	b_sarnyoka = castle
+}
+
+867.4.1 = {
+	b_ectopti = city
+}
+
+961.4.1 = {
+	b_rarilen = temple
+}
+

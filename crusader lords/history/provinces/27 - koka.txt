@@ -1,0 +1,29 @@
+	title = c_koka
+	max_settlements = 5
+	culture = eshunpal
+	religion = neharis
+	b_karata = tribal
+1.1.1 = {
+	b_ludeya = ct_port_1
+}
+
+822.4.1 = {
+	b_karata = castle
+}
+
+851.4.1 = {
+	b_eshunpal = temple
+}
+
+925.4.1 = {
+	b_ludeya = city
+}
+
+1000.4.1 = {
+	b_sareya = temple
+}
+
+1059.4.1 = {
+	b_napala = temple
+}
+

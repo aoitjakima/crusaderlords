@@ -1,0 +1,153 @@
+	title = c_talecnen
+	max_settlements = 2
+	culture = qosogul
+	religion = kusran
+	b_qurinan = tribal
+200.3.1 = {
+	religion = raipi
+}
+
+201.4.1 = {
+	culture = sutidoka
+}
+
+204.3.1 = {
+	religion = kusran
+}
+
+204.3.1 = {
+	religion = raipi
+}
+
+206.3.1 = {
+	religion = kusran
+}
+
+214.3.1 = {
+	religion = raipi
+}
+
+232.3.1 = {
+	religion = kusran
+}
+
+242.3.1 = {
+	religion = raipi
+}
+
+244.3.1 = {
+	religion = kusran
+}
+
+254.3.1 = {
+	religion = raipi
+}
+
+256.3.1 = {
+	religion = kusran
+}
+
+259.3.1 = {
+	religion = raipi
+}
+
+261.3.1 = {
+	religion = kusran
+}
+
+265.3.1 = {
+	religion = raipi
+}
+
+267.3.1 = {
+	religion = kusran
+}
+
+270.3.1 = {
+	religion = raipi
+}
+
+279.3.1 = {
+	religion = kusran
+}
+
+280.3.1 = {
+	religion = raipi
+}
+
+281.3.1 = {
+	religion = kusran
+}
+
+285.3.1 = {
+	religion = raipi
+}
+
+286.3.1 = {
+	religion = kusran
+}
+
+286.3.1 = {
+	religion = raipi
+}
+
+287.3.1 = {
+	religion = kusran
+}
+
+290.3.1 = {
+	religion = raipi
+}
+
+295.3.1 = {
+	religion = kusran
+}
+
+295.3.1 = {
+	religion = raipi
+}
+
+297.3.1 = {
+	religion = kusran
+}
+
+300.3.1 = {
+	religion = raipi
+}
+
+302.3.1 = {
+	religion = kusran
+}
+
+303.3.1 = {
+	religion = raipi
+}
+
+306.3.1 = {
+	religion = kusran
+}
+
+317.3.1 = {
+	religion = raipi
+}
+
+329.4.1 = {
+	culture = kapti
+}
+
+409.4.1 = {
+	culture = sutidoka
+}
+
+456.4.1 = {
+	culture = kapti
+}
+
+806.4.1 = {
+	b_qurinan = castle
+}
+
+886.4.1 = {
+	b_asatan = temple
+}
+

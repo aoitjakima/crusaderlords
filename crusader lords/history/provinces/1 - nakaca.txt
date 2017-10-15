@@ -1,0 +1,29 @@
+	title = c_nakaca
+	max_settlements = 7
+	culture = nahuda
+	religion = neharis
+	b_wahina = tribal
+1.1.1 = {
+	b_kanent = ct_port_1
+}
+
+824.4.1 = {
+	b_wahina = castle
+}
+
+853.4.1 = {
+	b_salusha = temple
+}
+
+925.4.1 = {
+	b_kanent = city
+}
+
+983.4.1 = {
+	b_lamius = castle
+}
+
+1040.4.1 = {
+	b_sakega = castle
+}
+

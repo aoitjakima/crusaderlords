@@ -1,0 +1,25 @@
+	title = c_dorabra
+	max_settlements = 3
+	culture = kapala
+	religion = tonuyu
+	b_amatti = tribal
+1.1.1 = {
+	b_baysina = ct_port_1
+}
+
+785.4.1 = {
+	b_amatti = castle
+}
+
+821.4.1 = {
+	b_tudaclav = temple
+}
+
+870.4.1 = {
+	b_baysina = city
+}
+
+957.4.1 = {
+	culture = biho
+}
+

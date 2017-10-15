@@ -1,0 +1,13 @@
+	title = c_biebava
+	max_settlements = 3
+	culture = daimeig
+	religion = wedwig
+	b_toderia = tribal
+242.4.1 = {
+	culture = waynald
+}
+
+1038.4.1 = {
+	b_toderia = castle
+}
+

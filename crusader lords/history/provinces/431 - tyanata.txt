@@ -1,0 +1,77 @@
+	title = c_tyanata
+	max_settlements = 5
+	culture = waheber
+	religion = neharis
+	b_kerari = tribal
+203.4.1 = {
+	culture = raraber
+}
+
+204.3.1 = {
+	religion = nukaye
+}
+
+206.3.1 = {
+	religion = neharis
+}
+
+210.3.1 = {
+	religion = nukaye
+}
+
+214.3.1 = {
+	religion = neharis
+}
+
+218.3.1 = {
+	religion = nukaye
+}
+
+224.3.1 = {
+	religion = neharis
+}
+
+226.3.1 = {
+	religion = nukaye
+}
+
+227.3.1 = {
+	religion = neharis
+}
+
+230.3.1 = {
+	religion = nukaye
+}
+
+235.3.1 = {
+	religion = neharis
+}
+
+238.3.1 = {
+	religion = nukaye
+}
+
+251.4.1 = {
+	culture = wili
+}
+
+655.4.1 = {
+	b_kerari = castle
+}
+
+755.4.1 = {
+	b_berammad = city
+}
+
+836.4.1 = {
+	b_eciya = temple
+}
+
+881.4.1 = {
+	b_qagata = city
+}
+
+926.4.1 = {
+	b_saot = castle
+}
+

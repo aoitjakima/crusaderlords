@@ -1,0 +1,25 @@
+	title = c_etadeebiu
+	max_settlements = 3
+	culture = titina
+	religion = telayira
+	b_taulina = tribal
+215.4.1 = {
+	culture = dainbai
+}
+
+225.4.1 = {
+	culture = titina
+}
+
+795.4.1 = {
+	b_taulina = castle
+}
+
+819.4.1 = {
+	b_ditina = temple
+}
+
+876.4.1 = {
+	b_qada = city
+}
+

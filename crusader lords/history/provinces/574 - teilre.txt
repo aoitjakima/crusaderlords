@@ -1,0 +1,21 @@
+	title = c_teilre
+	max_settlements = 3
+	culture = karibel
+	religion = neharis
+	b_saulata = tribal
+1.1.1 = {
+	b_bosiel = ct_port_1
+}
+
+570.4.1 = {
+	b_saulata = castle
+}
+
+685.4.1 = {
+	b_bosiel = city
+}
+
+856.4.1 = {
+	b_bosata = temple
+}
+

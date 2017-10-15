@@ -1,0 +1,41 @@
+	title = c_ehlamur
+	max_settlements = 2
+	culture = negasseh
+	religion = wedwig
+	b_ehlanda = tribal
+306.4.1 = {
+	culture = davars
+}
+
+323.4.1 = {
+	culture = durga
+}
+
+514.4.1 = {
+	culture = davars
+}
+
+521.4.1 = {
+	culture = durga
+}
+
+545.4.1 = {
+	b_ehlanda = castle
+}
+
+561.4.1 = {
+	culture = ryanopti
+}
+
+620.4.1 = {
+	culture = durga
+}
+
+655.4.1 = {
+	culture = davars
+}
+
+675.4.1 = {
+	b_tesulad = city
+}
+

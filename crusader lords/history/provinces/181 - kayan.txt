@@ -1,0 +1,33 @@
+	title = c_kayan
+	max_settlements = 4
+	culture = daimeig
+	religion = wedwig
+	b_litava = tribal
+322.4.1 = {
+	culture = waynald
+}
+
+332.4.1 = {
+	culture = daimeig
+}
+
+386.4.1 = {
+	culture = waynald
+}
+
+605.4.1 = {
+	b_litava = castle
+}
+
+755.4.1 = {
+	b_talens = city
+}
+
+880.4.1 = {
+	b_kuleria = temple
+}
+
+963.4.1 = {
+	b_barnetn = castle
+}
+

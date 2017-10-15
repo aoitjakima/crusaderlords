@@ -1,0 +1,25 @@
+	title = c_kenanay
+	max_settlements = 3
+	culture = selalya
+	religion = aratihr
+	b_ragujku = tribal
+327.4.1 = {
+	culture = wubihr
+}
+
+424.4.1 = {
+	culture = selalya
+}
+
+670.4.1 = {
+	b_ragujku = castle
+}
+
+780.4.1 = {
+	b_ledihr = temple
+}
+
+869.4.1 = {
+	b_dinulay = city
+}
+

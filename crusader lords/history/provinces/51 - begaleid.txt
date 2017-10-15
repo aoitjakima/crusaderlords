@@ -1,0 +1,25 @@
+	title = c_begaleid
+	max_settlements = 2
+	culture = rubiho
+	religion = tonuyu
+	b_leselg = tribal
+244.3.1 = {
+	religion = kodine
+}
+
+245.3.1 = {
+	religion = tonuyu
+}
+
+274.4.1 = {
+	culture = biho
+}
+
+846.4.1 = {
+	b_leselg = castle
+}
+
+922.4.1 = {
+	b_agirahus = city
+}
+

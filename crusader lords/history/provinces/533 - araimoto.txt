@@ -1,0 +1,21 @@
+	title = c_araimoto
+	max_settlements = 3
+	culture = karibel
+	religion = neharis
+	b_epesule = tribal
+204.4.1 = {
+	culture = narentiy
+}
+
+560.4.1 = {
+	b_epesule = castle
+}
+
+675.4.1 = {
+	b_latoto = temple
+}
+
+829.4.1 = {
+	b_sunaila = city
+}
+

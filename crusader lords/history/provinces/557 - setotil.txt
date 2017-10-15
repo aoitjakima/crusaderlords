@@ -1,0 +1,61 @@
+	title = c_setotil
+	max_settlements = 4
+	culture = davars
+	religion = wedwig
+	b_baveorn = tribal
+1.1.1 = {
+	b_kuheorn = ct_port_1
+}
+
+296.4.1 = {
+	culture = negasseh
+}
+
+306.4.1 = {
+	culture = davars
+}
+
+315.4.1 = {
+	culture = negasseh
+}
+
+370.4.1 = {
+	culture = durga
+}
+
+514.4.1 = {
+	culture = davars
+}
+
+527.4.1 = {
+	culture = durga
+}
+
+569.4.1 = {
+	culture = ryanopti
+}
+
+615.4.1 = {
+	b_baveorn = castle
+}
+
+619.4.1 = {
+	culture = durga
+}
+
+657.4.1 = {
+	culture = davars
+}
+
+780.4.1 = {
+	b_raynii = temple
+}
+
+883.4.1 = {
+	b_kuheorn = city
+}
+
+964.4.1 = {
+	b_detald = temple
+}
+

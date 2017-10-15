@@ -1,0 +1,17 @@
+	title = c_lalella
+	max_settlements = 2
+	culture = amuhopti
+	religion = neharis
+	b_suhens = tribal
+301.4.1 = {
+	culture = syahes
+}
+
+525.4.1 = {
+	b_suhens = castle
+}
+
+660.4.1 = {
+	b_wahius = city
+}
+

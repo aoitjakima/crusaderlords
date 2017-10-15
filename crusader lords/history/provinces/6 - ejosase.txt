@@ -1,0 +1,21 @@
+	title = c_ejosase
+	max_settlements = 3
+	culture = etirune
+	religion = tonuyu
+	b_ekiam = tribal
+1.1.1 = {
+	b_kiorine = ct_port_1
+}
+
+880.4.1 = {
+	b_ekiam = castle
+}
+
+920.4.1 = {
+	b_kiorine = city
+}
+
+966.4.1 = {
+	b_telune = temple
+}
+

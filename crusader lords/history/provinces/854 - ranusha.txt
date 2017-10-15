@@ -1,0 +1,29 @@
+	title = c_ranusha
+	max_settlements = 7
+	culture = dainbai
+	religion = telayira
+	b_estauu = tribal
+1.1.1 = {
+	b_qabiu = ct_port_1
+}
+
+418.4.1 = {
+	culture = wedina
+}
+
+730.4.1 = {
+	b_estauu = castle
+}
+
+820.4.1 = {
+	b_qabiu = city
+}
+
+910.4.1 = {
+	b_rada = temple
+}
+
+995.4.1 = {
+	b_seonn = castle
+}
+

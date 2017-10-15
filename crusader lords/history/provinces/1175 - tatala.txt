@@ -1,0 +1,65 @@
+	title = c_tatala
+	max_settlements = 4
+	culture = ranahim
+	religion = tonuyu
+	b_nasala = tribal
+243.4.1 = {
+	culture = wabuzhi
+}
+
+302.4.1 = {
+	culture = ranahim
+}
+
+442.4.1 = {
+	culture = qenoos
+}
+
+445.4.1 = {
+	culture = ranahim
+}
+
+503.4.1 = {
+	culture = qenoos
+}
+
+533.4.1 = {
+	culture = ranahim
+}
+
+573.4.1 = {
+	culture = qenoos
+}
+
+627.4.1 = {
+	culture = ranahim
+}
+
+634.4.1 = {
+	culture = qenoos
+}
+
+748.4.1 = {
+	culture = ranahim
+}
+
+754.4.1 = {
+	culture = qenoos
+}
+
+841.4.1 = {
+	b_nasala = castle
+}
+
+875.4.1 = {
+	b_lonuyu = city
+}
+
+940.4.1 = {
+	b_anayaka = temple
+}
+
+1005.4.1 = {
+	b_damappa = castle
+}
+

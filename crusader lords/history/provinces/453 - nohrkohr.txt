@@ -1,0 +1,37 @@
+	title = c_nohrkohr
+	max_settlements = 5
+	culture = waynald
+	religion = wedwig
+	b_wuseja = tribal
+1.1.1 = {
+	b_welotil = ct_port_1
+}
+
+263.4.1 = {
+	culture = nuteria
+}
+
+299.4.1 = {
+	culture = waynald
+}
+
+620.4.1 = {
+	b_wuseja = castle
+}
+
+750.4.1 = {
+	b_wegiyer = temple
+}
+
+863.4.1 = {
+	b_welotil = city
+}
+
+935.4.1 = {
+	b_kuseorn = temple
+}
+
+1019.4.1 = {
+	b_wuhald = city
+}
+

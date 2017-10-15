@@ -1,0 +1,33 @@
+	title = c_taxiby
+	max_settlements = 4
+	culture = weliana
+	religion = wedwig
+	b_nuzada = tribal
+306.4.1 = {
+	culture = davars
+}
+
+308.4.1 = {
+	culture = weliana
+}
+
+351.4.1 = {
+	culture = davars
+}
+
+581.4.1 = {
+	b_nuzada = castle
+}
+
+675.4.1 = {
+	b_ruyadia = city
+}
+
+818.4.1 = {
+	b_teryey = temple
+}
+
+860.4.1 = {
+	b_sosison = temple
+}
+

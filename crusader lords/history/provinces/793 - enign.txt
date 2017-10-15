@@ -1,0 +1,77 @@
+	title = c_enign
+	max_settlements = 3
+	culture = terikatim
+	religion = telayira
+	b_retiu = tribal
+215.4.1 = {
+	culture = dainbai
+}
+
+218.4.1 = {
+	culture = terikatim
+}
+
+244.3.1 = {
+	religion = bobena
+}
+
+254.3.1 = {
+	religion = telayira
+}
+
+258.3.1 = {
+	religion = bobena
+}
+
+258.3.1 = {
+	religion = telayira
+}
+
+261.4.1 = {
+	culture = titina
+}
+
+264.3.1 = {
+	religion = bobena
+}
+
+269.3.1 = {
+	religion = telayira
+}
+
+271.3.1 = {
+	religion = bobena
+}
+
+271.4.1 = {
+	culture = terikatim
+}
+
+274.3.1 = {
+	religion = telayira
+}
+
+305.4.1 = {
+	culture = titina
+}
+
+358.4.1 = {
+	culture = terikatim
+}
+
+364.4.1 = {
+	culture = titina
+}
+
+824.4.1 = {
+	b_retiu = castle
+}
+
+855.4.1 = {
+	b_webonml = temple
+}
+
+916.4.1 = {
+	b_repetusha = city
+}
+

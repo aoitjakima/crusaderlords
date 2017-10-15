@@ -1,0 +1,29 @@
+	title = c_wigina
+	max_settlements = 6
+	culture = dainbai
+	religion = telayira
+	b_ladipp = tribal
+1.1.1 = {
+	b_redusha = ct_port_1
+}
+
+418.4.1 = {
+	culture = wedina
+}
+
+730.4.1 = {
+	b_ladipp = castle
+}
+
+820.4.1 = {
+	b_redusha = city
+}
+
+911.4.1 = {
+	b_akaugid = temple
+}
+
+1000.4.1 = {
+	b_esoniu = temple
+}
+

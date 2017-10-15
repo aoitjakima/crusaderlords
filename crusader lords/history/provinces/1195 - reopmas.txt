@@ -1,0 +1,37 @@
+	title = c_reopmas
+	max_settlements = 4
+	culture = radabor
+	religion = tonuyu
+	b_dudedawabr = tribal
+206.4.1 = {
+	culture = kadalen
+}
+
+238.4.1 = {
+	culture = radabor
+}
+
+257.4.1 = {
+	culture = wenira
+}
+
+264.4.1 = {
+	culture = radabor
+}
+
+730.4.1 = {
+	b_dudedawabr = castle
+}
+
+821.4.1 = {
+	b_ledibor = temple
+}
+
+937.4.1 = {
+	b_konelen = city
+}
+
+1015.4.1 = {
+	b_kedelen = temple
+}
+

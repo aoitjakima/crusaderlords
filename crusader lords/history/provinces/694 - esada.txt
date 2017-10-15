@@ -1,0 +1,37 @@
+	title = c_esada
+	max_settlements = 3
+	culture = ryanopti
+	religion = kusran
+	b_wiwidia = tribal
+201.3.1 = {
+	religion = wedwig
+}
+
+205.3.1 = {
+	religion = kusran
+}
+
+241.3.1 = {
+	religion = wedwig
+}
+
+266.3.1 = {
+	religion = kusran
+}
+
+343.3.1 = {
+	religion = wedwig
+}
+
+550.4.1 = {
+	b_wiwidia = castle
+}
+
+750.4.1 = {
+	b_adyoa = city
+}
+
+913.4.1 = {
+	b_nerery = temple
+}
+

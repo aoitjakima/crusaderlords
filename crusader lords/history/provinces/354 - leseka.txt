@@ -1,0 +1,29 @@
+	title = c_leseka
+	max_settlements = 3
+	culture = syahes
+	religion = neharis
+	b_taimily = tribal
+283.4.1 = {
+	culture = amuhopti
+}
+
+320.4.1 = {
+	culture = syahes
+}
+
+322.4.1 = {
+	culture = amuhopti
+}
+
+451.4.1 = {
+	culture = syahes
+}
+
+575.4.1 = {
+	b_taimily = castle
+}
+
+740.4.1 = {
+	b_kicadir = city
+}
+

@@ -1,0 +1,65 @@
+	title = c_binkaatol
+	max_settlements = 6
+	culture = qenoos
+	religion = tonuyu
+	b_rabia = tribal
+1.1.1 = {
+	b_erahim = ct_port_1
+}
+
+213.4.1 = {
+	culture = qegudo
+}
+
+243.4.1 = {
+	culture = qenoos
+}
+
+275.4.1 = {
+	culture = qegudo
+}
+
+288.4.1 = {
+	culture = qenoos
+}
+
+461.4.1 = {
+	culture = ranahim
+}
+
+471.4.1 = {
+	culture = qenoos
+}
+
+627.4.1 = {
+	culture = ranahim
+}
+
+633.4.1 = {
+	culture = qenoos
+}
+
+748.4.1 = {
+	culture = ranahim
+}
+
+773.4.1 = {
+	culture = qenoos
+}
+
+841.4.1 = {
+	b_rabia = castle
+}
+
+873.4.1 = {
+	b_soluzhi = temple
+}
+
+966.4.1 = {
+	b_erahim = city
+}
+
+1059.4.1 = {
+	b_renala = city
+}
+

@@ -1,0 +1,33 @@
+	title = c_seusipp
+	max_settlements = 4
+	culture = ebeina
+	religion = qiteka
+	b_ariwacob = tribal
+1.1.1 = {
+	b_wedyia = ct_port_1
+}
+
+339.4.1 = {
+	culture = risutlu
+}
+
+595.4.1 = {
+	b_ariwacob = castle
+}
+
+729.4.1 = {
+	culture = saimes
+}
+
+785.4.1 = {
+	b_wedyia = city
+}
+
+916.4.1 = {
+	b_kaudid = temple
+}
+
+1018.4.1 = {
+	b_ryevivi = temple
+}
+

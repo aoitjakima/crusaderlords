@@ -1,0 +1,89 @@
+	title = c_erimina
+	max_settlements = 6
+	culture = wedina
+	religion = bobena
+	b_rarikao = tribal
+200.3.1 = {
+	religion = qigiyah
+}
+
+201.3.1 = {
+	religion = wedwig
+}
+
+201.3.1 = {
+	religion = qigiyah
+}
+
+205.3.1 = {
+	religion = wedwig
+}
+
+205.4.1 = {
+	culture = raureid
+}
+
+211.3.1 = {
+	religion = qigiyah
+}
+
+214.3.1 = {
+	religion = wedwig
+}
+
+214.3.1 = {
+	religion = qigiyah
+}
+
+216.3.1 = {
+	religion = wedwig
+}
+
+216.3.1 = {
+	religion = qigiyah
+}
+
+224.3.1 = {
+	religion = wedwig
+}
+
+228.3.1 = {
+	religion = qigiyah
+}
+
+230.3.1 = {
+	religion = wedwig
+}
+
+236.3.1 = {
+	religion = qigiyah
+}
+
+241.3.1 = {
+	religion = wedwig
+}
+
+241.3.1 = {
+	religion = qigiyah
+}
+
+290.4.1 = {
+	culture = alaurine
+}
+
+384.4.1 = {
+	culture = kyayalen
+}
+
+399.4.1 = {
+	culture = alaurine
+}
+
+957.4.1 = {
+	b_rarikao = castle
+}
+
+1023.4.1 = {
+	b_ranimha = city
+}
+

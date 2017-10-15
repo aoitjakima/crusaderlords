@@ -1,0 +1,65 @@
+	title = c_asiyadia
+	max_settlements = 7
+	culture = qosogul
+	religion = kusran
+	b_adosison = tribal
+201.3.1 = {
+	religion = raipi
+}
+
+204.3.1 = {
+	religion = kusran
+}
+
+220.3.1 = {
+	religion = raipi
+}
+
+229.3.1 = {
+	religion = kusran
+}
+
+230.3.1 = {
+	religion = raipi
+}
+
+232.3.1 = {
+	religion = kusran
+}
+
+239.3.1 = {
+	religion = raipi
+}
+
+241.3.1 = {
+	religion = kusran
+}
+
+249.3.1 = {
+	religion = raipi
+}
+
+265.4.1 = {
+	culture = eluedsalh
+}
+
+336.4.1 = {
+	culture = sigivkah
+}
+
+690.4.1 = {
+	b_adosison = castle
+}
+
+809.4.1 = {
+	b_kosaila = temple
+}
+
+902.4.1 = {
+	b_lobery = city
+}
+
+997.4.1 = {
+	b_kuzande = city
+}
+

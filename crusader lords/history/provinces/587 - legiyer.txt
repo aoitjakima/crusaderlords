@@ -1,0 +1,29 @@
+	title = c_legiyer
+	max_settlements = 4
+	culture = davars
+	religion = wedwig
+	b_luseja = tribal
+335.4.1 = {
+	culture = durga
+}
+
+367.4.1 = {
+	culture = davars
+}
+
+590.4.1 = {
+	b_luseja = castle
+}
+
+710.4.1 = {
+	b_quhars = temple
+}
+
+857.4.1 = {
+	b_qarejalohg = city
+}
+
+925.4.1 = {
+	b_adeorn = temple
+}
+

@@ -1,0 +1,77 @@
+	title = c_rabia
+	max_settlements = 5
+	culture = ranahim
+	religion = tonuyu
+	b_ratala = tribal
+1.1.1 = {
+	b_wetolayya = ct_port_1
+}
+
+240.4.1 = {
+	culture = qenoos
+}
+
+280.4.1 = {
+	culture = ranahim
+}
+
+352.4.1 = {
+	culture = qenoos
+}
+
+578.4.1 = {
+	culture = ranahim
+}
+
+719.4.1 = {
+	culture = qenoos
+}
+
+726.4.1 = {
+	culture = ranahim
+}
+
+811.4.1 = {
+	culture = qenoos
+}
+
+817.4.1 = {
+	culture = ranahim
+}
+
+840.4.1 = {
+	b_ratala = castle
+}
+
+915.4.1 = {
+	b_wetolayya = city
+}
+
+974.4.1 = {
+	culture = qenoos
+}
+
+979.4.1 = {
+	culture = ranahim
+}
+
+1007.4.1 = {
+	culture = qenoos
+}
+
+1018.4.1 = {
+	culture = ranahim
+}
+
+1021.4.1 = {
+	culture = qenoos
+}
+
+1024.4.1 = {
+	culture = ranahim
+}
+
+1053.4.1 = {
+	culture = qenoos
+}
+

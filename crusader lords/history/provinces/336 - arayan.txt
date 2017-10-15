@@ -1,0 +1,13 @@
+	title = c_arayan
+	max_settlements = 2
+	culture = waynald
+	religion = wedwig
+	b_suhes = tribal
+630.4.1 = {
+	b_suhes = castle
+}
+
+801.4.1 = {
+	b_raretian = temple
+}
+

@@ -1,0 +1,13 @@
+	title = c_tosohn
+	max_settlements = 2
+	culture = liebes
+	religion = neharis
+	b_adinith = tribal
+550.4.1 = {
+	b_adinith = castle
+}
+
+660.4.1 = {
+	b_tegopiel = city
+}
+

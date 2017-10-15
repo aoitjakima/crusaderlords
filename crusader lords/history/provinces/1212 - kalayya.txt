@@ -1,0 +1,41 @@
+	title = c_kalayya
+	max_settlements = 2
+	culture = qenoos
+	religion = binuyu
+	b_sonayya = tribal
+201.3.1 = {
+	religion = tonuyu
+}
+
+212.3.1 = {
+	religion = binuyu
+}
+
+217.3.1 = {
+	religion = tonuyu
+}
+
+278.4.1 = {
+	culture = ranahim
+}
+
+303.4.1 = {
+	culture = qenoos
+}
+
+549.4.1 = {
+	culture = ranahim
+}
+
+807.4.1 = {
+	culture = qenoos
+}
+
+868.4.1 = {
+	b_sonayya = castle
+}
+
+912.4.1 = {
+	b_arala = temple
+}
+

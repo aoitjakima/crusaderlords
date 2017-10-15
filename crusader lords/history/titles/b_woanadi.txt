@@ -1,0 +1,12 @@
+822.2.1 = {
+	liege = d_kucirza
+}
+
+822.2.2 = {
+	holder = 1041850
+}
+
+822.4.1 = {
+	holding_dynasty = 21617
+}
+

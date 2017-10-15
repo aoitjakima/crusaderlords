@@ -1,0 +1,93 @@
+	title = c_warainafu
+	max_settlements = 5
+	culture = syahes
+	religion = neharis
+	b_lunonka = tribal
+201.3.1 = {
+	religion = naneka
+}
+
+205.3.1 = {
+	religion = qiteka
+}
+
+208.3.1 = {
+	religion = naneka
+}
+
+210.3.1 = {
+	religion = qiteka
+}
+
+211.3.1 = {
+	religion = naneka
+}
+
+212.3.1 = {
+	religion = qiteka
+}
+
+213.3.1 = {
+	religion = naneka
+}
+
+219.3.1 = {
+	religion = qiteka
+}
+
+219.3.1 = {
+	religion = naneka
+}
+
+230.4.1 = {
+	culture = esunadir
+}
+
+423.4.1 = {
+	culture = sereka
+}
+
+449.4.1 = {
+	culture = esunadir
+}
+
+463.4.1 = {
+	culture = sereka
+}
+
+513.4.1 = {
+	culture = esunadir
+}
+
+519.4.1 = {
+	culture = sereka
+}
+
+575.4.1 = {
+	b_lunonka = castle
+}
+
+579.4.1 = {
+	culture = esunadir
+}
+
+655.4.1 = {
+	b_leatily = temple
+}
+
+763.4.1 = {
+	culture = sereka
+}
+
+814.4.1 = {
+	b_reative = city
+}
+
+858.4.1 = {
+	b_qesando = castle
+}
+
+908.4.1 = {
+	b_egiseka = temple
+}
+

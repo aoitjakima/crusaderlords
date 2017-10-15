@@ -1,0 +1,29 @@
+	title = c_wicina
+	max_settlements = 5
+	culture = wenira
+	religion = tonuyu
+	b_nakatti = tribal
+1.1.1 = {
+	b_wededa = ct_port_1
+}
+
+337.4.1 = {
+	culture = radabor
+}
+
+710.4.1 = {
+	b_nakatti = castle
+}
+
+816.4.1 = {
+	b_wededa = city
+}
+
+901.4.1 = {
+	b_enicelen = temple
+}
+
+987.4.1 = {
+	b_rorina = temple
+}
+

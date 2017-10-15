@@ -1,0 +1,45 @@
+	title = c_rauludo
+	max_settlements = 6
+	culture = liebes
+	religion = neharis
+	b_keratim = tribal
+209.4.1 = {
+	culture = aqahebel
+}
+
+210.4.1 = {
+	culture = talentiy
+}
+
+282.4.1 = {
+	culture = sodinia
+}
+
+286.4.1 = {
+	culture = talentiy
+}
+
+500.4.1 = {
+	b_keratim = castle
+}
+
+585.4.1 = {
+	b_takatta = city
+}
+
+790.4.1 = {
+	b_nilaoro = temple
+}
+
+845.4.1 = {
+	b_wosanet = temple
+}
+
+892.4.1 = {
+	b_abakoses = temple
+}
+
+938.4.1 = {
+	b_sarata = temple
+}
+

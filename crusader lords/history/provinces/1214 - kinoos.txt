@@ -1,0 +1,49 @@
+	title = c_kinoos
+	max_settlements = 4
+	culture = qegudo
+	religion = tonuyu
+	b_nolahim = tribal
+243.4.1 = {
+	culture = qenoos
+}
+
+275.4.1 = {
+	culture = qegudo
+}
+
+288.4.1 = {
+	culture = qenoos
+}
+
+461.4.1 = {
+	culture = ranahim
+}
+
+471.4.1 = {
+	culture = qenoos
+}
+
+627.4.1 = {
+	culture = ranahim
+}
+
+633.4.1 = {
+	culture = qenoos
+}
+
+748.4.1 = {
+	culture = ranahim
+}
+
+773.4.1 = {
+	culture = qenoos
+}
+
+949.4.1 = {
+	b_nolahim = castle
+}
+
+995.4.1 = {
+	b_acenia = temple
+}
+

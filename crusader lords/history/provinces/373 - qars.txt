@@ -1,0 +1,61 @@
+	title = c_qars
+	max_settlements = 3
+	culture = daimeja
+	religion = raipi
+	b_rusotil = tribal
+1.1.1 = {
+	b_negeng = ct_port_1
+}
+
+207.3.1 = {
+	religion = wedwig
+}
+
+213.3.1 = {
+	religion = raipi
+}
+
+214.3.1 = {
+	religion = wedwig
+}
+
+224.3.1 = {
+	religion = raipi
+}
+
+225.3.1 = {
+	religion = wedwig
+}
+
+229.3.1 = {
+	religion = raipi
+}
+
+231.3.1 = {
+	religion = wedwig
+}
+
+232.3.1 = {
+	religion = raipi
+}
+
+236.3.1 = {
+	religion = wedwig
+}
+
+278.4.1 = {
+	culture = weliana
+}
+
+665.4.1 = {
+	b_rusotil = castle
+}
+
+802.4.1 = {
+	b_leleorn = temple
+}
+
+894.4.1 = {
+	b_negeng = city
+}
+

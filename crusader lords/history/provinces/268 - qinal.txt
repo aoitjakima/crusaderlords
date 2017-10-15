@@ -1,0 +1,33 @@
+	title = c_qinal
+	max_settlements = 4
+	culture = nitindik
+	religion = neharis
+	b_qaharia = tribal
+213.4.1 = {
+	culture = syahes
+}
+
+227.4.1 = {
+	culture = nitindik
+}
+
+234.4.1 = {
+	culture = sodinia
+}
+
+515.4.1 = {
+	b_qaharia = castle
+}
+
+615.4.1 = {
+	b_diceven = temple
+}
+
+830.4.1 = {
+	b_ticenna = city
+}
+
+874.4.1 = {
+	b_kiniel = temple
+}
+

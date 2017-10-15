@@ -1,0 +1,97 @@
+	title = c_erobaug
+	max_settlements = 2
+	culture = welitya
+	religion = bobena
+	b_bena = tribal
+472.4.1 = {
+	culture = ween
+}
+
+552.4.1 = {
+	culture = welitya
+}
+
+554.4.1 = {
+	culture = ween
+}
+
+570.4.1 = {
+	culture = welitya
+}
+
+584.4.1 = {
+	culture = ween
+}
+
+587.4.1 = {
+	culture = titina
+}
+
+588.4.1 = {
+	culture = ween
+}
+
+592.3.1 = {
+	religion = telayira
+}
+
+601.3.1 = {
+	religion = bobena
+}
+
+608.3.1 = {
+	religion = telayira
+}
+
+609.3.1 = {
+	religion = bobena
+}
+
+624.3.1 = {
+	religion = telayira
+}
+
+677.3.1 = {
+	religion = bobena
+}
+
+680.4.1 = {
+	culture = welitya
+}
+
+682.3.1 = {
+	religion = telayira
+}
+
+685.3.1 = {
+	religion = bobena
+}
+
+685.3.1 = {
+	religion = telayira
+}
+
+691.3.1 = {
+	religion = bobena
+}
+
+703.3.1 = {
+	religion = telayira
+}
+
+748.4.1 = {
+	culture = ween
+}
+
+761.4.1 = {
+	culture = titina
+}
+
+766.4.1 = {
+	culture = ween
+}
+
+876.4.1 = {
+	culture = titina
+}
+

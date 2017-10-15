@@ -1,0 +1,21 @@
+	title = c_tagilina
+	max_settlements = 2
+	culture = ahenatha
+	religion = tonuyu
+	b_senira = tribal
+203.3.1 = {
+	religion = worelen
+}
+
+205.4.1 = {
+	culture = nalaam
+}
+
+650.4.1 = {
+	b_senira = castle
+}
+
+745.4.1 = {
+	b_taysodonra = temple
+}
+

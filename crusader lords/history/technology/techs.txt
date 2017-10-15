@@ -1,0 +1,1053 @@
+technology = {
+	titles = {
+		d_kiunmas
+		d_litena
+		d_wualra
+		d_elelaug
+		d_tenitya
+		d_ritaukr
+		d_delaukr
+		d_ladada
+		d_esabiu
+		d_qagina
+		d_ekeliz
+		d_kainina
+		d_qafnowilse
+		d_sularobn
+		d_wezeyl
+		d_qeraria
+		d_tulita
+		d_qicata
+		d_abulosk
+		d_reonezo
+		d_tata
+		d_sauleva
+		d_emahayya
+		d_nafuno
+		d_sainbai
+		d_kaand
+		d_ronka
+		d_tikinda
+		d_lalekr
+		d_tezamon
+		d_akezorwozor
+		d_nuitolf
+		d_kozaraja
+		d_dualda
+		d_wusalda
+		d_wius
+		d_ralourt
+		d_kozourt
+		d_soth
+		d_agenena
+		d_roband
+		d_nikitya
+		d_baatim
+		d_kenao
+		d_qitand
+		d_kelaukr
+		d_relina
+		d_telonka
+		d_eforainn
+		d_taug
+		d_tusen
+		d_nayya
+		d_kicala
+		d_karaka
+		d_kameki
+		d_ruketer
+		d_akehaletal
+		d_akyugltazl
+		d_tahouwe
+		d_lehenna
+		d_asaulre
+		d_qakohn
+		d_liciel
+		d_qehajpal
+		d_tazal
+		d_wosaria
+		d_lyananda
+		d_syugal
+		d_nakohn
+		d_wopith
+		d_topal
+		d_beradir
+		d_reroz
+		d_ekadowerbul
+		d_qanata
+		d_kagoses
+		d_kauliya
+		d_retheovag
+		d_belayaka
+		d_ranantay
+		d_taijine
+		d_baulule
+		d_talania
+		d_ticotos
+		d_tuduge
+		d_qalabra
+		d_dabra
+		d_namicige
+		d_kaijine
+		d_kalong
+		d_avaline
+		d_banong
+		d_ranevag
+		d_abaijine
+		d_raijong
+		d_nukah
+		d_qaijnataijsakepine
+		d_tallohn
+		d_talohn
+		d_qureter
+		d_raline
+		d_turenna
+		d_kohn
+		d_depeter
+		d_sepenna
+		d_egaotta
+		d_tarer
+		d_been
+		d_rinosrau
+		d_ratata
+		d_qenzy
+		d_enulay
+		d_qinanay
+		d_afyaa
+		d_abelulay
+		d_kayad
+		d_eranuhan
+		d_tanadantaa
+		d_ranena
+		d_arateg
+		d_seopili
+		d_serunan
+		d_talam
+		d_qilan
+		d_leopili
+		d_begulam
+		d_seta
+		d_kyasim
+		d_nyugilk
+		d_sepeta
+		d_dazusi
+		d_siacuyu
+		d_atoluge
+		d_byarala
+		d_qasepi
+		d_sanaru
+		d_seniebia
+		d_tabimiy
+		d_debara
+		d_ecailule
+		d_lonim
+		d_atoroy
+		d_kavenha
+		d_kucirza
+		d_rentiy
+		d_tigata
+		d_renya
+		d_abayaal
+		d_dyajauf
+		d_damrinse
+		d_kalengar
+		d_rudrand
+		d_acening
+		d_koluge
+		d_eradra
+		d_etolappa
+		d_bolala
+		d_riahus
+		d_rubelg
+		d_dotos
+		d_rubius
+		d_lakony
+		d_nahkelia
+		d_qaurebia
+		d_qoumas
+		d_kaleya
+		d_repeya
+		d_wohaura
+		d_watti
+		d_roratti
+		d_rerelia
+		d_nala
+		d_etheolda
+		d_kuau
+		d_tanapiu
+		d_esauluri
+		d_katamid
+		d_dand
+		d_rert
+		d_leviu
+		d_suarc
+		d_buad
+		d_kuriu
+		d_tareen
+		d_tudoumas
+		d_qasvel
+		d_sudira
+		d_nilibor
+		d_bijine
+		d_baruar
+		d_atilen
+		d_toketa
+		d_bagente
+		d_daliks
+		d_kecida
+		d_regusas
+		d_kabudo
+		d_lylira
+		d_nukusas
+		d_nukina
+		d_qegudo
+		d_edradai
+		d_kaxage
+		d_rukudo
+		d_edonmasrudba
+		d_tedibor
+		d_ludeslav
+		d_borira
+		d_wicuga
+		d_silony
+		d_sadatha
+		d_wenina
+		d_tiyaiya
+		d_namisi
+		d_enaraber
+		d_begeorn
+		d_ecatiyer
+		d_dutnas
+		d_nuhibel
+		d_lyahes
+		d_rieben
+		d_kodopti
+		d_rodibel
+		d_emuhius
+		d_aruhibel
+		d_taviyer
+		d_kuhibel
+		d_suheria
+		d_ryahen
+		d_larnanis
+		d_kenens
+		d_tens
+		d_lulens
+		d_tusaye
+		d_nodaye
+		d_bicekar
+		d_kenando
+		d_awuhayan
+		d_badolf
+		d_kuhars
+		d_epaveng
+		d_teylina
+		d_byio
+		d_dyoo
+		d_bated
+		d_tovison
+		d_emwery
+		d_ruzada
+		d_qoros
+		d_niyala
+		d_laxison
+		d_ruyalla
+		d_susolf
+		d_taurn
+		d_tegunduz
+		d_qorald
+		d_satemis
+		d_teteng
+		d_raynald
+		d_kuhgat
+		d_tuheng
+		d_begiyer
+		d_begii
+		d_araurn
+		d_teateka
+		d_totes
+		d_terinus
+		d_kagisule
+		d_waunda
+		d_ehleina
+		d_qulad
+		d_dopiam
+		d_kucuel
+		d_asurga
+		d_qiraura
+		d_butlu
+		d_ehlutlu
+		d_sareina
+		d_lucuel
+		d_karlbunl
+		d_ririlip
+		d_wehlosa
+		d_kunics
+		d_kayaka
+		d_asmuel
+		d_nerule
+		d_qelin
+		d_asiwutlu
+		d_tosa
+		d_roanadi
+		d_durga
+		d_bamenda
+		d_taxina
+		d_qetuvdi
+		d_remetanda
+		d_kisarma
+		d_licolas
+		d_sanolas
+		d_wadron
+		d_kicando
+		d_agisarma
+		d_qices
+		d_qenes
+		d_eraimoto
+		d_banafu
+		d_aritesaimla
+		d_wunive
+		d_ritartn
+		d_kegadir
+		d_toruvdi
+		d_ehlamur
+		d_taunda
+		d_kalamamur
+		d_docanda
+		d_setenr
+		d_taudenda
+		d_keseodat
+		d_tanenr
+		d_tegive
+		d_kuroros
+		d_kuzyla
+		d_neleyled
+		d_larusha
+		d_kusutan
+		d_bajadew
+		d_tegaurava
+		d_lutoukh
+		d_qoukh
+		d_asatemid
+		d_keormut
+		d_keorakk
+		d_beormut
+		d_qemagutan
+		d_navoka
+		d_nozutan
+		d_ratutan
+		d_saurmaalen
+		d_wahiapti
+		d_tetinan
+		d_kutidan
+		d_necaham
+		d_ratinan
+		d_baroka
+		d_saipan
+		d_saroka
+		d_wicipac
+		d_bauroka
+		d_tarilen
+		d_kolilia
+		d_terure
+		d_rekoman
+		d_rakelder
+		d_banesi
+		d_domas
+		d_quderd
+		d_qamsica
+		d_ravibel
+		d_ehodanay
+		d_kogovya
+		d_sukeeya
+		d_reniyah
+		d_anafiy
+		d_ryumata
+		d_damaherma
+		d_qanay
+		d_tenata
+		d_kyumi
+		d_qenata
+		d_bawolelen
+		d_ridilia
+		d_rupelen
+		d_ejesek
+		d_bunelen
+		d_kusran
+		d_waracik
+		d_resina
+		d_reocob
+		d_bohidia
+		d_rusid
+		d_qafedacob
+		d_sohipp
+		d_qyeverd
+		d_busidia
+		d_davivi
+		d_neracob
+		d_rusihal
+		d_qedodar
+		d_seuserd
+		d_kusada
+		d_tohiby
+		d_epuridia
+		d_robyla
+		d_wuyaen
+		d_wucery
+		d_diyala
+		d_badarada
+		d_qosyhon
+		d_rurey
+		d_keveynada
+		d_nolinus
+		d_tahian
+		d_kopoedl
+		d_asunidia
+		d_ruland
+		d_rigina
+		d_egeseike
+		d_tesine
+		d_wularda
+		d_erupo
+		d_wewaleid
+		d_bauraka
+		d_nolalwo
+		d_nelaka
+		d_qeesi
+		d_etelaka
+		d_wahild
+		d_epriter
+		d_wepaka
+		d_eepalwo
+		d_dateed
+		d_alidhin
+		d_rolufia
+		d_koporis
+		d_kepiid
+		d_efoladir
+		d_reous
+		d_edopal
+		d_worelen
+	}
+	197 = {
+		military = 0
+		economy = 0
+		culture = 0
+	}
+	200 = {
+		military = 0
+		economy = 0
+		culture = 0
+	}
+	203 = {
+		military = 0
+		economy = 0
+		culture = 0
+	}
+	220 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+	226 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+	228 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+	231 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+	237 = {
+		military = 0.2
+		economy = 0.2
+		culture = 0.2
+	}
+	247 = {
+		military = 0.2
+		economy = 0.2
+		culture = 0.2
+	}
+	249 = {
+		military = 0.2
+		economy = 0.2
+		culture = 0.2
+	}
+	257 = {
+		military = 0.3
+		economy = 0.3
+		culture = 0.3
+	}
+	259 = {
+		military = 0.3
+		economy = 0.3
+		culture = 0.3
+	}
+	267 = {
+		military = 0.3
+		economy = 0.3
+		culture = 0.3
+	}
+	285 = {
+		military = 0.4
+		economy = 0.4
+		culture = 0.4
+	}
+	295 = {
+		military = 0.5
+		economy = 0.5
+		culture = 0.5
+	}
+	298 = {
+		military = 0.5
+		economy = 0.5
+		culture = 0.5
+	}
+	318 = {
+		military = 0.6
+		economy = 0.6
+		culture = 0.6
+	}
+	329 = {
+		military = 0.7
+		economy = 0.7
+		culture = 0.7
+	}
+	332 = {
+		military = 0.7
+		economy = 0.7
+		culture = 0.7
+	}
+	343 = {
+		military = 0.7
+		economy = 0.7
+		culture = 0.7
+	}
+	353 = {
+		military = 0.8
+		economy = 0.8
+		culture = 0.8
+	}
+	358 = {
+		military = 0.8
+		economy = 0.8
+		culture = 0.8
+	}
+	373 = {
+		military = 0.9
+		economy = 0.9
+		culture = 0.9
+	}
+	376 = {
+		military = 0.9
+		economy = 0.9
+		culture = 0.9
+	}
+	388 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+	395 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+	398 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+	402 = {
+		military = 1.1
+		economy = 1.1
+		culture = 1.1
+	}
+	413 = {
+		military = 1.1
+		economy = 1.1
+		culture = 1.1
+	}
+	414 = {
+		military = 1.1
+		economy = 1.1
+		culture = 1.1
+	}
+	416 = {
+		military = 1.1
+		economy = 1.1
+		culture = 1.1
+	}
+	417 = {
+		military = 1.1
+		economy = 1.1
+		culture = 1.1
+	}
+	444 = {
+		military = 1.3
+		economy = 1.3
+		culture = 1.3
+	}
+	450 = {
+		military = 1.3
+		economy = 1.3
+		culture = 1.3
+	}
+	453 = {
+		military = 1.3
+		economy = 1.3
+		culture = 1.3
+	}
+	455 = {
+		military = 1.4
+		economy = 1.4
+		culture = 1.4
+	}
+	457 = {
+		military = 1.4
+		economy = 1.4
+		culture = 1.4
+	}
+	459 = {
+		military = 1.4
+		economy = 1.4
+		culture = 1.4
+	}
+	461 = {
+		military = 1.4
+		economy = 1.4
+		culture = 1.4
+	}
+	462 = {
+		military = 1.4
+		economy = 1.4
+		culture = 1.4
+	}
+	473 = {
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
+	}
+	478 = {
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
+	}
+	494 = {
+		military = 1.6
+		economy = 1.6
+		culture = 1.6
+	}
+	497 = {
+		military = 1.6
+		economy = 1.6
+		culture = 1.6
+	}
+	501 = {
+		military = 1.6
+		economy = 1.6
+		culture = 1.6
+	}
+	517 = {
+		military = 1.7
+		economy = 1.7
+		culture = 1.7
+	}
+	536 = {
+		military = 1.8
+		economy = 1.8
+		culture = 1.8
+	}
+	552 = {
+		military = 1.9
+		economy = 1.9
+		culture = 1.9
+	}
+	572 = {
+		military = 2
+		economy = 2
+		culture = 2
+	}
+	574 = {
+		military = 2
+		economy = 2
+		culture = 2
+	}
+	578 = {
+		military = 2
+		economy = 2
+		culture = 2
+	}
+	581 = {
+		military = 2.1
+		economy = 2.1
+		culture = 2.1
+	}
+	582 = {
+		military = 2.1
+		economy = 2.1
+		culture = 2.1
+	}
+	587 = {
+		military = 2.1
+		economy = 2.1
+		culture = 2.1
+	}
+	609 = {
+		military = 2.2
+		economy = 2.2
+		culture = 2.2
+	}
+	611 = {
+		military = 2.2
+		economy = 2.2
+		culture = 2.2
+	}
+	612 = {
+		military = 2.2
+		economy = 2.2
+		culture = 2.2
+	}
+	615 = {
+		military = 2.2
+		economy = 2.2
+		culture = 2.2
+	}
+	622 = {
+		military = 2.3
+		economy = 2.3
+		culture = 2.3
+	}
+	624 = {
+		military = 2.3
+		economy = 2.3
+		culture = 2.3
+	}
+	625 = {
+		military = 2.3
+		economy = 2.3
+		culture = 2.3
+	}
+	628 = {
+		military = 2.3
+		economy = 2.3
+		culture = 2.3
+	}
+	637 = {
+		military = 2.4
+		economy = 2.4
+		culture = 2.4
+	}
+	644 = {
+		military = 2.4
+		economy = 2.4
+		culture = 2.4
+	}
+	660 = {
+		military = 2.5
+		economy = 2.5
+		culture = 2.5
+	}
+	664 = {
+		military = 2.5
+		economy = 2.5
+		culture = 2.5
+	}
+	665 = {
+		military = 2.5
+		economy = 2.5
+		culture = 2.5
+	}
+	667 = {
+		military = 2.5
+		economy = 2.5
+		culture = 2.5
+	}
+	674 = {
+		military = 2.6
+		economy = 2.6
+		culture = 2.6
+	}
+	695 = {
+		military = 2.7
+		economy = 2.7
+		culture = 2.7
+	}
+	699 = {
+		military = 2.7
+		economy = 2.7
+		culture = 2.7
+	}
+	704 = {
+		military = 2.7
+		economy = 2.7
+		culture = 2.7
+	}
+	709 = {
+		military = 2.8
+		economy = 2.8
+		culture = 2.8
+	}
+	711 = {
+		military = 2.8
+		economy = 2.8
+		culture = 2.8
+	}
+	712 = {
+		military = 2.8
+		economy = 2.8
+		culture = 2.8
+	}
+	719 = {
+		military = 2.8
+		economy = 2.8
+		culture = 2.8
+	}
+	720 = {
+		military = 2.8
+		economy = 2.8
+		culture = 2.8
+	}
+	728 = {
+		military = 2.9
+		economy = 2.9
+		culture = 2.9
+	}
+	729 = {
+		military = 2.9
+		economy = 2.9
+		culture = 2.9
+	}
+	730 = {
+		military = 2.9
+		economy = 2.9
+		culture = 2.9
+	}
+	734 = {
+		military = 2.9
+		economy = 2.9
+		culture = 2.9
+	}
+	751 = {
+		military = 3
+		economy = 3
+		culture = 3
+	}
+	752 = {
+		military = 3
+		economy = 3
+		culture = 3
+	}
+	758 = {
+		military = 3
+		economy = 3
+		culture = 3
+	}
+	759 = {
+		military = 3
+		economy = 3
+		culture = 3
+	}
+	760 = {
+		military = 3
+		economy = 3
+		culture = 3
+	}
+	777 = {
+		military = 3.1
+		economy = 3.1
+		culture = 3.1
+	}
+	784 = {
+		military = 3.2
+		economy = 3.2
+		culture = 3.2
+	}
+	785 = {
+		military = 3.2
+		economy = 3.2
+		culture = 3.2
+	}
+	800 = {
+		military = 3.3
+		economy = 3.3
+		culture = 3.3
+	}
+	808 = {
+		military = 3.3
+		economy = 3.3
+		culture = 3.3
+	}
+	813 = {
+		military = 3.3
+		economy = 3.3
+		culture = 3.3
+	}
+	815 = {
+		military = 3.3
+		economy = 3.3
+		culture = 3.3
+	}
+	820 = {
+		military = 3.4
+		economy = 3.4
+		culture = 3.4
+	}
+	824 = {
+		military = 3.4
+		economy = 3.4
+		culture = 3.4
+	}
+	826 = {
+		military = 3.4
+		economy = 3.4
+		culture = 3.4
+	}
+	828 = {
+		military = 3.4
+		economy = 3.4
+		culture = 3.4
+	}
+	836 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+	841 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+	847 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+	850 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+	864 = {
+		military = 3.6
+		economy = 3.6
+		culture = 3.6
+	}
+	868 = {
+		military = 3.6
+		economy = 3.6
+		culture = 3.6
+	}
+	872 = {
+		military = 3.7
+		economy = 3.7
+		culture = 3.7
+	}
+	878 = {
+		military = 3.7
+		economy = 3.7
+		culture = 3.7
+	}
+	881 = {
+		military = 3.7
+		economy = 3.7
+		culture = 3.7
+	}
+	890 = {
+		military = 3.8
+		economy = 3.8
+		culture = 3.8
+	}
+	904 = {
+		military = 3.8
+		economy = 3.8
+		culture = 3.8
+	}
+	913 = {
+		military = 3.9
+		economy = 3.9
+		culture = 3.9
+	}
+	916 = {
+		military = 3.9
+		economy = 3.9
+		culture = 3.9
+	}
+	918 = {
+		military = 3.9
+		economy = 3.9
+		culture = 3.9
+	}
+	921 = {
+		military = 3.9
+		economy = 3.9
+		culture = 3.9
+	}
+	924 = {
+		military = 3.9
+		economy = 3.9
+		culture = 3.9
+	}
+	954 = {
+		military = 4.1
+		economy = 4.1
+		culture = 4.1
+	}
+	965 = {
+		military = 4.2
+		economy = 4.2
+		culture = 4.2
+	}
+	968 = {
+		military = 4.2
+		economy = 4.2
+		culture = 4.2
+	}
+	977 = {
+		military = 4.2
+		economy = 4.2
+		culture = 4.2
+	}
+	1018 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+	1030 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+	1039 = {
+		military = 4.6
+		economy = 4.6
+		culture = 4.6
+	}
+	1044 = {
+		military = 4.6
+		economy = 4.6
+		culture = 4.6
+	}
+	1046 = {
+		military = 4.6
+		economy = 4.6
+		culture = 4.6
+	}
+	1062 = {
+		military = 4.7
+		economy = 4.7
+		culture = 4.7
+	}
+	1066 = {
+		military = 4.7
+		economy = 4.7
+		culture = 4.7
+	}
+}
+

@@ -1,0 +1,17 @@
+	title = c_kenarma
+	max_settlements = 3
+	culture = karibel
+	religion = neharis
+	b_wegises = tribal
+570.4.1 = {
+	b_wegises = castle
+}
+
+740.4.1 = {
+	b_anotule = temple
+}
+
+907.4.1 = {
+	b_anicadir = city
+}
+

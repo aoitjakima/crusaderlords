@@ -1,0 +1,69 @@
+	title = c_sayaata
+	max_settlements = 2
+	culture = teber
+	religion = neharis
+	b_qehaman = tribal
+204.3.1 = {
+	religion = nukaye
+}
+
+205.3.1 = {
+	religion = neharis
+}
+
+210.3.1 = {
+	religion = nukaye
+}
+
+212.3.1 = {
+	religion = neharis
+}
+
+212.3.1 = {
+	religion = nukaye
+}
+
+214.3.1 = {
+	religion = neharis
+}
+
+218.3.1 = {
+	religion = nukaye
+}
+
+223.3.1 = {
+	religion = neharis
+}
+
+226.3.1 = {
+	religion = nukaye
+}
+
+234.3.1 = {
+	religion = neharis
+}
+
+238.3.1 = {
+	religion = nukaye
+}
+
+238.4.1 = {
+	culture = wili
+}
+
+289.4.1 = {
+	culture = ranibel
+}
+
+395.4.1 = {
+	culture = wili
+}
+
+625.4.1 = {
+	b_qehaman = castle
+}
+
+745.4.1 = {
+	b_senafiy = temple
+}
+

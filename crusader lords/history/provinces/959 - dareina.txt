@@ -1,0 +1,21 @@
+	title = c_dareina
+	max_settlements = 3
+	culture = retose
+	religion = qiteka
+	b_qerenat = tribal
+205.4.1 = {
+	culture = banaila
+}
+
+575.4.1 = {
+	b_qerenat = castle
+}
+
+680.4.1 = {
+	b_barule = temple
+}
+
+833.4.1 = {
+	b_wurga = city
+}
+

@@ -1,0 +1,37 @@
+	title = c_nohdal
+	max_settlements = 3
+	culture = reasep
+	religion = tonuyu
+	b_weusatti = tribal
+347.4.1 = {
+	culture = tiwics
+}
+
+376.4.1 = {
+	culture = reasep
+}
+
+412.4.1 = {
+	culture = tiwics
+}
+
+439.4.1 = {
+	culture = reasep
+}
+
+455.4.1 = {
+	culture = tiwics
+}
+
+720.4.1 = {
+	b_weusatti = castle
+}
+
+815.4.1 = {
+	b_kaurwet = city
+}
+
+906.4.1 = {
+	b_kaureya = temple
+}
+

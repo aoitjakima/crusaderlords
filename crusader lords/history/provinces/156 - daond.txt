@@ -1,0 +1,13 @@
+	title = c_daond
+	max_settlements = 2
+	culture = sigivkah
+	religion = kusran
+	b_larand = tribal
+303.3.1 = {
+	religion = qigiyah
+}
+
+324.4.1 = {
+	culture = alaurine
+}
+

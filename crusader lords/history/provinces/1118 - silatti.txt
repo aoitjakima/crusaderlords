@@ -1,0 +1,13 @@
+	title = c_silatti
+	max_settlements = 2
+	culture = budandev
+	religion = tonuyu
+	b_reopina = tribal
+730.4.1 = {
+	b_reopina = castle
+}
+
+813.4.1 = {
+	b_alalrawayniga = city
+}
+

@@ -1,0 +1,21 @@
+	title = c_dainand
+	max_settlements = 2
+	culture = rarare
+	religion = qigiyah
+	b_kitimha = tribal
+206.4.1 = {
+	culture = kyayalen
+}
+
+449.4.1 = {
+	culture = alaurine
+}
+
+823.4.1 = {
+	b_kitimha = castle
+}
+
+860.4.1 = {
+	b_ebobiya = city
+}
+

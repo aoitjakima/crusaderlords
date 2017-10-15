@@ -1,0 +1,25 @@
+	title = c_qoosohn
+	max_settlements = 3
+	culture = syahes
+	religion = neharis
+	b_wyugouwe = tribal
+1.1.1 = {
+	b_qiner = ct_port_1
+}
+
+215.4.1 = {
+	culture = sodinia
+}
+
+520.4.1 = {
+	b_wyugouwe = castle
+}
+
+605.4.1 = {
+	b_lasenna = temple
+}
+
+815.4.1 = {
+	b_qiner = city
+}
+

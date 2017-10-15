@@ -1,0 +1,17 @@
+	title = c_rotada
+	max_settlements = 3
+	culture = abajule
+	religion = kusran
+	b_arididia = tribal
+625.4.1 = {
+	b_arididia = castle
+}
+
+750.4.1 = {
+	b_rarius = city
+}
+
+878.4.1 = {
+	b_qeodl = temple
+}
+

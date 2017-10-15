@@ -1,0 +1,37 @@
+	title = c_kavurga
+	max_settlements = 2
+	culture = ruraura
+	religion = terenat
+	b_suroza = tribal
+236.3.1 = {
+	religion = begeka
+}
+
+273.4.1 = {
+	culture = banaila
+}
+
+285.4.1 = {
+	culture = ruraura
+}
+
+293.4.1 = {
+	culture = kitule
+}
+
+357.4.1 = {
+	culture = banaila
+}
+
+405.4.1 = {
+	culture = kitule
+}
+
+520.4.1 = {
+	b_suroza = castle
+}
+
+680.4.1 = {
+	b_daetelin = city
+}
+

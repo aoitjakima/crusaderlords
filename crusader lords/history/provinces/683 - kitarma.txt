@@ -1,0 +1,17 @@
+	title = c_kitarma
+	max_settlements = 3
+	culture = karibel
+	religion = neharis
+	b_riebive = tribal
+640.4.1 = {
+	b_riebive = castle
+}
+
+755.4.1 = {
+	b_awarma = city
+}
+
+908.4.1 = {
+	b_lesive = temple
+}
+

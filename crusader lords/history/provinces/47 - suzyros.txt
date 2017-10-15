@@ -1,0 +1,41 @@
+	title = c_suzyros
+	max_settlements = 7
+	culture = lodeid
+	religion = kodine
+	b_legiho = tribal
+201.3.1 = {
+	religion = tonuyu
+}
+
+202.4.1 = {
+	culture = rubiho
+}
+
+244.3.1 = {
+	religion = kodine
+}
+
+245.3.1 = {
+	religion = tonuyu
+}
+
+274.4.1 = {
+	culture = biho
+}
+
+846.4.1 = {
+	b_legiho = castle
+}
+
+878.4.1 = {
+	b_kamane = temple
+}
+
+938.4.1 = {
+	b_delg = city
+}
+
+1030.4.1 = {
+	b_aiahus = city
+}
+

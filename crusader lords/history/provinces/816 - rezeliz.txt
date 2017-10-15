@@ -1,0 +1,33 @@
+	title = c_rezeliz
+	max_settlements = 4
+	culture = ritiatou
+	religion = telayira
+	b_agaucata = tribal
+396.4.1 = {
+	culture = koumas
+}
+
+445.4.1 = {
+	culture = lopher
+}
+
+521.4.1 = {
+	culture = koumas
+}
+
+745.4.1 = {
+	b_agaucata = castle
+}
+
+825.4.1 = {
+	b_kitentiy = temple
+}
+
+929.4.1 = {
+	b_tuzosk = city
+}
+
+938.4.1 = {
+	culture = lopher
+}
+

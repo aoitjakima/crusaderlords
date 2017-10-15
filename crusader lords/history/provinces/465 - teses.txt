@@ -1,0 +1,53 @@
+	title = c_teses
+	max_settlements = 3
+	culture = narentiy
+	religion = neharis
+	b_bitlakeges = tribal
+263.4.1 = {
+	culture = syahes
+}
+
+286.4.1 = {
+	culture = amuhopti
+}
+
+291.4.1 = {
+	culture = syahes
+}
+
+296.4.1 = {
+	culture = amuhopti
+}
+
+320.4.1 = {
+	culture = syahes
+}
+
+323.4.1 = {
+	culture = amuhopti
+}
+
+370.4.1 = {
+	culture = syahes
+}
+
+415.4.1 = {
+	culture = amuhopti
+}
+
+450.4.1 = {
+	culture = syahes
+}
+
+555.4.1 = {
+	b_bitlakeges = castle
+}
+
+680.4.1 = {
+	b_disando = temple
+}
+
+851.4.1 = {
+	b_neglares = city
+}
+

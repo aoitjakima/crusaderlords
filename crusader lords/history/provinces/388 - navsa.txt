@@ -1,0 +1,117 @@
+	title = c_navsa
+	max_settlements = 2
+	culture = rauroka
+	religion = kusran
+	b_kuroatl = tribal
+202.3.1 = {
+	religion = atheociu
+}
+
+209.3.1 = {
+	religion = kusran
+}
+
+222.3.1 = {
+	religion = atheociu
+}
+
+225.3.1 = {
+	religion = kusran
+}
+
+230.3.1 = {
+	religion = atheociu
+}
+
+232.3.1 = {
+	religion = kusran
+}
+
+235.4.1 = {
+	culture = latuma
+}
+
+237.3.1 = {
+	religion = atheociu
+}
+
+241.3.1 = {
+	religion = kusran
+}
+
+245.3.1 = {
+	religion = atheociu
+}
+
+248.3.1 = {
+	religion = kusran
+}
+
+250.4.1 = {
+	culture = rauroka
+}
+
+253.3.1 = {
+	religion = atheociu
+}
+
+254.3.1 = {
+	religion = kusran
+}
+
+258.3.1 = {
+	religion = atheociu
+}
+
+260.3.1 = {
+	religion = kusran
+}
+
+286.3.1 = {
+	religion = atheociu
+}
+
+291.3.1 = {
+	religion = kusran
+}
+
+295.3.1 = {
+	religion = atheociu
+}
+
+299.3.1 = {
+	religion = kusran
+}
+
+303.3.1 = {
+	religion = atheociu
+}
+
+306.3.1 = {
+	religion = kusran
+}
+
+309.3.1 = {
+	religion = atheociu
+}
+
+323.3.1 = {
+	religion = kusran
+}
+
+325.3.1 = {
+	religion = atheociu
+}
+
+385.4.1 = {
+	culture = latuma
+}
+
+828.4.1 = {
+	b_kuroatl = castle
+}
+
+877.4.1 = {
+	b_kadakk = temple
+}
+

@@ -1,0 +1,25 @@
+	title = c_eryio
+	max_settlements = 2
+	culture = eluedsalh
+	religion = raipi
+	b_dyio = tribal
+406.4.1 = {
+	culture = sigivkah
+}
+
+574.4.1 = {
+	culture = eluedsalh
+}
+
+642.4.1 = {
+	culture = sigivkah
+}
+
+802.4.1 = {
+	b_dyio = castle
+}
+
+824.4.1 = {
+	b_dosalt = city
+}
+

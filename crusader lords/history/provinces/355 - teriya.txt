@@ -1,0 +1,21 @@
+	title = c_teriya
+	max_settlements = 2
+	culture = liebes
+	religion = neharis
+	b_taulata = tribal
+270.4.1 = {
+	culture = talentiy
+}
+
+302.4.1 = {
+	culture = liebes
+}
+
+555.4.1 = {
+	b_taulata = castle
+}
+
+625.4.1 = {
+	b_lagiya = city
+}
+

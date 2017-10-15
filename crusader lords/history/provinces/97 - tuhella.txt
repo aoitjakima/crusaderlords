@@ -1,0 +1,13 @@
+	title = c_tuhella
+	max_settlements = 2
+	culture = daimeig
+	religion = wedwig
+	b_edulens = tribal
+242.4.1 = {
+	culture = waynald
+}
+
+1045.4.1 = {
+	b_edulens = castle
+}
+

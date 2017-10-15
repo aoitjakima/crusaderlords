@@ -1,0 +1,12 @@
+807.2.1 = {
+	liege = d_ranantay
+}
+
+807.2.2 = {
+	holder = 1040919
+}
+
+807.4.1 = {
+	holding_dynasty = 21146
+}
+

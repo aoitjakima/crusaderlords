@@ -1,0 +1,33 @@
+	title = c_tetuhan
+	max_settlements = 5
+	culture = setako
+	religion = aguninya
+	b_qaikako = tribal
+1.1.1 = {
+	b_taneven = ct_port_1
+}
+
+251.4.1 = {
+	culture = rerinya
+}
+
+740.4.1 = {
+	b_qaikako = castle
+}
+
+811.4.1 = {
+	b_taneven = city
+}
+
+875.4.1 = {
+	b_tiafata = temple
+}
+
+943.4.1 = {
+	b_rucaqant = city
+}
+
+1011.4.1 = {
+	b_nucata = castle
+}
+

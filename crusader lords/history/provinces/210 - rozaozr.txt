@@ -1,0 +1,29 @@
+	title = c_rozaozr
+	max_settlements = 6
+	culture = latuma
+	religion = atheociu
+	b_bozamon = tribal
+266.3.1 = {
+	religion = kusran
+}
+
+285.3.1 = {
+	religion = atheociu
+}
+
+824.4.1 = {
+	b_bozamon = castle
+}
+
+860.4.1 = {
+	b_ekalena = temple
+}
+
+966.4.1 = {
+	b_duzemor = city
+}
+
+1056.4.1 = {
+	b_rikamon = castle
+}
+

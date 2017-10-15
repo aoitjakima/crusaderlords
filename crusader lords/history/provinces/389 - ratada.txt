@@ -1,0 +1,29 @@
+	title = c_ratada
+	max_settlements = 3
+	culture = eluedsalh
+	religion = raipi
+	b_kolya = tribal
+406.4.1 = {
+	culture = sigivkah
+}
+
+574.4.1 = {
+	culture = eluedsalh
+}
+
+642.4.1 = {
+	culture = sigivkah
+}
+
+690.4.1 = {
+	b_kolya = castle
+}
+
+801.4.1 = {
+	b_aqoslatina = city
+}
+
+853.4.1 = {
+	b_dina = temple
+}
+

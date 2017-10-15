@@ -1,0 +1,29 @@
+	title = c_sanerma
+	max_settlements = 3
+	culture = teber
+	religion = neharis
+	b_bamaye = tribal
+204.3.1 = {
+	religion = nukaye
+}
+
+255.4.1 = {
+	culture = ranibel
+}
+
+443.4.1 = {
+	culture = wili
+}
+
+630.4.1 = {
+	b_bamaye = castle
+}
+
+802.4.1 = {
+	b_kezal = city
+}
+
+884.4.1 = {
+	b_lemayaata = temple
+}
+

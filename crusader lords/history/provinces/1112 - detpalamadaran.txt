@@ -1,0 +1,29 @@
+	title = c_detpalamadaran
+	max_settlements = 2
+	culture = kadalen
+	religion = tonuyu
+	b_ralaclav = tribal
+1.1.1 = {
+	b_econabra = ct_port_1
+}
+
+213.4.1 = {
+	culture = radabor
+}
+
+257.4.1 = {
+	culture = wenira
+}
+
+260.4.1 = {
+	culture = radabor
+}
+
+730.4.1 = {
+	b_ralaclav = castle
+}
+
+819.4.1 = {
+	b_econabra = city
+}
+

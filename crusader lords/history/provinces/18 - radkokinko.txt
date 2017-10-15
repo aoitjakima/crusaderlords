@@ -1,0 +1,25 @@
+	title = c_radkokinko
+	max_settlements = 2
+	culture = selalya
+	religion = aratihr
+	b_binanay = tribal
+1.1.1 = {
+	b_ryao = ct_port_1
+}
+
+327.4.1 = {
+	culture = wubihr
+}
+
+424.4.1 = {
+	culture = selalya
+}
+
+670.4.1 = {
+	b_binanay = castle
+}
+
+775.4.1 = {
+	b_ryao = city
+}
+

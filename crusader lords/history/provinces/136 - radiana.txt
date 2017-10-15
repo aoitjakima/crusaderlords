@@ -1,0 +1,5 @@
+	title = c_radiana
+	max_settlements = 2
+	culture = waynald
+	religion = wedwig
+	b_segunduz = tribal

@@ -1,0 +1,149 @@
+	title = c_dinoukh
+	max_settlements = 4
+	culture = tawtus
+	religion = kodine
+	b_datl = tribal
+201.3.1 = {
+	religion = tonuyu
+}
+
+203.4.1 = {
+	culture = lodeid
+}
+
+205.3.1 = {
+	religion = kodine
+}
+
+211.3.1 = {
+	religion = tonuyu
+}
+
+212.3.1 = {
+	religion = kodine
+}
+
+224.3.1 = {
+	religion = tonuyu
+}
+
+229.3.1 = {
+	religion = kodine
+}
+
+229.3.1 = {
+	religion = tonuyu
+}
+
+237.3.1 = {
+	religion = kodine
+}
+
+238.3.1 = {
+	religion = tonuyu
+}
+
+239.3.1 = {
+	religion = kodine
+}
+
+239.3.1 = {
+	religion = tonuyu
+}
+
+240.3.1 = {
+	religion = kodine
+}
+
+240.3.1 = {
+	religion = tonuyu
+}
+
+241.3.1 = {
+	religion = kodine
+}
+
+242.3.1 = {
+	religion = tonuyu
+}
+
+246.3.1 = {
+	religion = kodine
+}
+
+246.3.1 = {
+	religion = tonuyu
+}
+
+250.3.1 = {
+	religion = kodine
+}
+
+252.3.1 = {
+	religion = tonuyu
+}
+
+255.3.1 = {
+	religion = kodine
+}
+
+256.3.1 = {
+	religion = tonuyu
+}
+
+259.3.1 = {
+	religion = kodine
+}
+
+260.3.1 = {
+	religion = tonuyu
+}
+
+261.3.1 = {
+	religion = kodine
+}
+
+261.3.1 = {
+	religion = tonuyu
+}
+
+264.3.1 = {
+	religion = kodine
+}
+
+264.3.1 = {
+	religion = tonuyu
+}
+
+272.3.1 = {
+	religion = kodine
+}
+
+282.3.1 = {
+	religion = tonuyu
+}
+
+288.4.1 = {
+	culture = biho
+}
+
+537.4.1 = {
+	culture = lodeid
+}
+
+722.4.1 = {
+	culture = biho
+}
+
+838.4.1 = {
+	b_datl = castle
+}
+
+873.4.1 = {
+	b_naisdun = temple
+}
+
+976.4.1 = {
+	b_datvat = city
+}
+

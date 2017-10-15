@@ -1,0 +1,25 @@
+	title = c_karosoka
+	max_settlements = 2
+	culture = rauroka
+	religion = kusran
+	b_qahiapti = tribal
+215.4.1 = {
+	culture = watinan
+}
+
+226.4.1 = {
+	culture = rauroka
+}
+
+270.4.1 = {
+	culture = ketamma
+}
+
+828.4.1 = {
+	b_qahiapti = castle
+}
+
+857.4.1 = {
+	b_rosutan = temple
+}
+

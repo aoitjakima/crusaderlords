@@ -1,0 +1,25 @@
+	title = c_qakaria
+	max_settlements = 2
+	culture = syahes
+	religion = neharis
+	b_navith = tribal
+285.4.1 = {
+	culture = sodinia
+}
+
+298.4.1 = {
+	culture = syahes
+}
+
+331.4.1 = {
+	culture = sodinia
+}
+
+580.4.1 = {
+	b_navith = castle
+}
+
+700.4.1 = {
+	b_lyugouwe = city
+}
+

@@ -1,0 +1,45 @@
+	title = c_qasata
+	max_settlements = 6
+	culture = syahes
+	religion = neharis
+	b_waver = tribal
+1.1.1 = {
+	b_dopouwe = ct_port_1
+}
+
+211.4.1 = {
+	culture = karibel
+}
+
+334.4.1 = {
+	culture = nitindik
+}
+
+540.4.1 = {
+	b_waver = castle
+}
+
+625.4.1 = {
+	b_dopouwe = city
+}
+
+814.4.1 = {
+	b_kicitus = temple
+}
+
+851.4.1 = {
+	culture = syahes
+}
+
+855.4.1 = {
+	b_kinitus = temple
+}
+
+899.4.1 = {
+	b_seylrinl = castle
+}
+
+987.4.1 = {
+	b_kazitus = city
+}
+

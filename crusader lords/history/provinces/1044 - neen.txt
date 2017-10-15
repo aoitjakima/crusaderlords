@@ -1,0 +1,13 @@
+	title = c_neen
+	max_settlements = 2
+	culture = terilip
+	religion = wedwig
+	b_sedalda = tribal
+239.4.1 = {
+	culture = lagond
+}
+
+321.3.1 = {
+	religion = qigiyah
+}
+

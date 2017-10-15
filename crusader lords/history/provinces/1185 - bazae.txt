@@ -1,0 +1,17 @@
+	title = c_bazae
+	max_settlements = 2
+	culture = lyarala
+	religion = tonuyu
+	b_amudo = tribal
+221.4.1 = {
+	culture = budandev
+}
+
+817.4.1 = {
+	b_amudo = castle
+}
+
+853.4.1 = {
+	b_sosudo = temple
+}
+

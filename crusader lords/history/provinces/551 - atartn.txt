@@ -1,0 +1,37 @@
+	title = c_atartn
+	max_settlements = 6
+	culture = narentiy
+	religion = neharis
+	b_weatule = tribal
+208.4.1 = {
+	culture = syahes
+}
+
+321.4.1 = {
+	culture = amuhopti
+}
+
+323.4.1 = {
+	culture = syahes
+}
+
+417.4.1 = {
+	culture = amuhopti
+}
+
+451.4.1 = {
+	culture = syahes
+}
+
+580.4.1 = {
+	b_weatule = castle
+}
+
+720.4.1 = {
+	b_reatule = temple
+}
+
+905.4.1 = {
+	b_denando = city
+}
+

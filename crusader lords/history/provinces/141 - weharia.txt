@@ -1,0 +1,29 @@
+	title = c_weharia
+	max_settlements = 3
+	culture = nitindik
+	religion = neharis
+	b_qeilohn = tribal
+204.4.1 = {
+	culture = syahes
+}
+
+240.4.1 = {
+	culture = nitindik
+}
+
+263.4.1 = {
+	culture = sodinia
+}
+
+515.4.1 = {
+	b_qeilohn = castle
+}
+
+650.4.1 = {
+	b_akohn = city
+}
+
+843.4.1 = {
+	b_koosre = temple
+}
+

@@ -1,0 +1,29 @@
+	title = c_qutarva
+	max_settlements = 6
+	culture = amuhopti
+	religion = neharis
+	b_rusin = tribal
+315.4.1 = {
+	culture = syahes
+}
+
+352.4.1 = {
+	culture = amuhopti
+}
+
+451.4.1 = {
+	culture = syahes
+}
+
+520.4.1 = {
+	b_rusin = castle
+}
+
+655.4.1 = {
+	b_karin = temple
+}
+
+839.4.1 = {
+	b_egodin = city
+}
+

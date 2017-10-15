@@ -1,0 +1,25 @@
+	title = c_ebainn
+	max_settlements = 3
+	culture = wedina
+	religion = telayira
+	b_tebadwig = tribal
+305.4.1 = {
+	culture = dainbai
+}
+
+339.4.1 = {
+	culture = wedina
+}
+
+745.4.1 = {
+	b_tebadwig = castle
+}
+
+812.4.1 = {
+	b_tilaing = temple
+}
+
+874.4.1 = {
+	b_apauliu = city
+}
+

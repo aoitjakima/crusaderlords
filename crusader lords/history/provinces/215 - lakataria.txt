@@ -1,0 +1,61 @@
+	title = c_lakataria
+	max_settlements = 5
+	culture = lagond
+	religion = atheociu
+	b_nataria = tribal
+200.3.1 = {
+	religion = qigiyah
+}
+
+206.3.1 = {
+	religion = wedwig
+}
+
+209.3.1 = {
+	religion = qigiyah
+}
+
+211.3.1 = {
+	religion = wedwig
+}
+
+212.3.1 = {
+	religion = qigiyah
+}
+
+215.3.1 = {
+	religion = wedwig
+}
+
+217.3.1 = {
+	religion = qigiyah
+}
+
+219.3.1 = {
+	religion = wedwig
+}
+
+221.3.1 = {
+	religion = qigiyah
+}
+
+822.4.1 = {
+	b_nataria = castle
+}
+
+851.4.1 = {
+	b_nopeen = temple
+}
+
+899.4.1 = {
+	b_teturima = city
+}
+
+947.4.1 = {
+	b_karelip = temple
+}
+
+993.4.1 = {
+	b_tuaen = city
+}
+

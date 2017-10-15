@@ -1,0 +1,17 @@
+	title = c_reliz
+	max_settlements = 2
+	culture = wedina
+	religion = telayira
+	b_qazaruzn = tribal
+310.4.1 = {
+	culture = laaug
+}
+
+595.4.1 = {
+	b_qazaruzn = castle
+}
+
+690.4.1 = {
+	b_eritaenata = city
+}
+

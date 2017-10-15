@@ -1,0 +1,25 @@
+	title = c_laiyalul
+	max_settlements = 4
+	culture = aqahebel
+	religion = neharis
+	b_kilanet = tribal
+475.4.1 = {
+	culture = talentiy
+}
+
+550.4.1 = {
+	b_kilanet = castle
+}
+
+665.4.1 = {
+	b_raradir = temple
+}
+
+844.4.1 = {
+	b_wagata = city
+}
+
+921.4.1 = {
+	b_qakatta = city
+}
+

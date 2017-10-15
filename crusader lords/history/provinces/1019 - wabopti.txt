@@ -1,0 +1,21 @@
+	title = c_wabopti
+	max_settlements = 7
+	culture = latuma
+	religion = atheociu
+	b_watacik = tribal
+827.4.1 = {
+	b_watacik = castle
+}
+
+861.4.1 = {
+	b_qecoka = temple
+}
+
+963.4.1 = {
+	b_wyokalahka = city
+}
+
+1058.4.1 = {
+	b_rarnen = castle
+}
+

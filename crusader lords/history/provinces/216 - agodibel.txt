@@ -1,0 +1,29 @@
+	title = c_agodibel
+	max_settlements = 3
+	culture = nitindik
+	religion = neharis
+	b_naletian = tribal
+260.4.1 = {
+	culture = syahes
+}
+
+271.4.1 = {
+	culture = amuhopti
+}
+
+316.4.1 = {
+	culture = syahes
+}
+
+516.4.1 = {
+	b_naletian = castle
+}
+
+660.4.1 = {
+	b_egodinia = city
+}
+
+844.4.1 = {
+	b_qoden = temple
+}
+

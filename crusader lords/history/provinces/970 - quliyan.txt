@@ -1,0 +1,21 @@
+	title = c_quliyan
+	max_settlements = 2
+	culture = wedina
+	religion = telayira
+	b_sobata = tribal
+241.4.1 = {
+	culture = dainbai
+}
+
+369.4.1 = {
+	culture = laaug
+}
+
+600.4.1 = {
+	b_sobata = castle
+}
+
+785.4.1 = {
+	b_atrong = temple
+}
+

@@ -1,0 +1,37 @@
+	title = c_kodeya
+	max_settlements = 4
+	culture = asumata
+	religion = nukaye
+	b_takamita = tribal
+204.4.1 = {
+	culture = qariyah
+}
+
+241.4.1 = {
+	culture = asumata
+}
+
+242.4.1 = {
+	culture = ranibel
+}
+
+265.4.1 = {
+	culture = asumata
+}
+
+685.4.1 = {
+	b_takamita = castle
+}
+
+780.4.1 = {
+	b_naal = temple
+}
+
+853.4.1 = {
+	b_aharata = city
+}
+
+898.4.1 = {
+	b_etukerma = temple
+}
+

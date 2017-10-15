@@ -1,0 +1,29 @@
+	title = c_aepaka
+	max_settlements = 7
+	culture = abajule
+	religion = kusran
+	b_webufia = tribal
+1.1.1 = {
+	b_batdasi = ct_port_1
+}
+
+640.4.1 = {
+	b_webufia = castle
+}
+
+785.4.1 = {
+	b_edoris = temple
+}
+
+862.4.1 = {
+	b_batdasi = city
+}
+
+922.4.1 = {
+	b_awelerrebr = city
+}
+
+995.4.1 = {
+	b_qatafu = temple
+}
+

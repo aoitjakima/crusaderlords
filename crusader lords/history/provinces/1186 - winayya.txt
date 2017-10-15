@@ -1,0 +1,29 @@
+	title = c_winayya
+	max_settlements = 6
+	culture = wabuzhi
+	religion = tonuyu
+	b_tinork = tribal
+204.4.1 = {
+	culture = budandev
+}
+
+208.4.1 = {
+	culture = wabuzhi
+}
+
+219.4.1 = {
+	culture = budandev
+}
+
+873.4.1 = {
+	b_tinork = castle
+}
+
+908.4.1 = {
+	b_konahim = temple
+}
+
+992.4.1 = {
+	b_enadra = city
+}
+

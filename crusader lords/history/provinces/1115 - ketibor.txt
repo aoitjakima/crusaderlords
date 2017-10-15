@@ -1,0 +1,37 @@
+	title = c_ketibor
+	max_settlements = 2
+	culture = retlennakta
+	religion = tonuyu
+	b_qudibor = tribal
+1.1.1 = {
+	b_dakibor = ct_port_1
+}
+
+225.4.1 = {
+	culture = radabor
+}
+
+254.4.1 = {
+	culture = retlennakta
+}
+
+257.4.1 = {
+	culture = wenira
+}
+
+261.4.1 = {
+	culture = retlennakta
+}
+
+354.4.1 = {
+	culture = radabor
+}
+
+725.4.1 = {
+	b_qudibor = castle
+}
+
+807.4.1 = {
+	b_dakibor = city
+}
+

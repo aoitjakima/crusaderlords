@@ -1,0 +1,17 @@
+	title = c_kinine
+	max_settlements = 2
+	culture = biho
+	religion = tonuyu
+	b_buziho = tribal
+1.1.1 = {
+	b_resahus = ct_port_1
+}
+
+847.4.1 = {
+	b_buziho = castle
+}
+
+883.4.1 = {
+	b_resahus = city
+}
+

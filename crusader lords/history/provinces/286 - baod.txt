@@ -1,0 +1,21 @@
+	title = c_baod
+	max_settlements = 2
+	culture = aqahebel
+	religion = neharis
+	b_daranet = tribal
+279.4.1 = {
+	culture = nitindik
+}
+
+413.4.1 = {
+	culture = talentiy
+}
+
+530.4.1 = {
+	b_daranet = castle
+}
+
+645.4.1 = {
+	b_rososes = temple
+}
+

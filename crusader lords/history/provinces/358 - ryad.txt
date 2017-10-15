@@ -1,0 +1,85 @@
+	title = c_ryad
+	max_settlements = 2
+	culture = waynald
+	religion = wedwig
+	b_telen = tribal
+202.3.1 = {
+	religion = eraygnars
+}
+
+213.3.1 = {
+	religion = wedwig
+}
+
+218.3.1 = {
+	religion = eraygnars
+}
+
+225.4.1 = {
+	culture = nuteria
+}
+
+234.4.1 = {
+	culture = waynald
+}
+
+235.3.1 = {
+	religion = wedwig
+}
+
+236.3.1 = {
+	religion = eraygnars
+}
+
+239.3.1 = {
+	religion = wedwig
+}
+
+252.3.1 = {
+	religion = eraygnars
+}
+
+263.3.1 = {
+	religion = wedwig
+}
+
+282.3.1 = {
+	religion = eraygnars
+}
+
+284.3.1 = {
+	religion = wedwig
+}
+
+289.3.1 = {
+	religion = eraygnars
+}
+
+295.3.1 = {
+	religion = wedwig
+}
+
+303.3.1 = {
+	religion = eraygnars
+}
+
+304.3.1 = {
+	religion = wedwig
+}
+
+309.3.1 = {
+	religion = eraygnars
+}
+
+315.4.1 = {
+	culture = nuteria
+}
+
+725.4.1 = {
+	b_telen = castle
+}
+
+806.4.1 = {
+	b_rayneig = city
+}
+

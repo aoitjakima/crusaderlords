@@ -1,0 +1,25 @@
+	title = c_wuladir
+	max_settlements = 4
+	culture = ricqa
+	religion = kusran
+	b_aqulaila = tribal
+273.4.1 = {
+	culture = abajule
+}
+
+705.4.1 = {
+	b_aqulaila = castle
+}
+
+817.4.1 = {
+	b_qahufia = temple
+}
+
+911.4.1 = {
+	b_anudded = city
+}
+
+995.4.1 = {
+	b_teper = castle
+}
+

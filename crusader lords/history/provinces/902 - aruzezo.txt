@@ -1,0 +1,37 @@
+	title = c_aruzezo
+	max_settlements = 2
+	culture = ritiatou
+	religion = telayira
+	b_sosk = tribal
+313.4.1 = {
+	culture = koumas
+}
+
+593.4.1 = {
+	culture = lopher
+}
+
+621.4.1 = {
+	culture = koumas
+}
+
+760.4.1 = {
+	b_sosk = castle
+}
+
+767.4.1 = {
+	culture = lopher
+}
+
+838.4.1 = {
+	b_kitore = city
+}
+
+846.4.1 = {
+	culture = koumas
+}
+
+852.4.1 = {
+	culture = lopher
+}
+

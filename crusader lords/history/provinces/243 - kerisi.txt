@@ -1,0 +1,25 @@
+	title = c_kerisi
+	max_settlements = 5
+	culture = liebes
+	religion = neharis
+	b_wiyaisi = tribal
+550.4.1 = {
+	b_wiyaisi = castle
+}
+
+665.4.1 = {
+	b_lamatta = temple
+}
+
+875.4.1 = {
+	b_etasiniba = city
+}
+
+947.4.1 = {
+	b_kyanatta = castle
+}
+
+1007.4.1 = {
+	b_eharadir = temple
+}
+

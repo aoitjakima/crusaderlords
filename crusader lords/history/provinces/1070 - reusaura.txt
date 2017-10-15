@@ -1,0 +1,33 @@
+	title = c_reusaura
+	max_settlements = 6
+	culture = reusadra
+	religion = tonuyu
+	b_nandev = tribal
+1.1.1 = {
+	b_daladra = ct_port_1
+}
+
+267.4.1 = {
+	culture = tiwics
+}
+
+820.4.1 = {
+	b_nandev = castle
+}
+
+848.4.1 = {
+	b_sorebia = temple
+}
+
+886.4.1 = {
+	b_daladra = city
+}
+
+936.4.1 = {
+	b_seraam = temple
+}
+
+991.4.1 = {
+	b_nepeya = castle
+}
+

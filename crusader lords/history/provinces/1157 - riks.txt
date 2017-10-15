@@ -1,0 +1,33 @@
+	title = c_riks
+	max_settlements = 3
+	culture = takukork
+	religion = tonuyu
+	b_rukyako = tribal
+202.4.1 = {
+	culture = wabuzhi
+}
+
+204.4.1 = {
+	culture = budandev
+}
+
+208.4.1 = {
+	culture = wabuzhi
+}
+
+219.4.1 = {
+	culture = budandev
+}
+
+843.4.1 = {
+	b_rukyako = castle
+}
+
+883.4.1 = {
+	b_raxpekaxpe = temple
+}
+
+955.4.1 = {
+	b_wekiks = city
+}
+

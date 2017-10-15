@@ -1,0 +1,25 @@
+	title = c_rakanoman
+	max_settlements = 4
+	culture = waheber
+	religion = neharis
+	b_wavoman = tribal
+210.4.1 = {
+	culture = aqahebel
+}
+
+550.4.1 = {
+	b_wavoman = castle
+}
+
+635.4.1 = {
+	b_neromas = temple
+}
+
+816.4.1 = {
+	b_takoris = city
+}
+
+864.4.1 = {
+	b_taveber = temple
+}
+

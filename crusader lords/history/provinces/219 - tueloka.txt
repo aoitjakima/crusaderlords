@@ -1,0 +1,49 @@
+	title = c_tueloka
+	max_settlements = 7
+	culture = taroman
+	religion = nukaye
+	b_ruelare = tribal
+202.3.1 = {
+	religion = kusran
+}
+
+203.3.1 = {
+	religion = nukaye
+}
+
+211.3.1 = {
+	religion = kusran
+}
+
+216.3.1 = {
+	religion = nukaye
+}
+
+221.3.1 = {
+	religion = kusran
+}
+
+249.4.1 = {
+	culture = watinan
+}
+
+344.4.1 = {
+	culture = ketamma
+}
+
+356.4.1 = {
+	culture = watinan
+}
+
+359.4.1 = {
+	culture = ketamma
+}
+
+827.4.1 = {
+	b_ruelare = castle
+}
+
+920.4.1 = {
+	b_rabilen = city
+}
+

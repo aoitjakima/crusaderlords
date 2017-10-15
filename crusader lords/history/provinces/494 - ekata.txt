@@ -1,0 +1,29 @@
+	title = c_ekata
+	max_settlements = 2
+	culture = karibel
+	religion = neharis
+	b_tehouwe = tribal
+248.4.1 = {
+	culture = nitindik
+}
+
+540.4.1 = {
+	b_tehouwe = castle
+}
+
+730.4.1 = {
+	b_atijne = city
+}
+
+866.4.1 = {
+	culture = syahes
+}
+
+915.4.1 = {
+	culture = nitindik
+}
+
+953.4.1 = {
+	culture = syahes
+}
+

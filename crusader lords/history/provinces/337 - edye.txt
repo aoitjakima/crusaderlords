@@ -1,0 +1,109 @@
+	title = c_edye
+	max_settlements = 4
+	culture = eluedsalh
+	religion = raipi
+	b_tobada = tribal
+1.1.1 = {
+	b_qiwery = ct_port_1
+}
+
+208.4.1 = {
+	culture = sigivkah
+}
+
+211.3.1 = {
+	religion = kusran
+}
+
+220.3.1 = {
+	religion = raipi
+}
+
+229.3.1 = {
+	religion = kusran
+}
+
+230.3.1 = {
+	religion = raipi
+}
+
+234.3.1 = {
+	religion = kusran
+}
+
+239.3.1 = {
+	religion = raipi
+}
+
+240.3.1 = {
+	religion = kusran
+}
+
+251.3.1 = {
+	religion = raipi
+}
+
+256.3.1 = {
+	religion = kusran
+}
+
+259.3.1 = {
+	religion = raipi
+}
+
+263.3.1 = {
+	religion = kusran
+}
+
+265.3.1 = {
+	religion = raipi
+}
+
+268.3.1 = {
+	religion = kusran
+}
+
+277.3.1 = {
+	religion = raipi
+}
+
+293.4.1 = {
+	culture = eluedsalh
+}
+
+304.4.1 = {
+	culture = sigivkah
+}
+
+435.4.1 = {
+	culture = eluedsalh
+}
+
+511.4.1 = {
+	culture = sigivkah
+}
+
+548.4.1 = {
+	culture = eluedsalh
+}
+
+643.4.1 = {
+	culture = sigivkah
+}
+
+690.4.1 = {
+	b_tobada = castle
+}
+
+805.4.1 = {
+	b_qiwery = city
+}
+
+882.4.1 = {
+	b_katy = temple
+}
+
+953.4.1 = {
+	b_rucalt = city
+}
+

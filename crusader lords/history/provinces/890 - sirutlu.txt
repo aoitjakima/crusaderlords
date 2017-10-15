@@ -1,0 +1,53 @@
+	title = c_sirutlu
+	max_settlements = 2
+	culture = runafu
+	religion = begeka
+	b_eserurga = tribal
+203.3.1 = {
+	religion = terenat
+}
+
+204.3.1 = {
+	religion = begeka
+}
+
+208.3.1 = {
+	religion = terenat
+}
+
+222.4.1 = {
+	culture = banaila
+}
+
+227.3.1 = {
+	religion = begeka
+}
+
+228.3.1 = {
+	religion = terenat
+}
+
+230.3.1 = {
+	religion = begeka
+}
+
+230.3.1 = {
+	religion = terenat
+}
+
+233.3.1 = {
+	religion = begeka
+}
+
+532.4.1 = {
+	culture = kitule
+}
+
+690.4.1 = {
+	b_eserurga = castle
+}
+
+820.4.1 = {
+	b_werurga = city
+}
+

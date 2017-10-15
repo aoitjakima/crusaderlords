@@ -1,0 +1,5 @@
+	title = c_wolappa
+	max_settlements = 2
+	culture = qegudo
+	religion = tonuyu
+	b_wyehappa = tribal

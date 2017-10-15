@@ -1,0 +1,21 @@
+	title = c_areleresl
+	max_settlements = 2
+	culture = reatoto
+	religion = eraygnars
+	b_tasuvdi = tribal
+206.4.1 = {
+	culture = esunadir
+}
+
+207.3.1 = {
+	religion = begeka
+}
+
+595.4.1 = {
+	b_tasuvdi = castle
+}
+
+690.4.1 = {
+	b_wetenr = city
+}
+

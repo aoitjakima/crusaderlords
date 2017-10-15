@@ -1,0 +1,25 @@
+	title = c_ematando
+	max_settlements = 4
+	culture = karibel
+	religion = neharis
+	b_sisolas = tribal
+1.1.1 = {
+	b_besarma = ct_port_1
+}
+
+560.4.1 = {
+	b_sisolas = castle
+}
+
+675.4.1 = {
+	b_sisily = temple
+}
+
+837.4.1 = {
+	b_besarma = city
+}
+
+901.4.1 = {
+	b_lisaila = city
+}
+

@@ -1,0 +1,25 @@
+	title = c_weuceid
+	max_settlements = 3
+	culture = sutidoka
+	religion = kusran
+	b_kaurina = tribal
+200.3.1 = {
+	religion = qigiyah
+}
+
+233.4.1 = {
+	culture = alaurine
+}
+
+827.4.1 = {
+	b_kaurina = castle
+}
+
+870.4.1 = {
+	b_tigudha = city
+}
+
+969.4.1 = {
+	b_qegancis = temple
+}
+

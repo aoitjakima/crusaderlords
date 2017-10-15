@@ -1,0 +1,73 @@
+	title = c_namulad
+	max_settlements = 7
+	culture = kuhotil
+	religion = eraygnars
+	b_notuel = tribal
+207.3.1 = {
+	religion = qiteka
+}
+
+208.3.1 = {
+	religion = eraygnars
+}
+
+210.3.1 = {
+	religion = qiteka
+}
+
+211.3.1 = {
+	religion = eraygnars
+}
+
+212.3.1 = {
+	religion = qiteka
+}
+
+213.3.1 = {
+	religion = eraygnars
+}
+
+213.3.1 = {
+	religion = qiteka
+}
+
+228.3.1 = {
+	religion = eraygnars
+}
+
+228.3.1 = {
+	religion = qiteka
+}
+
+265.4.1 = {
+	culture = saimes
+}
+
+590.4.1 = {
+	b_notuel = castle
+}
+
+685.4.1 = {
+	b_leteina = temple
+}
+
+828.4.1 = {
+	b_esamur = city
+}
+
+879.4.1 = {
+	b_desulad = temple
+}
+
+925.4.1 = {
+	b_raunry = temple
+}
+
+971.4.1 = {
+	b_qetiki = temple
+}
+
+1029.4.1 = {
+	b_niebose = city
+}
+

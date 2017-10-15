@@ -1,0 +1,61 @@
+	title = c_luroros
+	max_settlements = 5
+	culture = taodha
+	religion = raipi
+	b_lolina = tribal
+203.3.1 = {
+	religion = wedwig
+}
+
+204.3.1 = {
+	religion = raipi
+}
+
+209.4.1 = {
+	culture = eluedsalh
+}
+
+215.3.1 = {
+	religion = wedwig
+}
+
+215.3.1 = {
+	religion = raipi
+}
+
+224.3.1 = {
+	religion = wedwig
+}
+
+229.3.1 = {
+	religion = raipi
+}
+
+231.4.1 = {
+	culture = taodha
+}
+
+405.4.1 = {
+	culture = kapti
+}
+
+605.4.1 = {
+	b_lolina = castle
+}
+
+745.4.1 = {
+	b_tolada = city
+}
+
+868.4.1 = {
+	b_abyhon = temple
+}
+
+953.4.1 = {
+	b_kobyla = city
+}
+
+1024.4.1 = {
+	b_qeryaa = city
+}
+

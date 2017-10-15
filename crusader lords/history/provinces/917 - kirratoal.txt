@@ -1,0 +1,21 @@
+	title = c_kirratoal
+	max_settlements = 2
+	culture = retose
+	religion = naneka
+	b_loanoza = tribal
+201.3.1 = {
+	religion = qiteka
+}
+
+203.4.1 = {
+	culture = banaila
+}
+
+625.4.1 = {
+	b_loanoza = castle
+}
+
+745.4.1 = {
+	b_rururga = city
+}
+

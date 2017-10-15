@@ -1,0 +1,29 @@
+	title = c_karida
+	max_settlements = 5
+	culture = talda
+	religion = atheociu
+	b_dauliu = tribal
+204.3.1 = {
+	religion = bobena
+}
+
+205.4.1 = {
+	culture = welitya
+}
+
+856.4.1 = {
+	b_dauliu = castle
+}
+
+893.4.1 = {
+	b_keveen = city
+}
+
+969.4.1 = {
+	b_kert = temple
+}
+
+1035.4.1 = {
+	b_rishiu = castle
+}
+

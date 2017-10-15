@@ -1,0 +1,37 @@
+	title = c_qetamur
+	max_settlements = 5
+	culture = kuhotil
+	religion = eraygnars
+	b_balamose = tribal
+203.4.1 = {
+	culture = nuteria
+}
+
+207.3.1 = {
+	religion = qiteka
+}
+
+216.4.1 = {
+	culture = saimes
+}
+
+605.4.1 = {
+	b_balamose = castle
+}
+
+780.4.1 = {
+	b_raseina = city
+}
+
+872.4.1 = {
+	b_doruvdi = temple
+}
+
+936.4.1 = {
+	b_kaumr = city
+}
+
+986.4.1 = {
+	b_nesundes = city
+}
+

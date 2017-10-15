@@ -1,0 +1,29 @@
+	title = c_deleig
+	max_settlements = 4
+	culture = davars
+	religion = wedwig
+	b_areteorn = tribal
+394.4.1 = {
+	culture = durga
+}
+
+398.4.1 = {
+	culture = davars
+}
+
+586.4.1 = {
+	b_areteorn = castle
+}
+
+705.4.1 = {
+	b_ruhald = city
+}
+
+860.4.1 = {
+	b_busiana = temple
+}
+
+927.4.1 = {
+	b_kaikeig = temple
+}
+

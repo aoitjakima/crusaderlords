@@ -1,0 +1,41 @@
+	title = c_kanata
+	max_settlements = 7
+	culture = rerinya
+	religion = aguninya
+	b_ruyat = tribal
+1.1.1 = {
+	b_doleven = ct_port_1
+}
+
+226.4.1 = {
+	culture = setako
+}
+
+251.4.1 = {
+	culture = rerinya
+}
+
+740.4.1 = {
+	b_ruyat = castle
+}
+
+809.4.1 = {
+	b_diafal = temple
+}
+
+872.4.1 = {
+	b_doleven = city
+}
+
+931.4.1 = {
+	b_borye = city
+}
+
+986.4.1 = {
+	b_erananni = temple
+}
+
+1034.4.1 = {
+	b_toluyat = city
+}
+

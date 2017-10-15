@@ -1,0 +1,29 @@
+	title = c_qamarurga
+	max_settlements = 3
+	culture = kitule
+	religion = terenat
+	b_kiunl = tribal
+236.3.1 = {
+	religion = begeka
+}
+
+255.4.1 = {
+	culture = banaila
+}
+
+371.4.1 = {
+	culture = kitule
+}
+
+545.4.1 = {
+	b_kiunl = castle
+}
+
+665.4.1 = {
+	b_kisics = city
+}
+
+834.4.1 = {
+	b_adavenat = temple
+}
+

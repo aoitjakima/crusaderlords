@@ -1,0 +1,17 @@
+	title = c_kanushan
+	max_settlements = 3
+	culture = latuma
+	religion = atheociu
+	b_rusun = tribal
+827.4.1 = {
+	b_rusun = castle
+}
+
+861.4.1 = {
+	b_esusar = city
+}
+
+978.4.1 = {
+	b_kadew = temple
+}
+

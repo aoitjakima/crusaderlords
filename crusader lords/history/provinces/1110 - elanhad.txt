@@ -1,0 +1,29 @@
+	title = c_elanhad
+	max_settlements = 2
+	culture = kadalen
+	religion = tonuyu
+	b_rudibor = tribal
+1.1.1 = {
+	b_rudira = ct_port_1
+}
+
+213.4.1 = {
+	culture = radabor
+}
+
+257.4.1 = {
+	culture = wenira
+}
+
+260.4.1 = {
+	culture = radabor
+}
+
+735.4.1 = {
+	b_rudibor = castle
+}
+
+825.4.1 = {
+	b_rudira = city
+}
+

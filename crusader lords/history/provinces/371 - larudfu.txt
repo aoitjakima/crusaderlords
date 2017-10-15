@@ -1,0 +1,29 @@
+	title = c_larudfu
+	max_settlements = 3
+	culture = sutidoka
+	religion = kusran
+	b_ramderer = tribal
+200.3.1 = {
+	religion = raipi
+}
+
+200.4.1 = {
+	culture = kaureid
+}
+
+277.4.1 = {
+	culture = kapti
+}
+
+735.4.1 = {
+	b_ramderer = castle
+}
+
+819.4.1 = {
+	b_soper = city
+}
+
+912.4.1 = {
+	b_wahufia = temple
+}
+

@@ -1,0 +1,29 @@
+	title = c_amunabra
+	max_settlements = 2
+	culture = waetutlu
+	religion = qiteka
+	b_edurilip = tribal
+308.4.1 = {
+	culture = risutlu
+}
+
+560.4.1 = {
+	b_edurilip = castle
+}
+
+660.4.1 = {
+	b_rurolas = temple
+}
+
+727.4.1 = {
+	culture = saimes
+}
+
+733.4.1 = {
+	culture = risutlu
+}
+
+893.4.1 = {
+	culture = saimes
+}
+

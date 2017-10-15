@@ -1,0 +1,25 @@
+	title = c_disoto
+	max_settlements = 4
+	culture = narentiy
+	religion = neharis
+	b_rerive = tribal
+251.4.1 = {
+	culture = syahes
+}
+
+278.4.1 = {
+	culture = amuhopti
+}
+
+279.4.1 = {
+	culture = syahes
+}
+
+570.4.1 = {
+	b_rerive = castle
+}
+
+730.4.1 = {
+	b_terule = temple
+}
+

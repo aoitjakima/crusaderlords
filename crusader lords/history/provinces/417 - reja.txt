@@ -1,0 +1,61 @@
+	title = c_reja
+	max_settlements = 2
+	culture = daimeja
+	religion = wedwig
+	b_qaveorn = tribal
+1.1.1 = {
+	b_wedoreja = ct_port_1
+}
+
+205.3.1 = {
+	religion = raipi
+}
+
+207.3.1 = {
+	religion = wedwig
+}
+
+213.3.1 = {
+	religion = raipi
+}
+
+214.3.1 = {
+	religion = wedwig
+}
+
+224.3.1 = {
+	religion = raipi
+}
+
+225.3.1 = {
+	religion = wedwig
+}
+
+229.3.1 = {
+	religion = raipi
+}
+
+231.3.1 = {
+	religion = wedwig
+}
+
+232.3.1 = {
+	religion = raipi
+}
+
+236.3.1 = {
+	religion = wedwig
+}
+
+278.4.1 = {
+	culture = weliana
+}
+
+775.4.1 = {
+	b_qaveorn = castle
+}
+
+831.4.1 = {
+	b_wedoreja = city
+}
+

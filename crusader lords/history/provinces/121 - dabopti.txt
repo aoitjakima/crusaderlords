@@ -1,0 +1,37 @@
+	title = c_dabopti
+	max_settlements = 3
+	culture = ketamma
+	religion = kusran
+	b_kecopti = tribal
+200.3.1 = {
+	religion = raipi
+}
+
+203.3.1 = {
+	religion = kusran
+}
+
+204.3.1 = {
+	religion = raipi
+}
+
+217.4.1 = {
+	culture = kaureid
+}
+
+519.4.1 = {
+	culture = kapti
+}
+
+803.4.1 = {
+	b_kecopti = castle
+}
+
+827.4.1 = {
+	b_rayilen = city
+}
+
+889.4.1 = {
+	b_rozinan = temple
+}
+

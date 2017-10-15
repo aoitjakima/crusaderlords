@@ -1,0 +1,65 @@
+	title = c_lucabra
+	max_settlements = 3
+	culture = sereka
+	religion = naneka
+	b_tiskadiska = tribal
+202.3.1 = {
+	religion = begeka
+}
+
+222.4.1 = {
+	culture = runafu
+}
+
+238.3.1 = {
+	religion = naneka
+}
+
+242.4.1 = {
+	culture = sereka
+}
+
+348.4.1 = {
+	culture = runafu
+}
+
+366.4.1 = {
+	culture = sereka
+}
+
+471.4.1 = {
+	culture = runafu
+}
+
+481.4.1 = {
+	culture = sereka
+}
+
+625.4.1 = {
+	b_tiskadiska = castle
+}
+
+702.4.1 = {
+	culture = runafu
+}
+
+765.4.1 = {
+	b_rirabra = temple
+}
+
+876.4.1 = {
+	b_wisadi = city
+}
+
+963.4.1 = {
+	culture = sereka
+}
+
+982.4.1 = {
+	culture = runafu
+}
+
+1000.4.1 = {
+	culture = sereka
+}
+

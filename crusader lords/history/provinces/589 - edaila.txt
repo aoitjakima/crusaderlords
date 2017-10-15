@@ -1,0 +1,25 @@
+	title = c_edaila
+	max_settlements = 4
+	culture = karibel
+	religion = neharis
+	b_totarma = tribal
+268.4.1 = {
+	culture = narentiy
+}
+
+565.4.1 = {
+	b_totarma = castle
+}
+
+650.4.1 = {
+	b_raimafu = city
+}
+
+813.4.1 = {
+	b_wily = temple
+}
+
+854.4.1 = {
+	b_waimes = city
+}
+

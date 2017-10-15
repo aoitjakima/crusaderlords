@@ -1,0 +1,29 @@
+	title = c_qahor
+	max_settlements = 4
+	culture = latuma
+	religion = atheociu
+	b_ruser = tribal
+218.4.1 = {
+	culture = rarare
+}
+
+219.3.1 = {
+	religion = qigiyah
+}
+
+823.4.1 = {
+	b_ruser = castle
+}
+
+854.4.1 = {
+	b_basoth = city
+}
+
+945.4.1 = {
+	b_welwi = temple
+}
+
+1025.4.1 = {
+	b_teloxer = city
+}
+

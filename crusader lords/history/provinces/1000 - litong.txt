@@ -1,0 +1,49 @@
+	title = c_litong
+	max_settlements = 5
+	culture = laaug
+	religion = telayira
+	b_sosata = tribal
+1.1.1 = {
+	b_keonita = ct_port_1
+}
+
+216.4.1 = {
+	culture = ritiatou
+}
+
+300.4.1 = {
+	culture = koumas
+}
+
+531.4.1 = {
+	culture = lopher
+}
+
+539.4.1 = {
+	culture = koumas
+}
+
+595.4.1 = {
+	b_sosata = castle
+}
+
+720.4.1 = {
+	b_keonita = city
+}
+
+855.4.1 = {
+	b_dugita = temple
+}
+
+867.4.1 = {
+	culture = lopher
+}
+
+925.4.1 = {
+	b_tuziyan = city
+}
+
+994.4.1 = {
+	b_anezeyl = castle
+}
+

@@ -1,0 +1,25 @@
+	title = c_lonong
+	max_settlements = 2
+	culture = lopher
+	religion = kusran
+	b_tudayya = tribal
+276.3.1 = {
+	religion = telayira
+}
+
+278.4.1 = {
+	culture = ritiatou
+}
+
+378.4.1 = {
+	culture = koumas
+}
+
+937.4.1 = {
+	culture = lopher
+}
+
+1060.4.1 = {
+	b_tudayya = castle
+}
+

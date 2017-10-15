@@ -1,0 +1,9 @@
+	title = c_bahens
+	max_settlements = 3
+	culture = waynald
+	religion = wedwig
+	b_nahava = tribal
+932.4.1 = {
+	b_nahava = castle
+}
+

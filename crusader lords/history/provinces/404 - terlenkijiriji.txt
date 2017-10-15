@@ -1,0 +1,13 @@
+	title = c_terlenkijiriji
+	max_settlements = 2
+	culture = qariyah
+	religion = nukaye
+	b_tinelen = tribal
+860.4.1 = {
+	b_tinelen = castle
+}
+
+892.4.1 = {
+	b_widoman = temple
+}
+

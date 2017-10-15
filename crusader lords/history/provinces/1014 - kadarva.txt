@@ -1,0 +1,37 @@
+	title = c_kadarva
+	max_settlements = 7
+	culture = talentiy
+	religion = neharis
+	b_nutaye = tribal
+208.4.1 = {
+	culture = syahes
+}
+
+530.4.1 = {
+	b_nutaye = castle
+}
+
+665.4.1 = {
+	b_bitarva = temple
+}
+
+831.4.1 = {
+	b_kafnai = city
+}
+
+884.4.1 = {
+	b_syahunye = temple
+}
+
+937.4.1 = {
+	b_kityo = temple
+}
+
+1000.4.1 = {
+	b_kyahaye = city
+}
+
+1052.4.1 = {
+	b_kodyo = city
+}
+

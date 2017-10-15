@@ -1,0 +1,9 @@
+	title = c_aniebens
+	max_settlements = 3
+	culture = waynald
+	religion = wedwig
+	b_nahibel = tribal
+1046.4.1 = {
+	b_nahibel = castle
+}
+

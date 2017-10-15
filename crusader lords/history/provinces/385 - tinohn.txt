@@ -1,0 +1,33 @@
+	title = c_tinohn
+	max_settlements = 4
+	culture = nitindik
+	religion = neharis
+	b_ebyanlwasl = tribal
+207.4.1 = {
+	culture = karibel
+}
+
+248.4.1 = {
+	culture = nitindik
+}
+
+530.4.1 = {
+	b_ebyanlwasl = castle
+}
+
+645.4.1 = {
+	b_kazijne = temple
+}
+
+820.4.1 = {
+	b_teygiel = city
+}
+
+859.4.1 = {
+	culture = syahes
+}
+
+866.4.1 = {
+	b_ryekanda = city
+}
+

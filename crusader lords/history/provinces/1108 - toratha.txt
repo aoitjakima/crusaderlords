@@ -1,0 +1,29 @@
+	title = c_toratha
+	max_settlements = 2
+	culture = wenira
+	religion = tonuyu
+	b_ajakelen = tribal
+1.1.1 = {
+	b_soratha = ct_port_1
+}
+
+265.4.1 = {
+	culture = radabor
+}
+
+270.4.1 = {
+	culture = wenira
+}
+
+336.4.1 = {
+	culture = radabor
+}
+
+710.4.1 = {
+	b_ajakelen = castle
+}
+
+821.4.1 = {
+	b_soratha = city
+}
+

@@ -1,0 +1,17 @@
+	title = c_ewosouwe
+	max_settlements = 2
+	culture = syahes
+	religion = neharis
+	b_tatwekel = tribal
+215.4.1 = {
+	culture = sodinia
+}
+
+595.4.1 = {
+	b_tatwekel = castle
+}
+
+685.4.1 = {
+	b_awyugijne = temple
+}
+

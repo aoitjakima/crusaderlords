@@ -1,0 +1,21 @@
+	title = c_qodovya
+	max_settlements = 2
+	culture = ranibel
+	religion = neharis
+	b_rayai = tribal
+201.3.1 = {
+	religion = nukaye
+}
+
+319.4.1 = {
+	culture = wili
+}
+
+680.4.1 = {
+	b_rayai = castle
+}
+
+816.4.1 = {
+	b_rinaye = city
+}
+

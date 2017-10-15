@@ -1,0 +1,45 @@
+	title = c_tedaytas
+	max_settlements = 7
+	culture = laris
+	religion = aratihr
+	b_latilf = tribal
+1.1.1 = {
+	b_elyaa = ct_port_1
+}
+
+231.4.1 = {
+	culture = wubihr
+}
+
+243.4.1 = {
+	culture = selalya
+}
+
+675.4.1 = {
+	b_latilf = castle
+}
+
+745.4.1 = {
+	b_benzuko = temple
+}
+
+821.4.1 = {
+	b_elyaa = city
+}
+
+851.4.1 = {
+	b_bedosrau = city
+}
+
+878.4.1 = {
+	b_abosrau = castle
+}
+
+910.4.1 = {
+	b_sinulay = castle
+}
+
+940.4.1 = {
+	b_qinkolagz = castle
+}
+

@@ -1,0 +1,53 @@
+	title = c_tyla
+	max_settlements = 2
+	culture = negasseh
+	religion = wedwig
+	b_dye = tribal
+260.4.1 = {
+	culture = weliana
+}
+
+306.4.1 = {
+	culture = davars
+}
+
+313.4.1 = {
+	culture = weliana
+}
+
+326.4.1 = {
+	culture = davars
+}
+
+353.4.1 = {
+	culture = durga
+}
+
+479.4.1 = {
+	culture = davars
+}
+
+490.4.1 = {
+	culture = durga
+}
+
+514.4.1 = {
+	culture = davars
+}
+
+519.4.1 = {
+	culture = durga
+}
+
+525.4.1 = {
+	culture = davars
+}
+
+545.4.1 = {
+	b_dye = castle
+}
+
+670.4.1 = {
+	b_amwada = city
+}
+

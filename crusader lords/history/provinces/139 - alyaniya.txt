@@ -1,0 +1,33 @@
+	title = c_alyaniya
+	max_settlements = 4
+	culture = sodinia
+	religion = neharis
+	b_niyaas = tribal
+202.4.1 = {
+	culture = aqahebel
+}
+
+263.4.1 = {
+	culture = sodinia
+}
+
+291.4.1 = {
+	culture = talentiy
+}
+
+505.4.1 = {
+	b_niyaas = castle
+}
+
+625.4.1 = {
+	b_asauwag = temple
+}
+
+833.4.1 = {
+	b_qagiya = city
+}
+
+890.4.1 = {
+	b_baarirao = temple
+}
+

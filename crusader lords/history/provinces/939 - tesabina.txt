@@ -1,0 +1,33 @@
+	title = c_tesabina
+	max_settlements = 7
+	culture = dainbai
+	religion = telayira
+	b_wigusha = tribal
+1.1.1 = {
+	b_danipp = ct_port_1
+}
+
+237.4.1 = {
+	culture = terikatim
+}
+
+296.4.1 = {
+	culture = dainbai
+}
+
+496.4.1 = {
+	culture = wedina
+}
+
+775.4.1 = {
+	b_wigusha = castle
+}
+
+857.4.1 = {
+	b_danipp = city
+}
+
+973.4.1 = {
+	b_nebonml = temple
+}
+

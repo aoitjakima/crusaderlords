@@ -1,0 +1,33 @@
+	title = c_tyoo
+	max_settlements = 4
+	culture = weliana
+	religion = wedwig
+	b_esiyaby = tribal
+306.4.1 = {
+	culture = davars
+}
+
+308.4.1 = {
+	culture = weliana
+}
+
+351.4.1 = {
+	culture = davars
+}
+
+550.4.1 = {
+	b_esiyaby = castle
+}
+
+705.4.1 = {
+	b_soloros = city
+}
+
+830.4.1 = {
+	b_kyoo = temple
+}
+
+876.4.1 = {
+	b_batery = temple
+}
+

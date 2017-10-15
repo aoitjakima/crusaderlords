@@ -1,0 +1,85 @@
+	title = c_raintou
+	max_settlements = 5
+	culture = terikatim
+	religion = bobena
+	b_wobaukr = tribal
+200.3.1 = {
+	religion = telayira
+}
+
+215.4.1 = {
+	culture = dainbai
+}
+
+218.4.1 = {
+	culture = terikatim
+}
+
+244.3.1 = {
+	religion = bobena
+}
+
+254.3.1 = {
+	religion = telayira
+}
+
+258.3.1 = {
+	religion = bobena
+}
+
+258.3.1 = {
+	religion = telayira
+}
+
+261.4.1 = {
+	culture = titina
+}
+
+264.3.1 = {
+	religion = bobena
+}
+
+269.3.1 = {
+	religion = telayira
+}
+
+271.3.1 = {
+	religion = bobena
+}
+
+271.4.1 = {
+	culture = terikatim
+}
+
+274.3.1 = {
+	religion = telayira
+}
+
+305.4.1 = {
+	culture = titina
+}
+
+358.4.1 = {
+	culture = terikatim
+}
+
+364.4.1 = {
+	culture = titina
+}
+
+865.4.1 = {
+	b_wobaukr = castle
+}
+
+903.4.1 = {
+	b_rimatim = temple
+}
+
+961.4.1 = {
+	b_tainiya = city
+}
+
+1015.4.1 = {
+	b_kulina = temple
+}
+

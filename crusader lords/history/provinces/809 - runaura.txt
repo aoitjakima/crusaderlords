@@ -1,0 +1,37 @@
+	title = c_runaura
+	max_settlements = 2
+	culture = kitule
+	religion = begeka
+	b_dislterlavl = tribal
+203.3.1 = {
+	religion = terenat
+}
+
+236.3.1 = {
+	religion = begeka
+}
+
+269.4.1 = {
+	culture = banaila
+}
+
+294.4.1 = {
+	culture = kitule
+}
+
+358.4.1 = {
+	culture = banaila
+}
+
+361.4.1 = {
+	culture = kitule
+}
+
+690.4.1 = {
+	b_dislterlavl = castle
+}
+
+822.4.1 = {
+	b_kurelin = temple
+}
+

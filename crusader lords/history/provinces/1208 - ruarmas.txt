@@ -1,0 +1,21 @@
+	title = c_ruarmas
+	max_settlements = 2
+	culture = ahenatha
+	religion = tonuyu
+	b_ricabra = tribal
+313.3.1 = {
+	religion = worelen
+}
+
+322.4.1 = {
+	culture = nalaam
+}
+
+348.4.1 = {
+	culture = ahenatha
+}
+
+507.4.1 = {
+	culture = nalaam
+}
+

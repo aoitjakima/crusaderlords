@@ -1,0 +1,37 @@
+	title = c_sankau
+	max_settlements = 2
+	culture = sigivkah
+	religion = kusran
+	b_wavsa = tribal
+202.3.1 = {
+	religion = atheociu
+}
+
+204.3.1 = {
+	religion = kusran
+}
+
+204.3.1 = {
+	religion = atheociu
+}
+
+208.3.1 = {
+	religion = kusran
+}
+
+216.3.1 = {
+	religion = atheociu
+}
+
+219.4.1 = {
+	culture = latuma
+}
+
+896.4.1 = {
+	b_wavsa = castle
+}
+
+933.4.1 = {
+	b_lusakk = temple
+}
+

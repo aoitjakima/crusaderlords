@@ -1,0 +1,37 @@
+	title = c_kerilde
+	max_settlements = 3
+	culture = teber
+	religion = neharis
+	b_budomas = tribal
+247.4.1 = {
+	culture = wili
+}
+
+257.3.1 = {
+	religion = nukaye
+}
+
+317.4.1 = {
+	culture = ranibel
+}
+
+392.4.1 = {
+	culture = wili
+}
+
+423.4.1 = {
+	culture = ranibel
+}
+
+441.4.1 = {
+	culture = wili
+}
+
+460.4.1 = {
+	culture = ranibel
+}
+
+645.4.1 = {
+	culture = wili
+}
+

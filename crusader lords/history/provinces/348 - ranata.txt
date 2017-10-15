@@ -1,0 +1,77 @@
+	title = c_ranata
+	max_settlements = 4
+	culture = raraber
+	religion = neharis
+	b_dodiyah = tribal
+204.3.1 = {
+	religion = nukaye
+}
+
+206.3.1 = {
+	religion = neharis
+}
+
+210.3.1 = {
+	religion = nukaye
+}
+
+214.3.1 = {
+	religion = neharis
+}
+
+218.3.1 = {
+	religion = nukaye
+}
+
+224.3.1 = {
+	religion = neharis
+}
+
+226.3.1 = {
+	religion = nukaye
+}
+
+227.3.1 = {
+	religion = neharis
+}
+
+230.3.1 = {
+	religion = nukaye
+}
+
+235.3.1 = {
+	religion = neharis
+}
+
+238.3.1 = {
+	religion = nukaye
+}
+
+255.4.1 = {
+	culture = wili
+}
+
+291.4.1 = {
+	culture = raraber
+}
+
+321.4.1 = {
+	culture = wili
+}
+
+635.4.1 = {
+	b_dodiyah = castle
+}
+
+780.4.1 = {
+	b_asumeya = temple
+}
+
+877.4.1 = {
+	b_ridoman = city
+}
+
+948.4.1 = {
+	b_sodaye = city
+}
+

@@ -1,0 +1,53 @@
+	title = c_karaka
+	max_settlements = 6
+	culture = ritiatou
+	religion = telayira
+	b_qaulica = tribal
+218.4.1 = {
+	culture = koumas
+}
+
+357.4.1 = {
+	culture = ritiatou
+}
+
+407.4.1 = {
+	culture = koumas
+}
+
+580.4.1 = {
+	culture = lopher
+}
+
+610.4.1 = {
+	b_qaulica = castle
+}
+
+765.4.1 = {
+	b_sajayya = temple
+}
+
+840.4.1 = {
+	culture = koumas
+}
+
+864.4.1 = {
+	culture = lopher
+}
+
+892.4.1 = {
+	culture = koumas
+}
+
+904.4.1 = {
+	culture = lopher
+}
+
+913.4.1 = {
+	b_evyagadi = city
+}
+
+1023.4.1 = {
+	b_qadi = temple
+}
+

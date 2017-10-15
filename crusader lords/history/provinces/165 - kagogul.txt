@@ -1,0 +1,57 @@
+	title = c_kagogul
+	max_settlements = 5
+	culture = rarare
+	religion = kusran
+	b_becamma = tribal
+202.3.1 = {
+	religion = atheociu
+}
+
+205.3.1 = {
+	religion = kusran
+}
+
+205.3.1 = {
+	religion = atheociu
+}
+
+210.3.1 = {
+	religion = kusran
+}
+
+222.3.1 = {
+	religion = atheociu
+}
+
+224.3.1 = {
+	religion = kusran
+}
+
+230.3.1 = {
+	religion = atheociu
+}
+
+232.3.1 = {
+	religion = kusran
+}
+
+235.4.1 = {
+	culture = latuma
+}
+
+237.3.1 = {
+	religion = atheociu
+}
+
+869.4.1 = {
+	b_becamma = castle
+}
+
+913.4.1 = {
+	b_kabilen = city
+}
+
+1044.4.1 = {
+	b_darinan = temple
+}
+

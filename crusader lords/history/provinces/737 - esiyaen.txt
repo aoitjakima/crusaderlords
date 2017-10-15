@@ -1,0 +1,45 @@
+	title = c_esiyaen
+	max_settlements = 2
+	culture = nuteria
+	religion = wedwig
+	b_tyiy = tribal
+306.4.1 = {
+	culture = davars
+}
+
+307.4.1 = {
+	culture = nuteria
+}
+
+335.4.1 = {
+	culture = durga
+}
+
+368.4.1 = {
+	culture = nuteria
+}
+
+390.4.1 = {
+	culture = durga
+}
+
+514.4.1 = {
+	culture = davars
+}
+
+525.4.1 = {
+	culture = durga
+}
+
+530.4.1 = {
+	culture = davars
+}
+
+545.4.1 = {
+	b_tyiy = castle
+}
+
+675.4.1 = {
+	b_rery = city
+}
+

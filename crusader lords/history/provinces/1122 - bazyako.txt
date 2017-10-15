@@ -1,0 +1,13 @@
+	title = c_bazyako
+	max_settlements = 2
+	culture = takukork
+	religion = tonuyu
+	b_tosune = tribal
+244.4.1 = {
+	culture = wabuzhi
+}
+
+507.4.1 = {
+	culture = budandev
+}
+

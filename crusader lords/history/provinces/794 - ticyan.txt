@@ -1,0 +1,25 @@
+	title = c_ticyan
+	max_settlements = 3
+	culture = namyan
+	religion = telayira
+	b_dyagala = tribal
+202.3.1 = {
+	religion = kusran
+}
+
+262.4.1 = {
+	culture = abajule
+}
+
+600.4.1 = {
+	b_dyagala = castle
+}
+
+730.4.1 = {
+	b_tudtaya = city
+}
+
+866.4.1 = {
+	b_taulong = temple
+}
+

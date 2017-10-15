@@ -1,0 +1,13 @@
+	title = c_kepevag
+	max_settlements = 2
+	culture = karibel
+	religion = neharis
+	b_rukah = tribal
+715.4.1 = {
+	b_rukah = castle
+}
+
+815.4.1 = {
+	b_waneki = temple
+}
+

@@ -1,0 +1,53 @@
+	title = c_bisive
+	max_settlements = 5
+	culture = qindik
+	religion = neharis
+	b_botando = tribal
+202.3.1 = {
+	religion = wedwig
+}
+
+203.3.1 = {
+	religion = neharis
+}
+
+207.4.1 = {
+	culture = daimeig
+}
+
+214.3.1 = {
+	religion = wedwig
+}
+
+215.3.1 = {
+	religion = neharis
+}
+
+239.4.1 = {
+	culture = qindik
+}
+
+258.4.1 = {
+	culture = daimeig
+}
+
+266.4.1 = {
+	culture = syahes
+}
+
+371.4.1 = {
+	culture = amuhopti
+}
+
+419.4.1 = {
+	culture = syahes
+}
+
+575.4.1 = {
+	b_botando = castle
+}
+
+710.4.1 = {
+	b_runarma = temple
+}
+

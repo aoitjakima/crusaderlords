@@ -1,0 +1,85 @@
+	title = c_adelayira
+	max_settlements = 3
+	culture = titina
+	religion = telayira
+	b_timina = tribal
+1.1.1 = {
+	b_ranaug = ct_port_1
+}
+
+215.4.1 = {
+	culture = dainbai
+}
+
+216.4.1 = {
+	culture = titina
+}
+
+262.4.1 = {
+	culture = terikatim
+}
+
+267.3.1 = {
+	religion = bobena
+}
+
+269.3.1 = {
+	religion = telayira
+}
+
+274.3.1 = {
+	religion = bobena
+}
+
+274.3.1 = {
+	religion = telayira
+}
+
+275.3.1 = {
+	religion = bobena
+}
+
+277.3.1 = {
+	religion = telayira
+}
+
+288.3.1 = {
+	religion = bobena
+}
+
+290.3.1 = {
+	religion = telayira
+}
+
+293.3.1 = {
+	religion = bobena
+}
+
+295.3.1 = {
+	religion = telayira
+}
+
+308.3.1 = {
+	religion = bobena
+}
+
+308.3.1 = {
+	religion = telayira
+}
+
+321.4.1 = {
+	culture = titina
+}
+
+819.4.1 = {
+	b_timina = castle
+}
+
+852.4.1 = {
+	b_robiya = temple
+}
+
+961.4.1 = {
+	b_ranaug = city
+}
+

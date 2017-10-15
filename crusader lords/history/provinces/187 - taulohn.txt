@@ -1,0 +1,29 @@
+	title = c_taulohn
+	max_settlements = 2
+	culture = syahes
+	religion = neharis
+	b_kyekenna = tribal
+1.1.1 = {
+	b_daulata = ct_port_1
+}
+
+285.4.1 = {
+	culture = sodinia
+}
+
+297.4.1 = {
+	culture = syahes
+}
+
+300.4.1 = {
+	culture = sodinia
+}
+
+610.4.1 = {
+	b_kyekenna = castle
+}
+
+760.4.1 = {
+	b_daulata = city
+}
+

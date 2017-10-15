@@ -1,0 +1,45 @@
+	title = c_taudive
+	max_settlements = 5
+	culture = kuhotil
+	religion = eraygnars
+	b_sesuel = tribal
+225.4.1 = {
+	culture = nuteria
+}
+
+256.4.1 = {
+	culture = kuhotil
+}
+
+274.4.1 = {
+	culture = nuteria
+}
+
+312.4.1 = {
+	culture = kuhotil
+}
+
+338.4.1 = {
+	culture = nuteria
+}
+
+620.4.1 = {
+	b_sesuel = castle
+}
+
+770.4.1 = {
+	b_kanuel = city
+}
+
+854.4.1 = {
+	b_sopan = temple
+}
+
+921.4.1 = {
+	b_kantopm = city
+}
+
+984.4.1 = {
+	b_resance = temple
+}
+

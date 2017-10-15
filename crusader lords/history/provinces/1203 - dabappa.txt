@@ -1,0 +1,65 @@
+	title = c_dabappa
+	max_settlements = 4
+	culture = wabuzhi
+	religion = tonuyu
+	b_tatala = tribal
+1.1.1 = {
+	b_sasadra = ct_port_1
+}
+
+229.4.1 = {
+	culture = ranahim
+}
+
+442.4.1 = {
+	culture = qenoos
+}
+
+457.4.1 = {
+	culture = ranahim
+}
+
+697.4.1 = {
+	culture = qenoos
+}
+
+748.4.1 = {
+	culture = ranahim
+}
+
+752.4.1 = {
+	culture = qenoos
+}
+
+862.4.1 = {
+	b_tatala = castle
+}
+
+907.4.1 = {
+	b_tenyeh = temple
+}
+
+991.4.1 = {
+	culture = ranahim
+}
+
+1007.4.1 = {
+	culture = qenoos
+}
+
+1015.4.1 = {
+	culture = ranahim
+}
+
+1020.4.1 = {
+	b_sasadra = city
+}
+
+1021.4.1 = {
+	culture = qenoos
+}
+
+1031.4.1 = {
+	culture = ranahim
+}
+

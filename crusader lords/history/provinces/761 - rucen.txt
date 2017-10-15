@@ -1,0 +1,45 @@
+	title = c_rucen
+	max_settlements = 2
+	culture = nuteria
+	religion = wedwig
+	b_tolina = tribal
+306.4.1 = {
+	culture = davars
+}
+
+307.4.1 = {
+	culture = nuteria
+}
+
+335.4.1 = {
+	culture = durga
+}
+
+368.4.1 = {
+	culture = nuteria
+}
+
+390.4.1 = {
+	culture = durga
+}
+
+514.4.1 = {
+	culture = davars
+}
+
+525.4.1 = {
+	culture = durga
+}
+
+530.4.1 = {
+	culture = davars
+}
+
+645.4.1 = {
+	b_tolina = castle
+}
+
+795.4.1 = {
+	b_dolyhon = temple
+}
+

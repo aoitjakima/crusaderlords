@@ -1,0 +1,125 @@
+	title = c_raniagopi
+	max_settlements = 4
+	culture = nuteria
+	religion = eraygnars
+	b_toriam = tribal
+207.3.1 = {
+	religion = qiteka
+}
+
+208.3.1 = {
+	religion = eraygnars
+}
+
+210.3.1 = {
+	religion = qiteka
+}
+
+212.3.1 = {
+	religion = eraygnars
+}
+
+212.3.1 = {
+	religion = qiteka
+}
+
+231.3.1 = {
+	religion = eraygnars
+}
+
+232.3.1 = {
+	religion = qiteka
+}
+
+233.3.1 = {
+	religion = eraygnars
+}
+
+234.3.1 = {
+	religion = qiteka
+}
+
+253.3.1 = {
+	religion = eraygnars
+}
+
+255.3.1 = {
+	religion = qiteka
+}
+
+256.3.1 = {
+	religion = eraygnars
+}
+
+258.3.1 = {
+	religion = qiteka
+}
+
+272.3.1 = {
+	religion = eraygnars
+}
+
+273.3.1 = {
+	religion = qiteka
+}
+
+274.3.1 = {
+	religion = eraygnars
+}
+
+285.3.1 = {
+	religion = qiteka
+}
+
+286.3.1 = {
+	religion = eraygnars
+}
+
+288.3.1 = {
+	religion = qiteka
+}
+
+291.3.1 = {
+	religion = eraygnars
+}
+
+295.3.1 = {
+	religion = qiteka
+}
+
+296.3.1 = {
+	religion = eraygnars
+}
+
+298.3.1 = {
+	religion = qiteka
+}
+
+305.3.1 = {
+	religion = eraygnars
+}
+
+312.3.1 = {
+	religion = qiteka
+}
+
+320.4.1 = {
+	culture = saimes
+}
+
+600.4.1 = {
+	b_toriam = castle
+}
+
+785.4.1 = {
+	b_kegose = city
+}
+
+881.4.1 = {
+	b_wiafi = temple
+}
+
+963.4.1 = {
+	b_qauan = temple
+}
+

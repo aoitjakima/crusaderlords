@@ -1,0 +1,17 @@
+	title = c_qakoz
+	max_settlements = 2
+	culture = loguslan
+	religion = neharis
+	b_eharaoro = tribal
+369.4.1 = {
+	culture = liebes
+}
+
+895.4.1 = {
+	b_eharaoro = castle
+}
+
+1032.4.1 = {
+	b_daroris = city
+}
+

@@ -1,0 +1,17 @@
+	title = c_lekudo
+	max_settlements = 2
+	culture = lyarala
+	religion = tonuyu
+	b_aregyape = tribal
+318.4.1 = {
+	culture = budandev
+}
+
+822.4.1 = {
+	b_aregyape = castle
+}
+
+865.4.1 = {
+	b_dulyape = temple
+}
+

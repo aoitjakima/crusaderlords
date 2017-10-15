@@ -1,0 +1,37 @@
+	title = c_kamon
+	max_settlements = 7
+	culture = lagond
+	religion = atheociu
+	b_busoth = tribal
+1.1.1 = {
+	b_susiya = ct_port_1
+}
+
+200.3.1 = {
+	religion = qigiyah
+}
+
+200.4.1 = {
+	culture = rarare
+}
+
+243.4.1 = {
+	culture = lagond
+}
+
+822.4.1 = {
+	b_busoth = castle
+}
+
+852.4.1 = {
+	b_susiya = city
+}
+
+918.4.1 = {
+	b_dasonoc = temple
+}
+
+990.4.1 = {
+	b_kezao = castle
+}
+

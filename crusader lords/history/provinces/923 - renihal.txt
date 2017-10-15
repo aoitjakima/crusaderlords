@@ -1,0 +1,41 @@
+	title = c_renihal
+	max_settlements = 5
+	culture = durga
+	religion = terenat
+	b_qusipp = tribal
+203.3.1 = {
+	religion = qiteka
+}
+
+210.4.1 = {
+	culture = waetutlu
+}
+
+335.4.1 = {
+	culture = risutlu
+}
+
+505.4.1 = {
+	b_qusipp = castle
+}
+
+675.4.1 = {
+	b_dusacob = temple
+}
+
+734.4.1 = {
+	culture = saimes
+}
+
+870.4.1 = {
+	b_kohiby = city
+}
+
+940.4.1 = {
+	b_efedey = city
+}
+
+995.4.1 = {
+	b_syever = city
+}
+

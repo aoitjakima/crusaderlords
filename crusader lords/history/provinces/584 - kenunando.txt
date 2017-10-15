@@ -1,0 +1,57 @@
+	title = c_kenunando
+	max_settlements = 5
+	culture = esunadir
+	religion = neharis
+	b_agisaila = tribal
+201.4.1 = {
+	culture = narentiy
+}
+
+201.3.1 = {
+	religion = naneka
+}
+
+211.4.1 = {
+	culture = retose
+}
+
+326.4.1 = {
+	culture = esunadir
+}
+
+525.4.1 = {
+	culture = sereka
+}
+
+580.4.1 = {
+	b_agisaila = castle
+}
+
+590.4.1 = {
+	culture = esunadir
+}
+
+750.4.1 = {
+	b_eqataila = city
+}
+
+866.4.1 = {
+	b_waudonka = temple
+}
+
+898.4.1 = {
+	culture = sereka
+}
+
+907.4.1 = {
+	culture = esunadir
+}
+
+918.4.1 = {
+	culture = sereka
+}
+
+939.4.1 = {
+	b_sule = city
+}
+

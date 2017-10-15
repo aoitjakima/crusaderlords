@@ -1,0 +1,73 @@
+	title = c_didal
+	max_settlements = 3
+	culture = ricqa
+	religion = kusran
+	b_kopiel = tribal
+201.3.1 = {
+	religion = wedwig
+}
+
+208.3.1 = {
+	religion = kusran
+}
+
+235.3.1 = {
+	religion = wedwig
+}
+
+258.4.1 = {
+	culture = ryanopti
+}
+
+259.3.1 = {
+	religion = kusran
+}
+
+343.3.1 = {
+	religion = wedwig
+}
+
+354.3.1 = {
+	religion = kusran
+}
+
+356.3.1 = {
+	religion = wedwig
+}
+
+359.3.1 = {
+	religion = kusran
+}
+
+373.3.1 = {
+	religion = wedwig
+}
+
+378.3.1 = {
+	religion = kusran
+}
+
+383.3.1 = {
+	religion = wedwig
+}
+
+385.3.1 = {
+	religion = kusran
+}
+
+390.3.1 = {
+	religion = wedwig
+}
+
+620.4.1 = {
+	b_kopiel = castle
+}
+
+750.4.1 = {
+	b_rohoedl = temple
+}
+
+876.4.1 = {
+	b_kunius = city
+}
+

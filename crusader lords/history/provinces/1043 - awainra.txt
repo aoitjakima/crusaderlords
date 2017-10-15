@@ -1,0 +1,13 @@
+	title = c_awainra
+	max_settlements = 2
+	culture = rarare
+	religion = qigiyah
+	b_keliya = tribal
+823.4.1 = {
+	b_keliya = castle
+}
+
+853.4.1 = {
+	b_rimha = temple
+}
+

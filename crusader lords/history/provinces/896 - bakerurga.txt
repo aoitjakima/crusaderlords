@@ -1,0 +1,65 @@
+	title = c_bakerurga
+	max_settlements = 2
+	culture = sereka
+	religion = naneka
+	b_amarurga = tribal
+201.3.1 = {
+	religion = qiteka
+}
+
+204.3.1 = {
+	religion = naneka
+}
+
+215.3.1 = {
+	religion = qiteka
+}
+
+217.3.1 = {
+	religion = naneka
+}
+
+220.3.1 = {
+	religion = qiteka
+}
+
+221.3.1 = {
+	religion = naneka
+}
+
+223.3.1 = {
+	religion = qiteka
+}
+
+236.3.1 = {
+	religion = naneka
+}
+
+239.3.1 = {
+	religion = qiteka
+}
+
+242.3.1 = {
+	religion = naneka
+}
+
+244.4.1 = {
+	culture = retose
+}
+
+245.3.1 = {
+	religion = qiteka
+}
+
+249.4.1 = {
+	culture = banaila
+}
+
+620.4.1 = {
+	b_amarurga = castle
+}
+
+770.4.1 = {
+	b_tethee = city
+}
+

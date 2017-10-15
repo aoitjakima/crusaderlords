@@ -1,0 +1,29 @@
+	title = c_tesal
+	max_settlements = 4
+	culture = raraber
+	religion = neharis
+	b_nehai = tribal
+204.3.1 = {
+	religion = nukaye
+}
+
+222.4.1 = {
+	culture = wili
+}
+
+690.4.1 = {
+	b_nehai = castle
+}
+
+816.4.1 = {
+	b_sayaita = temple
+}
+
+919.4.1 = {
+	b_erumeya = city
+}
+
+1061.4.1 = {
+	b_tukita = city
+}
+

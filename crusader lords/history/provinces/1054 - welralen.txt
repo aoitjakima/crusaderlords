@@ -1,0 +1,17 @@
+	title = c_welralen
+	max_settlements = 2
+	culture = kyayalen
+	religion = qigiyah
+	b_rainand = tribal
+449.4.1 = {
+	culture = alaurine
+}
+
+928.4.1 = {
+	b_rainand = castle
+}
+
+973.4.1 = {
+	b_kanonka = city
+}
+

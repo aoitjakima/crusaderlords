@@ -1,0 +1,65 @@
+	title = c_laudive
+	max_settlements = 6
+	culture = negasseh
+	religion = wedwig
+	b_sehlundes = tribal
+1.1.1 = {
+	b_aboramur = ct_port_1
+}
+
+204.4.1 = {
+	culture = davars
+}
+
+285.4.1 = {
+	culture = durga
+}
+
+306.4.1 = {
+	culture = davars
+}
+
+313.4.1 = {
+	culture = durga
+}
+
+368.4.1 = {
+	culture = davars
+}
+
+466.4.1 = {
+	culture = durga
+}
+
+514.4.1 = {
+	culture = davars
+}
+
+525.4.1 = {
+	culture = durga
+}
+
+531.4.1 = {
+	culture = davars
+}
+
+595.4.1 = {
+	b_sehlundes = castle
+}
+
+730.4.1 = {
+	b_aboramur = city
+}
+
+863.4.1 = {
+	b_taneina = temple
+}
+
+948.4.1 = {
+	b_setamur = temple
+}
+
+1025.4.1 = {
+	b_sandaudl = city
+}
+

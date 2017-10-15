@@ -1,0 +1,93 @@
+	title = c_raoyh
+	max_settlements = 4
+	culture = sutidoka
+	religion = kusran
+	b_bigancis = tribal
+200.3.1 = {
+	religion = raipi
+}
+
+202.3.1 = {
+	religion = kusran
+}
+
+204.3.1 = {
+	religion = raipi
+}
+
+207.3.1 = {
+	religion = kusran
+}
+
+214.3.1 = {
+	religion = raipi
+}
+
+215.3.1 = {
+	religion = kusran
+}
+
+215.3.1 = {
+	religion = raipi
+}
+
+216.3.1 = {
+	religion = kusran
+}
+
+226.3.1 = {
+	religion = raipi
+}
+
+241.3.1 = {
+	religion = kusran
+}
+
+242.3.1 = {
+	religion = raipi
+}
+
+300.4.1 = {
+	culture = taodha
+}
+
+309.4.1 = {
+	culture = kapti
+}
+
+380.4.1 = {
+	culture = sutidoka
+}
+
+412.4.1 = {
+	culture = kapti
+}
+
+486.4.1 = {
+	culture = kaureid
+}
+
+510.4.1 = {
+	culture = kapti
+}
+
+544.4.1 = {
+	culture = kaureid
+}
+
+552.4.1 = {
+	culture = kapti
+}
+
+866.4.1 = {
+	b_bigancis = castle
+}
+
+912.4.1 = {
+	b_nagi = city
+}
+
+1033.4.1 = {
+	b_wesupo = temple
+}
+

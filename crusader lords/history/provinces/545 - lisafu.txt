@@ -1,0 +1,33 @@
+	title = c_lisafu
+	max_settlements = 5
+	culture = karibel
+	religion = neharis
+	b_apive = tribal
+201.4.1 = {
+	culture = syahes
+}
+
+242.4.1 = {
+	culture = karibel
+}
+
+565.4.1 = {
+	b_apive = castle
+}
+
+680.4.1 = {
+	b_wotadir = temple
+}
+
+837.4.1 = {
+	b_bitawzia = city
+}
+
+903.4.1 = {
+	b_kegily = city
+}
+
+968.4.1 = {
+	b_atartn = temple
+}
+

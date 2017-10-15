@@ -1,0 +1,25 @@
+	title = c_rabaham
+	max_settlements = 3
+	culture = wamata
+	religion = neharis
+	b_qaurare = tribal
+200.3.1 = {
+	religion = nukaye
+}
+
+273.4.1 = {
+	culture = qariyah
+}
+
+826.4.1 = {
+	b_qaurare = castle
+}
+
+862.4.1 = {
+	b_takyadya = temple
+}
+
+970.4.1 = {
+	b_qyayalen = city
+}
+

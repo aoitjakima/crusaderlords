@@ -1,0 +1,29 @@
+	title = c_socance
+	max_settlements = 4
+	culture = reatoto
+	religion = qiteka
+	b_riafiam = tribal
+206.4.1 = {
+	culture = esunadir
+}
+
+207.3.1 = {
+	religion = begeka
+}
+
+600.4.1 = {
+	b_riafiam = castle
+}
+
+735.4.1 = {
+	b_kotenda = temple
+}
+
+870.4.1 = {
+	b_segundes = city
+}
+
+937.4.1 = {
+	b_tamamur = temple
+}
+

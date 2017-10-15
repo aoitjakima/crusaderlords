@@ -1,0 +1,21 @@
+	title = c_beja
+	max_settlements = 3
+	culture = davars
+	religion = wedwig
+	b_ehadii = tribal
+1.1.1 = {
+	b_negotil = ct_port_1
+}
+
+610.4.1 = {
+	b_ehadii = castle
+}
+
+740.4.1 = {
+	b_qegeorn = temple
+}
+
+877.4.1 = {
+	b_negotil = city
+}
+

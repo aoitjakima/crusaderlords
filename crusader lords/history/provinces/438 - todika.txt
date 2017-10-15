@@ -1,0 +1,81 @@
+	title = c_todika
+	max_settlements = 4
+	culture = teber
+	religion = neharis
+	b_esumiyah = tribal
+202.4.1 = {
+	culture = raraber
+}
+
+204.3.1 = {
+	religion = nukaye
+}
+
+206.3.1 = {
+	religion = neharis
+}
+
+210.3.1 = {
+	religion = nukaye
+}
+
+214.3.1 = {
+	religion = neharis
+}
+
+218.3.1 = {
+	religion = nukaye
+}
+
+224.3.1 = {
+	religion = neharis
+}
+
+226.3.1 = {
+	religion = nukaye
+}
+
+227.3.1 = {
+	religion = neharis
+}
+
+230.3.1 = {
+	religion = nukaye
+}
+
+235.3.1 = {
+	religion = neharis
+}
+
+238.3.1 = {
+	religion = nukaye
+}
+
+255.4.1 = {
+	culture = wili
+}
+
+291.4.1 = {
+	culture = raraber
+}
+
+321.4.1 = {
+	culture = wili
+}
+
+625.4.1 = {
+	b_esumiyah = castle
+}
+
+775.4.1 = {
+	b_tehaal = city
+}
+
+870.4.1 = {
+	b_nidafiy = temple
+}
+
+976.4.1 = {
+	b_kinafiy = temple
+}
+

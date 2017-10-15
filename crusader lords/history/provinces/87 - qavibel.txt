@@ -1,0 +1,17 @@
+	title = c_qavibel
+	max_settlements = 2
+	culture = sodinia
+	religion = neharis
+	b_nalindik = tribal
+210.4.1 = {
+	culture = talentiy
+}
+
+520.4.1 = {
+	b_nalindik = castle
+}
+
+625.4.1 = {
+	b_tuhella = temple
+}
+

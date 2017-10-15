@@ -1,0 +1,101 @@
+	title = c_tiunmas
+	max_settlements = 5
+	culture = kitule
+	religion = begeka
+	b_lerilip = tribal
+203.3.1 = {
+	religion = terenat
+}
+
+206.3.1 = {
+	religion = begeka
+}
+
+208.3.1 = {
+	religion = terenat
+}
+
+209.3.1 = {
+	religion = begeka
+}
+
+211.3.1 = {
+	religion = terenat
+}
+
+215.3.1 = {
+	religion = begeka
+}
+
+222.3.1 = {
+	religion = terenat
+}
+
+224.4.1 = {
+	culture = banaila
+}
+
+228.3.1 = {
+	religion = begeka
+}
+
+228.3.1 = {
+	religion = terenat
+}
+
+230.3.1 = {
+	religion = begeka
+}
+
+230.3.1 = {
+	religion = terenat
+}
+
+236.3.1 = {
+	religion = begeka
+}
+
+238.3.1 = {
+	religion = terenat
+}
+
+240.3.1 = {
+	religion = begeka
+}
+
+241.3.1 = {
+	religion = terenat
+}
+
+244.3.1 = {
+	religion = begeka
+}
+
+256.3.1 = {
+	religion = terenat
+}
+
+263.3.1 = {
+	religion = begeka
+}
+
+482.4.1 = {
+	culture = kitule
+}
+
+596.4.1 = {
+	b_lerilip = castle
+}
+
+802.4.1 = {
+	b_tunuel = temple
+}
+
+895.4.1 = {
+	b_kurga = city
+}
+
+993.4.1 = {
+	b_toumas = city
+}
+

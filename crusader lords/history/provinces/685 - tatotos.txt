@@ -1,0 +1,41 @@
+	title = c_tatotos
+	max_settlements = 3
+	culture = ryanopti
+	religion = wedwig
+	b_kiwina = tribal
+239.4.1 = {
+	culture = weliana
+}
+
+293.4.1 = {
+	culture = davars
+}
+
+364.4.1 = {
+	culture = durga
+}
+
+371.4.1 = {
+	culture = davars
+}
+
+376.4.1 = {
+	culture = durga
+}
+
+514.4.1 = {
+	culture = davars
+}
+
+550.4.1 = {
+	b_kiwina = castle
+}
+
+690.4.1 = {
+	b_amwiby = city
+}
+
+834.4.1 = {
+	b_bovidia = temple
+}
+

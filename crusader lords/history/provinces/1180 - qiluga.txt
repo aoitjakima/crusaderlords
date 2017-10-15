@@ -1,0 +1,25 @@
+	title = c_qiluga
+	max_settlements = 2
+	culture = radabor
+	religion = tonuyu
+	b_badancaedmasegilna = tribal
+204.4.1 = {
+	culture = budandev
+}
+
+253.4.1 = {
+	culture = wenira
+}
+
+282.4.1 = {
+	culture = radabor
+}
+
+715.4.1 = {
+	b_badancaedmasegilna = castle
+}
+
+821.4.1 = {
+	b_renuga = temple
+}
+

@@ -1,0 +1,29 @@
+	title = c_qaysuge
+	max_settlements = 5
+	culture = namyan
+	religion = kusran
+	b_qaladi = tribal
+262.4.1 = {
+	culture = abajule
+}
+
+596.4.1 = {
+	b_qaladi = castle
+}
+
+730.4.1 = {
+	b_tesule = temple
+}
+
+869.4.1 = {
+	b_noumas = city
+}
+
+946.4.1 = {
+	b_kicadi = city
+}
+
+1020.4.1 = {
+	b_kyros = castle
+}
+

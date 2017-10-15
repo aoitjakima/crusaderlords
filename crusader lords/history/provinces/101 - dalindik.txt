@@ -1,0 +1,17 @@
+	title = c_dalindik
+	max_settlements = 6
+	culture = nuteria
+	religion = wedwig
+	b_leria = tribal
+322.4.1 = {
+	culture = waynald
+}
+
+327.4.1 = {
+	culture = nuteria
+}
+
+398.4.1 = {
+	culture = waynald
+}
+

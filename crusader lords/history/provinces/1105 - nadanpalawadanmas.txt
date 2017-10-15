@@ -1,0 +1,21 @@
+	title = c_nadanpalawadanmas
+	max_settlements = 2
+	culture = rudeslav
+	religion = tonuyu
+	b_wayseda = tribal
+256.4.1 = {
+	culture = wenira
+}
+
+346.4.1 = {
+	culture = radabor
+}
+
+615.4.1 = {
+	b_wayseda = castle
+}
+
+760.4.1 = {
+	b_dakira = city
+}
+

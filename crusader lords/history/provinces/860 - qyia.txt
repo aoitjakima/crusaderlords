@@ -1,0 +1,45 @@
+	title = c_qyia
+	max_settlements = 4
+	culture = ritiatou
+	religion = telayira
+	b_alitaria = tribal
+313.4.1 = {
+	culture = koumas
+}
+
+593.4.1 = {
+	culture = lopher
+}
+
+621.4.1 = {
+	culture = koumas
+}
+
+710.4.1 = {
+	b_alitaria = castle
+}
+
+767.4.1 = {
+	culture = lopher
+}
+
+811.4.1 = {
+	b_titata = temple
+}
+
+846.4.1 = {
+	culture = koumas
+}
+
+852.4.1 = {
+	culture = lopher
+}
+
+893.4.1 = {
+	b_qobata = city
+}
+
+970.4.1 = {
+	b_emazore = castle
+}
+

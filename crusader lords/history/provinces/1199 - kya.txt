@@ -1,0 +1,21 @@
+	title = c_kya
+	max_settlements = 3
+	culture = lyarala
+	religion = tonuyu
+	b_rulyape = tribal
+318.4.1 = {
+	culture = budandev
+}
+
+818.4.1 = {
+	b_rulyape = castle
+}
+
+858.4.1 = {
+	b_sylina = temple
+}
+
+957.4.1 = {
+	b_budo = city
+}
+

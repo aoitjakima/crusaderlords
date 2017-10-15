@@ -1,0 +1,29 @@
+	title = c_wiwina
+	max_settlements = 3
+	culture = weliana
+	religion = wedwig
+	b_luzed = tribal
+202.4.1 = {
+	culture = davars
+}
+
+232.4.1 = {
+	culture = weliana
+}
+
+285.4.1 = {
+	culture = davars
+}
+
+560.4.1 = {
+	b_luzed = castle
+}
+
+695.4.1 = {
+	b_tated = temple
+}
+
+856.4.1 = {
+	b_kaxada = city
+}
+

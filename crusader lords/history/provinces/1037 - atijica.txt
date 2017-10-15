@@ -1,0 +1,21 @@
+	title = c_atijica
+	max_settlements = 2
+	culture = tumata
+	religion = nukaye
+	b_kupica = tribal
+233.4.1 = {
+	culture = wamata
+}
+
+332.4.1 = {
+	culture = qariyah
+}
+
+830.4.1 = {
+	b_kupica = castle
+}
+
+867.4.1 = {
+	b_tikaw = temple
+}
+

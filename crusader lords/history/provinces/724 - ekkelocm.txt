@@ -1,0 +1,13 @@
+	title = c_ekkelocm
+	max_settlements = 2
+	culture = saimes
+	religion = qiteka
+	b_setenda = tribal
+685.4.1 = {
+	b_setenda = castle
+}
+
+813.4.1 = {
+	b_wiebi = city
+}
+

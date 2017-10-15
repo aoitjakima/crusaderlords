@@ -1,0 +1,33 @@
+	title = c_abyaretecn
+	max_settlements = 5
+	culture = latuma
+	religion = atheociu
+	b_labinan = tribal
+259.4.1 = {
+	culture = sigivkah
+}
+
+289.4.1 = {
+	culture = latuma
+}
+
+333.4.1 = {
+	culture = sigivkah
+}
+
+347.4.1 = {
+	culture = latuma
+}
+
+869.4.1 = {
+	b_labinan = castle
+}
+
+913.4.1 = {
+	b_salogul = temple
+}
+
+1044.4.1 = {
+	b_kimii = city
+}
+

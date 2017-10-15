@@ -1,0 +1,9 @@
+	title = c_tiafald
+	max_settlements = 2
+	culture = waynald
+	religion = wedwig
+	b_ajoholf = tribal
+1052.4.1 = {
+	b_ajoholf = castle
+}
+

@@ -1,0 +1,25 @@
+	title = c_taynars
+	max_settlements = 3
+	culture = davars
+	religion = wedwig
+	b_kaurn = tribal
+326.4.1 = {
+	culture = durga
+}
+
+379.4.1 = {
+	culture = davars
+}
+
+395.4.1 = {
+	culture = durga
+}
+
+417.4.1 = {
+	culture = davars
+}
+
+961.4.1 = {
+	b_kaurn = castle
+}
+

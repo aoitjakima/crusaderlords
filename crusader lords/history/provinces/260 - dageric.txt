@@ -1,0 +1,61 @@
+	title = c_dageric
+	max_settlements = 2
+	culture = talda
+	religion = atheociu
+	b_kalleric = tribal
+204.3.1 = {
+	religion = bobena
+}
+
+208.3.1 = {
+	religion = atheociu
+}
+
+215.3.1 = {
+	religion = bobena
+}
+
+225.3.1 = {
+	religion = atheociu
+}
+
+230.3.1 = {
+	religion = bobena
+}
+
+238.3.1 = {
+	religion = atheociu
+}
+
+243.3.1 = {
+	religion = bobena
+}
+
+246.3.1 = {
+	religion = atheociu
+}
+
+247.3.1 = {
+	religion = bobena
+}
+
+250.3.1 = {
+	religion = atheociu
+}
+
+250.3.1 = {
+	religion = bobena
+}
+
+262.4.1 = {
+	culture = welitya
+}
+
+863.4.1 = {
+	b_kalleric = castle
+}
+
+899.4.1 = {
+	b_tururi = temple
+}
+

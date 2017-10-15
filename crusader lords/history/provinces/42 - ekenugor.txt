@@ -1,0 +1,53 @@
+	title = c_ekenugor
+	max_settlements = 3
+	culture = tawtus
+	religion = kodine
+	b_walili = tribal
+1.1.1 = {
+	b_kilunan = ct_port_1
+}
+
+201.3.1 = {
+	religion = tonuyu
+}
+
+209.3.1 = {
+	religion = kodine
+}
+
+211.3.1 = {
+	religion = tonuyu
+}
+
+213.3.1 = {
+	religion = kodine
+}
+
+224.3.1 = {
+	religion = tonuyu
+}
+
+236.3.1 = {
+	religion = kodine
+}
+
+238.3.1 = {
+	religion = tonuyu
+}
+
+242.4.1 = {
+	culture = biho
+}
+
+838.4.1 = {
+	b_walili = castle
+}
+
+871.4.1 = {
+	b_qecili = temple
+}
+
+977.4.1 = {
+	b_kilunan = city
+}
+

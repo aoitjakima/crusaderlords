@@ -1,0 +1,25 @@
+	title = c_waribel
+	max_settlements = 2
+	culture = talentiy
+	religion = neharis
+	b_nenes = tribal
+232.4.1 = {
+	culture = syahes
+}
+
+252.4.1 = {
+	culture = talentiy
+}
+
+258.4.1 = {
+	culture = syahes
+}
+
+530.4.1 = {
+	b_nenes = castle
+}
+
+710.4.1 = {
+	b_etaheria = city
+}
+

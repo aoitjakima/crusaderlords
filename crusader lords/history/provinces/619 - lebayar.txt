@@ -1,0 +1,57 @@
+	title = c_lebayar
+	max_settlements = 2
+	culture = kapti
+	religion = kusran
+	b_nahayar = tribal
+200.3.1 = {
+	religion = raipi
+}
+
+207.3.1 = {
+	religion = kusran
+}
+
+214.3.1 = {
+	religion = raipi
+}
+
+217.3.1 = {
+	religion = kusran
+}
+
+230.3.1 = {
+	religion = raipi
+}
+
+235.3.1 = {
+	religion = kusran
+}
+
+242.3.1 = {
+	religion = raipi
+}
+
+244.3.1 = {
+	religion = kusran
+}
+
+254.3.1 = {
+	religion = raipi
+}
+
+323.4.1 = {
+	culture = taodha
+}
+
+365.4.1 = {
+	culture = kapti
+}
+
+705.4.1 = {
+	b_nahayar = castle
+}
+
+817.4.1 = {
+	b_beepadir = temple
+}
+

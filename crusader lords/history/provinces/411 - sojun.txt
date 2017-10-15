@@ -1,0 +1,89 @@
+	title = c_sojun
+	max_settlements = 5
+	culture = sigivkah
+	religion = kusran
+	b_kohar = tribal
+202.3.1 = {
+	religion = atheociu
+}
+
+203.3.1 = {
+	religion = kusran
+}
+
+203.3.1 = {
+	religion = atheociu
+}
+
+208.3.1 = {
+	religion = kusran
+}
+
+210.3.1 = {
+	religion = atheociu
+}
+
+235.4.1 = {
+	culture = latuma
+}
+
+252.4.1 = {
+	culture = sigivkah
+}
+
+288.4.1 = {
+	culture = latuma
+}
+
+298.3.1 = {
+	religion = kusran
+}
+
+303.4.1 = {
+	culture = rauroka
+}
+
+303.3.1 = {
+	religion = atheociu
+}
+
+309.3.1 = {
+	religion = kusran
+}
+
+309.3.1 = {
+	religion = atheociu
+}
+
+322.3.1 = {
+	religion = kusran
+}
+
+325.3.1 = {
+	religion = atheociu
+}
+
+327.3.1 = {
+	religion = kusran
+}
+
+327.3.1 = {
+	religion = atheociu
+}
+
+335.4.1 = {
+	culture = latuma
+}
+
+855.4.1 = {
+	b_kohar = castle
+}
+
+891.4.1 = {
+	b_tavt = temple
+}
+
+1017.4.1 = {
+	b_ersank = city
+}
+

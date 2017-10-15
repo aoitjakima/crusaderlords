@@ -1,0 +1,49 @@
+	title = c_qepily
+	max_settlements = 3
+	culture = retose
+	religion = qiteka
+	b_regaila = tribal
+201.3.1 = {
+	religion = naneka
+}
+
+258.4.1 = {
+	culture = sereka
+}
+
+317.4.1 = {
+	culture = esunadir
+}
+
+504.4.1 = {
+	culture = sereka
+}
+
+508.4.1 = {
+	culture = esunadir
+}
+
+517.4.1 = {
+	culture = sereka
+}
+
+645.4.1 = {
+	b_regaila = castle
+}
+
+649.4.1 = {
+	culture = esunadir
+}
+
+717.4.1 = {
+	culture = sereka
+}
+
+785.4.1 = {
+	b_negeka = temple
+}
+
+859.4.1 = {
+	b_raudadir = city
+}
+

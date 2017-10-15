@@ -1,0 +1,45 @@
+	title = c_lirada
+	max_settlements = 2
+	culture = disinos
+	religion = kusran
+	b_tatdarei = tribal
+201.3.1 = {
+	religion = wedwig
+}
+
+203.3.1 = {
+	religion = kusran
+}
+
+238.4.1 = {
+	culture = ryanopti
+}
+
+247.3.1 = {
+	religion = wedwig
+}
+
+250.3.1 = {
+	religion = kusran
+}
+
+343.3.1 = {
+	religion = wedwig
+}
+
+347.3.1 = {
+	religion = kusran
+}
+
+347.3.1 = {
+	religion = wedwig
+}
+
+710.4.1 = {
+	b_tatdarei = castle
+}
+
+802.4.1 = {
+	b_savada = city
+}
+

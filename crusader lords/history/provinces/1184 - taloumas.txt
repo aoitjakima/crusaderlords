@@ -1,0 +1,21 @@
+	title = c_taloumas
+	max_settlements = 2
+	culture = radabor
+	religion = tonuyu
+	b_qilabra = tribal
+257.4.1 = {
+	culture = wenira
+}
+
+268.4.1 = {
+	culture = radabor
+}
+
+730.4.1 = {
+	b_qilabra = castle
+}
+
+825.4.1 = {
+	b_buarira = city
+}
+

@@ -1,0 +1,12 @@
+961.2.1 = {
+	liege = d_qalabra
+}
+
+961.2.2 = {
+	holder = 1050422
+}
+
+961.4.1 = {
+	holding_dynasty = 25776
+}
+

@@ -1,0 +1,33 @@
+	title = c_wyarappa
+	max_settlements = 6
+	culture = wabuzhi
+	religion = tonuyu
+	b_satae = tribal
+204.4.1 = {
+	culture = budandev
+}
+
+230.4.1 = {
+	culture = wabuzhi
+}
+
+477.4.1 = {
+	culture = budandev
+}
+
+840.4.1 = {
+	b_satae = castle
+}
+
+871.4.1 = {
+	b_tatappa = city
+}
+
+965.4.1 = {
+	b_kelala = temple
+}
+
+1049.4.1 = {
+	b_ralahim = city
+}
+

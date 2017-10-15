@@ -1,0 +1,109 @@
+	title = c_daggelk
+	max_settlements = 6
+	culture = eluedsalh
+	religion = raipi
+	b_tiafen = tribal
+208.4.1 = {
+	culture = sigivkah
+}
+
+211.3.1 = {
+	religion = kusran
+}
+
+220.3.1 = {
+	religion = raipi
+}
+
+229.3.1 = {
+	religion = kusran
+}
+
+230.3.1 = {
+	religion = raipi
+}
+
+234.3.1 = {
+	religion = kusran
+}
+
+239.3.1 = {
+	religion = raipi
+}
+
+240.3.1 = {
+	religion = kusran
+}
+
+251.3.1 = {
+	religion = raipi
+}
+
+256.3.1 = {
+	religion = kusran
+}
+
+259.3.1 = {
+	religion = raipi
+}
+
+263.3.1 = {
+	religion = kusran
+}
+
+265.3.1 = {
+	religion = raipi
+}
+
+268.3.1 = {
+	religion = kusran
+}
+
+277.3.1 = {
+	religion = raipi
+}
+
+293.4.1 = {
+	culture = eluedsalh
+}
+
+304.4.1 = {
+	culture = sigivkah
+}
+
+435.4.1 = {
+	culture = eluedsalh
+}
+
+511.4.1 = {
+	culture = sigivkah
+}
+
+548.4.1 = {
+	culture = eluedsalh
+}
+
+643.4.1 = {
+	culture = sigivkah
+}
+
+645.4.1 = {
+	b_tiafen = castle
+}
+
+804.4.1 = {
+	b_basseh = city
+}
+
+883.4.1 = {
+	b_kegnasegna = temple
+}
+
+952.4.1 = {
+	b_tateig = temple
+}
+
+1026.4.1 = {
+	b_qohiana = castle
+}
+

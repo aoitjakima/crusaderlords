@@ -1,0 +1,17 @@
+	title = c_qigand
+	max_settlements = 2
+	culture = alaurine
+	religion = wedwig
+	b_raka = tribal
+200.3.1 = {
+	religion = qigiyah
+}
+
+851.4.1 = {
+	b_raka = castle
+}
+
+893.4.1 = {
+	b_tulina = city
+}
+

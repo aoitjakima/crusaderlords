@@ -1,0 +1,29 @@
+	title = c_qoloros
+	max_settlements = 4
+	culture = kaureid
+	religion = kusran
+	b_satande = tribal
+200.3.1 = {
+	religion = raipi
+}
+
+277.4.1 = {
+	culture = kapti
+}
+
+735.4.1 = {
+	b_satande = castle
+}
+
+821.4.1 = {
+	b_tiby = temple
+}
+
+931.4.1 = {
+	b_keylalt = city
+}
+
+1040.4.1 = {
+	b_ratiby = temple
+}
+

@@ -1,0 +1,25 @@
+	title = c_sarindik
+	max_settlements = 2
+	culture = daimeig
+	religion = wedwig
+	b_dareria = tribal
+322.4.1 = {
+	culture = waynald
+}
+
+332.4.1 = {
+	culture = daimeig
+}
+
+386.4.1 = {
+	culture = waynald
+}
+
+605.4.1 = {
+	b_dareria = castle
+}
+
+755.4.1 = {
+	b_qiebnus = temple
+}
+

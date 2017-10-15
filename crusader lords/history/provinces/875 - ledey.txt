@@ -1,0 +1,33 @@
+	title = c_ledey
+	max_settlements = 2
+	culture = ebeina
+	religion = qiteka
+	b_rohipp = tribal
+1.1.1 = {
+	b_rilada = ct_port_1
+}
+
+257.4.1 = {
+	culture = waetutlu
+}
+
+273.4.1 = {
+	culture = ebeina
+}
+
+342.4.1 = {
+	culture = risutlu
+}
+
+575.4.1 = {
+	b_rohipp = castle
+}
+
+705.4.1 = {
+	b_rilada = city
+}
+
+862.4.1 = {
+	culture = saimes
+}
+

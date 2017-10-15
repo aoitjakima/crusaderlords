@@ -1,0 +1,49 @@
+	title = c_lesine
+	max_settlements = 2
+	culture = rubiho
+	religion = tonuyu
+	b_bergia = tribal
+1.1.1 = {
+	b_apuline = ct_port_1
+}
+
+314.4.1 = {
+	culture = lodeid
+}
+
+343.4.1 = {
+	culture = rubiho
+}
+
+384.4.1 = {
+	culture = lodeid
+}
+
+411.4.1 = {
+	culture = rubiho
+}
+
+420.4.1 = {
+	culture = lodeid
+}
+
+467.4.1 = {
+	culture = rubiho
+}
+
+476.4.1 = {
+	culture = lodeid
+}
+
+540.4.1 = {
+	culture = biho
+}
+
+846.4.1 = {
+	b_bergia = castle
+}
+
+882.4.1 = {
+	b_apuline = city
+}
+

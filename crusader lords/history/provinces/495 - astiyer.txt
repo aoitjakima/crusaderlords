@@ -1,0 +1,61 @@
+	title = c_astiyer
+	max_settlements = 4
+	culture = kuhotil
+	religion = wedwig
+	b_tadolf = tribal
+201.4.1 = {
+	culture = davars
+}
+
+296.4.1 = {
+	culture = negasseh
+}
+
+306.4.1 = {
+	culture = davars
+}
+
+315.4.1 = {
+	culture = negasseh
+}
+
+370.4.1 = {
+	culture = durga
+}
+
+514.4.1 = {
+	culture = davars
+}
+
+527.4.1 = {
+	culture = durga
+}
+
+569.4.1 = {
+	culture = ryanopti
+}
+
+616.4.1 = {
+	b_tadolf = castle
+}
+
+619.4.1 = {
+	culture = durga
+}
+
+657.4.1 = {
+	culture = davars
+}
+
+780.4.1 = {
+	b_waun = city
+}
+
+887.4.1 = {
+	b_teteorn = temple
+}
+
+963.4.1 = {
+	b_beylen = temple
+}
+

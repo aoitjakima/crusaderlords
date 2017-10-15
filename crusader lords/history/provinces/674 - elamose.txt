@@ -1,0 +1,81 @@
+	title = c_elamose
+	max_settlements = 4
+	culture = saimes
+	religion = qiteka
+	b_elaniam = tribal
+201.3.1 = {
+	religion = naneka
+}
+
+203.4.1 = {
+	culture = esunadir
+}
+
+204.3.1 = {
+	religion = qiteka
+}
+
+208.3.1 = {
+	religion = naneka
+}
+
+210.3.1 = {
+	religion = qiteka
+}
+
+211.3.1 = {
+	religion = naneka
+}
+
+212.3.1 = {
+	religion = qiteka
+}
+
+213.3.1 = {
+	religion = naneka
+}
+
+219.3.1 = {
+	religion = qiteka
+}
+
+219.3.1 = {
+	religion = naneka
+}
+
+440.4.1 = {
+	culture = sereka
+}
+
+444.4.1 = {
+	culture = esunadir
+}
+
+471.4.1 = {
+	culture = sereka
+}
+
+595.4.1 = {
+	b_elaniam = castle
+}
+
+659.4.1 = {
+	culture = esunadir
+}
+
+725.4.1 = {
+	b_wauvdi = city
+}
+
+785.4.1 = {
+	culture = sereka
+}
+
+865.4.1 = {
+	b_daumr = temple
+}
+
+933.4.1 = {
+	b_taudan = castle
+}
+

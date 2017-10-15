@@ -1,0 +1,41 @@
+	title = c_bariya
+	max_settlements = 5
+	culture = liebes
+	religion = neharis
+	b_taras = tribal
+209.4.1 = {
+	culture = aqahebel
+}
+
+210.4.1 = {
+	culture = talentiy
+}
+
+282.4.1 = {
+	culture = sodinia
+}
+
+286.4.1 = {
+	culture = talentiy
+}
+
+500.4.1 = {
+	b_taras = castle
+}
+
+570.4.1 = {
+	b_tosaoro = temple
+}
+
+800.4.1 = {
+	b_eta = city
+}
+
+841.4.1 = {
+	b_nilata = city
+}
+
+879.4.1 = {
+	b_abakisi = temple
+}
+

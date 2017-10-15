@@ -1,0 +1,13 @@
+	title = c_lenens
+	max_settlements = 2
+	culture = talentiy
+	religion = neharis
+	b_byahayan = tribal
+520.4.1 = {
+	b_byahayan = castle
+}
+
+625.4.1 = {
+	b_davnus = temple
+}
+

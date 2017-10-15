@@ -1,0 +1,33 @@
+	title = c_nabada
+	max_settlements = 7
+	culture = titina
+	religion = telayira
+	b_wanann = tribal
+210.4.1 = {
+	culture = dainbai
+}
+
+237.4.1 = {
+	culture = terikatim
+}
+
+296.4.1 = {
+	culture = dainbai
+}
+
+496.4.1 = {
+	culture = wedina
+}
+
+730.4.1 = {
+	b_wanann = castle
+}
+
+837.4.1 = {
+	b_wilacob = city
+}
+
+973.4.1 = {
+	b_retaing = temple
+}
+

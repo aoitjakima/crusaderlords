@@ -1,0 +1,33 @@
+	title = c_ramira
+	max_settlements = 4
+	culture = wenira
+	religion = tonuyu
+	b_diluga = tribal
+265.4.1 = {
+	culture = radabor
+}
+
+270.4.1 = {
+	culture = wenira
+}
+
+336.4.1 = {
+	culture = radabor
+}
+
+715.4.1 = {
+	b_diluga = castle
+}
+
+823.4.1 = {
+	b_silony = temple
+}
+
+956.4.1 = {
+	b_sevronn = city
+}
+
+1054.4.1 = {
+	b_bedoran = temple
+}
+

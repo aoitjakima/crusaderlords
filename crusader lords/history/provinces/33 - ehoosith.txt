@@ -1,0 +1,37 @@
+	title = c_ehoosith
+	max_settlements = 6
+	culture = setako
+	religion = aguninya
+	b_dalil = tribal
+1.1.1 = {
+	b_laharia = ct_port_1
+}
+
+201.4.1 = {
+	culture = doleven
+}
+
+740.4.1 = {
+	b_dalil = castle
+}
+
+809.4.1 = {
+	b_bakaria = temple
+}
+
+863.4.1 = {
+	b_laharia = city
+}
+
+917.4.1 = {
+	b_lazata = temple
+}
+
+981.4.1 = {
+	b_sical = city
+}
+
+1037.4.1 = {
+	b_natalool = city
+}
+

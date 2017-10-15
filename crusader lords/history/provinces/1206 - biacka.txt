@@ -1,0 +1,29 @@
+	title = c_biacka
+	max_settlements = 3
+	culture = wabuzhi
+	religion = tonuyu
+	b_winoos = tribal
+204.4.1 = {
+	culture = budandev
+}
+
+230.4.1 = {
+	culture = wabuzhi
+}
+
+477.4.1 = {
+	culture = budandev
+}
+
+874.4.1 = {
+	b_winoos = castle
+}
+
+918.4.1 = {
+	b_ratadra = temple
+}
+
+1016.4.1 = {
+	b_nabuge = city
+}
+

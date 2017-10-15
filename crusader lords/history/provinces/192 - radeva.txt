@@ -1,0 +1,13 @@
+	title = c_radeva
+	max_settlements = 2
+	culture = latuma
+	religion = atheociu
+	b_wauroka = tribal
+827.4.1 = {
+	b_wauroka = castle
+}
+
+861.4.1 = {
+	b_arosilen = city
+}
+

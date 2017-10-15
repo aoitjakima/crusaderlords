@@ -1,0 +1,29 @@
+	title = c_etentiy
+	max_settlements = 2
+	culture = ritiatou
+	religion = telayira
+	b_sobeyl = tribal
+417.4.1 = {
+	culture = koumas
+}
+
+472.4.1 = {
+	culture = lopher
+}
+
+600.4.1 = {
+	b_sobeyl = castle
+}
+
+610.4.1 = {
+	culture = koumas
+}
+
+700.4.1 = {
+	b_wulata = temple
+}
+
+947.4.1 = {
+	culture = lopher
+}
+

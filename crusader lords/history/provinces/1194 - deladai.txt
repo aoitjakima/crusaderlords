@@ -1,0 +1,33 @@
+	title = c_deladai
+	max_settlements = 4
+	culture = lyarala
+	religion = tonuyu
+	b_ataxpenazko = tribal
+201.4.1 = {
+	culture = radabor
+}
+
+257.4.1 = {
+	culture = wenira
+}
+
+263.4.1 = {
+	culture = radabor
+}
+
+811.4.1 = {
+	b_ataxpenazko = castle
+}
+
+833.4.1 = {
+	b_razabae = temple
+}
+
+894.4.1 = {
+	b_bira = city
+}
+
+942.4.1 = {
+	b_regudo = castle
+}
+

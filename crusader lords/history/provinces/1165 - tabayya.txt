@@ -1,0 +1,65 @@
+	title = c_tabayya
+	max_settlements = 2
+	culture = ranahim
+	religion = tonuyu
+	b_byarork = tribal
+329.4.1 = {
+	culture = qenoos
+}
+
+466.4.1 = {
+	culture = ranahim
+}
+
+517.4.1 = {
+	culture = qenoos
+}
+
+577.4.1 = {
+	culture = ranahim
+}
+
+811.4.1 = {
+	culture = qenoos
+}
+
+813.4.1 = {
+	culture = ranahim
+}
+
+874.4.1 = {
+	b_byarork = castle
+}
+
+919.4.1 = {
+	b_etolala = city
+}
+
+974.4.1 = {
+	culture = qenoos
+}
+
+975.4.1 = {
+	culture = ranahim
+}
+
+1007.4.1 = {
+	culture = qenoos
+}
+
+1009.4.1 = {
+	culture = ranahim
+}
+
+1021.4.1 = {
+	culture = qenoos
+}
+
+1024.4.1 = {
+	culture = ranahim
+}
+
+1053.4.1 = {
+	culture = qenoos
+}
+

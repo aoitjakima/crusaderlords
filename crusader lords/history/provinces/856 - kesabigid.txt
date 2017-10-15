@@ -1,0 +1,29 @@
+	title = c_kesabigid
+	max_settlements = 4
+	culture = dainbai
+	religion = telayira
+	b_tite = tribal
+1.1.1 = {
+	b_keong = ct_port_1
+}
+
+420.4.1 = {
+	culture = wedina
+}
+
+730.4.1 = {
+	b_tite = castle
+}
+
+820.4.1 = {
+	b_keong = city
+}
+
+905.4.1 = {
+	b_laulina = temple
+}
+
+963.4.1 = {
+	b_nunipp = castle
+}
+

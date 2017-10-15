@@ -1,0 +1,33 @@
+	title = c_tousy
+	max_settlements = 4
+	culture = eluedsalh
+	religion = raipi
+	b_tatidia = tribal
+220.4.1 = {
+	culture = kaureid
+}
+
+286.4.1 = {
+	culture = eluedsalh
+}
+
+343.4.1 = {
+	culture = sigivkah
+}
+
+685.4.1 = {
+	b_tatidia = castle
+}
+
+806.4.1 = {
+	b_dyaila = temple
+}
+
+891.4.1 = {
+	b_kovoros = city
+}
+
+972.4.1 = {
+	b_esada = castle
+}
+

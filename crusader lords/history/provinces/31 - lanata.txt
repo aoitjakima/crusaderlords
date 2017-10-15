@@ -1,0 +1,33 @@
+	title = c_lanata
+	max_settlements = 4
+	culture = rerinya
+	religion = aguninya
+	b_ranalya = tribal
+1.1.1 = {
+	b_eboluhan = ct_port_1
+}
+
+226.4.1 = {
+	culture = setako
+}
+
+251.4.1 = {
+	culture = rerinya
+}
+
+804.4.1 = {
+	b_ranalya = castle
+}
+
+829.4.1 = {
+	b_eboluhan = city
+}
+
+898.4.1 = {
+	b_natergun = temple
+}
+
+958.4.1 = {
+	b_quceven = city
+}
+

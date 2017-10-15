@@ -1,0 +1,13 @@
+	title = c_qaduyat
+	max_settlements = 2
+	culture = doleven
+	religion = aguninya
+	b_ebrencel = tribal
+821.4.1 = {
+	b_ebrencel = castle
+}
+
+848.4.1 = {
+	b_sasilanni = temple
+}
+

@@ -1,0 +1,37 @@
+	title = c_nonabra
+	max_settlements = 5
+	culture = rudeslav
+	religion = tonuyu
+	b_qewiloran = tribal
+1.1.1 = {
+	b_wakuga = ct_port_1
+}
+
+256.4.1 = {
+	culture = wenira
+}
+
+346.4.1 = {
+	culture = radabor
+}
+
+615.4.1 = {
+	b_qewiloran = castle
+}
+
+765.4.1 = {
+	b_wakuga = city
+}
+
+873.4.1 = {
+	b_ricatti = temple
+}
+
+946.4.1 = {
+	b_dicony = city
+}
+
+1014.4.1 = {
+	b_ekoratha = city
+}
+

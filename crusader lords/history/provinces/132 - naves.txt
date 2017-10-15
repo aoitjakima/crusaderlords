@@ -1,0 +1,29 @@
+	title = c_naves
+	max_settlements = 3
+	culture = daimeig
+	religion = wedwig
+	b_qutinia = tribal
+322.4.1 = {
+	culture = waynald
+}
+
+323.4.1 = {
+	culture = daimeig
+}
+
+382.4.1 = {
+	culture = waynald
+}
+
+605.4.1 = {
+	b_qutinia = castle
+}
+
+700.4.1 = {
+	b_lareria = temple
+}
+
+842.4.1 = {
+	b_rentiy = city
+}
+

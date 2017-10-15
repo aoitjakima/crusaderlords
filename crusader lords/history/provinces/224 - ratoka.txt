@@ -1,0 +1,29 @@
+	title = c_ratoka
+	max_settlements = 3
+	culture = taroman
+	religion = neharis
+	b_ravlen = tribal
+202.3.1 = {
+	religion = kusran
+}
+
+205.4.1 = {
+	culture = watinan
+}
+
+258.4.1 = {
+	culture = ketamma
+}
+
+826.4.1 = {
+	b_ravlen = castle
+}
+
+865.4.1 = {
+	b_rozan = temple
+}
+
+965.4.1 = {
+	b_sayinan = city
+}
+

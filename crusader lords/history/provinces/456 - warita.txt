@@ -1,0 +1,37 @@
+	title = c_warita
+	max_settlements = 4
+	culture = ranibel
+	religion = nukaye
+	b_qaraye = tribal
+201.3.1 = {
+	religion = neharis
+}
+
+204.4.1 = {
+	culture = raraber
+}
+
+204.3.1 = {
+	religion = nukaye
+}
+
+222.4.1 = {
+	culture = wili
+}
+
+685.4.1 = {
+	b_qaraye = castle
+}
+
+816.4.1 = {
+	b_kah = city
+}
+
+901.4.1 = {
+	b_bodoman = temple
+}
+
+1007.4.1 = {
+	b_sesaye = temple
+}
+

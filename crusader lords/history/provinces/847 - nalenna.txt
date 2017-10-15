@@ -1,0 +1,113 @@
+	title = c_nalenna
+	max_settlements = 2
+	culture = wates
+	religion = naneka
+	b_barantay = tribal
+272.3.1 = {
+	religion = qiteka
+}
+
+274.3.1 = {
+	religion = naneka
+}
+
+280.3.1 = {
+	religion = qiteka
+}
+
+287.3.1 = {
+	religion = naneka
+}
+
+291.3.1 = {
+	religion = qiteka
+}
+
+292.3.1 = {
+	religion = naneka
+}
+
+297.3.1 = {
+	religion = qiteka
+}
+
+298.3.1 = {
+	religion = naneka
+}
+
+302.3.1 = {
+	religion = qiteka
+}
+
+307.3.1 = {
+	religion = naneka
+}
+
+308.3.1 = {
+	religion = qiteka
+}
+
+314.3.1 = {
+	religion = naneka
+}
+
+320.3.1 = {
+	religion = qiteka
+}
+
+330.3.1 = {
+	religion = naneka
+}
+
+342.3.1 = {
+	religion = qiteka
+}
+
+348.3.1 = {
+	religion = naneka
+}
+
+350.3.1 = {
+	religion = qiteka
+}
+
+356.3.1 = {
+	religion = naneka
+}
+
+373.3.1 = {
+	religion = qiteka
+}
+
+402.3.1 = {
+	religion = naneka
+}
+
+406.3.1 = {
+	religion = qiteka
+}
+
+410.3.1 = {
+	religion = naneka
+}
+
+416.3.1 = {
+	religion = qiteka
+}
+
+417.3.1 = {
+	religion = naneka
+}
+
+423.3.1 = {
+	religion = qiteka
+}
+
+685.4.1 = {
+	b_barantay = castle
+}
+
+810.4.1 = {
+	b_bamah = temple
+}
+

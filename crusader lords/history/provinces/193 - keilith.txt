@@ -1,0 +1,29 @@
+	title = c_keilith
+	max_settlements = 3
+	culture = nitindik
+	religion = neharis
+	b_laver = tribal
+213.4.1 = {
+	culture = syahes
+}
+
+227.4.1 = {
+	culture = nitindik
+}
+
+234.4.1 = {
+	culture = sodinia
+}
+
+520.4.1 = {
+	b_laver = castle
+}
+
+660.4.1 = {
+	b_ateilre = city
+}
+
+839.4.1 = {
+	b_abakith = temple
+}
+

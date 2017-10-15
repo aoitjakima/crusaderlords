@@ -1,0 +1,85 @@
+	title = c_emenda
+	max_settlements = 2
+	culture = reatoto
+	religion = qiteka
+	b_deina = tribal
+206.4.1 = {
+	culture = esunadir
+}
+
+207.3.1 = {
+	religion = begeka
+}
+
+208.4.1 = {
+	culture = reatoto
+}
+
+220.3.1 = {
+	religion = qiteka
+}
+
+228.3.1 = {
+	religion = begeka
+}
+
+233.3.1 = {
+	religion = qiteka
+}
+
+237.3.1 = {
+	religion = begeka
+}
+
+240.3.1 = {
+	religion = qiteka
+}
+
+241.3.1 = {
+	religion = begeka
+}
+
+244.3.1 = {
+	religion = qiteka
+}
+
+248.3.1 = {
+	religion = begeka
+}
+
+250.3.1 = {
+	religion = qiteka
+}
+
+252.3.1 = {
+	religion = begeka
+}
+
+253.3.1 = {
+	religion = qiteka
+}
+
+253.3.1 = {
+	religion = begeka
+}
+
+256.3.1 = {
+	religion = qiteka
+}
+
+257.3.1 = {
+	religion = begeka
+}
+
+273.4.1 = {
+	culture = esunadir
+}
+
+610.4.1 = {
+	b_deina = castle
+}
+
+715.4.1 = {
+	b_kenr = temple
+}
+

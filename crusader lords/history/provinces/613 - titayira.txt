@@ -1,0 +1,33 @@
+	title = c_titayira
+	max_settlements = 3
+	culture = raureid
+	religion = wedwig
+	b_seliubai = tribal
+200.3.1 = {
+	religion = qigiyah
+}
+
+248.4.1 = {
+	culture = alaurine
+}
+
+270.4.1 = {
+	culture = kyayalen
+}
+
+418.4.1 = {
+	culture = alaurine
+}
+
+822.4.1 = {
+	b_seliubai = castle
+}
+
+856.4.1 = {
+	b_baand = temple
+}
+
+951.4.1 = {
+	b_raratim = city
+}
+

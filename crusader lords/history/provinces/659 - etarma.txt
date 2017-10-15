@@ -1,0 +1,93 @@
+	title = c_etarma
+	max_settlements = 6
+	culture = esunadir
+	religion = qiteka
+	b_seneka = tribal
+201.3.1 = {
+	religion = naneka
+}
+
+205.3.1 = {
+	religion = qiteka
+}
+
+208.3.1 = {
+	religion = naneka
+}
+
+210.3.1 = {
+	religion = qiteka
+}
+
+211.3.1 = {
+	religion = naneka
+}
+
+212.3.1 = {
+	religion = qiteka
+}
+
+213.3.1 = {
+	religion = naneka
+}
+
+219.3.1 = {
+	religion = qiteka
+}
+
+219.3.1 = {
+	religion = naneka
+}
+
+423.4.1 = {
+	culture = sereka
+}
+
+449.4.1 = {
+	culture = esunadir
+}
+
+463.4.1 = {
+	culture = sereka
+}
+
+513.4.1 = {
+	culture = esunadir
+}
+
+519.4.1 = {
+	culture = sereka
+}
+
+579.4.1 = {
+	culture = esunadir
+}
+
+580.4.1 = {
+	b_seneka = castle
+}
+
+680.4.1 = {
+	b_kenarma = temple
+}
+
+763.4.1 = {
+	culture = sereka
+}
+
+830.4.1 = {
+	b_kitartn = city
+}
+
+883.4.1 = {
+	b_dadir = temple
+}
+
+932.4.1 = {
+	b_ematule = city
+}
+
+976.4.1 = {
+	b_saimafu = temple
+}
+

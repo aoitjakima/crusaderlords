@@ -1,0 +1,33 @@
+	title = c_daurebia
+	max_settlements = 4
+	culture = keraam
+	religion = tonuyu
+	b_semaam = tribal
+1.1.1 = {
+	b_qoraura = ct_port_1
+}
+
+291.4.1 = {
+	culture = tiwics
+}
+
+445.4.1 = {
+	culture = nalaam
+}
+
+505.4.1 = {
+	culture = tiwics
+}
+
+821.4.1 = {
+	b_semaam = castle
+}
+
+855.4.1 = {
+	b_baselia = temple
+}
+
+993.4.1 = {
+	b_qoraura = city
+}
+

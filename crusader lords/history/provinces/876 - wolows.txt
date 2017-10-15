@@ -1,0 +1,69 @@
+	title = c_wolows
+	max_settlements = 2
+	culture = durga
+	religion = terenat
+	b_senodar = tribal
+236.3.1 = {
+	religion = begeka
+}
+
+240.3.1 = {
+	religion = terenat
+}
+
+240.3.1 = {
+	religion = begeka
+}
+
+246.3.1 = {
+	religion = terenat
+}
+
+250.3.1 = {
+	religion = begeka
+}
+
+257.3.1 = {
+	religion = terenat
+}
+
+258.4.1 = {
+	culture = ruraura
+}
+
+262.3.1 = {
+	religion = begeka
+}
+
+276.4.1 = {
+	culture = banaila
+}
+
+305.4.1 = {
+	culture = ruraura
+}
+
+326.4.1 = {
+	culture = banaila
+}
+
+429.4.1 = {
+	culture = kitule
+}
+
+482.4.1 = {
+	culture = banaila
+}
+
+508.4.1 = {
+	culture = kitule
+}
+
+520.4.1 = {
+	b_senodar = castle
+}
+
+610.4.1 = {
+	b_tyiia = city
+}
+

@@ -1,0 +1,29 @@
+	title = c_buzosk
+	max_settlements = 3
+	culture = wedina
+	religion = telayira
+	b_rita = tribal
+1.1.1 = {
+	b_kobita = ct_port_1
+}
+
+241.4.1 = {
+	culture = dainbai
+}
+
+369.4.1 = {
+	culture = laaug
+}
+
+705.4.1 = {
+	b_rita = castle
+}
+
+817.4.1 = {
+	b_dosita = temple
+}
+
+935.4.1 = {
+	b_kobita = city
+}
+

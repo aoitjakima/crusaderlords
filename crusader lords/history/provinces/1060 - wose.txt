@@ -1,0 +1,53 @@
+	title = c_wose
+	max_settlements = 2
+	culture = negasseh
+	religion = wedwig
+	b_roruel = tribal
+1.1.1 = {
+	b_sormei = ct_port_1
+}
+
+204.4.1 = {
+	culture = davars
+}
+
+285.4.1 = {
+	culture = durga
+}
+
+306.4.1 = {
+	culture = davars
+}
+
+313.4.1 = {
+	culture = durga
+}
+
+368.4.1 = {
+	culture = davars
+}
+
+466.4.1 = {
+	culture = durga
+}
+
+514.4.1 = {
+	culture = davars
+}
+
+525.4.1 = {
+	culture = durga
+}
+
+531.4.1 = {
+	culture = davars
+}
+
+720.4.1 = {
+	b_roruel = castle
+}
+
+817.4.1 = {
+	b_sormei = city
+}
+

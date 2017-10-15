@@ -1,0 +1,29 @@
+	title = c_koruyat
+	max_settlements = 5
+	culture = rerinya
+	religion = aguninya
+	b_enuyat = tribal
+1.1.1 = {
+	b_dolanni = ct_port_1
+}
+
+803.4.1 = {
+	b_enuyat = castle
+}
+
+828.4.1 = {
+	b_wanako = temple
+}
+
+899.4.1 = {
+	b_dolanni = city
+}
+
+953.4.1 = {
+	b_ratergun = castle
+}
+
+1005.4.1 = {
+	b_neninya = temple
+}
+

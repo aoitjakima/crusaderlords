@@ -1,0 +1,49 @@
+	title = c_tahibel
+	max_settlements = 6
+	culture = sodinia
+	religion = neharis
+	b_tuhayan = tribal
+232.4.1 = {
+	culture = syahes
+}
+
+238.4.1 = {
+	culture = sodinia
+}
+
+354.4.1 = {
+	culture = syahes
+}
+
+370.4.1 = {
+	culture = sodinia
+}
+
+391.4.1 = {
+	culture = syahes
+}
+
+511.4.1 = {
+	b_tuhayan = castle
+}
+
+615.4.1 = {
+	b_lavava = city
+}
+
+822.4.1 = {
+	b_titella = temple
+}
+
+880.4.1 = {
+	b_ebodnyahn = temple
+}
+
+939.4.1 = {
+	b_saveria = temple
+}
+
+994.4.1 = {
+	b_nava = city
+}
+

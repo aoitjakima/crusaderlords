@@ -1,0 +1,21 @@
+	title = c_rugili
+	max_settlements = 7
+	culture = etirune
+	religion = tonuyu
+	b_kilamur = tribal
+1.1.1 = {
+	b_qewilili = ct_port_1
+}
+
+880.4.1 = {
+	b_kilamur = castle
+}
+
+920.4.1 = {
+	b_wugor = temple
+}
+
+990.4.1 = {
+	b_qewilili = city
+}
+

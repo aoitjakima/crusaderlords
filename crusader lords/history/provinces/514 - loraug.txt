@@ -1,0 +1,21 @@
+	title = c_loraug
+	max_settlements = 6
+	culture = kyayalen
+	religion = qigiyah
+	b_agenitya = tribal
+449.4.1 = {
+	culture = alaurine
+}
+
+823.4.1 = {
+	b_agenitya = castle
+}
+
+860.4.1 = {
+	b_ramatim = city
+}
+
+1030.4.1 = {
+	b_naina = temple
+}
+

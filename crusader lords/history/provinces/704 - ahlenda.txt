@@ -1,0 +1,49 @@
+	title = c_ahlenda
+	max_settlements = 4
+	culture = esunadir
+	religion = qiteka
+	b_wesive = tribal
+201.3.1 = {
+	religion = naneka
+}
+
+217.4.1 = {
+	culture = retose
+}
+
+257.4.1 = {
+	culture = sereka
+}
+
+308.4.1 = {
+	culture = esunadir
+}
+
+595.4.1 = {
+	b_wesive = castle
+}
+
+610.4.1 = {
+	culture = sereka
+}
+
+720.4.1 = {
+	culture = esunadir
+}
+
+730.4.1 = {
+	b_qamanda = city
+}
+
+784.4.1 = {
+	culture = sereka
+}
+
+902.4.1 = {
+	b_alesenda = temple
+}
+
+968.4.1 = {
+	b_kesenda = castle
+}
+

@@ -1,0 +1,29 @@
+	title = c_kuhopti
+	max_settlements = 5
+	culture = nitindik
+	religion = neharis
+	b_kahinia = tribal
+200.4.1 = {
+	culture = sodinia
+}
+
+515.4.1 = {
+	b_kahinia = castle
+}
+
+620.4.1 = {
+	b_ezahens = temple
+}
+
+821.4.1 = {
+	b_tindik = city
+}
+
+885.4.1 = {
+	b_ewodava = castle
+}
+
+946.4.1 = {
+	b_sodius = castle
+}
+

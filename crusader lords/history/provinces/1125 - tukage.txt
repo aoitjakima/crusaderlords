@@ -1,0 +1,53 @@
+	title = c_tukage
+	max_settlements = 7
+	culture = takukork
+	religion = tonuyu
+	b_ryeagebazdas = tribal
+1.1.1 = {
+	b_ehiks = ct_port_1
+}
+
+204.4.1 = {
+	culture = budandev
+}
+
+227.4.1 = {
+	culture = takukork
+}
+
+248.4.1 = {
+	culture = budandev
+}
+
+288.4.1 = {
+	culture = takukork
+}
+
+402.4.1 = {
+	culture = budandev
+}
+
+441.4.1 = {
+	culture = takukork
+}
+
+442.4.1 = {
+	culture = budandev
+}
+
+843.4.1 = {
+	b_ryeagebazdas = castle
+}
+
+874.4.1 = {
+	b_ehiks = city
+}
+
+942.4.1 = {
+	b_kiks = temple
+}
+
+1045.4.1 = {
+	b_lukiks = city
+}
+

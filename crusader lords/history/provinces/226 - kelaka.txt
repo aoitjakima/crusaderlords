@@ -1,0 +1,65 @@
+	title = c_kelaka
+	max_settlements = 7
+	culture = sutidoka
+	religion = kusran
+	b_qepiid = tribal
+200.3.1 = {
+	religion = raipi
+}
+
+203.4.1 = {
+	culture = ketamma
+}
+
+213.3.1 = {
+	religion = kusran
+}
+
+214.3.1 = {
+	religion = raipi
+}
+
+219.4.1 = {
+	culture = sutidoka
+}
+
+219.4.1 = {
+	culture = kaureid
+}
+
+297.4.1 = {
+	culture = kapti
+}
+
+348.4.1 = {
+	culture = taodha
+}
+
+385.4.1 = {
+	culture = kapti
+}
+
+436.4.1 = {
+	culture = taodha
+}
+
+438.4.1 = {
+	culture = kapti
+}
+
+803.4.1 = {
+	b_qepiid = castle
+}
+
+835.4.1 = {
+	b_waheesi = city
+}
+
+923.4.1 = {
+	b_ropeesi = temple
+}
+
+1006.4.1 = {
+	b_lefer = castle
+}
+

@@ -1,0 +1,57 @@
+	title = c_degiana
+	max_settlements = 2
+	culture = eluedsalh
+	religion = raipi
+	b_biafii = tribal
+232.4.1 = {
+	culture = sigivkah
+}
+
+233.3.1 = {
+	religion = kusran
+}
+
+239.3.1 = {
+	religion = raipi
+}
+
+241.3.1 = {
+	religion = kusran
+}
+
+251.3.1 = {
+	religion = raipi
+}
+
+252.3.1 = {
+	religion = kusran
+}
+
+254.3.1 = {
+	religion = raipi
+}
+
+291.4.1 = {
+	culture = eluedsalh
+}
+
+325.4.1 = {
+	culture = sigivkah
+}
+
+585.4.1 = {
+	culture = eluedsalh
+}
+
+593.4.1 = {
+	culture = sigivkah
+}
+
+645.4.1 = {
+	b_biafii = castle
+}
+
+804.4.1 = {
+	b_begalagh = temple
+}
+

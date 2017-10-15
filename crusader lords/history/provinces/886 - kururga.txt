@@ -1,0 +1,29 @@
+	title = c_kururga
+	max_settlements = 2
+	culture = ruraura
+	religion = terenat
+	b_bururga = tribal
+200.4.1 = {
+	culture = kitule
+}
+
+236.3.1 = {
+	religion = begeka
+}
+
+255.4.1 = {
+	culture = banaila
+}
+
+371.4.1 = {
+	culture = kitule
+}
+
+550.4.1 = {
+	b_bururga = castle
+}
+
+680.4.1 = {
+	b_wiwilip = city
+}
+

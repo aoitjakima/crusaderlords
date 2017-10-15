@@ -1,0 +1,21 @@
+	title = c_nuyaliz
+	max_settlements = 2
+	culture = wedina
+	religion = telayira
+	b_sugong = tribal
+241.4.1 = {
+	culture = dainbai
+}
+
+369.4.1 = {
+	culture = laaug
+}
+
+705.4.1 = {
+	b_sugong = castle
+}
+
+816.4.1 = {
+	b_esekore = temple
+}
+

@@ -1,0 +1,21 @@
+	title = c_erusipp
+	max_settlements = 5
+	culture = ryanopti
+	religion = kusran
+	b_qaudey = tribal
+201.4.1 = {
+	culture = disinos
+}
+
+293.4.1 = {
+	culture = ryanopti
+}
+
+387.3.1 = {
+	religion = wedwig
+}
+
+980.4.1 = {
+	b_qaudey = castle
+}
+

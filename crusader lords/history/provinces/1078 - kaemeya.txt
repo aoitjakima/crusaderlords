@@ -1,0 +1,33 @@
+	title = c_kaemeya
+	max_settlements = 2
+	culture = reusadra
+	religion = tonuyu
+	b_aqaematti = tribal
+1.1.1 = {
+	b_qaura = ct_port_1
+}
+
+212.4.1 = {
+	culture = keraam
+}
+
+291.4.1 = {
+	culture = tiwics
+}
+
+445.4.1 = {
+	culture = nalaam
+}
+
+505.4.1 = {
+	culture = tiwics
+}
+
+860.4.1 = {
+	b_aqaematti = castle
+}
+
+900.4.1 = {
+	b_qaura = city
+}
+

@@ -1,0 +1,49 @@
+	title = c_kozyan
+	max_settlements = 6
+	culture = taroman
+	religion = neharis
+	b_eqalilen = tribal
+201.3.1 = {
+	religion = raipi
+}
+
+207.3.1 = {
+	religion = neharis
+}
+
+220.3.1 = {
+	religion = raipi
+}
+
+235.3.1 = {
+	religion = neharis
+}
+
+239.3.1 = {
+	religion = raipi
+}
+
+246.3.1 = {
+	religion = neharis
+}
+
+251.3.1 = {
+	religion = raipi
+}
+
+320.4.1 = {
+	culture = eluedsalh
+}
+
+340.4.1 = {
+	culture = sigivkah
+}
+
+880.4.1 = {
+	b_eqalilen = castle
+}
+
+927.4.1 = {
+	b_qabnae = temple
+}
+

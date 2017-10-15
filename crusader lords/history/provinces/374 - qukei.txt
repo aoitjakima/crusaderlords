@@ -1,0 +1,77 @@
+	title = c_qukei
+	max_settlements = 4
+	culture = teber
+	religion = neharis
+	b_esumita = tribal
+204.3.1 = {
+	religion = nukaye
+}
+
+216.3.1 = {
+	religion = neharis
+}
+
+218.3.1 = {
+	religion = nukaye
+}
+
+226.3.1 = {
+	religion = neharis
+}
+
+226.3.1 = {
+	religion = nukaye
+}
+
+229.3.1 = {
+	religion = neharis
+}
+
+230.3.1 = {
+	religion = nukaye
+}
+
+237.3.1 = {
+	religion = neharis
+}
+
+238.3.1 = {
+	religion = nukaye
+}
+
+246.3.1 = {
+	religion = neharis
+}
+
+251.3.1 = {
+	religion = nukaye
+}
+
+258.3.1 = {
+	religion = neharis
+}
+
+262.3.1 = {
+	religion = nukaye
+}
+
+272.4.1 = {
+	culture = wili
+}
+
+625.4.1 = {
+	b_esumita = castle
+}
+
+770.4.1 = {
+	b_tai = city
+}
+
+869.4.1 = {
+	b_danika = temple
+}
+
+939.4.1 = {
+	b_bumoman = city
+}
+

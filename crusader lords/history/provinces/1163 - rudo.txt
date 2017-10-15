@@ -1,0 +1,17 @@
+	title = c_rudo
+	max_settlements = 2
+	culture = babosa
+	religion = tonuyu
+	b_kelira = tribal
+267.4.1 = {
+	culture = budandev
+}
+
+807.4.1 = {
+	b_kelira = castle
+}
+
+835.4.1 = {
+	b_dyehudo = temple
+}
+

@@ -1,0 +1,37 @@
+	title = c_tobicta
+	max_settlements = 5
+	culture = wedina
+	religion = telayira
+	b_kisewin = tribal
+202.4.1 = {
+	culture = ritiatou
+}
+
+396.4.1 = {
+	culture = koumas
+}
+
+445.4.1 = {
+	culture = lopher
+}
+
+521.4.1 = {
+	culture = koumas
+}
+
+750.4.1 = {
+	b_kisewin = castle
+}
+
+856.4.1 = {
+	b_kuhikt = temple
+}
+
+938.4.1 = {
+	culture = lopher
+}
+
+977.4.1 = {
+	b_debuno = city
+}
+

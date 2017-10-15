@@ -1,0 +1,93 @@
+	title = c_sumuvdi
+	max_settlements = 2
+	culture = reatoto
+	religion = neharis
+	b_eranenr = tribal
+206.4.1 = {
+	culture = esunadir
+}
+
+207.3.1 = {
+	religion = begeka
+}
+
+208.3.1 = {
+	religion = neharis
+}
+
+214.4.1 = {
+	culture = reatoto
+}
+
+214.3.1 = {
+	religion = begeka
+}
+
+221.3.1 = {
+	religion = neharis
+}
+
+228.3.1 = {
+	religion = begeka
+}
+
+229.3.1 = {
+	religion = neharis
+}
+
+233.4.1 = {
+	culture = esunadir
+}
+
+237.3.1 = {
+	religion = begeka
+}
+
+241.3.1 = {
+	religion = neharis
+}
+
+241.3.1 = {
+	religion = begeka
+}
+
+244.3.1 = {
+	religion = neharis
+}
+
+248.3.1 = {
+	religion = begeka
+}
+
+253.3.1 = {
+	religion = qiteka
+}
+
+253.3.1 = {
+	religion = begeka
+}
+
+256.3.1 = {
+	religion = qiteka
+}
+
+257.3.1 = {
+	religion = begeka
+}
+
+259.4.1 = {
+	culture = reatoto
+}
+
+273.4.1 = {
+	culture = esunadir
+}
+
+615.4.1 = {
+	b_eranenr = castle
+}
+
+780.4.1 = {
+	b_begamur = temple
+}
+

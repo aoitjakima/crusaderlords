@@ -1,0 +1,21 @@
+	title = c_neilohn
+	max_settlements = 3
+	culture = nitindik
+	religion = neharis
+	b_dasltahl = tribal
+200.4.1 = {
+	culture = sodinia
+}
+
+520.4.1 = {
+	b_dasltahl = castle
+}
+
+635.4.1 = {
+	b_ryaneven = city
+}
+
+822.4.1 = {
+	b_noseven = temple
+}
+

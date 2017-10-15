@@ -1,0 +1,81 @@
+	title = c_kiwelin
+	max_settlements = 2
+	culture = runafu
+	religion = begeka
+	b_evlolas = tribal
+203.3.1 = {
+	religion = terenat
+}
+
+204.3.1 = {
+	religion = begeka
+}
+
+208.4.1 = {
+	culture = banaila
+}
+
+208.3.1 = {
+	religion = terenat
+}
+
+210.3.1 = {
+	religion = begeka
+}
+
+211.3.1 = {
+	religion = terenat
+}
+
+217.3.1 = {
+	religion = begeka
+}
+
+222.3.1 = {
+	religion = terenat
+}
+
+231.3.1 = {
+	religion = begeka
+}
+
+249.4.1 = {
+	culture = runafu
+}
+
+262.4.1 = {
+	culture = kitule
+}
+
+287.4.1 = {
+	culture = runafu
+}
+
+308.4.1 = {
+	culture = kitule
+}
+
+358.4.1 = {
+	culture = banaila
+}
+
+364.4.1 = {
+	culture = kitule
+}
+
+419.4.1 = {
+	culture = banaila
+}
+
+527.4.1 = {
+	culture = kitule
+}
+
+590.4.1 = {
+	b_evlolas = castle
+}
+
+780.4.1 = {
+	b_taetelin = city
+}
+

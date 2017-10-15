@@ -1,0 +1,25 @@
+	title = c_tanomas
+	max_settlements = 4
+	culture = waheber
+	religion = neharis
+	b_teritta = tribal
+216.4.1 = {
+	culture = aqahebel
+}
+
+550.4.1 = {
+	b_teritta = castle
+}
+
+705.4.1 = {
+	b_keromas = city
+}
+
+896.4.1 = {
+	b_reroman = temple
+}
+
+969.4.1 = {
+	b_dukeman = city
+}
+

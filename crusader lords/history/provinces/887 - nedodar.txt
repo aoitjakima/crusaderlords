@@ -1,0 +1,41 @@
+	title = c_nedodar
+	max_settlements = 3
+	culture = ebeina
+	religion = qiteka
+	b_qiwacob = tribal
+1.1.1 = {
+	b_luserd = ct_port_1
+}
+
+210.4.1 = {
+	culture = waetutlu
+}
+
+308.4.1 = {
+	culture = risutlu
+}
+
+510.4.1 = {
+	b_qiwacob = castle
+}
+
+640.4.1 = {
+	b_luserd = city
+}
+
+727.4.1 = {
+	culture = saimes
+}
+
+733.4.1 = {
+	culture = risutlu
+}
+
+836.4.1 = {
+	b_lerows = temple
+}
+
+893.4.1 = {
+	culture = saimes
+}
+

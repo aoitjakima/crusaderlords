@@ -1,0 +1,81 @@
+	title = c_latalt
+	max_settlements = 5
+	culture = disinos
+	religion = kusran
+	b_niyason = tribal
+201.3.1 = {
+	religion = wedwig
+}
+
+205.4.1 = {
+	culture = ryanopti
+}
+
+208.3.1 = {
+	religion = kusran
+}
+
+245.3.1 = {
+	religion = wedwig
+}
+
+266.3.1 = {
+	religion = kusran
+}
+
+267.3.1 = {
+	religion = wedwig
+}
+
+269.3.1 = {
+	religion = kusran
+}
+
+270.3.1 = {
+	religion = wedwig
+}
+
+272.3.1 = {
+	religion = kusran
+}
+
+277.3.1 = {
+	religion = wedwig
+}
+
+289.3.1 = {
+	religion = kusran
+}
+
+291.3.1 = {
+	religion = wedwig
+}
+
+297.3.1 = {
+	religion = kusran
+}
+
+343.3.1 = {
+	religion = wedwig
+}
+
+615.4.1 = {
+	b_niyason = castle
+}
+
+755.4.1 = {
+	b_luyason = temple
+}
+
+873.4.1 = {
+	b_kurada = city
+}
+
+949.4.1 = {
+	b_liwaila = castle
+}
+
+1035.4.1 = {
+	b_sobephen = temple
+}
+

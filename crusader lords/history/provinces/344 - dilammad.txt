@@ -1,0 +1,53 @@
+	title = c_dilammad
+	max_settlements = 5
+	culture = aqahebel
+	religion = neharis
+	b_kagatim = tribal
+214.4.1 = {
+	culture = liebes
+}
+
+250.4.1 = {
+	culture = aqahebel
+}
+
+268.4.1 = {
+	culture = liebes
+}
+
+307.4.1 = {
+	culture = aqahebel
+}
+
+360.4.1 = {
+	culture = liebes
+}
+
+376.4.1 = {
+	culture = aqahebel
+}
+
+383.4.1 = {
+	culture = liebes
+}
+
+530.4.1 = {
+	b_kagatim = castle
+}
+
+645.4.1 = {
+	b_nakas = temple
+}
+
+839.4.1 = {
+	b_rakanet = city
+}
+
+889.4.1 = {
+	b_raotta = temple
+}
+
+940.4.1 = {
+	b_bilatim = city
+}
+

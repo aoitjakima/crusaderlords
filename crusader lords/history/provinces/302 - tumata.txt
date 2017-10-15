@@ -1,0 +1,13 @@
+	title = c_tumata
+	max_settlements = 2
+	culture = wili
+	religion = nukaye
+	b_kogoman = tribal
+725.4.1 = {
+	b_kogoman = castle
+}
+
+814.4.1 = {
+	b_bodata = temple
+}
+

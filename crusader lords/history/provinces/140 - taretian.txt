@@ -1,0 +1,21 @@
+	title = c_taretian
+	max_settlements = 2
+	culture = sodinia
+	religion = neharis
+	b_tulius = tribal
+339.4.1 = {
+	culture = nitindik
+}
+
+350.4.1 = {
+	culture = talentiy
+}
+
+510.4.1 = {
+	b_tulius = castle
+}
+
+660.4.1 = {
+	b_ritienus = temple
+}
+

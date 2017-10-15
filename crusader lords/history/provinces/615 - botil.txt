@@ -1,0 +1,53 @@
+	title = c_botil
+	max_settlements = 2
+	culture = davars
+	religion = wedwig
+	b_rohiana = tribal
+1.1.1 = {
+	b_raimeja = ct_port_1
+}
+
+296.4.1 = {
+	culture = negasseh
+}
+
+306.4.1 = {
+	culture = davars
+}
+
+315.4.1 = {
+	culture = negasseh
+}
+
+370.4.1 = {
+	culture = durga
+}
+
+514.4.1 = {
+	culture = davars
+}
+
+527.4.1 = {
+	culture = durga
+}
+
+569.4.1 = {
+	culture = ryanopti
+}
+
+619.4.1 = {
+	culture = durga
+}
+
+657.4.1 = {
+	culture = davars
+}
+
+700.4.1 = {
+	b_rohiana = castle
+}
+
+810.4.1 = {
+	b_raimeja = city
+}
+

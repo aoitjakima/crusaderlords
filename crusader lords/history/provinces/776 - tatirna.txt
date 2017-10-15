@@ -1,0 +1,97 @@
+	title = c_tatirna
+	max_settlements = 7
+	culture = sereka
+	religion = naneka
+	b_abucabra = tribal
+202.3.1 = {
+	religion = begeka
+}
+
+233.4.1 = {
+	culture = runafu
+}
+
+238.3.1 = {
+	religion = naneka
+}
+
+242.3.1 = {
+	religion = begeka
+}
+
+246.3.1 = {
+	religion = naneka
+}
+
+253.4.1 = {
+	culture = sereka
+}
+
+263.3.1 = {
+	religion = begeka
+}
+
+264.3.1 = {
+	religion = naneka
+}
+
+265.3.1 = {
+	religion = begeka
+}
+
+269.3.1 = {
+	religion = naneka
+}
+
+338.4.1 = {
+	culture = runafu
+}
+
+369.4.1 = {
+	culture = sereka
+}
+
+399.4.1 = {
+	culture = runafu
+}
+
+600.4.1 = {
+	b_abucabra = castle
+}
+
+674.4.1 = {
+	culture = sereka
+}
+
+697.4.1 = {
+	culture = runafu
+}
+
+724.4.1 = {
+	culture = sereka
+}
+
+745.4.1 = {
+	b_tisuel = temple
+}
+
+842.4.1 = {
+	b_relika = city
+}
+
+893.4.1 = {
+	b_kavilip = city
+}
+
+936.4.1 = {
+	b_wunuel = castle
+}
+
+975.4.1 = {
+	b_riunmas = temple
+}
+
+1014.4.1 = {
+	b_radavutlu = city
+}
+

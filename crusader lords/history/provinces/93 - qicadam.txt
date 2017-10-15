@@ -1,0 +1,45 @@
+	title = c_qicadam
+	max_settlements = 2
+	culture = syahes
+	religion = neharis
+	b_kadaboi = tribal
+203.3.1 = {
+	religion = wedwig
+}
+
+203.3.1 = {
+	religion = neharis
+}
+
+206.4.1 = {
+	culture = daimeig
+}
+
+207.3.1 = {
+	religion = wedwig
+}
+
+209.3.1 = {
+	religion = neharis
+}
+
+210.3.1 = {
+	religion = wedwig
+}
+
+211.3.1 = {
+	religion = neharis
+}
+
+224.4.1 = {
+	culture = syahes
+}
+
+550.4.1 = {
+	b_kadaboi = castle
+}
+
+635.4.1 = {
+	b_ketrirkoi = city
+}
+

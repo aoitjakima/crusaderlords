@@ -1,0 +1,21 @@
+	title = c_lesperaxpe
+	max_settlements = 3
+	culture = lyarala
+	religion = tonuyu
+	b_sukudo = tribal
+221.4.1 = {
+	culture = budandev
+}
+
+809.4.1 = {
+	b_sukudo = castle
+}
+
+842.4.1 = {
+	b_tesae = city
+}
+
+896.4.1 = {
+	b_saziks = temple
+}
+

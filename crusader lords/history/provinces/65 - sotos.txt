@@ -1,0 +1,17 @@
+	title = c_sotos
+	max_settlements = 2
+	culture = biho
+	religion = tonuyu
+	b_lazane = tribal
+1.1.1 = {
+	b_lulenes = ct_port_1
+}
+
+964.4.1 = {
+	b_lazane = castle
+}
+
+1005.4.1 = {
+	b_lulenes = city
+}
+

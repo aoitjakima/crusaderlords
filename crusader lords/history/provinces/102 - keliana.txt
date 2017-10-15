@@ -1,0 +1,25 @@
+	title = c_keliana
+	max_settlements = 7
+	culture = remis
+	religion = wedwig
+	b_ekegiana = tribal
+200.4.1 = {
+	culture = nuteria
+}
+
+322.4.1 = {
+	culture = waynald
+}
+
+327.4.1 = {
+	culture = nuteria
+}
+
+398.4.1 = {
+	culture = waynald
+}
+
+957.4.1 = {
+	b_ekegiana = castle
+}
+

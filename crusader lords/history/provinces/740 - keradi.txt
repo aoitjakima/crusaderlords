@@ -1,0 +1,101 @@
+	title = c_keradi
+	max_settlements = 4
+	culture = retose
+	religion = begeka
+	b_tuel = tribal
+201.4.1 = {
+	culture = esunadir
+}
+
+238.3.1 = {
+	religion = naneka
+}
+
+239.3.1 = {
+	religion = begeka
+}
+
+240.3.1 = {
+	religion = naneka
+}
+
+260.3.1 = {
+	religion = begeka
+}
+
+262.3.1 = {
+	religion = naneka
+}
+
+265.3.1 = {
+	religion = begeka
+}
+
+277.3.1 = {
+	religion = naneka
+}
+
+291.3.1 = {
+	religion = begeka
+}
+
+292.3.1 = {
+	religion = naneka
+}
+
+301.3.1 = {
+	religion = begeka
+}
+
+303.3.1 = {
+	religion = naneka
+}
+
+347.4.1 = {
+	culture = runafu
+}
+
+369.4.1 = {
+	culture = sereka
+}
+
+399.4.1 = {
+	culture = runafu
+}
+
+455.4.1 = {
+	culture = sereka
+}
+
+471.4.1 = {
+	culture = runafu
+}
+
+474.4.1 = {
+	culture = sereka
+}
+
+596.4.1 = {
+	b_tuel = castle
+}
+
+703.4.1 = {
+	culture = runafu
+}
+
+715.4.1 = {
+	culture = sereka
+}
+
+735.4.1 = {
+	b_risethee = city
+}
+
+862.4.1 = {
+	b_nayaka = temple
+}
+
+913.4.1 = {
+	b_kaetenat = castle
+}
+

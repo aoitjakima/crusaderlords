@@ -1,0 +1,37 @@
+	title = c_tesenr
+	max_settlements = 3
+	culture = nuteria
+	religion = eraygnars
+	b_acamur = tribal
+203.3.1 = {
+	religion = neharis
+}
+
+238.4.1 = {
+	culture = narentiy
+}
+
+259.4.1 = {
+	culture = amuhopti
+}
+
+320.4.1 = {
+	culture = syahes
+}
+
+323.4.1 = {
+	culture = amuhopti
+}
+
+421.4.1 = {
+	culture = syahes
+}
+
+585.4.1 = {
+	b_acamur = castle
+}
+
+765.4.1 = {
+	b_waudamur = city
+}
+

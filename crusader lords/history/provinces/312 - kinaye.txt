@@ -1,0 +1,17 @@
+	title = c_kinaye
+	max_settlements = 3
+	culture = wili
+	religion = nukaye
+	b_rogovya = tribal
+680.4.1 = {
+	b_rogovya = castle
+}
+
+810.4.1 = {
+	b_raniakeni = city
+}
+
+899.4.1 = {
+	b_wehavya = temple
+}
+

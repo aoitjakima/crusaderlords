@@ -1,0 +1,25 @@
+	title = c_baser
+	max_settlements = 5
+	culture = rarare
+	religion = qigiyah
+	b_ruamn = tribal
+823.4.1 = {
+	b_ruamn = castle
+}
+
+853.4.1 = {
+	b_wozebyaerie = city
+}
+
+908.4.1 = {
+	b_walemor = temple
+}
+
+969.4.1 = {
+	b_basena = temple
+}
+
+1028.4.1 = {
+	b_weloxor = city
+}
+

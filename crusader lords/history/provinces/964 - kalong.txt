@@ -1,0 +1,45 @@
+	title = c_kalong
+	max_settlements = 6
+	culture = taetoza
+	religion = naneka
+	b_qanasmig = tribal
+1.1.1 = {
+	b_weneter = ct_port_1
+}
+
+238.4.1 = {
+	culture = lerelin
+}
+
+271.4.1 = {
+	culture = wates
+}
+
+373.3.1 = {
+	religion = qiteka
+}
+
+615.4.1 = {
+	b_qanasmig = castle
+}
+
+705.4.1 = {
+	b_weneter = city
+}
+
+835.4.1 = {
+	b_kepeki = temple
+}
+
+897.4.1 = {
+	b_qeneki = city
+}
+
+940.4.1 = {
+	b_atohn = temple
+}
+
+982.4.1 = {
+	b_tanassak = temple
+}
+

@@ -1,0 +1,37 @@
+	title = c_lahius
+	max_settlements = 6
+	culture = sodinia
+	religion = neharis
+	b_riebnus = tribal
+339.4.1 = {
+	culture = nitindik
+}
+
+350.4.1 = {
+	culture = talentiy
+}
+
+505.4.1 = {
+	b_riebnus = castle
+}
+
+640.4.1 = {
+	b_kuteria = city
+}
+
+833.4.1 = {
+	b_terseniemuhni = temple
+}
+
+900.4.1 = {
+	b_neminia = castle
+}
+
+967.4.1 = {
+	b_qavella = city
+}
+
+1050.4.1 = {
+	b_narella = temple
+}
+

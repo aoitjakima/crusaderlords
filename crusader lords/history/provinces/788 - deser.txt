@@ -1,0 +1,29 @@
+	title = c_deser
+	max_settlements = 4
+	culture = ebeina
+	religion = qiteka
+	b_qenacob = tribal
+339.4.1 = {
+	culture = risutlu
+}
+
+560.4.1 = {
+	b_qenacob = castle
+}
+
+729.4.1 = {
+	culture = saimes
+}
+
+755.4.1 = {
+	b_bolerd = city
+}
+
+906.4.1 = {
+	b_kusiby = temple
+}
+
+1004.4.1 = {
+	b_derada = city
+}
+

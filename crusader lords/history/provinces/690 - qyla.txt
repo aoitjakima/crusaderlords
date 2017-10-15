@@ -1,0 +1,65 @@
+	title = c_qyla
+	max_settlements = 5
+	culture = negasseh
+	religion = wedwig
+	b_nosesind = tribal
+260.4.1 = {
+	culture = weliana
+}
+
+306.4.1 = {
+	culture = davars
+}
+
+313.4.1 = {
+	culture = weliana
+}
+
+326.4.1 = {
+	culture = davars
+}
+
+353.4.1 = {
+	culture = durga
+}
+
+479.4.1 = {
+	culture = davars
+}
+
+490.4.1 = {
+	culture = durga
+}
+
+514.4.1 = {
+	culture = davars
+}
+
+519.4.1 = {
+	culture = durga
+}
+
+525.4.1 = {
+	culture = davars
+}
+
+560.4.1 = {
+	b_nosesind = castle
+}
+
+705.4.1 = {
+	b_lye = temple
+}
+
+856.4.1 = {
+	b_lobaila = city
+}
+
+921.4.1 = {
+	b_koros = city
+}
+
+984.4.1 = {
+	b_niyande = castle
+}
+

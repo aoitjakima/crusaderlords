@@ -1,0 +1,33 @@
+	title = c_eberule
+	max_settlements = 4
+	culture = narentiy
+	religion = neharis
+	b_liseka = tribal
+228.4.1 = {
+	culture = syahes
+}
+
+283.4.1 = {
+	culture = amuhopti
+}
+
+320.4.1 = {
+	culture = syahes
+}
+
+322.4.1 = {
+	culture = amuhopti
+}
+
+451.4.1 = {
+	culture = syahes
+}
+
+575.4.1 = {
+	b_liseka = castle
+}
+
+725.4.1 = {
+	b_etarma = temple
+}
+

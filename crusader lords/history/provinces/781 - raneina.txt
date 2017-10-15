@@ -1,0 +1,57 @@
+	title = c_raneina
+	max_settlements = 3
+	culture = sereka
+	religion = naneka
+	b_wumose = tribal
+326.4.1 = {
+	culture = esunadir
+}
+
+341.4.1 = {
+	culture = sereka
+}
+
+398.4.1 = {
+	culture = esunadir
+}
+
+447.4.1 = {
+	culture = sereka
+}
+
+528.4.1 = {
+	culture = esunadir
+}
+
+609.4.1 = {
+	culture = sereka
+}
+
+630.4.1 = {
+	b_wumose = castle
+}
+
+648.4.1 = {
+	culture = esunadir
+}
+
+696.4.1 = {
+	culture = sereka
+}
+
+721.4.1 = {
+	culture = esunadir
+}
+
+800.4.1 = {
+	b_biafive = temple
+}
+
+884.4.1 = {
+	culture = sereka
+}
+
+899.4.1 = {
+	b_esundes = city
+}
+

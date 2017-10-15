@@ -1,0 +1,57 @@
+	title = c_banulad
+	max_settlements = 3
+	culture = nuteria
+	religion = wedwig
+	b_torose = tribal
+1.1.1 = {
+	b_notamur = ct_port_1
+}
+
+305.4.1 = {
+	culture = weliana
+}
+
+306.4.1 = {
+	culture = davars
+}
+
+309.4.1 = {
+	culture = weliana
+}
+
+333.4.1 = {
+	culture = durga
+}
+
+502.4.1 = {
+	culture = davars
+}
+
+520.4.1 = {
+	culture = durga
+}
+
+553.4.1 = {
+	culture = davars
+}
+
+585.4.1 = {
+	culture = durga
+}
+
+605.4.1 = {
+	b_torose = castle
+}
+
+632.4.1 = {
+	culture = davars
+}
+
+755.4.1 = {
+	b_rance = temple
+}
+
+875.4.1 = {
+	b_notamur = city
+}
+

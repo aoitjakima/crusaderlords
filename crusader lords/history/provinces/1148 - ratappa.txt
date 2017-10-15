@@ -1,0 +1,81 @@
+	title = c_ratappa
+	max_settlements = 2
+	culture = qenoos
+	religion = tonuyu
+	b_ekukork = tribal
+1.1.1 = {
+	b_ronuyu = ct_port_1
+}
+
+221.4.1 = {
+	culture = ranahim
+}
+
+240.4.1 = {
+	culture = qenoos
+}
+
+280.4.1 = {
+	culture = ranahim
+}
+
+352.4.1 = {
+	culture = qenoos
+}
+
+578.4.1 = {
+	culture = ranahim
+}
+
+719.4.1 = {
+	culture = qenoos
+}
+
+726.4.1 = {
+	culture = ranahim
+}
+
+811.4.1 = {
+	culture = qenoos
+}
+
+817.4.1 = {
+	culture = ranahim
+}
+
+901.4.1 = {
+	b_ekukork = castle
+}
+
+950.4.1 = {
+	b_ronuyu = city
+}
+
+974.4.1 = {
+	culture = qenoos
+}
+
+979.4.1 = {
+	culture = ranahim
+}
+
+1007.4.1 = {
+	culture = qenoos
+}
+
+1018.4.1 = {
+	culture = ranahim
+}
+
+1021.4.1 = {
+	culture = qenoos
+}
+
+1024.4.1 = {
+	culture = ranahim
+}
+
+1053.4.1 = {
+	culture = qenoos
+}
+

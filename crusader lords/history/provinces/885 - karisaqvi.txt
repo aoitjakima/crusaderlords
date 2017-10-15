@@ -1,0 +1,33 @@
+	title = c_karisaqvi
+	max_settlements = 4
+	culture = ebeina
+	religion = qiteka
+	b_nerid = tribal
+1.1.1 = {
+	b_tedipp = ct_port_1
+}
+
+523.4.1 = {
+	culture = risutlu
+}
+
+580.4.1 = {
+	b_nerid = castle
+}
+
+790.4.1 = {
+	b_nyeviby = temple
+}
+
+879.4.1 = {
+	b_tedipp = city
+}
+
+887.4.1 = {
+	culture = saimes
+}
+
+970.4.1 = {
+	b_kilows = temple
+}
+

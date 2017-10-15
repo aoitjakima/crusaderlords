@@ -1,0 +1,29 @@
+	title = c_rijagos
+	max_settlements = 4
+	culture = qariyah
+	religion = nukaye
+	b_dijander = tribal
+224.4.1 = {
+	culture = wamata
+}
+
+254.4.1 = {
+	culture = qariyah
+}
+
+830.4.1 = {
+	b_dijander = castle
+}
+
+859.4.1 = {
+	b_wijawkiki = temple
+}
+
+954.4.1 = {
+	b_tehafie = city
+}
+
+1056.4.1 = {
+	b_serilia = city
+}
+

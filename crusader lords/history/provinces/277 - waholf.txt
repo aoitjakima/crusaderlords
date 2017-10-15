@@ -1,0 +1,25 @@
+	title = c_waholf
+	max_settlements = 2
+	culture = latuma
+	religion = atheociu
+	b_dalius = tribal
+1.1.1 = {
+	b_dahonoc = ct_port_1
+}
+
+266.3.1 = {
+	religion = kusran
+}
+
+285.3.1 = {
+	religion = atheociu
+}
+
+892.4.1 = {
+	b_dalius = castle
+}
+
+934.4.1 = {
+	b_dahonoc = city
+}
+

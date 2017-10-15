@@ -1,0 +1,21 @@
+	title = c_nesanay
+	max_settlements = 2
+	culture = raraber
+	religion = neharis
+	b_resita = tribal
+204.3.1 = {
+	religion = nukaye
+}
+
+222.4.1 = {
+	culture = wili
+}
+
+635.4.1 = {
+	b_resita = castle
+}
+
+785.4.1 = {
+	b_kyumal = temple
+}
+

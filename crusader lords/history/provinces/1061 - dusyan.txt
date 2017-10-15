@@ -1,0 +1,9 @@
+	title = c_dusyan
+	max_settlements = 3
+	culture = tasule
+	religion = kusran
+	b_weva = tribal
+345.4.1 = {
+	culture = abajule
+}
+

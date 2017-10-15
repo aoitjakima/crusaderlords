@@ -1,0 +1,49 @@
+	title = c_kosison
+	max_settlements = 4
+	culture = weliana
+	religion = wedwig
+	b_qosalt = tribal
+204.4.1 = {
+	culture = ryanopti
+}
+
+208.3.1 = {
+	religion = kusran
+}
+
+247.3.1 = {
+	religion = wedwig
+}
+
+259.3.1 = {
+	religion = kusran
+}
+
+343.3.1 = {
+	religion = wedwig
+}
+
+347.3.1 = {
+	religion = kusran
+}
+
+347.3.1 = {
+	religion = wedwig
+}
+
+605.4.1 = {
+	b_qosalt = castle
+}
+
+745.4.1 = {
+	b_qaxyla = temple
+}
+
+873.4.1 = {
+	b_wouns = city
+}
+
+950.4.1 = {
+	b_kaxey = temple
+}
+

@@ -1,0 +1,29 @@
+	title = c_losiby
+	max_settlements = 3
+	culture = remis
+	religion = raipi
+	b_bolyhon = tribal
+205.3.1 = {
+	religion = wedwig
+}
+
+217.3.1 = {
+	religion = raipi
+}
+
+229.4.1 = {
+	culture = digaka
+}
+
+665.4.1 = {
+	b_bolyhon = castle
+}
+
+790.4.1 = {
+	b_riwey = temple
+}
+
+872.4.1 = {
+	b_dobande = city
+}
+

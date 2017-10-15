@@ -1,0 +1,5 @@
+	title = c_qahayan
+	max_settlements = 4
+	culture = waynald
+	religion = wedwig
+	b_wavayan = tribal

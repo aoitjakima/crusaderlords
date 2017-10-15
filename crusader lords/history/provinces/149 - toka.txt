@@ -1,0 +1,37 @@
+	title = c_toka
+	max_settlements = 6
+	culture = latuma
+	religion = atheociu
+	b_tecopti = tribal
+259.4.1 = {
+	culture = sigivkah
+}
+
+289.4.1 = {
+	culture = latuma
+}
+
+333.4.1 = {
+	culture = sigivkah
+}
+
+347.4.1 = {
+	culture = latuma
+}
+
+828.4.1 = {
+	b_tecopti = castle
+}
+
+861.4.1 = {
+	b_bilen = temple
+}
+
+963.4.1 = {
+	b_sarelahka = city
+}
+
+1061.4.1 = {
+	b_nuroka = castle
+}
+

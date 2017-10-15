@@ -1,0 +1,17 @@
+	title = c_wopal
+	max_settlements = 2
+	culture = syahes
+	religion = neharis
+	b_tahata = tribal
+242.4.1 = {
+	culture = karibel
+}
+
+545.4.1 = {
+	b_tahata = castle
+}
+
+720.4.1 = {
+	b_kicer = temple
+}
+

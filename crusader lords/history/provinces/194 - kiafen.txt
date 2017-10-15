@@ -1,0 +1,5 @@
+	title = c_kiafen
+	max_settlements = 3
+	culture = waynald
+	religion = wedwig
+	b_tabratohr = tribal

@@ -1,0 +1,17 @@
+	title = c_riana
+	max_settlements = 2
+	culture = daimeja
+	religion = wedwig
+	b_riana = tribal
+250.4.1 = {
+	culture = weliana
+}
+
+580.4.1 = {
+	b_riana = castle
+}
+
+710.4.1 = {
+	b_nadiana = city
+}
+

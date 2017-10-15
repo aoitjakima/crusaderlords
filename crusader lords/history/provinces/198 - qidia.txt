@@ -1,0 +1,29 @@
+	title = c_qidia
+	max_settlements = 3
+	culture = digaka
+	religion = raipi
+	b_bucalt = tribal
+269.4.1 = {
+	culture = sigivkah
+}
+
+303.4.1 = {
+	culture = digaka
+}
+
+304.4.1 = {
+	culture = sigivkah
+}
+
+790.4.1 = {
+	b_bucalt = castle
+}
+
+835.4.1 = {
+	b_ruzoros = city
+}
+
+941.4.1 = {
+	b_bosyhon = temple
+}
+

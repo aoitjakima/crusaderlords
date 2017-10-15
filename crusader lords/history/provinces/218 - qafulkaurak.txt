@@ -1,0 +1,29 @@
+	title = c_qafulkaurak
+	max_settlements = 2
+	culture = liebes
+	religion = neharis
+	b_wiliya = tribal
+205.4.1 = {
+	culture = talentiy
+}
+
+230.4.1 = {
+	culture = liebes
+}
+
+273.4.1 = {
+	culture = talentiy
+}
+
+319.4.1 = {
+	culture = liebes
+}
+
+625.4.1 = {
+	b_wiliya = castle
+}
+
+785.4.1 = {
+	b_aqarili = temple
+}
+

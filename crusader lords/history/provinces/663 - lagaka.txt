@@ -1,0 +1,9 @@
+	title = c_lagaka
+	max_settlements = 3
+	culture = disinos
+	religion = kusran
+	b_baoike = tribal
+242.4.1 = {
+	culture = abajule
+}
+

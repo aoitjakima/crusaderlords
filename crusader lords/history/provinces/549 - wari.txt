@@ -1,0 +1,29 @@
+	title = c_wari
+	max_settlements = 5
+	culture = disinos
+	religion = qigiyah
+	b_elaurina = tribal
+1.1.1 = {
+	b_egesiyah = ct_port_1
+}
+
+200.4.1 = {
+	culture = tularda
+}
+
+271.4.1 = {
+	culture = alaurine
+}
+
+826.4.1 = {
+	b_elaurina = castle
+}
+
+868.4.1 = {
+	b_egesiyah = city
+}
+
+969.4.1 = {
+	b_alaureid = temple
+}
+

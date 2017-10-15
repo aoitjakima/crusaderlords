@@ -1,0 +1,45 @@
+	title = c_nerosas
+	max_settlements = 4
+	culture = liebes
+	religion = neharis
+	b_tashaeor = tribal
+250.4.1 = {
+	culture = aqahebel
+}
+
+268.4.1 = {
+	culture = liebes
+}
+
+307.4.1 = {
+	culture = aqahebel
+}
+
+360.4.1 = {
+	culture = liebes
+}
+
+376.4.1 = {
+	culture = aqahebel
+}
+
+383.4.1 = {
+	culture = liebes
+}
+
+530.4.1 = {
+	b_tashaeor = castle
+}
+
+630.4.1 = {
+	b_ebakoz = temple
+}
+
+848.4.1 = {
+	b_kaol = city
+}
+
+945.4.1 = {
+	b_teranet = castle
+}
+

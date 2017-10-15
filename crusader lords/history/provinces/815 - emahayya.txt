@@ -1,0 +1,33 @@
+	title = c_emahayya
+	max_settlements = 3
+	culture = ritiatou
+	religion = telayira
+	b_lajadi = tribal
+396.4.1 = {
+	culture = koumas
+}
+
+445.4.1 = {
+	culture = lopher
+}
+
+521.4.1 = {
+	culture = koumas
+}
+
+745.4.1 = {
+	b_lajadi = castle
+}
+
+822.4.1 = {
+	b_ryagica = city
+}
+
+925.4.1 = {
+	b_layya = temple
+}
+
+938.4.1 = {
+	culture = lopher
+}
+

@@ -1,0 +1,41 @@
+	title = c_rentiy
+	max_settlements = 2
+	culture = amuhopti
+	religion = neharis
+	b_kyahes = tribal
+234.4.1 = {
+	culture = syahes
+}
+
+342.4.1 = {
+	culture = amuhopti
+}
+
+352.4.1 = {
+	culture = syahes
+}
+
+409.4.1 = {
+	culture = amuhopti
+}
+
+451.4.1 = {
+	culture = syahes
+}
+
+461.4.1 = {
+	culture = amuhopti
+}
+
+469.4.1 = {
+	culture = syahes
+}
+
+525.4.1 = {
+	b_kyahes = castle
+}
+
+710.4.1 = {
+	b_lavella = temple
+}
+

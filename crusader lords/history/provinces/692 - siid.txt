@@ -1,0 +1,25 @@
+	title = c_siid
+	max_settlements = 3
+	culture = abajule
+	religion = kusran
+	b_qolufia = tribal
+202.4.1 = {
+	culture = ricqa
+}
+
+273.4.1 = {
+	culture = abajule
+}
+
+620.4.1 = {
+	b_qolufia = castle
+}
+
+745.4.1 = {
+	b_topalwo = city
+}
+
+869.4.1 = {
+	b_bataila = temple
+}
+

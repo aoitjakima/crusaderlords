@@ -1,0 +1,33 @@
+	title = c_aboriyer
+	max_settlements = 4
+	culture = eluedsalh
+	religion = raipi
+	b_nusen = tribal
+222.4.1 = {
+	culture = nuteria
+}
+
+228.4.1 = {
+	culture = eluedsalh
+}
+
+565.4.1 = {
+	culture = sigivkah
+}
+
+645.4.1 = {
+	b_nusen = castle
+}
+
+800.4.1 = {
+	b_beylolf = temple
+}
+
+900.4.1 = {
+	b_deyleja = city
+}
+
+1010.4.1 = {
+	b_kyeorn = temple
+}
+

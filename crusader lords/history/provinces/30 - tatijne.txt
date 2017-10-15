@@ -1,0 +1,21 @@
+	title = c_tatijne
+	max_settlements = 3
+	culture = rerinya
+	religion = aguninya
+	b_luca = tribal
+1.1.1 = {
+	b_ahadal = ct_port_1
+}
+
+804.4.1 = {
+	b_luca = castle
+}
+
+828.4.1 = {
+	b_ranni = temple
+}
+
+901.4.1 = {
+	b_ahadal = city
+}
+

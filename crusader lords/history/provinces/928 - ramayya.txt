@@ -1,0 +1,33 @@
+	title = c_ramayya
+	max_settlements = 3
+	culture = namyan
+	religion = telayira
+	b_rahule = tribal
+266.4.1 = {
+	culture = koumas
+}
+
+510.4.1 = {
+	culture = lopher
+}
+
+523.4.1 = {
+	culture = koumas
+}
+
+595.4.1 = {
+	b_rahule = castle
+}
+
+760.4.1 = {
+	b_kishule = temple
+}
+
+876.4.1 = {
+	b_nicong = city
+}
+
+931.4.1 = {
+	culture = lopher
+}
+

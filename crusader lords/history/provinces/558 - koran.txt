@@ -1,0 +1,65 @@
+	title = c_koran
+	max_settlements = 5
+	culture = kuhotil
+	religion = eraygnars
+	b_kaudan = tribal
+207.3.1 = {
+	religion = qiteka
+}
+
+208.3.1 = {
+	religion = eraygnars
+}
+
+210.3.1 = {
+	religion = qiteka
+}
+
+211.3.1 = {
+	religion = eraygnars
+}
+
+212.3.1 = {
+	religion = qiteka
+}
+
+213.3.1 = {
+	religion = eraygnars
+}
+
+213.3.1 = {
+	religion = qiteka
+}
+
+228.3.1 = {
+	religion = eraygnars
+}
+
+228.3.1 = {
+	religion = qiteka
+}
+
+265.4.1 = {
+	culture = saimes
+}
+
+600.4.1 = {
+	b_kaudan = castle
+}
+
+700.4.1 = {
+	b_kumose = temple
+}
+
+837.4.1 = {
+	b_samive = city
+}
+
+894.4.1 = {
+	b_tiam = castle
+}
+
+946.4.1 = {
+	b_eraunda = castle
+}
+

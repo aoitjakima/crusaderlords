@@ -1,0 +1,21 @@
+	title = c_netadra
+	max_settlements = 3
+	culture = reusadra
+	religion = tonuyu
+	b_araurabra = tribal
+267.4.1 = {
+	culture = tiwics
+}
+
+898.4.1 = {
+	b_araurabra = castle
+}
+
+932.4.1 = {
+	b_epetabra = city
+}
+
+995.4.1 = {
+	b_berabra = temple
+}
+

@@ -1,0 +1,17 @@
+	title = c_nerelip
+	max_settlements = 2
+	culture = ranalip
+	religion = wedwig
+	b_kurelip = tribal
+227.3.1 = {
+	religion = qigiyah
+}
+
+248.4.1 = {
+	culture = rarare
+}
+
+258.4.1 = {
+	culture = lagond
+}
+

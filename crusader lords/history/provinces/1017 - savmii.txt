@@ -1,0 +1,25 @@
+	title = c_savmii
+	max_settlements = 2
+	culture = sigivkah
+	religion = kusran
+	b_dahiacik = tribal
+214.4.1 = {
+	culture = ketamma
+}
+
+248.4.1 = {
+	culture = sigivkah
+}
+
+256.4.1 = {
+	culture = ketamma
+}
+
+880.4.1 = {
+	b_dahiacik = castle
+}
+
+926.4.1 = {
+	b_layigul = temple
+}
+

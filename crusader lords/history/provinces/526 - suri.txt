@@ -1,0 +1,13 @@
+	title = c_suri
+	max_settlements = 2
+	culture = tinda
+	religion = wedwig
+	b_atatiu = tribal
+297.3.1 = {
+	religion = qigiyah
+}
+
+301.4.1 = {
+	culture = lagond
+}
+

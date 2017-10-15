@@ -1,0 +1,25 @@
+	title = c_nitaug
+	max_settlements = 3
+	culture = terikatim
+	religion = telayira
+	b_qitonka = tribal
+314.4.1 = {
+	culture = dainbai
+}
+
+345.4.1 = {
+	culture = wedina
+}
+
+825.4.1 = {
+	b_qitonka = castle
+}
+
+855.4.1 = {
+	b_qitra = temple
+}
+
+939.4.1 = {
+	b_achaug = city
+}
+

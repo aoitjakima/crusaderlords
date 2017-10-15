@@ -1,0 +1,17 @@
+	title = c_kinipp
+	max_settlements = 3
+	culture = abajule
+	religion = kusran
+	b_kedinus = tribal
+620.4.1 = {
+	b_kedinus = castle
+}
+
+745.4.1 = {
+	b_ludlasoplul = city
+}
+
+869.4.1 = {
+	b_qacotidia = temple
+}
+

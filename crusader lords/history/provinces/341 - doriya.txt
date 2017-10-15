@@ -1,0 +1,37 @@
+	title = c_doriya
+	max_settlements = 5
+	culture = liebes
+	religion = neharis
+	b_wamatim = tribal
+1.1.1 = {
+	b_tosiya = ct_port_1
+}
+
+270.4.1 = {
+	culture = talentiy
+}
+
+302.4.1 = {
+	culture = liebes
+}
+
+535.4.1 = {
+	b_wamatim = castle
+}
+
+625.4.1 = {
+	b_tulisi = temple
+}
+
+816.4.1 = {
+	b_tosiya = city
+}
+
+867.4.1 = {
+	b_edo = city
+}
+
+908.4.1 = {
+	b_bahenas = city
+}
+

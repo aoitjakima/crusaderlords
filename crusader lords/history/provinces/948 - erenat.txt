@@ -1,0 +1,57 @@
+	title = c_erenat
+	max_settlements = 6
+	culture = banaila
+	religion = begeka
+	b_waetelin = tribal
+1.1.1 = {
+	b_sarelin = ct_port_1
+}
+
+203.3.1 = {
+	religion = qiteka
+}
+
+203.3.1 = {
+	religion = terenat
+}
+
+207.3.1 = {
+	religion = qiteka
+}
+
+208.3.1 = {
+	religion = terenat
+}
+
+236.3.1 = {
+	religion = begeka
+}
+
+414.4.1 = {
+	culture = kitule
+}
+
+570.4.1 = {
+	b_waetelin = castle
+}
+
+705.4.1 = {
+	b_suruel = temple
+}
+
+852.4.1 = {
+	b_sarelin = city
+}
+
+917.4.1 = {
+	b_avlilip = city
+}
+
+974.4.1 = {
+	b_sunadi = city
+}
+
+1031.4.1 = {
+	b_laetuel = city
+}
+

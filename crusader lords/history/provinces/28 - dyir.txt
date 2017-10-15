@@ -1,0 +1,21 @@
+	title = c_dyir
+	max_settlements = 3
+	culture = eshunpal
+	religion = neharis
+	b_kaizafagz = tribal
+1.1.1 = {
+	b_belis = ct_port_1
+}
+
+822.4.1 = {
+	b_kaizafagz = castle
+}
+
+851.4.1 = {
+	b_belis = city
+}
+
+901.4.1 = {
+	b_datilf = temple
+}
+

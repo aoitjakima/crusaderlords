@@ -1,0 +1,25 @@
+	title = c_kalibor
+	max_settlements = 2
+	culture = retlennakta
+	religion = tonuyu
+	b_laloran = tribal
+200.4.1 = {
+	culture = budandev
+}
+
+257.4.1 = {
+	culture = wenira
+}
+
+359.4.1 = {
+	culture = radabor
+}
+
+832.4.1 = {
+	b_laloran = castle
+}
+
+867.4.1 = {
+	b_ludelen = temple
+}
+

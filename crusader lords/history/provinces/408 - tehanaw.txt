@@ -1,0 +1,21 @@
+	title = c_tehanaw
+	max_settlements = 2
+	culture = tumata
+	religion = nukaye
+	b_kuvutan = tribal
+245.4.1 = {
+	culture = wamata
+}
+
+277.4.1 = {
+	culture = qariyah
+}
+
+824.4.1 = {
+	b_kuvutan = castle
+}
+
+852.4.1 = {
+	b_wunelen = temple
+}
+

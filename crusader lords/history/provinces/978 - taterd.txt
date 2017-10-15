@@ -1,0 +1,29 @@
+	title = c_taterd
+	max_settlements = 4
+	culture = waetutlu
+	religion = qiteka
+	b_ewelerd = tribal
+273.4.1 = {
+	culture = risutlu
+}
+
+505.4.1 = {
+	b_ewelerd = castle
+}
+
+620.4.1 = {
+	b_bohery = city
+}
+
+719.4.1 = {
+	culture = saimes
+}
+
+831.4.1 = {
+	b_amauder = temple
+}
+
+895.4.1 = {
+	b_tilows = castle
+}
+

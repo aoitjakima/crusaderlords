@@ -1,0 +1,17 @@
+	title = c_acateorn
+	max_settlements = 2
+	culture = daimeja
+	religion = wedwig
+	b_wegagnar = tribal
+250.4.1 = {
+	culture = weliana
+}
+
+750.4.1 = {
+	b_wegagnar = castle
+}
+
+845.4.1 = {
+	b_kademis = city
+}
+

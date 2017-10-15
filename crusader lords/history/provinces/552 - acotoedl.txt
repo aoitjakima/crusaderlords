@@ -1,0 +1,57 @@
+	title = c_acotoedl
+	max_settlements = 2
+	culture = taodha
+	religion = kusran
+	b_qopal = tribal
+200.3.1 = {
+	religion = raipi
+}
+
+204.3.1 = {
+	religion = wedwig
+}
+
+204.3.1 = {
+	religion = raipi
+}
+
+205.3.1 = {
+	religion = wedwig
+}
+
+214.3.1 = {
+	religion = raipi
+}
+
+226.3.1 = {
+	religion = wedwig
+}
+
+230.3.1 = {
+	religion = raipi
+}
+
+233.3.1 = {
+	religion = wedwig
+}
+
+242.3.1 = {
+	religion = raipi
+}
+
+351.4.1 = {
+	culture = sutidoka
+}
+
+526.4.1 = {
+	culture = kapti
+}
+
+680.4.1 = {
+	b_qopal = castle
+}
+
+806.4.1 = {
+	b_ateopey = city
+}
+

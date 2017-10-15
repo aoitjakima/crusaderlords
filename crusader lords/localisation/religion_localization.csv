@@ -1,39 +1,75 @@
 "#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x";;;;;;;;;;;;;;
 #CODE;ENGLISH;FRENCH;GERMAN;unused;SPANISH;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
+estazi_faith;Small Gods;;;;;;;;;;;;;x
+estazi_faith_DESC;The Estazi faith is named the small gods, holding that there is no overall controlling diety but instead millions of gods that rule over every facet of life in Estazi-Land. These gods personify everything from doors to the good fortune and families. There Estazi faith is a large supporter of the useful arts and owns their own few colleges to educate the poor;;;;;;;;;;;;;x
+wealth;God of Wealth;;;;;;;;;;;;;x
+Conquista;Conquista;;;;;;;;;;;;;x
+estazi_bible;Index of Gods;;;;;;;;;;;;;x
+padre;Padre;;;;;;;;;;;;;x
+profit;God of Profit;;;;;;;;;;;;;x
+calm-seas;God of Calm Seas;;;;;;;;;;;;;x
+fortune;God of Fortune;;;;;;;;;;;;;x
+slander;God of Slander;;;;;;;;;;;;;x
+misfortune;God of Misfortune;;;;;;;;;;;;;x
+STAT_PIETY_luck;Luck;;;;;;;;;;;;;x
+STAT_PIETY_DESC_luck;Luck is the good fortune shown that smiles down on the Estazilanders that show proper deferance and respect of the small gods;;;;;;;;;;;;;x
+MONTHLY_PIETY_luck;luck gain;;;;;;;;;;;;;x
+estazi_religion_group;Estazi;;;;;;;;;;;;;x
+hankism;Laws of Hank;;;;;;;;;;;;;x
+hankism_DESC;Little is known of the mysterious Eastern Raider faith. They refer to their deity as Hank Bradly which is described as a human male of normal size, and it is said that their advanced Metallurgy comes as a gift from their god  ;;;;;;;;;;;;;x
+devastate;Devastate;;;;;;;;;;;;;x
+hank_bible;Hank's code;;;;;;;;;;;;;x
+hank_priest;Shaman;;;;;;;;;;;;;x
+hank_bradley;Hank Bradley;;;;;;;;;;;;;x
+beoing;Boeing;;;;;;;;;;;;;x
+STAT_PIETY_hank_piety;Power;;;;;;;;;;;;;x
+STAT_PIETY_DESC_hank_piety;Power is respected by the faithful of the east;;;;;;;;;;;;;x
+MONTHLY_PIETY_hank_piety;Power gained each month;;;;;;;;;;;;;x
+kirothian;Kirothian;;;;;;;;;;;;;x
+eastern_raider_faith;Eastern;;;;;;;;;;;;;x
+kirian_DESC;Kirian is the old faith of the land of Kir-Ko before the faith was reformed to forbid necromancy. The followers of the Kirian faith understand that after death the body still has uses and teaches that one to stay healthy and clean to keep ills from corrupting ones body. The faith is controlled by a cabal of Necromancer priests that serve to give moral guidance to the people as well as animate the dead for those unable to perform the task themselves;;;;;;;;;;;;;x
+kiroth_ancients;The Ancients;;;;;;;;;;;;;x
+kiroth_crusade;Extinction;;;;;;;;;;;;;x
+kiroth_bible;Words of the Ancients;;;;;;;;;;;;;x
+kirian_priest;Necromancer Priest;;;;;;;;;;;;;x
+kiroth_undead;The Undead;;;;;;;;;;;;;x
+kiroth_spirits;The Spirits;;;;;;;;;;;;;x
+kiroth_skotos;Skotos;;;;;;;;;;;;;x
+STAT_PIETY_kiroth_piety;Harmony;;;;;;;;;;;;;x
+STAT_PIETY_DESC_kiroth_piety;Harmony is the measure of reverance placed in the spirits of the dead;;;;;;;;;;;;;x
+MONTHLY_PIETY_kiroth_piety;Monthly Harmony gain;;;;;;;;;;;;;x
+kirothian_DESC;Kirothian is the reformed Kirian faith that sees the widespread use of necromancy disappear, some small uses of necromancy are sanctioned by the Kirothian priesthood. The change came after nearly a century of decay which had the underclasses of Kir-Ko be replaced by legions of undead. Eventually idle philosophers proposed a change and a time known as 'the bloody decade' came to pass where thousands of Kirian peasants perished to overthrow the Necromancer priests;;;;;;;;;;;;;x
+kiroth_priest;Priest;;;;;;;;;;;;;x
+kiroth_faith;Kirothian;;;;;;;;;;;;;x
+kiroth_dead;The Restful Dead;;;;;;;;;;;;;x
+kiroth_necromancer;Necromancer;;;;;;;;;;;;;x
+hunger;Hungering;;;;;;;;;;;;;x
+hunger_DESC;Hunger is a heresy of the Terrorian faith, instead of worshiping the Writhing Terror the Hungerings over reverence to the Howling Hunger a deamon that wishes to consume all including it's faithful. The Hunger had been trying to subvert the Terrorians while the Insidious Wrath and the Writhing Terror battled, once the Wrath was defeated the two joined forces with little debate. Hunerings often find themselves with an abundance of wealth and material goods but a short life;;;;;;;;;;;;;x
+howling_hunger;The Howling Hunger;;;;;;;;;;;;;x
+terrorian_crusade;Holy Scourge;;;;;;;;;;;;;x
+terror_cantacle;The Cantacle;;;;;;;;;;;;;x
+herophant;Herophant;;;;;;;;;;;;;x
+greater_daemon;The Greater Daemon;;;;;;;;;;;;;x
+greater_daemons_bad;Conspiring Daemons;;;;;;;;;;;;;x
+writhing_terror;The Writhing Terror;;;;;;;;;;;;;x
+lesser_daemon;Lesser Daemons;;;;;;;;;;;;;x
+STAT_PIETY_reverance;Reverance;;;;;;;;;;;;;x
+STAT_PIETY_DESC_reverance;Reverance measures your lords devotian to the [Root.Religion.GetHighGodName];;;;;;;;;;;;;x
+MONTHLY_PIETY_reverance;Monthly Reverance gain;;;;;;;;;;;;;x
+insidious_wrath;Insidious Wrath;;;;;;;;;;;;;x
+insidious;Insidi;;;;;;;;;;;;;x
+insidious_DESC;Since Daemon kind was formed the Insidious Wrath has constantly challenged the Writhing Terror, it was the Insidious Wrath that brought the mana wastes to the Casia and only by the power of the Writhing Terror were the wastes stopped. The Insidious Wrath now spends his time trying to subvert the Writhing Terrors power base of the Terrorians. Insidi will find themselves able to think quicker but their body also changes the most visibly;;;;;;;;;;;;;x
+antipathic;Antipathic;;;;;;;;;;;;;x
+antipathic_DESC;The Antipathic Terrorian heresy worship the Uncaring Apathy, the Apathy was uninterested in the mortal world until he found it easier to comply with the Insidious Wrath's orders to subvert the Terror than to ignore the Wrath and the Capricious Curiosity. The Apathy grants it's followers a good mind and long memory but it's followers find themselves aloof and unwilling to mingle with others;;;;;;;;;;;;;x
+uncaring_apathy;The Uncaring Apathy;;;;;;;;;;;;;x
+capricious;Caprici;;;;;;;;;;;;;x
+capricious_DESC;The Caprici heresy follow the Capricious Curiosity, a daemon of whim, fancy and chatter. The Capricious was the first of the conspiring greater daemons to join the Insidious Wrath in subverting the Terrorians after a game of wits with the Wrath. Caprici grants his worshipers powers to convince mortals  with little effort but their attention to detail or even staying on task is the price they pay;;;;;;;;;;;;;x
+capricious_curiosity;The Capricious Curiosity;;;;;;;;;;;;;x
+malevolant;Malevoli;;;;;;;;;;;;;x
+malevolant_DESC;The Malevoli are the most brash of the Terrorian heresies, they follow the Malevolent Discourse, who is known to the rest of the Conspiring Daemons to be loud, angry and always willing to fight. The Discourse joined the Wrath after the two fought in a battle the tore apart an mountain, the Wrath lost the fight but gave good enough to convince the Discourse to join on. Malevoli will find their bodies twisted into powerful forms, but their minds twist along their bodies;;;;;;;;;;;;;x
+malevolant_discourse;The Malevolant Discourse;;;;;;;;;;;;;x
+terrorian;Terrorian;;;;;;;;;;;;;x
+terrorian_DESC;Terrorians worship the Greater Daemon the Writhing Terror, the most powerful of all daemons known to mankind, the Terror fought with the Insidious Wrath during the collapse of Casia, the Terror managed to stop the growth of the mana wastes just outside the Avasian barrier mountains. The commandments of the Terror extend from the wizards that were sacrificed to the Terror in order to halt the Wrath. No Magic not of the Terror, no worship of other gods, consumption of flesh is holy. The Terror is the most familiar with mankind and as such his blessings do not deprive humans of their form.;;;;;;;;;;;;;x
+the_terror;The Terror;;;;;;;;;;;;;x
+crawling_chaos;The Crawling Chaos;;;;;;;;;;;;;x
+terrorian_group;Daemons;;;;;;;;;;;;;x

@@ -1,0 +1,21 @@
+	title = c_wariraz
+	max_settlements = 2
+	culture = laris
+	religion = aratihr
+	b_ratako = tribal
+231.4.1 = {
+	culture = wubihr
+}
+
+243.4.1 = {
+	culture = selalya
+}
+
+685.4.1 = {
+	b_ratako = castle
+}
+
+750.4.1 = {
+	b_sagako = temple
+}
+

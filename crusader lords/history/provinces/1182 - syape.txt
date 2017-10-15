@@ -1,0 +1,33 @@
+	title = c_syape
+	max_settlements = 2
+	culture = budandev
+	religion = tonuyu
+	b_kesudo = tribal
+257.4.1 = {
+	culture = wenira
+}
+
+262.4.1 = {
+	culture = budandev
+}
+
+282.4.1 = {
+	culture = wenira
+}
+
+311.4.1 = {
+	culture = budandev
+}
+
+348.4.1 = {
+	culture = radabor
+}
+
+811.4.1 = {
+	b_kesudo = castle
+}
+
+842.4.1 = {
+	b_reiliks = temple
+}
+

@@ -1,0 +1,21 @@
+	title = c_daras
+	max_settlements = 3
+	culture = waheber
+	religion = neharis
+	b_biladir = tribal
+216.4.1 = {
+	culture = aqahebel
+}
+
+550.4.1 = {
+	b_biladir = castle
+}
+
+715.4.1 = {
+	b_rulauf = temple
+}
+
+907.4.1 = {
+	b_ragari = city
+}
+

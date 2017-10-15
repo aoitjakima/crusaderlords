@@ -1,0 +1,81 @@
+	title = c_lelayar
+	max_settlements = 2
+	culture = biosupo
+	religion = wedwig
+	b_kemlakopd = tribal
+200.3.1 = {
+	religion = kusran
+}
+
+200.3.1 = {
+	religion = raipi
+}
+
+202.3.1 = {
+	religion = kusran
+}
+
+204.3.1 = {
+	religion = raipi
+}
+
+205.3.1 = {
+	religion = kusran
+}
+
+205.4.1 = {
+	culture = kapti
+}
+
+214.3.1 = {
+	religion = raipi
+}
+
+231.4.1 = {
+	culture = biosupo
+}
+
+238.3.1 = {
+	religion = kusran
+}
+
+242.3.1 = {
+	religion = raipi
+}
+
+243.3.1 = {
+	religion = kusran
+}
+
+254.3.1 = {
+	religion = raipi
+}
+
+255.4.1 = {
+	culture = kapti
+}
+
+332.4.1 = {
+	culture = kaureid
+}
+
+339.4.1 = {
+	culture = kapti
+}
+
+392.4.1 = {
+	culture = sutidoka
+}
+
+446.4.1 = {
+	culture = kapti
+}
+
+765.4.1 = {
+	b_kemlakopd = castle
+}
+
+850.4.1 = {
+	b_semidhin = city
+}
+

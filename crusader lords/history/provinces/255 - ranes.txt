@@ -1,0 +1,13 @@
+	title = c_ranes
+	max_settlements = 3
+	culture = syahes
+	religion = neharis
+	b_kiebes = tribal
+575.4.1 = {
+	b_kiebes = castle
+}
+
+715.4.1 = {
+	b_saudule = city
+}
+

@@ -1,0 +1,21 @@
+	title = c_reseya
+	max_settlements = 5
+	culture = lodeid
+	religion = tonuyu
+	b_tesawtus = tribal
+218.4.1 = {
+	culture = biho
+}
+
+847.4.1 = {
+	b_tesawtus = castle
+}
+
+887.4.1 = {
+	b_ryo = temple
+}
+
+1010.4.1 = {
+	b_rulahus = city
+}
+

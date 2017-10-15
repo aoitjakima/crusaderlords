@@ -1,0 +1,29 @@
+	title = c_roreda
+	max_settlements = 4
+	culture = wenira
+	religion = tonuyu
+	b_aricibor = tribal
+1.1.1 = {
+	b_balibor = ct_port_1
+}
+
+337.4.1 = {
+	culture = radabor
+}
+
+710.4.1 = {
+	b_aricibor = castle
+}
+
+823.4.1 = {
+	b_kilina = temple
+}
+
+940.4.1 = {
+	b_balibor = city
+}
+
+1062.4.1 = {
+	b_retony = temple
+}
+

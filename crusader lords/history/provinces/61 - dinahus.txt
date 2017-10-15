@@ -1,0 +1,17 @@
+	title = c_dinahus
+	max_settlements = 4
+	culture = biho
+	religion = tonuyu
+	b_rinelg = tribal
+847.4.1 = {
+	b_rinelg = castle
+}
+
+888.4.1 = {
+	b_luzahus = city
+}
+
+1001.4.1 = {
+	b_kuldagald = temple
+}
+

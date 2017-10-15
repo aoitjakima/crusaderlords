@@ -1,0 +1,29 @@
+	title = c_kalopolk
+	max_settlements = 7
+	culture = nitindik
+	religion = neharis
+	b_rens = tribal
+214.4.1 = {
+	culture = syahes
+}
+
+422.4.1 = {
+	culture = amuhopti
+}
+
+451.4.1 = {
+	culture = syahes
+}
+
+520.4.1 = {
+	b_rens = castle
+}
+
+660.4.1 = {
+	b_elentiy = temple
+}
+
+841.4.1 = {
+	b_nindik = city
+}
+

@@ -1,0 +1,25 @@
+	title = c_raseth
+	max_settlements = 5
+	culture = ween
+	religion = wedwig
+	b_seloxao = tribal
+204.3.1 = {
+	religion = bobena
+}
+
+205.4.1 = {
+	culture = welitya
+}
+
+866.4.1 = {
+	b_seloxao = castle
+}
+
+911.4.1 = {
+	b_teloxr = temple
+}
+
+993.4.1 = {
+	b_keloxe = city
+}
+

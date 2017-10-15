@@ -1,0 +1,101 @@
+	title = c_s
+	max_settlements = 7
+	culture = kitule
+	religion = begeka
+	b_sics = tribal
+203.3.1 = {
+	religion = terenat
+}
+
+206.3.1 = {
+	religion = begeka
+}
+
+208.3.1 = {
+	religion = terenat
+}
+
+209.3.1 = {
+	religion = begeka
+}
+
+211.3.1 = {
+	religion = terenat
+}
+
+214.4.1 = {
+	culture = banaila
+}
+
+215.3.1 = {
+	religion = qiteka
+}
+
+222.3.1 = {
+	religion = terenat
+}
+
+224.3.1 = {
+	religion = qiteka
+}
+
+228.3.1 = {
+	religion = terenat
+}
+
+235.3.1 = {
+	religion = qiteka
+}
+
+236.3.1 = {
+	religion = begeka
+}
+
+245.3.1 = {
+	religion = qiteka
+}
+
+250.3.1 = {
+	religion = begeka
+}
+
+255.3.1 = {
+	religion = qiteka
+}
+
+263.3.1 = {
+	religion = begeka
+}
+
+268.3.1 = {
+	religion = qiteka
+}
+
+269.3.1 = {
+	religion = begeka
+}
+
+524.4.1 = {
+	culture = kitule
+}
+
+555.4.1 = {
+	b_sics = castle
+}
+
+710.4.1 = {
+	b_esmurga = temple
+}
+
+860.4.1 = {
+	b_siunka = city
+}
+
+936.4.1 = {
+	b_berutlu = temple
+}
+
+1019.4.1 = {
+	b_terutlu = city
+}
+

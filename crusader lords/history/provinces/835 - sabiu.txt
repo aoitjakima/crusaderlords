@@ -1,0 +1,33 @@
+	title = c_sabiu
+	max_settlements = 4
+	culture = titina
+	religion = telayira
+	b_witand = tribal
+202.4.1 = {
+	culture = terikatim
+}
+
+314.4.1 = {
+	culture = dainbai
+}
+
+345.4.1 = {
+	culture = wedina
+}
+
+819.4.1 = {
+	b_witand = castle
+}
+
+843.4.1 = {
+	b_kunipp = temple
+}
+
+914.4.1 = {
+	b_tosusha = city
+}
+
+988.4.1 = {
+	b_eraberd = city
+}
+

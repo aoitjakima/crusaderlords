@@ -1,0 +1,53 @@
+	title = c_reliafiam
+	max_settlements = 3
+	culture = negasseh
+	religion = wedwig
+	b_arauld = tribal
+204.4.1 = {
+	culture = davars
+}
+
+285.4.1 = {
+	culture = durga
+}
+
+306.4.1 = {
+	culture = davars
+}
+
+313.4.1 = {
+	culture = durga
+}
+
+368.4.1 = {
+	culture = davars
+}
+
+466.4.1 = {
+	culture = durga
+}
+
+514.4.1 = {
+	culture = davars
+}
+
+525.4.1 = {
+	culture = durga
+}
+
+531.4.1 = {
+	culture = davars
+}
+
+550.4.1 = {
+	b_arauld = castle
+}
+
+690.4.1 = {
+	b_docamur = city
+}
+
+869.4.1 = {
+	b_lopeina = temple
+}
+

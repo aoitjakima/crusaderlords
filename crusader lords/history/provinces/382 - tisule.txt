@@ -1,0 +1,45 @@
+	title = c_tisule
+	max_settlements = 4
+	culture = syahes
+	religion = neharis
+	b_lotarma = tribal
+248.4.1 = {
+	culture = amuhopti
+}
+
+320.4.1 = {
+	culture = syahes
+}
+
+331.4.1 = {
+	culture = amuhopti
+}
+
+366.4.1 = {
+	culture = qindik
+}
+
+377.4.1 = {
+	culture = amuhopti
+}
+
+451.4.1 = {
+	culture = syahes
+}
+
+462.4.1 = {
+	culture = amuhopti
+}
+
+486.4.1 = {
+	culture = syahes
+}
+
+575.4.1 = {
+	b_lotarma = castle
+}
+
+735.4.1 = {
+	b_segoto = city
+}
+

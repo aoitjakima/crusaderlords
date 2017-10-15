@@ -1,0 +1,25 @@
+	title = c_akuvoman
+	max_settlements = 7
+	culture = tumata
+	religion = nukaye
+	b_binutan = tribal
+233.4.1 = {
+	culture = wamata
+}
+
+332.4.1 = {
+	culture = qariyah
+}
+
+830.4.1 = {
+	b_binutan = castle
+}
+
+867.4.1 = {
+	b_rupipac = temple
+}
+
+978.4.1 = {
+	b_wehalen = city
+}
+

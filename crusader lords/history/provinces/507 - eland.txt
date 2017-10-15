@@ -1,0 +1,25 @@
+	title = c_eland
+	max_settlements = 6
+	culture = sigivkah
+	religion = qigiyah
+	b_wobonka = tribal
+221.4.1 = {
+	culture = alaurine
+}
+
+823.4.1 = {
+	b_wobonka = castle
+}
+
+859.4.1 = {
+	b_araiya = temple
+}
+
+962.4.1 = {
+	b_wobainn = city
+}
+
+1052.4.1 = {
+	b_waraintou = castle
+}
+

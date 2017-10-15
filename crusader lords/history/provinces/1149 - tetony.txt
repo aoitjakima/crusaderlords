@@ -1,0 +1,25 @@
+	title = c_tetony
+	max_settlements = 2
+	culture = rudeslav
+	religion = tonuyu
+	b_ejakeda = tribal
+1.1.1 = {
+	b_asaleslav = ct_port_1
+}
+
+256.4.1 = {
+	culture = wenira
+}
+
+346.4.1 = {
+	culture = radabor
+}
+
+620.4.1 = {
+	b_ejakeda = castle
+}
+
+765.4.1 = {
+	b_asaleslav = city
+}
+

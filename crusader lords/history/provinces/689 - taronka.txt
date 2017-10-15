@@ -1,0 +1,133 @@
+	title = c_taronka
+	max_settlements = 7
+	culture = tainand
+	religion = bobena
+	b_ticonka = tribal
+242.4.1 = {
+	culture = welitya
+}
+
+587.4.1 = {
+	culture = titina
+}
+
+592.3.1 = {
+	religion = telayira
+}
+
+595.4.1 = {
+	culture = welitya
+}
+
+597.3.1 = {
+	religion = bobena
+}
+
+599.3.1 = {
+	religion = telayira
+}
+
+600.3.1 = {
+	religion = bobena
+}
+
+608.3.1 = {
+	religion = telayira
+}
+
+617.3.1 = {
+	religion = bobena
+}
+
+624.3.1 = {
+	religion = telayira
+}
+
+625.4.1 = {
+	culture = titina
+}
+
+636.3.1 = {
+	religion = bobena
+}
+
+646.3.1 = {
+	religion = telayira
+}
+
+647.3.1 = {
+	religion = bobena
+}
+
+650.3.1 = {
+	religion = telayira
+}
+
+652.4.1 = {
+	culture = ween
+}
+
+659.3.1 = {
+	religion = bobena
+}
+
+661.4.1 = {
+	culture = welitya
+}
+
+662.3.1 = {
+	religion = telayira
+}
+
+664.3.1 = {
+	religion = bobena
+}
+
+665.3.1 = {
+	religion = telayira
+}
+
+670.3.1 = {
+	religion = bobena
+}
+
+676.3.1 = {
+	religion = telayira
+}
+
+690.4.1 = {
+	culture = ween
+}
+
+699.3.1 = {
+	religion = bobena
+}
+
+711.3.1 = {
+	religion = telayira
+}
+
+719.4.1 = {
+	culture = welitya
+}
+
+761.4.1 = {
+	culture = titina
+}
+
+767.4.1 = {
+	culture = welitya
+}
+
+847.4.1 = {
+	culture = ween
+}
+
+1024.4.1 = {
+	culture = titina
+}
+
+1029.4.1 = {
+	culture = ween
+}
+

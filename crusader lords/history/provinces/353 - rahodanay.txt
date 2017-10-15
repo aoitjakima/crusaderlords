@@ -1,0 +1,25 @@
+	title = c_rahodanay
+	max_settlements = 3
+	culture = asumata
+	religion = nukaye
+	b_tukeeya = tribal
+263.4.1 = {
+	culture = ranibel
+}
+
+301.4.1 = {
+	culture = asumata
+}
+
+686.4.1 = {
+	b_tukeeya = castle
+}
+
+780.4.1 = {
+	b_tenoman = temple
+}
+
+857.4.1 = {
+	b_epesata = city
+}
+

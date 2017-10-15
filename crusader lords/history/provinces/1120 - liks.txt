@@ -1,0 +1,33 @@
+	title = c_liks
+	max_settlements = 6
+	culture = babosa
+	religion = tonuyu
+	b_wosudo = tribal
+1.1.1 = {
+	b_sukyako = ct_port_1
+}
+
+251.4.1 = {
+	culture = budandev
+}
+
+730.4.1 = {
+	b_wosudo = castle
+}
+
+816.4.1 = {
+	b_sukyako = city
+}
+
+868.4.1 = {
+	b_qudo = temple
+}
+
+914.4.1 = {
+	b_tulya = castle
+}
+
+989.4.1 = {
+	b_bonaxpe = castle
+}
+

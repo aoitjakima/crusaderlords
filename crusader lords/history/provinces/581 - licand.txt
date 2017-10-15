@@ -1,0 +1,21 @@
+	title = c_licand
+	max_settlements = 2
+	culture = kyayalen
+	religion = qigiyah
+	b_kangeao = tribal
+201.4.1 = {
+	culture = disinos
+}
+
+296.4.1 = {
+	culture = alaurine
+}
+
+823.4.1 = {
+	b_kangeao = castle
+}
+
+860.4.1 = {
+	b_kalulg = city
+}
+

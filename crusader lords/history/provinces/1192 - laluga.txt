@@ -1,0 +1,29 @@
+	title = c_laluga
+	max_settlements = 2
+	culture = radabor
+	religion = tonuyu
+	b_neduga = tribal
+206.4.1 = {
+	culture = kadalen
+}
+
+238.4.1 = {
+	culture = radabor
+}
+
+257.4.1 = {
+	culture = wenira
+}
+
+264.4.1 = {
+	culture = radabor
+}
+
+809.4.1 = {
+	b_neduga = castle
+}
+
+859.4.1 = {
+	b_saemoran = city
+}
+

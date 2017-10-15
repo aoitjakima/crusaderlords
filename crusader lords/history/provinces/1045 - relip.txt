@@ -1,0 +1,13 @@
+	title = c_relip
+	max_settlements = 3
+	culture = tinda
+	religion = wedwig
+	b_leturnal = tribal
+297.3.1 = {
+	religion = qigiyah
+}
+
+301.4.1 = {
+	culture = lagond
+}
+

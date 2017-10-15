@@ -1,0 +1,41 @@
+	title = c_adanao
+	max_settlements = 3
+	culture = tageen
+	religion = wedwig
+	b_navuland = tribal
+200.3.1 = {
+	religion = qigiyah
+}
+
+202.3.1 = {
+	religion = wedwig
+}
+
+204.3.1 = {
+	religion = qigiyah
+}
+
+206.3.1 = {
+	religion = wedwig
+}
+
+207.4.1 = {
+	culture = disinos
+}
+
+208.3.1 = {
+	religion = qigiyah
+}
+
+409.4.1 = {
+	culture = alaurine
+}
+
+897.4.1 = {
+	b_navuland = castle
+}
+
+946.4.1 = {
+	b_ronka = temple
+}
+

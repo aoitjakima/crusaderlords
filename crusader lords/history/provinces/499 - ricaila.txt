@@ -1,0 +1,25 @@
+	title = c_ricaila
+	max_settlements = 2
+	culture = narentiy
+	religion = neharis
+	b_kanotolas = tribal
+251.4.1 = {
+	culture = syahes
+}
+
+278.4.1 = {
+	culture = amuhopti
+}
+
+279.4.1 = {
+	culture = syahes
+}
+
+585.4.1 = {
+	b_kanotolas = castle
+}
+
+720.4.1 = {
+	b_kicaila = temple
+}
+

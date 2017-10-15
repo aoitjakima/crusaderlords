@@ -1,0 +1,13 @@
+	title = c_tazeven
+	max_settlements = 4
+	culture = syahes
+	religion = neharis
+	b_dinvebatlratl = tribal
+248.4.1 = {
+	culture = liebes
+}
+
+1042.4.1 = {
+	b_dinvebatlratl = castle
+}
+

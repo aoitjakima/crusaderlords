@@ -1,0 +1,25 @@
+	title = c_sartn
+	max_settlements = 6
+	culture = karibel
+	religion = neharis
+	b_lesando = tribal
+203.4.1 = {
+	culture = syahes
+}
+
+545.4.1 = {
+	b_lesando = castle
+}
+
+640.4.1 = {
+	b_kenoto = temple
+}
+
+817.4.1 = {
+	b_ataudolas = city
+}
+
+1041.4.1 = {
+	b_linus = temple
+}
+

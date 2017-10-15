@@ -1,0 +1,65 @@
+	title = c_soronka
+	max_settlements = 2
+	culture = terikatim
+	religion = telayira
+	b_borand = tribal
+215.4.1 = {
+	culture = dainbai
+}
+
+222.4.1 = {
+	culture = terikatim
+}
+
+244.3.1 = {
+	religion = bobena
+}
+
+254.3.1 = {
+	religion = telayira
+}
+
+258.3.1 = {
+	religion = bobena
+}
+
+258.3.1 = {
+	religion = telayira
+}
+
+261.4.1 = {
+	culture = titina
+}
+
+264.3.1 = {
+	religion = bobena
+}
+
+265.4.1 = {
+	culture = terikatim
+}
+
+269.3.1 = {
+	religion = telayira
+}
+
+271.3.1 = {
+	religion = bobena
+}
+
+274.3.1 = {
+	religion = telayira
+}
+
+300.4.1 = {
+	culture = titina
+}
+
+844.4.1 = {
+	b_borand = castle
+}
+
+888.4.1 = {
+	b_robimha = city
+}
+

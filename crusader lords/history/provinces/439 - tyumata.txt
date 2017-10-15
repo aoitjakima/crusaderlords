@@ -1,0 +1,21 @@
+	title = c_tyumata
+	max_settlements = 2
+	culture = asumata
+	religion = nukaye
+	b_eviderma = tribal
+200.4.1 = {
+	culture = ranibel
+}
+
+257.4.1 = {
+	culture = asumata
+}
+
+780.4.1 = {
+	b_eviderma = castle
+}
+
+830.4.1 = {
+	b_awenafiy = temple
+}
+

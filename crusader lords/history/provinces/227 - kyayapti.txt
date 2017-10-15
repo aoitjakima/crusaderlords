@@ -1,0 +1,29 @@
+	title = c_kyayapti
+	max_settlements = 3
+	culture = watinan
+	religion = kusran
+	b_qutinnabn = tribal
+344.4.1 = {
+	culture = ketamma
+}
+
+348.4.1 = {
+	culture = watinan
+}
+
+359.4.1 = {
+	culture = ketamma
+}
+
+831.4.1 = {
+	b_qutinnabn = castle
+}
+
+865.4.1 = {
+	b_qutidan = city
+}
+
+960.4.1 = {
+	b_bebarutan = temple
+}
+

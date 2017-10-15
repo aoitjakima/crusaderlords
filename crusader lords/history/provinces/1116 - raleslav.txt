@@ -1,0 +1,25 @@
+	title = c_raleslav
+	max_settlements = 3
+	culture = budandev
+	religion = tonuyu
+	b_roreda = tribal
+257.4.1 = {
+	culture = wenira
+}
+
+359.4.1 = {
+	culture = radabor
+}
+
+725.4.1 = {
+	b_roreda = castle
+}
+
+817.4.1 = {
+	b_boruga = temple
+}
+
+897.4.1 = {
+	b_baemelen = city
+}
+

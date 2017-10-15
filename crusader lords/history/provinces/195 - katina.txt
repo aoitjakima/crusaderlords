@@ -1,0 +1,45 @@
+	title = c_katina
+	max_settlements = 6
+	culture = remis
+	religion = raipi
+	b_tobalt = tribal
+1.1.1 = {
+	b_kiyamey = ct_port_1
+}
+
+205.3.1 = {
+	religion = wedwig
+}
+
+216.4.1 = {
+	culture = digaka
+}
+
+217.3.1 = {
+	religion = raipi
+}
+
+650.4.1 = {
+	b_tobalt = castle
+}
+
+755.4.1 = {
+	b_esiby = temple
+}
+
+857.4.1 = {
+	b_kiyamey = city
+}
+
+909.4.1 = {
+	b_wosalt = temple
+}
+
+975.4.1 = {
+	b_qosiby = temple
+}
+
+1030.4.1 = {
+	b_wuzed = city
+}
+

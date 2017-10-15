@@ -1,0 +1,9 @@
+	title = c_sagilen
+	max_settlements = 2
+	culture = taroman
+	religion = nukaye
+	b_rabinan = tribal
+236.4.1 = {
+	culture = qariyah
+}
+

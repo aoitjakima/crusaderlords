@@ -1,0 +1,21 @@
+	title = c_nateorn
+	max_settlements = 2
+	culture = nuteria
+	religion = raipi
+	b_diana = tribal
+228.4.1 = {
+	culture = eluedsalh
+}
+
+565.4.1 = {
+	culture = sigivkah
+}
+
+645.4.1 = {
+	b_diana = castle
+}
+
+801.4.1 = {
+	b_kii = city
+}
+

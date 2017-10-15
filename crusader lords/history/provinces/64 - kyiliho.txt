@@ -1,0 +1,17 @@
+	title = c_kyiliho
+	max_settlements = 3
+	culture = biho
+	religion = tonuyu
+	b_seid = tribal
+847.4.1 = {
+	b_seid = castle
+}
+
+888.4.1 = {
+	b_alinenes = city
+}
+
+992.4.1 = {
+	b_todenes = temple
+}
+

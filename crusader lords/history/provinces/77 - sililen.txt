@@ -1,0 +1,25 @@
+	title = c_sililen
+	max_settlements = 2
+	culture = eweseedun
+	religion = tonuyu
+	b_areopili = tribal
+1.1.1 = {
+	b_qonane = ct_port_1
+}
+
+241.4.1 = {
+	culture = rubiho
+}
+
+397.4.1 = {
+	culture = biho
+}
+
+946.4.1 = {
+	b_areopili = castle
+}
+
+995.4.1 = {
+	b_qonane = city
+}
+

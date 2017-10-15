@@ -1,0 +1,29 @@
+	title = c_byyako
+	max_settlements = 3
+	culture = laris
+	religion = aratihr
+	b_tubujku = tribal
+1.1.1 = {
+	b_tamsihr = ct_port_1
+}
+
+231.4.1 = {
+	culture = wubihr
+}
+
+243.4.1 = {
+	culture = selalya
+}
+
+685.4.1 = {
+	b_tubujku = city
+}
+
+755.4.1 = {
+	b_linaytas = temple
+}
+
+880.4.1 = {
+	b_tamsihr = city
+}
+

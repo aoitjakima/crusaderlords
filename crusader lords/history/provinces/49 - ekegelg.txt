@@ -1,0 +1,29 @@
+	title = c_ekegelg
+	max_settlements = 3
+	culture = rubiho
+	religion = tonuyu
+	b_temiho = tribal
+387.4.1 = {
+	culture = biho
+}
+
+414.4.1 = {
+	culture = rubiho
+}
+
+471.4.1 = {
+	culture = biho
+}
+
+846.4.1 = {
+	b_temiho = castle
+}
+
+882.4.1 = {
+	b_qelg = city
+}
+
+969.4.1 = {
+	b_beselg = temple
+}
+

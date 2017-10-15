@@ -1,0 +1,41 @@
+	title = c_erusid
+	max_settlements = 5
+	culture = disinos
+	religion = kusran
+	b_davodar = tribal
+1.1.1 = {
+	b_kenihal = ct_port_1
+}
+
+632.3.1 = {
+	religion = qiteka
+}
+
+640.4.1 = {
+	culture = risutlu
+}
+
+667.4.1 = {
+	culture = disinos
+}
+
+873.4.1 = {
+	culture = risutlu
+}
+
+883.4.1 = {
+	culture = saimes
+}
+
+902.4.1 = {
+	culture = risutlu
+}
+
+983.4.1 = {
+	b_davodar = castle
+}
+
+1033.4.1 = {
+	b_kenihal = city
+}
+

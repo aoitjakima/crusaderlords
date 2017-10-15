@@ -1,0 +1,41 @@
+	title = c_kutusha
+	max_settlements = 4
+	culture = sigivkah
+	religion = kusran
+	b_taniamut = tribal
+202.3.1 = {
+	religion = atheociu
+}
+
+204.3.1 = {
+	religion = kusran
+}
+
+204.3.1 = {
+	religion = atheociu
+}
+
+208.3.1 = {
+	religion = kusran
+}
+
+216.3.1 = {
+	religion = atheociu
+}
+
+219.4.1 = {
+	culture = latuma
+}
+
+896.4.1 = {
+	b_taniamut = castle
+}
+
+938.4.1 = {
+	b_natunam = temple
+}
+
+1063.4.1 = {
+	b_esatew = city
+}
+

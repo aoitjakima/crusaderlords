@@ -1,0 +1,37 @@
+	title = c_tubeid
+	max_settlements = 4
+	culture = lodeid
+	religion = tonuyu
+	b_tesyros = tribal
+202.4.1 = {
+	culture = rubiho
+}
+
+244.3.1 = {
+	religion = kodine
+}
+
+245.3.1 = {
+	religion = tonuyu
+}
+
+274.4.1 = {
+	culture = biho
+}
+
+846.4.1 = {
+	b_tesyros = castle
+}
+
+879.4.1 = {
+	b_lahus = temple
+}
+
+939.4.1 = {
+	b_ruzelg = city
+}
+
+1049.4.1 = {
+	b_dergia = temple
+}
+

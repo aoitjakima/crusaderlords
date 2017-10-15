@@ -1,0 +1,125 @@
+	title = c_kusun
+	max_settlements = 2
+	culture = rauroka
+	religion = kusran
+	b_ekkun = tribal
+202.3.1 = {
+	religion = atheociu
+}
+
+235.4.1 = {
+	culture = latuma
+}
+
+237.4.1 = {
+	culture = rauroka
+}
+
+295.3.1 = {
+	religion = kusran
+}
+
+295.3.1 = {
+	religion = atheociu
+}
+
+300.3.1 = {
+	religion = kusran
+}
+
+303.3.1 = {
+	religion = atheociu
+}
+
+317.3.1 = {
+	religion = kusran
+}
+
+325.3.1 = {
+	religion = atheociu
+}
+
+330.3.1 = {
+	religion = kusran
+}
+
+330.3.1 = {
+	religion = atheociu
+}
+
+335.3.1 = {
+	religion = kusran
+}
+
+336.3.1 = {
+	religion = atheociu
+}
+
+337.3.1 = {
+	religion = kusran
+}
+
+342.3.1 = {
+	religion = atheociu
+}
+
+344.3.1 = {
+	religion = kusran
+}
+
+347.3.1 = {
+	religion = atheociu
+}
+
+350.3.1 = {
+	religion = kusran
+}
+
+356.3.1 = {
+	religion = atheociu
+}
+
+359.3.1 = {
+	religion = kusran
+}
+
+361.4.1 = {
+	culture = latuma
+}
+
+365.3.1 = {
+	religion = atheociu
+}
+
+405.3.1 = {
+	religion = kusran
+}
+
+407.3.1 = {
+	religion = atheociu
+}
+
+409.3.1 = {
+	religion = kusran
+}
+
+414.3.1 = {
+	religion = atheociu
+}
+
+417.3.1 = {
+	religion = kusran
+}
+
+424.3.1 = {
+	religion = atheociu
+}
+
+890.4.1 = {
+	b_ekkun = castle
+}
+
+919.4.1 = {
+	b_katar = temple
+}
+

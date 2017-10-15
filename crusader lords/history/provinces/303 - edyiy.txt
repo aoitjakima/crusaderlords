@@ -1,0 +1,81 @@
+	title = c_edyiy
+	max_settlements = 4
+	culture = sigivkah
+	religion = kusran
+	b_bolidia = tribal
+201.3.1 = {
+	religion = raipi
+}
+
+211.3.1 = {
+	religion = kusran
+}
+
+220.3.1 = {
+	religion = raipi
+}
+
+229.3.1 = {
+	religion = kusran
+}
+
+230.3.1 = {
+	religion = raipi
+}
+
+233.3.1 = {
+	religion = kusran
+}
+
+239.3.1 = {
+	religion = raipi
+}
+
+241.3.1 = {
+	religion = kusran
+}
+
+251.3.1 = {
+	religion = raipi
+}
+
+252.3.1 = {
+	religion = kusran
+}
+
+254.3.1 = {
+	religion = raipi
+}
+
+286.4.1 = {
+	culture = eluedsalh
+}
+
+485.4.1 = {
+	culture = sigivkah
+}
+
+524.4.1 = {
+	culture = eluedsalh
+}
+
+558.4.1 = {
+	culture = sigivkah
+}
+
+690.4.1 = {
+	b_bolidia = castle
+}
+
+805.4.1 = {
+	b_akoviby = temple
+}
+
+895.4.1 = {
+	b_qolenes = city
+}
+
+969.4.1 = {
+	b_neslakery = castle
+}
+

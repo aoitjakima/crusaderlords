@@ -1,0 +1,17 @@
+	title = c_elanaila
+	max_settlements = 2
+	culture = karibel
+	religion = neharis
+	b_benule = tribal
+268.4.1 = {
+	culture = narentiy
+}
+
+565.4.1 = {
+	b_benule = castle
+}
+
+645.4.1 = {
+	b_bisando = temple
+}
+

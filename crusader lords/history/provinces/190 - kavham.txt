@@ -1,0 +1,17 @@
+	title = c_kavham
+	max_settlements = 2
+	culture = watinan
+	religion = kusran
+	b_raban = tribal
+275.4.1 = {
+	culture = ketamma
+}
+
+831.4.1 = {
+	b_raban = castle
+}
+
+866.4.1 = {
+	b_letacik = city
+}
+

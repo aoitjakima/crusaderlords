@@ -1,0 +1,25 @@
+	title = c_rerutan
+	max_settlements = 3
+	culture = tumata
+	religion = nukaye
+	b_erikoman = tribal
+245.4.1 = {
+	culture = wamata
+}
+
+277.4.1 = {
+	culture = qariyah
+}
+
+830.4.1 = {
+	b_erikoman = castle
+}
+
+859.4.1 = {
+	b_larelen = temple
+}
+
+925.4.1 = {
+	b_bijilia = city
+}
+

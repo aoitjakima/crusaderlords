@@ -1,0 +1,9 @@
+	title = c_qamyako
+	max_settlements = 4
+	culture = takukork
+	religion = tonuyu
+	b_nosage = tribal
+288.4.1 = {
+	culture = budandev
+}
+

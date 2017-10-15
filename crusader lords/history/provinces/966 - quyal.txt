@@ -1,0 +1,21 @@
+	title = c_quyal
+	max_settlements = 2
+	culture = ritiatou
+	religion = telayira
+	b_rugata = tribal
+205.4.1 = {
+	culture = wedina
+}
+
+310.4.1 = {
+	culture = laaug
+}
+
+595.4.1 = {
+	b_rugata = castle
+}
+
+680.4.1 = {
+	b_kicita = city
+}
+

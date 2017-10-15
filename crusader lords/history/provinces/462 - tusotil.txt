@@ -1,0 +1,21 @@
+	title = c_tusotil
+	max_settlements = 2
+	culture = waynald
+	religion = wedwig
+	b_kegasseh = tribal
+263.4.1 = {
+	culture = nuteria
+}
+
+299.4.1 = {
+	culture = waynald
+}
+
+710.4.1 = {
+	b_kegasseh = castle
+}
+
+811.4.1 = {
+	b_biyer = city
+}
+

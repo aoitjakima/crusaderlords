@@ -1,0 +1,21 @@
+	title = c_tamidhin
+	max_settlements = 4
+	culture = abajule
+	religion = kusran
+	b_neyger = tribal
+705.4.1 = {
+	b_neyger = castle
+}
+
+817.4.1 = {
+	b_topufia = temple
+}
+
+883.4.1 = {
+	b_rudissa = city
+}
+
+966.4.1 = {
+	b_deladir = temple
+}
+

@@ -1,0 +1,21 @@
+	title = c_kaudinus
+	max_settlements = 3
+	culture = syahes
+	religion = neharis
+	b_risarma = tribal
+200.4.1 = {
+	culture = amuhopti
+}
+
+207.4.1 = {
+	culture = syahes
+}
+
+560.4.1 = {
+	b_risarma = castle
+}
+
+690.4.1 = {
+	b_lative = temple
+}
+

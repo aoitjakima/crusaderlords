@@ -1,0 +1,25 @@
+	title = c_litand
+	max_settlements = 5
+	culture = dainbai
+	religion = telayira
+	b_neterd = tribal
+1.1.1 = {
+	b_lerainn = ct_port_1
+}
+
+418.4.1 = {
+	culture = wedina
+}
+
+775.4.1 = {
+	b_neterd = castle
+}
+
+836.4.1 = {
+	b_letina = temple
+}
+
+987.4.1 = {
+	b_lerainn = city
+}
+

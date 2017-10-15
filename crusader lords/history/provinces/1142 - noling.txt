@@ -1,0 +1,61 @@
+	title = c_noling
+	max_settlements = 7
+	culture = wabuzhi
+	religion = tonuyu
+	b_tabala = tribal
+297.4.1 = {
+	culture = ranahim
+}
+
+442.4.1 = {
+	culture = qenoos
+}
+
+444.4.1 = {
+	culture = ranahim
+}
+
+547.4.1 = {
+	culture = qenoos
+}
+
+627.4.1 = {
+	culture = ranahim
+}
+
+633.4.1 = {
+	culture = qenoos
+}
+
+688.4.1 = {
+	culture = ranahim
+}
+
+741.4.1 = {
+	culture = qenoos
+}
+
+748.4.1 = {
+	culture = ranahim
+}
+
+811.4.1 = {
+	culture = qenoos
+}
+
+841.4.1 = {
+	b_tabala = castle
+}
+
+910.4.1 = {
+	b_adruzhi = city
+}
+
+1018.4.1 = {
+	b_latappa = temple
+}
+
+1055.4.1 = {
+	culture = ranahim
+}
+

@@ -1,0 +1,29 @@
+	title = c_daraja
+	max_settlements = 3
+	culture = raureid
+	religion = wedwig
+	b_sand = tribal
+200.3.1 = {
+	religion = qigiyah
+}
+
+242.4.1 = {
+	culture = disinos
+}
+
+294.4.1 = {
+	culture = alaurine
+}
+
+822.4.1 = {
+	b_sand = castle
+}
+
+859.4.1 = {
+	b_bechara = temple
+}
+
+1003.4.1 = {
+	b_bobao = city
+}
+

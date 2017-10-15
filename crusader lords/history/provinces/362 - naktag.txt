@@ -1,0 +1,17 @@
+	title = c_naktag
+	max_settlements = 2
+	culture = waheber
+	religion = neharis
+	b_raulisi = tribal
+216.4.1 = {
+	culture = aqahebel
+}
+
+550.4.1 = {
+	b_raulisi = castle
+}
+
+665.4.1 = {
+	b_taol = temple
+}
+

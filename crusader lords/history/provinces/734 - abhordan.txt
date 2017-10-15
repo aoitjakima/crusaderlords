@@ -1,0 +1,41 @@
+	title = c_abhordan
+	max_settlements = 2
+	culture = esunadir
+	religion = qiteka
+	b_tiretl = tribal
+201.3.1 = {
+	religion = naneka
+}
+
+217.4.1 = {
+	culture = retose
+}
+
+257.4.1 = {
+	culture = sereka
+}
+
+308.4.1 = {
+	culture = esunadir
+}
+
+610.4.1 = {
+	culture = sereka
+}
+
+720.4.1 = {
+	culture = esunadir
+}
+
+750.4.1 = {
+	b_tiretl = castle
+}
+
+784.4.1 = {
+	culture = sereka
+}
+
+815.4.1 = {
+	b_bordan = city
+}
+

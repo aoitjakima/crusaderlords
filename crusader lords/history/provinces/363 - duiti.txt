@@ -1,0 +1,29 @@
+	title = c_duiti
+	max_settlements = 6
+	culture = asumata
+	religion = nukaye
+	b_werutan = tribal
+206.4.1 = {
+	culture = qariyah
+}
+
+218.4.1 = {
+	culture = asumata
+}
+
+820.4.1 = {
+	b_werutan = castle
+}
+
+885.4.1 = {
+	b_kuitbar = temple
+}
+
+956.4.1 = {
+	b_berutan = city
+}
+
+1020.4.1 = {
+	b_rijilia = castle
+}
+

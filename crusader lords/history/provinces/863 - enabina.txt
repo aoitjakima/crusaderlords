@@ -1,0 +1,25 @@
+	title = c_enabina
+	max_settlements = 3
+	culture = titina
+	religion = telayira
+	b_detiu = tribal
+215.4.1 = {
+	culture = dainbai
+}
+
+220.4.1 = {
+	culture = titina
+}
+
+818.4.1 = {
+	b_detiu = castle
+}
+
+850.4.1 = {
+	b_sabusha = temple
+}
+
+950.4.1 = {
+	b_atheon = city
+}
+

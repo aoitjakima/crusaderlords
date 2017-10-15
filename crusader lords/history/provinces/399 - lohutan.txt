@@ -1,0 +1,21 @@
+	title = c_lohutan
+	max_settlements = 5
+	culture = qariyah
+	religion = nukaye
+	b_sehalen = tribal
+224.4.1 = {
+	culture = wamata
+}
+
+254.4.1 = {
+	culture = qariyah
+}
+
+860.4.1 = {
+	b_sehalen = castle
+}
+
+921.4.1 = {
+	b_lijica = city
+}
+

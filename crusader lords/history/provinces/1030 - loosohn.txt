@@ -1,0 +1,13 @@
+	title = c_loosohn
+	max_settlements = 2
+	culture = liebes
+	religion = neharis
+	b_ryekouwe = tribal
+550.4.1 = {
+	b_ryekouwe = castle
+}
+
+730.4.1 = {
+	b_kicijne = temple
+}
+

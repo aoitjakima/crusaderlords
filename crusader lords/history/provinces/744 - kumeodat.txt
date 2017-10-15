@@ -1,0 +1,49 @@
+	title = c_kumeodat
+	max_settlements = 7
+	culture = sereka
+	religion = naneka
+	b_leodat = tribal
+210.4.1 = {
+	culture = retose
+}
+
+258.4.1 = {
+	culture = sereka
+}
+
+317.4.1 = {
+	culture = esunadir
+}
+
+504.4.1 = {
+	culture = sereka
+}
+
+508.4.1 = {
+	culture = esunadir
+}
+
+517.4.1 = {
+	culture = sereka
+}
+
+640.4.1 = {
+	b_leodat = castle
+}
+
+649.4.1 = {
+	culture = esunadir
+}
+
+717.4.1 = {
+	culture = sereka
+}
+
+785.4.1 = {
+	b_rieban = temple
+}
+
+929.4.1 = {
+	b_weodat = city
+}
+

@@ -1,0 +1,41 @@
+	title = c_ritaug
+	max_settlements = 2
+	culture = tageen
+	religion = wedwig
+	b_nanonka = tribal
+200.3.1 = {
+	religion = qigiyah
+}
+
+202.3.1 = {
+	religion = wedwig
+}
+
+204.3.1 = {
+	religion = qigiyah
+}
+
+206.3.1 = {
+	religion = wedwig
+}
+
+207.4.1 = {
+	culture = disinos
+}
+
+208.3.1 = {
+	religion = qigiyah
+}
+
+409.4.1 = {
+	culture = alaurine
+}
+
+897.4.1 = {
+	b_nanonka = castle
+}
+
+995.4.1 = {
+	b_bikina = temple
+}
+

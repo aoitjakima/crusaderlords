@@ -1,0 +1,69 @@
+	title = c_nyumata
+	max_settlements = 2
+	culture = teber
+	religion = neharis
+	b_qezita = tribal
+204.3.1 = {
+	religion = nukaye
+}
+
+216.3.1 = {
+	religion = neharis
+}
+
+218.3.1 = {
+	religion = nukaye
+}
+
+226.3.1 = {
+	religion = neharis
+}
+
+226.3.1 = {
+	religion = nukaye
+}
+
+229.3.1 = {
+	religion = neharis
+}
+
+230.3.1 = {
+	religion = nukaye
+}
+
+237.3.1 = {
+	religion = neharis
+}
+
+238.3.1 = {
+	religion = nukaye
+}
+
+246.3.1 = {
+	religion = neharis
+}
+
+251.3.1 = {
+	religion = nukaye
+}
+
+258.3.1 = {
+	religion = neharis
+}
+
+262.3.1 = {
+	religion = nukaye
+}
+
+272.4.1 = {
+	culture = wili
+}
+
+715.4.1 = {
+	b_qezita = castle
+}
+
+818.4.1 = {
+	b_kodika = city
+}
+

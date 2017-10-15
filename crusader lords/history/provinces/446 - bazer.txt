@@ -1,0 +1,25 @@
+	title = c_bazer
+	max_settlements = 2
+	culture = syahes
+	religion = neharis
+	b_lyaneven = tribal
+207.4.1 = {
+	culture = karibel
+}
+
+248.4.1 = {
+	culture = nitindik
+}
+
+540.4.1 = {
+	b_lyaneven = castle
+}
+
+685.4.1 = {
+	b_satith = temple
+}
+
+859.4.1 = {
+	culture = syahes
+}
+

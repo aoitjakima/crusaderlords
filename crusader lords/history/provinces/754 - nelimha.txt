@@ -1,0 +1,121 @@
+	title = c_nelimha
+	max_settlements = 2
+	culture = litya
+	religion = bobena
+	b_tamand = tribal
+200.4.1 = {
+	culture = terikatim
+}
+
+204.4.1 = {
+	culture = wedina
+}
+
+254.4.1 = {
+	culture = welitya
+}
+
+286.4.1 = {
+	culture = ween
+}
+
+374.4.1 = {
+	culture = welitya
+}
+
+485.4.1 = {
+	culture = ween
+}
+
+552.4.1 = {
+	culture = welitya
+}
+
+587.4.1 = {
+	culture = titina
+}
+
+590.4.1 = {
+	culture = welitya
+}
+
+592.3.1 = {
+	religion = telayira
+}
+
+596.3.1 = {
+	religion = bobena
+}
+
+599.3.1 = {
+	religion = telayira
+}
+
+605.3.1 = {
+	religion = bobena
+}
+
+608.3.1 = {
+	religion = telayira
+}
+
+618.3.1 = {
+	religion = bobena
+}
+
+624.3.1 = {
+	religion = telayira
+}
+
+631.3.1 = {
+	religion = bobena
+}
+
+631.3.1 = {
+	religion = telayira
+}
+
+632.3.1 = {
+	religion = bobena
+}
+
+633.3.1 = {
+	religion = telayira
+}
+
+635.3.1 = {
+	religion = bobena
+}
+
+646.3.1 = {
+	religion = telayira
+}
+
+745.4.1 = {
+	culture = ween
+}
+
+761.4.1 = {
+	culture = titina
+}
+
+766.4.1 = {
+	culture = ween
+}
+
+780.4.1 = {
+	culture = titina
+}
+
+890.4.1 = {
+	culture = ween
+}
+
+1024.4.1 = {
+	culture = titina
+}
+
+1030.4.1 = {
+	culture = ween
+}
+

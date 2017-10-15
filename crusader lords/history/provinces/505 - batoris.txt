@@ -1,0 +1,61 @@
+	title = c_batoris
+	max_settlements = 2
+	culture = kapti
+	religion = kusran
+	b_telreldad = tribal
+200.3.1 = {
+	religion = raipi
+}
+
+208.3.1 = {
+	religion = wedwig
+}
+
+214.3.1 = {
+	religion = raipi
+}
+
+218.4.1 = {
+	culture = kaureid
+}
+
+219.3.1 = {
+	religion = wedwig
+}
+
+222.3.1 = {
+	religion = kusran
+}
+
+230.3.1 = {
+	religion = raipi
+}
+
+234.3.1 = {
+	religion = kusran
+}
+
+242.3.1 = {
+	religion = raipi
+}
+
+244.3.1 = {
+	religion = kusran
+}
+
+254.3.1 = {
+	religion = raipi
+}
+
+259.4.1 = {
+	culture = kapti
+}
+
+725.4.1 = {
+	b_telreldad = castle
+}
+
+817.4.1 = {
+	b_repaila = city
+}
+

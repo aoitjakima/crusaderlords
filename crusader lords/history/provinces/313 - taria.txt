@@ -1,0 +1,53 @@
+	title = c_taria
+	max_settlements = 2
+	culture = talda
+	religion = wedwig
+	b_tiu = tribal
+204.3.1 = {
+	religion = bobena
+}
+
+210.3.1 = {
+	religion = wedwig
+}
+
+215.3.1 = {
+	religion = bobena
+}
+
+217.3.1 = {
+	religion = wedwig
+}
+
+222.3.1 = {
+	religion = bobena
+}
+
+227.3.1 = {
+	religion = wedwig
+}
+
+230.3.1 = {
+	religion = bobena
+}
+
+234.3.1 = {
+	religion = wedwig
+}
+
+243.3.1 = {
+	religion = bobena
+}
+
+259.4.1 = {
+	culture = welitya
+}
+
+863.4.1 = {
+	b_tiu = castle
+}
+
+903.4.1 = {
+	b_equan = temple
+}
+

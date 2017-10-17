@@ -1,81 +1,17 @@
-	title = c_edyiy
-	max_settlements = 4
-	culture = sigivkah
-	religion = kusran
-	b_bolidia = tribal
-201.3.1 = {
-	religion = raipi
-}
+# c_edyiy
 
-211.3.1 = {
-	religion = kusran
-}
+# County Title
+title = c_edyiy
 
-220.3.1 = {
-	religion = raipi
-}
+# Settlements
+max_settlements = 3
 
-229.3.1 = {
-	religion = kusran
-}
+b_edyiy = castle
+b_edyiy_2 = city
+b_edyiy_3 = temple
 
-230.3.1 = {
-	religion = raipi
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-233.3.1 = {
-	religion = kusran
-}
-
-239.3.1 = {
-	religion = raipi
-}
-
-241.3.1 = {
-	religion = kusran
-}
-
-251.3.1 = {
-	religion = raipi
-}
-
-252.3.1 = {
-	religion = kusran
-}
-
-254.3.1 = {
-	religion = raipi
-}
-
-286.4.1 = {
-	culture = eluedsalh
-}
-
-485.4.1 = {
-	culture = sigivkah
-}
-
-524.4.1 = {
-	culture = eluedsalh
-}
-
-558.4.1 = {
-	culture = sigivkah
-}
-
-690.4.1 = {
-	b_bolidia = castle
-}
-
-805.4.1 = {
-	b_akoviby = temple
-}
-
-895.4.1 = {
-	b_qolenes = city
-}
-
-969.4.1 = {
-	b_neslakery = castle
-}
-
+#History

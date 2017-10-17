@@ -1,21 +1,17 @@
-	title = c_kaudinus
-	max_settlements = 3
-	culture = syahes
-	religion = neharis
-	b_risarma = tribal
-200.4.1 = {
-	culture = amuhopti
-}
+# c_kaudinus
 
-207.4.1 = {
-	culture = syahes
-}
+# County Title
+title = c_kaudinus
 
-560.4.1 = {
-	b_risarma = castle
-}
+# Settlements
+max_settlements = 3
 
-690.4.1 = {
-	b_lative = temple
-}
+b_kaudinus = castle
+b_kaudinus_2 = city
+b_kaudinus_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

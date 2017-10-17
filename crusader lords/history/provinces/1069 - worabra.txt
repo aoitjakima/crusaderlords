@@ -1,25 +1,17 @@
-	title = c_worabra
-	max_settlements = 3
-	culture = tiwics
-	religion = tonuyu
-	b_teuseya = tribal
-200.4.1 = {
-	culture = keusaam
-}
+# c_worabra
 
-413.4.1 = {
-	culture = keraam
-}
+# County Title
+title = c_worabra
 
-705.4.1 = {
-	culture = tiwics
-}
+# Settlements
+max_settlements = 3
 
-721.4.1 = {
-	culture = keraam
-}
+b_worabra = castle
+b_worabra_2 = city
+b_worabra_3 = temple
 
-748.4.1 = {
-	culture = tiwics
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

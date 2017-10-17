@@ -1,21 +1,17 @@
-	title = c_tamidhin
-	max_settlements = 4
-	culture = abajule
-	religion = kusran
-	b_neyger = tribal
-705.4.1 = {
-	b_neyger = castle
-}
+# c_tamidhin
 
-817.4.1 = {
-	b_topufia = temple
-}
+# County Title
+title = c_tamidhin
 
-883.4.1 = {
-	b_rudissa = city
-}
+# Settlements
+max_settlements = 3
 
-966.4.1 = {
-	b_deladir = temple
-}
+b_tamidhin = castle
+b_tamidhin_2 = city
+b_tamidhin_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

@@ -1,41 +1,17 @@
-	title = c_taetule
-	max_settlements = 4
-	culture = kitule
-	religion = terenat
-	b_kosa = tribal
-236.3.1 = {
-	religion = begeka
-}
+# c_taetule
 
-269.4.1 = {
-	culture = banaila
-}
+# County Title
+title = c_taetule
 
-294.4.1 = {
-	culture = kitule
-}
+# Settlements
+max_settlements = 3
 
-358.4.1 = {
-	culture = banaila
-}
+b_taetule = castle
+b_taetule_2 = city
+b_taetule_3 = temple
 
-361.4.1 = {
-	culture = kitule
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-550.4.1 = {
-	b_kosa = castle
-}
-
-715.4.1 = {
-	b_amarics = city
-}
-
-867.4.1 = {
-	b_ekerule = temple
-}
-
-955.4.1 = {
-	b_avlelin = temple
-}
-
+#History

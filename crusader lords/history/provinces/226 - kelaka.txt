@@ -1,65 +1,17 @@
-	title = c_kelaka
-	max_settlements = 7
-	culture = sutidoka
-	religion = kusran
-	b_qepiid = tribal
-200.3.1 = {
-	religion = raipi
-}
+# c_kelaka
 
-203.4.1 = {
-	culture = ketamma
-}
+# County Title
+title = c_kelaka
 
-213.3.1 = {
-	religion = kusran
-}
+# Settlements
+max_settlements = 3
 
-214.3.1 = {
-	religion = raipi
-}
+b_st_priest = castle
+b_kelaka = city
+b_kelaka_2 = temple
 
-219.4.1 = {
-	culture = sutidoka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-219.4.1 = {
-	culture = kaureid
-}
-
-297.4.1 = {
-	culture = kapti
-}
-
-348.4.1 = {
-	culture = taodha
-}
-
-385.4.1 = {
-	culture = kapti
-}
-
-436.4.1 = {
-	culture = taodha
-}
-
-438.4.1 = {
-	culture = kapti
-}
-
-803.4.1 = {
-	b_qepiid = castle
-}
-
-835.4.1 = {
-	b_waheesi = city
-}
-
-923.4.1 = {
-	b_ropeesi = temple
-}
-
-1006.4.1 = {
-	b_lefer = castle
-}
-
+#History

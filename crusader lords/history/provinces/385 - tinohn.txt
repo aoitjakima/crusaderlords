@@ -1,33 +1,17 @@
-	title = c_tinohn
-	max_settlements = 4
-	culture = nitindik
-	religion = neharis
-	b_ebyanlwasl = tribal
-207.4.1 = {
-	culture = karibel
-}
+# c_tinohn
 
-248.4.1 = {
-	culture = nitindik
-}
+# County Title
+title = c_tinohn
 
-530.4.1 = {
-	b_ebyanlwasl = castle
-}
+# Settlements
+max_settlements = 3
 
-645.4.1 = {
-	b_kazijne = temple
-}
+b_tinohn = castle
+b_tinohn_2 = city
+b_tinohn_3 = temple
 
-820.4.1 = {
-	b_teygiel = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-859.4.1 = {
-	culture = syahes
-}
-
-866.4.1 = {
-	b_ryekanda = city
-}
-
+#History

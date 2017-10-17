@@ -1,25 +1,17 @@
-	title = c_taemoran
-	max_settlements = 2
-	culture = kadalen
-	religion = tonuyu
-	b_tenony = tribal
-213.4.1 = {
-	culture = radabor
-}
+# c_taemoran
 
-257.4.1 = {
-	culture = wenira
-}
+# County Title
+title = c_taemoran
 
-260.4.1 = {
-	culture = radabor
-}
+# Settlements
+max_settlements = 3
 
-715.4.1 = {
-	b_tenony = castle
-}
+b_taemoran = castle
+b_taemoran_2 = city
+b_taemoran_3 = temple
 
-823.4.1 = {
-	b_dudelen = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

@@ -1,37 +1,17 @@
-	title = c_kadarva
-	max_settlements = 7
-	culture = talentiy
-	religion = neharis
-	b_nutaye = tribal
-208.4.1 = {
-	culture = syahes
-}
+# c_kadarva
 
-530.4.1 = {
-	b_nutaye = castle
-}
+# County Title
+title = c_kadarva
 
-665.4.1 = {
-	b_bitarva = temple
-}
+# Settlements
+max_settlements = 3
 
-831.4.1 = {
-	b_kafnai = city
-}
+b_kadarva = castle
+b_kadarva_2 = city
+b_kadarva_3 = temple
 
-884.4.1 = {
-	b_syahunye = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-937.4.1 = {
-	b_kityo = temple
-}
-
-1000.4.1 = {
-	b_kyahaye = city
-}
-
-1052.4.1 = {
-	b_kodyo = city
-}
-
+#History

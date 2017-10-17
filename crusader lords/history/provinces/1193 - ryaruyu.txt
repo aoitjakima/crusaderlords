@@ -1,57 +1,17 @@
-	title = c_ryaruyu
-	max_settlements = 2
-	culture = ranahim
-	religion = tonuyu
-	b_labuyu = tribal
-1.1.1 = {
-	b_syehahim = ct_port_1
-}
+# c_ryaruyu
 
-442.4.1 = {
-	culture = qenoos
-}
+# County Title
+title = c_ryaruyu
 
-457.4.1 = {
-	culture = ranahim
-}
+# Settlements
+max_settlements = 3
 
-697.4.1 = {
-	culture = qenoos
-}
+b_ryaruyu = castle
+b_ryaruyu_2 = city
+b_ryaruyu_3 = temple
 
-748.4.1 = {
-	culture = ranahim
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-752.4.1 = {
-	culture = qenoos
-}
-
-866.4.1 = {
-	b_labuyu = castle
-}
-
-907.4.1 = {
-	b_syehahim = city
-}
-
-991.4.1 = {
-	culture = ranahim
-}
-
-1007.4.1 = {
-	culture = qenoos
-}
-
-1015.4.1 = {
-	culture = ranahim
-}
-
-1021.4.1 = {
-	culture = qenoos
-}
-
-1031.4.1 = {
-	culture = ranahim
-}
-
+#History

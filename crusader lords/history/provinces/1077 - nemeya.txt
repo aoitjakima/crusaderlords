@@ -1,25 +1,17 @@
-	title = c_nemeya
-	max_settlements = 4
-	culture = reusadra
-	religion = tonuyu
-	b_leusebia = tribal
-326.4.1 = {
-	culture = tiwics
-}
+# c_nemeya
 
-429.4.1 = {
-	culture = nalaam
-}
+# County Title
+title = c_nemeya
 
-494.4.1 = {
-	culture = keraam
-}
+# Settlements
+max_settlements = 3
 
-553.4.1 = {
-	culture = tiwics
-}
+b_nemeya = castle
+b_nemeya_2 = city
+b_nemeya_3 = temple
 
-976.4.1 = {
-	b_leusebia = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

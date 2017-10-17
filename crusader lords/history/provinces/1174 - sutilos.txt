@@ -1,5 +1,17 @@
-	title = c_sutilos
-	max_settlements = 2
-	culture = sutata
-	religion = tonuyu
-	b_danos = tribal
+# c_sutilos
+
+# County Title
+title = c_sutilos
+
+# Settlements
+max_settlements = 3
+
+b_sutilos = castle
+b_sutilos_2 = city
+b_sutilos_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

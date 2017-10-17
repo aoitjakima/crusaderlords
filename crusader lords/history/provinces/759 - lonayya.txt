@@ -1,13 +1,17 @@
-	title = c_lonayya
-	max_settlements = 2
-	culture = tasule
-	religion = telayira
-	b_erajala = tribal
-201.3.1 = {
-	religion = kusran
-}
+# c_lonayya
 
-345.4.1 = {
-	culture = abajule
-}
+# County Title
+title = c_lonayya
 
+# Settlements
+max_settlements = 3
+
+b_lonayya = castle
+b_lonayya_2 = city
+b_lonayya_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

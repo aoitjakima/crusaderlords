@@ -1,25 +1,17 @@
-	title = c_kyekiel
-	max_settlements = 4
-	culture = nitindik
-	religion = neharis
-	b_kaviel = tribal
-350.4.1 = {
-	culture = talentiy
-}
+# c_kyekiel
 
-515.4.1 = {
-	b_kaviel = castle
-}
+# County Title
+title = c_kyekiel
 
-680.4.1 = {
-	b_ahoosohn = city
-}
+# Settlements
+max_settlements = 3
 
-845.4.1 = {
-	b_edinohn = temple
-}
+b_kyekiel = castle
+b_kyekiel_2 = city
+b_kyekiel_3 = temple
 
-902.4.1 = {
-	b_katengel = temple
-}
+# Misc
+culture = bastian_avas
+religion = kirothian
 
+#History

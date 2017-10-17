@@ -1,33 +1,17 @@
-	title = c_taureya
-	max_settlements = 3
-	culture = keraam
-	religion = tonuyu
-	b_lohatti = tribal
-1.1.1 = {
-	b_soreya = ct_port_1
-}
+# c_taureya
 
-291.4.1 = {
-	culture = tiwics
-}
+# County Title
+title = c_taureya
 
-445.4.1 = {
-	culture = nalaam
-}
+# Settlements
+max_settlements = 3
 
-505.4.1 = {
-	culture = tiwics
-}
+b_taureya = castle
+b_taureya_2 = city
+b_taureya_3 = temple
 
-821.4.1 = {
-	b_lohatti = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-884.4.1 = {
-	b_relia = temple
-}
-
-997.4.1 = {
-	b_soreya = city
-}
-
+#History

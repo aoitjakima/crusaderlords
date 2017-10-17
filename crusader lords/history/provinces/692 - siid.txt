@@ -1,25 +1,17 @@
-	title = c_siid
-	max_settlements = 3
-	culture = abajule
-	religion = kusran
-	b_qolufia = tribal
-202.4.1 = {
-	culture = ricqa
-}
+# c_siid
 
-273.4.1 = {
-	culture = abajule
-}
+# County Title
+title = c_siid
 
-620.4.1 = {
-	b_qolufia = castle
-}
+# Settlements
+max_settlements = 3
 
-745.4.1 = {
-	b_topalwo = city
-}
+b_siid = castle
+b_siid_2 = city
+b_siid_3 = temple
 
-869.4.1 = {
-	b_bataila = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

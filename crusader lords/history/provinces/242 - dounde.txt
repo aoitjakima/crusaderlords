@@ -1,37 +1,17 @@
-	title = c_dounde
-	max_settlements = 7
-	culture = sutidoka
-	religion = kusran
-	b_ducenes = tribal
-200.3.1 = {
-	religion = raipi
-}
+# c_dounde
 
-200.4.1 = {
-	culture = kaureid
-}
+# County Title
+title = c_dounde
 
-277.4.1 = {
-	culture = kapti
-}
+# Settlements
+max_settlements = 3
 
-690.4.1 = {
-	b_ducenes = castle
-}
+b_dounde = castle
+b_dounde_2 = city
+b_dounde_3 = temple
 
-805.4.1 = {
-	b_byiy = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-895.4.1 = {
-	b_tosina = temple
-}
-
-972.4.1 = {
-	b_tuzed = city
-}
-
-1042.4.1 = {
-	b_siyason = city
-}
-
+#History

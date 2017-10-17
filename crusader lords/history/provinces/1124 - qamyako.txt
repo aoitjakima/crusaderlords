@@ -1,9 +1,17 @@
-	title = c_qamyako
-	max_settlements = 4
-	culture = takukork
-	religion = tonuyu
-	b_nosage = tribal
-288.4.1 = {
-	culture = budandev
-}
+# c_qamyako
 
+# County Title
+title = c_qamyako
+
+# Settlements
+max_settlements = 3
+
+b_qamyako = castle
+b_qamyako_2 = city
+b_qamyako_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

@@ -1,33 +1,17 @@
-	title = c_datily
-	max_settlements = 6
-	culture = karibel
-	religion = neharis
-	b_qatando = tribal
-1.1.1 = {
-	b_lenily = ct_port_1
-}
+# c_datily
 
-570.4.1 = {
-	b_qatando = castle
-}
+# County Title
+title = c_datily
 
-685.4.1 = {
-	b_qotinus = temple
-}
+# Settlements
+max_settlements = 3
 
-862.4.1 = {
-	b_lenily = city
-}
+b_datily = castle
+b_datily_2 = city
+b_datily_3 = temple
 
-924.4.1 = {
-	b_rarma = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-979.4.1 = {
-	b_ataila = city
-}
-
-1019.4.1 = {
-	b_kegadir = temple
-}
-
+#History

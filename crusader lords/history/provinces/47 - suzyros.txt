@@ -1,41 +1,18 @@
-	title = c_suzyros
-	max_settlements = 7
-	culture = lodeid
-	religion = kodine
-	b_legiho = tribal
-201.3.1 = {
-	religion = tonuyu
-}
+# c_suzyros
 
-202.4.1 = {
-	culture = rubiho
-}
+# County Title
+title = c_suzyros
 
-244.3.1 = {
-	religion = kodine
-}
+# Settlements
+max_settlements = 4
 
-245.3.1 = {
-	religion = tonuyu
-}
+b_mahuilotl = temple
+#b_suzyros = city
+#b_suzyros_2 = temple
+#b_suzyros_3 = castle
 
-274.4.1 = {
-	culture = biho
-}
+# Misc
+culture = druchi
+religion = kirothian
 
-846.4.1 = {
-	b_legiho = castle
-}
-
-878.4.1 = {
-	b_kamane = temple
-}
-
-938.4.1 = {
-	b_delg = city
-}
-
-1030.4.1 = {
-	b_aiahus = city
-}
-
+#History

@@ -1,21 +1,17 @@
-	title = c_eberolas
-	max_settlements = 2
-	culture = narentiy
-	religion = neharis
-	b_kotarma = tribal
-266.4.1 = {
-	culture = amuhopti
-}
+# c_eberolas
 
-273.4.1 = {
-	culture = syahes
-}
+# County Title
+title = c_eberolas
 
-560.4.1 = {
-	b_kotarma = castle
-}
+# Settlements
+max_settlements = 3
 
-725.4.1 = {
-	b_rainoto = temple
-}
+b_eberolas = castle
+b_eberolas_2 = city
+b_eberolas_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

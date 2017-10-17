@@ -1,17 +1,17 @@
-	title = c_waipine
-	max_settlements = 5
-	culture = tasule
-	religion = qigiyah
-	b_riosine = tribal
-200.3.1 = {
-	religion = kusran
-}
+# c_waipine
 
-209.4.1 = {
-	culture = disinos
-}
+# County Title
+title = c_waipine
 
-242.4.1 = {
-	culture = abajule
-}
+# Settlements
+max_settlements = 3
 
+b_waipine = castle
+b_waipine_2 = city
+b_waipine_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

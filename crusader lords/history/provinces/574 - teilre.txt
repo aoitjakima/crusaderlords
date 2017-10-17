@@ -1,21 +1,17 @@
-	title = c_teilre
-	max_settlements = 3
-	culture = karibel
-	religion = neharis
-	b_saulata = tribal
-1.1.1 = {
-	b_bosiel = ct_port_1
-}
+# c_teilre
 
-570.4.1 = {
-	b_saulata = castle
-}
+# County Title
+title = c_teilre
 
-685.4.1 = {
-	b_bosiel = city
-}
+# Settlements
+max_settlements = 3
 
-856.4.1 = {
-	b_bosata = temple
-}
+b_kifissia = castle
+b_teilre = city
+b_teilre_2 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

@@ -1,29 +1,17 @@
-	title = c_qoloros
-	max_settlements = 4
-	culture = kaureid
-	religion = kusran
-	b_satande = tribal
-200.3.1 = {
-	religion = raipi
-}
+# c_qoloros
 
-277.4.1 = {
-	culture = kapti
-}
+# County Title
+title = c_qoloros
 
-735.4.1 = {
-	b_satande = castle
-}
+# Settlements
+max_settlements = 3
 
-821.4.1 = {
-	b_tiby = temple
-}
+b_qoloros = castle
+b_qoloros_2 = city
+b_qoloros_3 = temple
 
-931.4.1 = {
-	b_keylalt = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-1040.4.1 = {
-	b_ratiby = temple
-}
-
+#History

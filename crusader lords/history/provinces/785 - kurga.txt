@@ -1,65 +1,17 @@
-	title = c_kurga
-	max_settlements = 6
-	culture = runafu
-	religion = begeka
-	b_waroza = tribal
-238.3.1 = {
-	religion = naneka
-}
+# c_kurga
 
-253.4.1 = {
-	culture = sereka
-}
+# County Title
+title = c_kurga
 
-302.4.1 = {
-	culture = runafu
-}
+# Settlements
+max_settlements = 3
 
-311.4.1 = {
-	culture = sereka
-}
+b_kurga = castle
+b_kurga_2 = city
+b_kurga_3 = temple
 
-350.4.1 = {
-	culture = runafu
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-370.4.1 = {
-	culture = sereka
-}
-
-414.4.1 = {
-	culture = runafu
-}
-
-595.4.1 = {
-	b_waroza = castle
-}
-
-665.4.1 = {
-	culture = sereka
-}
-
-700.4.1 = {
-	b_kelin = temple
-}
-
-701.4.1 = {
-	culture = runafu
-}
-
-866.4.1 = {
-	b_diwutlu = city
-}
-
-943.4.1 = {
-	culture = sereka
-}
-
-972.4.1 = {
-	b_riroumas = temple
-}
-
-1049.4.1 = {
-	b_telin = castle
-}
-
+#History

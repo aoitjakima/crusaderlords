@@ -1,37 +1,17 @@
-	title = c_bayaka
-	max_settlements = 7
-	culture = waetutlu
-	religion = qiteka
-	b_nirethee = tribal
-1.1.1 = {
-	b_barilip = ct_port_1
-}
+# c_bayaka
 
-317.4.1 = {
-	culture = risutlu
-}
+# County Title
+title = c_bayaka
 
-510.4.1 = {
-	b_nirethee = castle
-}
+# Settlements
+max_settlements = 3
 
-640.4.1 = {
-	b_ducolas = temple
-}
+b_bayaka = castle
+b_bayaka_2 = city
+b_bayaka_3 = temple
 
-787.4.1 = {
-	culture = saimes
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-839.4.1 = {
-	b_barilip = city
-}
-
-911.4.1 = {
-	b_remunaura = city
-}
-
-1011.4.1 = {
-	b_leruel = city
-}
-
+#History

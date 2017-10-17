@@ -1,57 +1,17 @@
-	title = c_watilen
-	max_settlements = 6
-	culture = ketamma
-	religion = kusran
-	b_recacik = tribal
-202.4.1 = {
-	culture = taroman
-}
+# c_watilen
 
-203.3.1 = {
-	religion = nukaye
-}
+# County Title
+title = c_watilen
 
-211.3.1 = {
-	religion = kusran
-}
+# Settlements
+max_settlements = 3
 
-216.3.1 = {
-	religion = nukaye
-}
+b_watilen = castle
+b_watilen_2 = city
+b_watilen_3 = temple
 
-221.3.1 = {
-	religion = kusran
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-249.4.1 = {
-	culture = watinan
-}
-
-344.4.1 = {
-	culture = ketamma
-}
-
-356.4.1 = {
-	culture = watinan
-}
-
-359.4.1 = {
-	culture = ketamma
-}
-
-827.4.1 = {
-	b_recacik = castle
-}
-
-853.4.1 = {
-	b_enan = temple
-}
-
-916.4.1 = {
-	b_kuroka = city
-}
-
-985.4.1 = {
-	b_werosan = castle
-}
-
+#History

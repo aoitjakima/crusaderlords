@@ -1,33 +1,17 @@
-	title = c_qebakeven
-	max_settlements = 6
-	culture = syahes
-	religion = neharis
-	b_lical = tribal
-1.1.1 = {
-	b_sahouwe = ct_port_1
-}
+# c_qebakeven
 
-242.4.1 = {
-	culture = karibel
-}
+# County Title
+title = c_qebakeven
 
-545.4.1 = {
-	b_lical = castle
-}
+# Settlements
+max_settlements = 3
 
-665.4.1 = {
-	b_sahouwe = city
-}
+b_qebakeven = castle
+b_qebakeven_2 = city
+b_qebakeven_3 = temple
 
-833.4.1 = {
-	b_alyanenna = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-891.4.1 = {
-	b_beiliel = castle
-}
-
-984.4.1 = {
-	b_neilal = temple
-}
-
+#History

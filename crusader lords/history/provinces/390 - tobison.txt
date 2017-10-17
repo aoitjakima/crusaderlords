@@ -1,33 +1,17 @@
-	title = c_tobison
-	max_settlements = 5
-	culture = kaureid
-	religion = raipi
-	b_quciby = tribal
-286.4.1 = {
-	culture = eluedsalh
-}
+# c_tobison
 
-343.4.1 = {
-	culture = sigivkah
-}
+# County Title
+title = c_tobison
 
-690.4.1 = {
-	b_quciby = castle
-}
+# Settlements
+max_settlements = 3
 
-808.4.1 = {
-	b_bobotos = temple
-}
+b_tobison = castle
+b_tobison_2 = city
+b_tobison_3 = temple
 
-891.4.1 = {
-	b_tobande = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-972.4.1 = {
-	b_nyee = castle
-}
-
-1055.4.1 = {
-	b_saten = castle
-}
-
+#History

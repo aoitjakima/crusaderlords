@@ -1,25 +1,17 @@
-	title = c_sartn
-	max_settlements = 6
-	culture = karibel
-	religion = neharis
-	b_lesando = tribal
-203.4.1 = {
-	culture = syahes
-}
+# c_sartn
 
-545.4.1 = {
-	b_lesando = castle
-}
+# County Title
+title = c_sartn
 
-640.4.1 = {
-	b_kenoto = temple
-}
+# Settlements
+max_settlements = 3
 
-817.4.1 = {
-	b_ataudolas = city
-}
+b_sartn = castle
+b_sartn_2 = city
+b_sartn_3 = temple
 
-1041.4.1 = {
-	b_linus = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

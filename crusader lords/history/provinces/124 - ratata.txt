@@ -1,21 +1,17 @@
-	title = c_ratata
-	max_settlements = 2
-	culture = syahes
-	religion = neharis
-	b_qakohn = tribal
-218.4.1 = {
-	culture = nitindik
-}
+# c_ratata
 
-350.4.1 = {
-	culture = talentiy
-}
+# County Title
+title = c_ratata
 
-540.4.1 = {
-	b_qakohn = castle
-}
+# Settlements
+max_settlements = 3
 
-675.4.1 = {
-	b_kazenna = city
-}
+b_ratata = castle
+b_ratata_2 = city
+b_ratata_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

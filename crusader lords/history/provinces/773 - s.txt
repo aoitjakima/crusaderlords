@@ -1,101 +1,17 @@
-	title = c_s
-	max_settlements = 7
-	culture = kitule
-	religion = begeka
-	b_sics = tribal
-203.3.1 = {
-	religion = terenat
-}
+# c_s
 
-206.3.1 = {
-	religion = begeka
-}
+# County Title
+title = c_s
 
-208.3.1 = {
-	religion = terenat
-}
+# Settlements
+max_settlements = 3
 
-209.3.1 = {
-	religion = begeka
-}
+b_s = castle
+b_s_2 = city
+b_s_3 = temple
 
-211.3.1 = {
-	religion = terenat
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-214.4.1 = {
-	culture = banaila
-}
-
-215.3.1 = {
-	religion = qiteka
-}
-
-222.3.1 = {
-	religion = terenat
-}
-
-224.3.1 = {
-	religion = qiteka
-}
-
-228.3.1 = {
-	religion = terenat
-}
-
-235.3.1 = {
-	religion = qiteka
-}
-
-236.3.1 = {
-	religion = begeka
-}
-
-245.3.1 = {
-	religion = qiteka
-}
-
-250.3.1 = {
-	religion = begeka
-}
-
-255.3.1 = {
-	religion = qiteka
-}
-
-263.3.1 = {
-	religion = begeka
-}
-
-268.3.1 = {
-	religion = qiteka
-}
-
-269.3.1 = {
-	religion = begeka
-}
-
-524.4.1 = {
-	culture = kitule
-}
-
-555.4.1 = {
-	b_sics = castle
-}
-
-710.4.1 = {
-	b_esmurga = temple
-}
-
-860.4.1 = {
-	b_siunka = city
-}
-
-936.4.1 = {
-	b_berutlu = temple
-}
-
-1019.4.1 = {
-	b_terutlu = city
-}
-
+#History

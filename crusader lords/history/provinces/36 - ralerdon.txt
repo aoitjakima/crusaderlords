@@ -1,25 +1,21 @@
-	title = c_ralerdon
-	max_settlements = 2
-	culture = rerinya
-	religion = aguninya
-	b_qivalya = tribal
-1.1.1 = {
-	b_eteven = ct_port_1
-}
+# c_ralerdon
 
-226.4.1 = {
-	culture = setako
-}
+# County Title
+title = c_ralerdon
 
-251.4.1 = {
-	culture = rerinya
-}
+# Settlements
+max_settlements = 7
 
-821.4.1 = {
-	b_qivalya = castle
-}
+b_vides = city
+b_chardosa = city
+b_furica = temple
+#b_ralerdon = castle
+#b_ralerdon_2 = city
+#b_ralerdon_3 = temple
+#b_ralerdon_4 = castle
 
-849.4.1 = {
-	b_eteven = city
-}
+# Misc
+culture = estazi_culture5
+religion = estazi_faith
 
+#History

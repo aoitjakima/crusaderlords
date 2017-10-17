@@ -1,29 +1,17 @@
-	title = c_biacka
-	max_settlements = 3
-	culture = wabuzhi
-	religion = tonuyu
-	b_winoos = tribal
-204.4.1 = {
-	culture = budandev
-}
+# c_biacka
 
-230.4.1 = {
-	culture = wabuzhi
-}
+# County Title
+title = c_biacka
 
-477.4.1 = {
-	culture = budandev
-}
+# Settlements
+max_settlements = 3
 
-874.4.1 = {
-	b_winoos = castle
-}
+b_biacka = castle
+b_biacka_2 = city
+b_biacka_3 = temple
 
-918.4.1 = {
-	b_ratadra = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-1016.4.1 = {
-	b_nabuge = city
-}
-
+#History

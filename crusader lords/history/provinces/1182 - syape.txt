@@ -1,33 +1,17 @@
-	title = c_syape
-	max_settlements = 2
-	culture = budandev
-	religion = tonuyu
-	b_kesudo = tribal
-257.4.1 = {
-	culture = wenira
-}
+# c_syape
 
-262.4.1 = {
-	culture = budandev
-}
+# County Title
+title = c_syape
 
-282.4.1 = {
-	culture = wenira
-}
+# Settlements
+max_settlements = 3
 
-311.4.1 = {
-	culture = budandev
-}
+b_syape = castle
+b_syape_2 = city
+b_syape_3 = temple
 
-348.4.1 = {
-	culture = radabor
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-811.4.1 = {
-	b_kesudo = castle
-}
-
-842.4.1 = {
-	b_reiliks = temple
-}
-
+#History

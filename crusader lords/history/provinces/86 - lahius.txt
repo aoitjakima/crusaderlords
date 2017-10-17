@@ -1,37 +1,17 @@
-	title = c_lahius
-	max_settlements = 6
-	culture = sodinia
-	religion = neharis
-	b_riebnus = tribal
-339.4.1 = {
-	culture = nitindik
-}
+# c_lahius
 
-350.4.1 = {
-	culture = talentiy
-}
+# County Title
+title = c_lahius
 
-505.4.1 = {
-	b_riebnus = castle
-}
+# Settlements
+max_settlements = 3
 
-640.4.1 = {
-	b_kuteria = city
-}
+b_lahius = castle
+b_lahius_2 = city
+b_lahius_3 = temple
 
-833.4.1 = {
-	b_terseniemuhni = temple
-}
+# Misc
+culture = bastian_avas
+religion = kirothian
 
-900.4.1 = {
-	b_neminia = castle
-}
-
-967.4.1 = {
-	b_qavella = city
-}
-
-1050.4.1 = {
-	b_narella = temple
-}
-
+#History

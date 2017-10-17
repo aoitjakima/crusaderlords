@@ -1,17 +1,17 @@
-	title = c_qigand
-	max_settlements = 2
-	culture = alaurine
-	religion = wedwig
-	b_raka = tribal
-200.3.1 = {
-	religion = qigiyah
-}
+# c_qigand
 
-851.4.1 = {
-	b_raka = castle
-}
+# County Title
+title = c_qigand
 
-893.4.1 = {
-	b_tulina = city
-}
+# Settlements
+max_settlements = 3
 
+b_qigand = castle
+b_qigand_2 = city
+b_qigand_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

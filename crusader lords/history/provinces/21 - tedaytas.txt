@@ -1,45 +1,21 @@
-	title = c_tedaytas
-	max_settlements = 7
-	culture = laris
-	religion = aratihr
-	b_latilf = tribal
-1.1.1 = {
-	b_elyaa = ct_port_1
-}
+# c_tedaytas
 
-231.4.1 = {
-	culture = wubihr
-}
+# County Title
+title = c_tedaytas
 
-243.4.1 = {
-	culture = selalya
-}
+# Settlements
+max_settlements = 7
 
-675.4.1 = {
-	b_latilf = castle
-}
+b_saleraele = city
+b_salevia = city
+b_germa = temple
+#b_tedaytas = castle
+#b_tedaytas_2 = city
+#b_tedaytas_3 = temple
+#b_tedaytas_4 = castle
 
-745.4.1 = {
-	b_benzuko = temple
-}
+# Misc
+culture = estazi_culture4
+religion = estazi_faith
 
-821.4.1 = {
-	b_elyaa = city
-}
-
-851.4.1 = {
-	b_bedosrau = city
-}
-
-878.4.1 = {
-	b_abosrau = castle
-}
-
-910.4.1 = {
-	b_sinulay = castle
-}
-
-940.4.1 = {
-	b_qinkolagz = castle
-}
-
+#History

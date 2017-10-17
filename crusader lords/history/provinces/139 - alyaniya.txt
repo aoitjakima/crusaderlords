@@ -1,33 +1,17 @@
-	title = c_alyaniya
-	max_settlements = 4
-	culture = sodinia
-	religion = neharis
-	b_niyaas = tribal
-202.4.1 = {
-	culture = aqahebel
-}
+# c_alyaniya
 
-263.4.1 = {
-	culture = sodinia
-}
+# County Title
+title = c_alyaniya
 
-291.4.1 = {
-	culture = talentiy
-}
+# Settlements
+max_settlements = 3
 
-505.4.1 = {
-	b_niyaas = castle
-}
+b_nanterre = castle
+b_alyaniya = city
+b_alyaniya_2 = temple
 
-625.4.1 = {
-	b_asauwag = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-833.4.1 = {
-	b_qagiya = city
-}
-
-890.4.1 = {
-	b_baarirao = temple
-}
-
+#History

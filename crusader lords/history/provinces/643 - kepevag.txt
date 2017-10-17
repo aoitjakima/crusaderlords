@@ -1,13 +1,17 @@
-	title = c_kepevag
-	max_settlements = 2
-	culture = karibel
-	religion = neharis
-	b_rukah = tribal
-715.4.1 = {
-	b_rukah = castle
-}
+# c_kepevag
 
-815.4.1 = {
-	b_waneki = temple
-}
+# County Title
+title = c_kepevag
 
+# Settlements
+max_settlements = 3
+
+b_kepevag = castle
+b_kepevag_2 = city
+b_kepevag_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

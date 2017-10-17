@@ -1,45 +1,17 @@
-	title = c_keruel
-	max_settlements = 3
-	culture = ruraura
-	religion = begeka
-	b_adavilip = tribal
-203.3.1 = {
-	religion = terenat
-}
+# c_keruel
 
-206.4.1 = {
-	culture = kitule
-}
+# County Title
+title = c_keruel
 
-236.3.1 = {
-	religion = begeka
-}
+# Settlements
+max_settlements = 3
 
-269.4.1 = {
-	culture = banaila
-}
+b_keruel = castle
+b_keruel_2 = city
+b_keruel_3 = temple
 
-294.4.1 = {
-	culture = kitule
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-358.4.1 = {
-	culture = banaila
-}
-
-361.4.1 = {
-	culture = kitule
-}
-
-560.4.1 = {
-	b_adavilip = castle
-}
-
-680.4.1 = {
-	b_savenat = city
-}
-
-855.4.1 = {
-	b_riuncs = temple
-}
-
+#History

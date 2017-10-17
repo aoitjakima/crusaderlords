@@ -1,113 +1,17 @@
-	title = c_tugiyan
-	max_settlements = 2
-	culture = laaug
-	religion = telayira
-	b_razata = tribal
-202.4.1 = {
-	culture = lopher
-}
+# c_tugiyan
 
-205.3.1 = {
-	religion = kusran
-}
+# County Title
+title = c_tugiyan
 
-209.3.1 = {
-	religion = telayira
-}
+# Settlements
+max_settlements = 3
 
-214.3.1 = {
-	religion = kusran
-}
+b_tugiyan = castle
+b_tugiyan_2 = city
+b_tugiyan_3 = temple
 
-217.3.1 = {
-	religion = telayira
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-223.3.1 = {
-	religion = kusran
-}
-
-224.3.1 = {
-	religion = telayira
-}
-
-226.4.1 = {
-	culture = disinos
-}
-
-242.3.1 = {
-	religion = kusran
-}
-
-245.4.1 = {
-	culture = lopher
-}
-
-245.3.1 = {
-	religion = telayira
-}
-
-253.3.1 = {
-	religion = kusran
-}
-
-254.3.1 = {
-	religion = telayira
-}
-
-256.3.1 = {
-	religion = kusran
-}
-
-257.3.1 = {
-	religion = telayira
-}
-
-265.3.1 = {
-	religion = kusran
-}
-
-265.3.1 = {
-	religion = telayira
-}
-
-266.3.1 = {
-	religion = kusran
-}
-
-275.3.1 = {
-	religion = telayira
-}
-
-282.3.1 = {
-	religion = kusran
-}
-
-284.3.1 = {
-	religion = telayira
-}
-
-285.3.1 = {
-	religion = kusran
-}
-
-292.3.1 = {
-	religion = telayira
-}
-
-313.4.1 = {
-	culture = koumas
-}
-
-705.4.1 = {
-	b_razata = castle
-}
-
-814.4.1 = {
-	b_ritore = temple
-}
-
-933.4.1 = {
-	culture = lopher
-}
-
+#History

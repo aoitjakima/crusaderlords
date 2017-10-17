@@ -1,13 +1,17 @@
-	title = c_naohkulh
-	max_settlements = 2
-	culture = tasule
-	religion = kusran
-	b_keseid = tribal
-209.4.1 = {
-	culture = disinos
-}
+# c_naohkulh
 
-242.4.1 = {
-	culture = abajule
-}
+# County Title
+title = c_naohkulh
 
+# Settlements
+max_settlements = 3
+
+b_naohkulh = castle
+b_naohkulh_2 = city
+b_naohkulh_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

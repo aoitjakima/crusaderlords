@@ -1,37 +1,17 @@
-	title = c_saleslav
-	max_settlements = 2
-	culture = budandev
-	religion = tonuyu
-	b_tilatha = tribal
-203.4.1 = {
-	culture = retlennakta
-}
+# c_saleslav
 
-225.4.1 = {
-	culture = radabor
-}
+# County Title
+title = c_saleslav
 
-254.4.1 = {
-	culture = retlennakta
-}
+# Settlements
+max_settlements = 3
 
-257.4.1 = {
-	culture = wenira
-}
+b_saleslav = castle
+b_saleslav_2 = city
+b_saleslav_3 = temple
 
-261.4.1 = {
-	culture = retlennakta
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-354.4.1 = {
-	culture = radabor
-}
-
-730.4.1 = {
-	b_tilatha = castle
-}
-
-808.4.1 = {
-	b_amadabor = temple
-}
-
+#History

@@ -1,53 +1,17 @@
-	title = c_besilia
-	max_settlements = 3
-	culture = qenoos
-	religion = binuyu
-	b_nelanos = tribal
-241.4.1 = {
-	culture = ryarahim
-}
+# c_besilia
 
-270.4.1 = {
-	culture = qenoos
-}
+# County Title
+title = c_besilia
 
-294.4.1 = {
-	culture = ryarahim
-}
+# Settlements
+max_settlements = 3
 
-336.3.1 = {
-	religion = tonuyu
-}
+b_besilia = castle
+b_besilia_2 = city
+b_besilia_3 = temple
 
-338.4.1 = {
-	culture = qenoos
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-356.4.1 = {
-	culture = ryarahim
-}
-
-427.4.1 = {
-	culture = ranahim
-}
-
-810.4.1 = {
-	culture = qenoos
-}
-
-846.4.1 = {
-	culture = ranahim
-}
-
-863.4.1 = {
-	culture = qenoos
-}
-
-882.4.1 = {
-	culture = ranahim
-}
-
-918.4.1 = {
-	culture = qenoos
-}
-
+#History

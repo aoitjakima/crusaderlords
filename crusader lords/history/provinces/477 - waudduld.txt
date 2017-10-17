@@ -1,21 +1,17 @@
-	title = c_waudduld
-	max_settlements = 5
-	culture = alaurine
-	religion = qigiyah
-	b_nurudha = tribal
-1.1.1 = {
-	b_elaurupo = ct_port_1
-}
+# c_waudduld
 
-827.4.1 = {
-	b_nurudha = castle
-}
+# County Title
+title = c_waudduld
 
-894.4.1 = {
-	b_sagarda = temple
-}
+# Settlements
+max_settlements = 3
 
-1002.4.1 = {
-	b_elaurupo = city
-}
+b_waudduld = castle
+b_waudduld_2 = city
+b_waudduld_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

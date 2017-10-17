@@ -1,17 +1,17 @@
-	title = c_ethuge
-	max_settlements = 2
-	culture = namyan
-	religion = kusran
-	b_evlania = tribal
-248.4.1 = {
-	culture = abajule
-}
+# c_ethuge
 
-585.4.1 = {
-	b_evlania = castle
-}
+# County Title
+title = c_ethuge
 
-720.4.1 = {
-	b_bule = city
-}
+# Settlements
+max_settlements = 3
 
+b_ethuge = castle
+b_ethuge_2 = city
+b_ethuge_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

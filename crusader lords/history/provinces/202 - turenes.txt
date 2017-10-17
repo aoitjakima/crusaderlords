@@ -1,33 +1,17 @@
-	title = c_turenes
-	max_settlements = 4
-	culture = digaka
-	religion = raipi
-	b_duzey = tribal
-269.4.1 = {
-	culture = sigivkah
-}
+# c_turenes
 
-303.4.1 = {
-	culture = digaka
-}
+# County Title
+title = c_turenes
 
-304.4.1 = {
-	culture = sigivkah
-}
+# Settlements
+max_settlements = 3
 
-670.4.1 = {
-	b_duzey = castle
-}
+b_turenes = castle
+b_turenes_2 = city
+b_turenes_3 = temple
 
-807.4.1 = {
-	b_niwed = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-894.4.1 = {
-	b_saleryaled = city
-}
-
-979.4.1 = {
-	b_atiyamey = city
-}
-
+#History

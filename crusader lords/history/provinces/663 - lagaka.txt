@@ -1,9 +1,17 @@
-	title = c_lagaka
-	max_settlements = 3
-	culture = disinos
-	religion = kusran
-	b_baoike = tribal
-242.4.1 = {
-	culture = abajule
-}
+# c_lagaka
 
+# County Title
+title = c_lagaka
+
+# Settlements
+max_settlements = 3
+
+b_lagaka = castle
+b_lagaka_2 = city
+b_lagaka_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

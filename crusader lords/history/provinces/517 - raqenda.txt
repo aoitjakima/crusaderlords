@@ -1,65 +1,17 @@
-	title = c_raqenda
-	max_settlements = 4
-	culture = taodha
-	religion = wedwig
-	b_baxada = tribal
-200.3.1 = {
-	religion = raipi
-}
+# c_raqenda
 
-204.3.1 = {
-	religion = wedwig
-}
+# County Title
+title = c_raqenda
 
-204.3.1 = {
-	religion = raipi
-}
+# Settlements
+max_settlements = 3
 
-205.3.1 = {
-	religion = wedwig
-}
+b_barmstedt = castle
+b_raqenda = city
+b_raqenda_2 = temple
 
-214.3.1 = {
-	religion = raipi
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-226.3.1 = {
-	religion = wedwig
-}
-
-230.3.1 = {
-	religion = raipi
-}
-
-233.3.1 = {
-	religion = wedwig
-}
-
-242.3.1 = {
-	religion = raipi
-}
-
-351.4.1 = {
-	culture = sutidoka
-}
-
-526.4.1 = {
-	culture = kapti
-}
-
-680.4.1 = {
-	b_baxada = castle
-}
-
-808.4.1 = {
-	b_nucada = temple
-}
-
-905.4.1 = {
-	b_latya = city
-}
-
-989.4.1 = {
-	b_tiyande = castle
-}
-
+#History

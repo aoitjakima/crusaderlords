@@ -1,17 +1,17 @@
-	title = c_kitarma
-	max_settlements = 3
-	culture = karibel
-	religion = neharis
-	b_riebive = tribal
-640.4.1 = {
-	b_riebive = castle
-}
+# c_kitarma
 
-755.4.1 = {
-	b_awarma = city
-}
+# County Title
+title = c_kitarma
 
-908.4.1 = {
-	b_lesive = temple
-}
+# Settlements
+max_settlements = 3
 
+b_kitarma = castle
+b_kitarma_2 = city
+b_kitarma_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

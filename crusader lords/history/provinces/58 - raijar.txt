@@ -1,145 +1,18 @@
-	title = c_raijar
-	max_settlements = 6
-	culture = lodeid
-	religion = kodine
-	b_denane = tribal
-201.3.1 = {
-	religion = tonuyu
-}
+# c_raijar
 
-204.3.1 = {
-	religion = kodine
-}
+# County Title
+title = c_raijar
 
-211.3.1 = {
-	religion = tonuyu
-}
+# Settlements
+max_settlements = 4
 
-217.3.1 = {
-	religion = kodine
-}
+b_ahuilin = temple
+#b_raijar = city
+#b_raijar_2 = temple
+#b_raijar_3 = castle
 
-224.3.1 = {
-	religion = tonuyu
-}
+# Misc
+culture = druchi
+religion = kirian
 
-227.3.1 = {
-	religion = kodine
-}
-
-227.3.1 = {
-	religion = tonuyu
-}
-
-228.3.1 = {
-	religion = kodine
-}
-
-228.3.1 = {
-	religion = tonuyu
-}
-
-230.3.1 = {
-	religion = kodine
-}
-
-230.3.1 = {
-	religion = tonuyu
-}
-
-237.3.1 = {
-	religion = kodine
-}
-
-238.3.1 = {
-	religion = tonuyu
-}
-
-246.3.1 = {
-	religion = kodine
-}
-
-246.3.1 = {
-	religion = tonuyu
-}
-
-250.3.1 = {
-	religion = kodine
-}
-
-252.3.1 = {
-	religion = tonuyu
-}
-
-255.3.1 = {
-	religion = kodine
-}
-
-256.3.1 = {
-	religion = tonuyu
-}
-
-259.3.1 = {
-	religion = kodine
-}
-
-260.3.1 = {
-	religion = tonuyu
-}
-
-261.3.1 = {
-	religion = kodine
-}
-
-261.3.1 = {
-	religion = tonuyu
-}
-
-266.3.1 = {
-	religion = kodine
-}
-
-271.3.1 = {
-	religion = tonuyu
-}
-
-289.3.1 = {
-	religion = kodine
-}
-
-298.3.1 = {
-	religion = tonuyu
-}
-
-302.3.1 = {
-	religion = kodine
-}
-
-302.3.1 = {
-	religion = tonuyu
-}
-
-306.3.1 = {
-	religion = kodine
-}
-
-307.3.1 = {
-	religion = tonuyu
-}
-
-327.4.1 = {
-	culture = rubiho
-}
-
-353.4.1 = {
-	culture = biho
-}
-
-878.4.1 = {
-	b_denane = castle
-}
-
-918.4.1 = {
-	b_wimane = city
-}
-
+#History

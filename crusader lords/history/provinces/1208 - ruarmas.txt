@@ -1,21 +1,17 @@
-	title = c_ruarmas
-	max_settlements = 2
-	culture = ahenatha
-	religion = tonuyu
-	b_ricabra = tribal
-313.3.1 = {
-	religion = worelen
-}
+# c_ruarmas
 
-322.4.1 = {
-	culture = nalaam
-}
+# County Title
+title = c_ruarmas
 
-348.4.1 = {
-	culture = ahenatha
-}
+# Settlements
+max_settlements = 3
 
-507.4.1 = {
-	culture = nalaam
-}
+b_ruarmas = castle
+b_ruarmas_2 = city
+b_ruarmas_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

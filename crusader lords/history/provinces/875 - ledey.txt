@@ -1,33 +1,17 @@
-	title = c_ledey
-	max_settlements = 2
-	culture = ebeina
-	religion = qiteka
-	b_rohipp = tribal
-1.1.1 = {
-	b_rilada = ct_port_1
-}
+# c_ledey
 
-257.4.1 = {
-	culture = waetutlu
-}
+# County Title
+title = c_ledey
 
-273.4.1 = {
-	culture = ebeina
-}
+# Settlements
+max_settlements = 3
 
-342.4.1 = {
-	culture = risutlu
-}
+b_ledey = castle
+b_ledey_2 = city
+b_ledey_3 = temple
 
-575.4.1 = {
-	b_rohipp = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-705.4.1 = {
-	b_rilada = city
-}
-
-862.4.1 = {
-	culture = saimes
-}
-
+#History

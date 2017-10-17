@@ -1,57 +1,17 @@
-	title = c_resonka
-	max_settlements = 3
-	culture = sereka
-	religion = naneka
-	b_deneka = tribal
-326.4.1 = {
-	culture = esunadir
-}
+# c_resonka
 
-341.4.1 = {
-	culture = sereka
-}
+# County Title
+title = c_resonka
 
-398.4.1 = {
-	culture = esunadir
-}
+# Settlements
+max_settlements = 3
 
-447.4.1 = {
-	culture = sereka
-}
+b_resonka = castle
+b_resonka_2 = city
+b_resonka_3 = temple
 
-528.4.1 = {
-	culture = esunadir
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-609.4.1 = {
-	culture = sereka
-}
-
-648.4.1 = {
-	culture = esunadir
-}
-
-696.4.1 = {
-	culture = sereka
-}
-
-721.4.1 = {
-	culture = esunadir
-}
-
-804.4.1 = {
-	b_deneka = castle
-}
-
-839.4.1 = {
-	b_sotes = city
-}
-
-884.4.1 = {
-	culture = sereka
-}
-
-941.4.1 = {
-	b_sesafu = temple
-}
-
+#History

@@ -1,21 +1,21 @@
-	title = c_dyir
-	max_settlements = 3
-	culture = eshunpal
-	religion = neharis
-	b_kaizafagz = tribal
-1.1.1 = {
-	b_belis = ct_port_1
-}
+# c_dyir
 
-822.4.1 = {
-	b_kaizafagz = castle
-}
+# County Title
+title = c_dyir
 
-851.4.1 = {
-	b_belis = city
-}
+# Settlements
+max_settlements = 7
 
-901.4.1 = {
-	b_datilf = temple
-}
+b_torrena = city
+b_lalona = city
+b_biron = temple
+#b_dyir = castle
+#b_dyir_2 = city
+#b_dyir_3 = temple
+#b_dyir_4 = castle
 
+# Misc
+culture = estazi_culture2
+religion = estazi_faith
+
+#History

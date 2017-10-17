@@ -1,89 +1,17 @@
-	title = c_egraura
-	max_settlements = 2
-	culture = keraam
-	religion = tonuyu
-	b_deya = tribal
-254.3.1 = {
-	religion = worelen
-}
+# c_egraura
 
-258.3.1 = {
-	religion = tonuyu
-}
+# County Title
+title = c_egraura
 
-260.3.1 = {
-	religion = worelen
-}
+# Settlements
+max_settlements = 3
 
-260.3.1 = {
-	religion = tonuyu
-}
+b_egraura = castle
+b_egraura_2 = city
+b_egraura_3 = temple
 
-261.3.1 = {
-	religion = worelen
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-261.3.1 = {
-	religion = tonuyu
-}
-
-263.3.1 = {
-	religion = worelen
-}
-
-272.3.1 = {
-	religion = tonuyu
-}
-
-273.3.1 = {
-	religion = worelen
-}
-
-274.4.1 = {
-	culture = tudatha
-}
-
-274.3.1 = {
-	religion = tonuyu
-}
-
-277.3.1 = {
-	religion = worelen
-}
-
-277.3.1 = {
-	religion = tonuyu
-}
-
-299.4.1 = {
-	culture = nalaam
-}
-
-325.4.1 = {
-	culture = tudatha
-}
-
-351.4.1 = {
-	culture = nalaam
-}
-
-412.4.1 = {
-	culture = tiwics
-}
-
-420.4.1 = {
-	culture = nalaam
-}
-
-467.4.1 = {
-	culture = tiwics
-}
-
-745.4.1 = {
-	b_deya = castle
-}
-
-840.4.1 = {
-	b_tahkatti = temple
-}
-
+#History

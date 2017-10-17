@@ -1,13 +1,17 @@
-	title = c_biebava
-	max_settlements = 3
-	culture = daimeig
-	religion = wedwig
-	b_toderia = tribal
-242.4.1 = {
-	culture = waynald
-}
+# c_biebava
 
-1038.4.1 = {
-	b_toderia = castle
-}
+# County Title
+title = c_biebava
 
+# Settlements
+max_settlements = 3
+
+b_biebava = castle
+b_biebava_2 = city
+b_biebava_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

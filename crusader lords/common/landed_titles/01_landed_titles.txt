@@ -1,0 +1,725 @@
+###### AUTO GENERATED CONTENT (c) CKTools v19 ######
+######Estazi land
+
+
+k_estazi_land = {
+	color={ 72 72 103 }
+	color2={ 255 255 255 }
+	
+	capital = 1 # c_nakaca
+	culture = estazi_culture2
+	
+	d_sicilia = {
+		color={ 52 92 93 }
+		color2={ 255 255 255 }
+		
+	allow = {
+		is_republic = yes
+	}
+		capital = 1 # c_nakaca
+		
+		c_nakaca = { # 1
+			color={ 42 102 88 }
+			color2={ 255 255 255 }
+			
+			b_pregou = {
+			}
+			b_livalio = {
+			}
+			b_metsona = {
+			}
+			b_nakaca = {
+			}
+			b_nakaca_2 = {
+			}
+			b_nakaca_3 = {
+			}
+			b_nakaca_4 = {
+			}
+		}
+		c_dyir = { # 28
+			color={ 84 87 21 }
+			color2={ 255 255 255 }
+			
+			b_torrena = {
+			}
+			b_lalona = {
+			}
+			b_biron = {
+			}
+			b_dyir = {
+			}
+			b_dyir_2 = {
+			}
+			b_dyir_3 = {
+			}
+			b_dyir_4 = {
+			}
+		}
+		c_ewyaz = { # 17
+			color={ 84 57 16 }
+			color2={ 255 255 255 }
+			
+			b_tarrarm = {
+			}
+			b_almelche = {
+			}
+			b_molade = {
+			}
+			b_ewyaz = {
+			}
+			b_ewyaz_2 = {
+			}
+			b_ewyaz_3 = {
+			}
+			b_ewyaz_4 = {
+			}
+		}
+		c_koka = { # 27
+			color={ 168 93 22 }
+			color2={ 255 255 255 }
+			
+			b_caguna = {
+			}
+			b_badagrono = {
+			}
+			b_vires = {
+			}
+			b_koka = {
+			}
+			b_koka_2 = {
+			}
+			b_koka_3 = {
+			}
+			b_koka_4 = {
+			}
+		}
+		c_remetata = { # 2
+			color={ 0 114 90 }
+			color2={ 255 255 255 }
+			
+			b_ialydroupoli = {
+			}
+			b_egalaia = {
+			}
+			b_ermoulcis = {
+			}
+			b_remetata = {
+			}
+			b_remetata_2 = {
+			}
+			b_remetata_3 = {
+			}
+			b_remetata_4 = {
+			}
+		}
+		c_sedosrau = { # 9
+			color={ 126 198 4 }
+			color2={ 255 255 255 }
+			
+			b_carletta = {
+			}
+			b_lameramo = {
+			}
+			b_miscia = {
+			}
+			b_sedosrau = {
+			}
+			b_sedosrau_2 = {
+			}
+			b_sedosrau_3 = {
+			}
+			b_sedosrau_4 = {
+			}
+		}
+		c_tamega = { # 3
+			color={ 126 108 89 }
+			color2={ 255 255 255 }
+			holy_site = estazi_faith
+			
+			b_malonghi = {
+			}
+			b_giarfosi = {
+			}
+			b_mettos = {
+			}
+			b_tamega = {
+			}
+			b_tamega_2 = {
+			}
+			b_tamega_3 = {
+			}
+			b_tamega_4 = {
+			}
+		}
+	}
+	d_bertuzzi = {
+		color={ 10 101 30 }
+		color2={ 255 255 255 }
+		
+		allow = {is_republic = yes
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 29 province_id = 30 province_id = 31 province_id = 32 province_id = 34 province_id = 36 province_id = 38 } }
+			}
+		}
+		capital = 29 # c_koruyat
+		
+		c_koruyat = { # 29
+			color={ 0 111 25 }
+			color2={ 255 255 255 }
+			
+			b_alcote = {
+			}
+			b_vijoz = {
+			}
+			b_guadalander = {
+			}
+			b_koruyat = {
+			}
+			b_koruyat_2 = {
+			}
+			b_koruyat_3 = {
+			}
+			b_koruyat_4 = {
+			}
+		}
+		c_kanata = { # 34
+			color={ 168 123 27 }
+			color2={ 255 255 255 }
+			
+			b_salersala = {
+			}
+			b_brirrara = {
+			}
+			b_vellendria = {
+			}
+			b_kanata = {
+			}
+			b_kanata_2 = {
+			}
+			b_kanata_3 = {
+			}
+			b_kanata_4 = {
+			}
+		}
+		c_lanata = { # 31
+			color={ 84 117 26 }
+			color2={ 255 255 255 }
+			
+			b_erynina = {
+			}
+			b_elellini = {
+			}
+			b_kamanikon = {
+			}
+			b_lanata = {
+			}
+			b_lanata_2 = {
+			}
+			b_lanata_3 = {
+			}
+			b_lanata_4 = {
+			}
+		}
+		c_ralerdon = { # 36
+			color={ 0 141 30 }
+			color2={ 255 255 255 }
+			
+			b_vides = {
+			}
+			b_chardosa = {
+			}
+			b_furica = {
+			}
+			b_ralerdon = {
+			}
+			b_ralerdon_2 = {
+			}
+			b_ralerdon_3 = {
+			}
+			b_ralerdon_4 = {
+			}
+		}
+		c_riafako = { # 38
+			color={ 126 165 34 }
+			color2={ 255 255 255 }
+			holy_site = estazi_faith
+			
+			b_guanhos = {
+			}
+			b_barcedras = {
+			}
+			b_freamoz = {
+			}
+			b_riafako = {
+			}
+			b_riafako_2 = {
+			}
+			b_riafako_3 = {
+			}
+			b_riafako_4 = {
+			}
+		}
+		c_tatijne = { # 30
+			color={ 126 135 29 }
+			color2={ 255 255 255 }
+			
+			b_giatras = {
+			}
+			b_psylcis = {
+			}
+			b_theraeus = {
+			}
+			b_tatijne = {
+			}
+			b_tatijne_2 = {
+			}
+			b_tatijne_3 = {
+			}
+			b_tatijne_4 = {
+			}
+		}
+		c_tetuhan = { # 32
+			color={ 42 129 28 }
+			color2={ 255 255 255 }
+			
+			b_psyvros = {
+			}
+			b_marissa = {
+			}
+			b_giafka = {
+			}
+			b_tetuhan = {
+			}
+			b_tetuhan_2 = {
+			}
+			b_tetuhan_3 = {
+			}
+			b_tetuhan_4 = {
+			}
+		}
+	}
+	d_storto = {
+		color={ 10 164 5 }
+		color2={ 255 255 255 }
+		
+		allow = {is_republic = yes
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 21 province_id = 22 province_id = 23 province_id = 24 province_id = 25 province_id = 26 province_id = 33 province_id = 35 province_id = 37 } }
+			}
+		}
+		capital = 21 # c_tedaytas
+		
+		c_tedaytas = { # 21
+			color={ 0 174 0 }
+			color2={ 255 255 255 }
+			
+			b_saleraele = {
+			}
+			b_salevia = {
+			}
+			b_germa = {
+			}
+			b_tedaytas = {
+			}
+			b_tedaytas_2 = {
+			}
+			b_tedaytas_3 = {
+			}
+			b_tedaytas_4 = {
+			}
+		}
+		c_anye = { # 24
+			color={ 126 15 9 }
+			color2={ 255 255 255 }
+			
+			b_matocedo = {
+			}
+			b_ermengo = {
+			}
+			b_fiseu = {
+			}
+			b_anye = {
+			}
+			b_anye_2 = {
+			}
+			b_anye_3 = {
+			}
+			b_anye_4 = {
+			}
+		}
+		c_bunijne = { # 35
+			color={ 126 105 24 }
+			color2={ 255 255 255 }
+			
+			b_bamona = {
+			}
+			b_rasello = {
+			}
+			b_veroviso = {
+			}
+			b_bunijne = {
+			}
+			b_bunijne_2 = {
+			}
+			b_bunijne_3 = {
+			}
+			b_bunijne_4 = {
+			}
+		}
+		c_byyako = { # 22
+			color={ 0 51 15 }
+			color2={ 255 255 255 }
+			
+			b_gallagna = {
+			}
+			b_pomerma = {
+			}
+			b_bafati = {
+			}
+			b_byyako = {
+			}
+			b_byyako_2 = {
+			}
+			b_byyako_3 = {
+			}
+			b_byyako_4 = {
+			}
+		}
+		c_ehoosith = { # 33
+			color={ 84 147 31 }
+			color2={ 255 255 255 }
+			
+			b_boloni = {
+			}
+			b_viarno = {
+			}
+			b_bolzavero = {
+			}
+			b_ehoosith = {
+			}
+			b_ehoosith_2 = {
+			}
+			b_ehoosith_3 = {
+			}
+			b_ehoosith_4 = {
+			}
+		}
+		c_kyaz = { # 25
+			color={ 168 3 7 }
+			color2={ 255 255 255 }
+			
+			b_capandra = {
+			}
+			b_macegueiras = {
+			}
+			b_elvamento = {
+			}
+			b_kyaz = {
+			}
+			b_kyaz_2 = {
+			}
+			b_kyaz_3 = {
+			}
+			b_kyaz_4 = {
+			}
+		}
+		c_qaduyat = { # 37
+			color={ 168 153 32 }
+			color2={ 255 255 255 }
+			
+			b_guades = {
+			}
+			b_sacamara = {
+			}
+			b_seiriz = {
+			}
+			b_qaduyat = {
+			}
+			b_qaduyat_2 = {
+			}
+			b_qaduyat_3 = {
+			}
+			b_qaduyat_4 = {
+			}
+		}
+		c_tatihr = { # 26
+			color={ 84 210 6 }
+			color2={ 255 255 255 }
+			
+			b_penivelas = {
+			}
+			b_tavifa = {
+			}
+			b_mealhaveia = {
+			}
+			b_tatihr = {
+			}
+			b_tatihr_2 = {
+			}
+			b_tatihr_3 = {
+			}
+			b_tatihr_4 = {
+			}
+		}
+		c_wariraz = { # 23
+			color={ 84 180 1 }
+			color2={ 255 255 255 }
+			holy_site = estazi_faith
+			
+			b_moda = {
+			}
+			b_matestoia = {
+			}
+			b_burrara = {
+			}
+			b_wariraz = {
+			}
+			b_wariraz_2 = {
+			}
+			b_wariraz_3 = {
+			}
+			b_wariraz_4 = {
+			}
+		}
+	}
+	d_tartaglia = {
+		color={ 52 255 13 }
+		color2={ 255 255 255 }
+		
+		allow = {is_republic = yes
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 10 province_id = 11 province_id = 12 province_id = 16 province_id = 18 province_id = 19 } }
+			}
+		}
+		capital = 16 # c_kenanay
+		
+		c_kenanay = { # 10
+			color={ 42 9 8 }
+			color2={ 255 255 255 }
+			holy_site = estazi_faith
+			
+			b_giurbo = {
+			}
+			b_versisi = {
+			}
+			b_remini = {
+			}
+			b_kenanay = {
+			}
+			b_kenanay_2 = {
+			}
+			b_kenanay_3 = {
+			}
+			b_kenanay_4 = {
+			}
+		}
+		c_kiartas = { # 19
+			color={ 126 168 99 }
+			color2={ 255 255 255 }
+			
+			b_kifika = {
+			}
+			b_metassia = {
+			}
+			b_iliourmi = {
+			}
+			b_kiartas = {
+			}
+			b_kiartas_2 = {
+			}
+			b_kiartas_3 = {
+			}
+			b_kiartas_4 = {
+			}
+		}
+		c_radkokinko = { # 18
+			color={ 42 162 98 }
+			color2={ 255 255 255 }
+			
+			b_salamaria = {
+			}
+			b_mytissos = {
+			}
+			b_paiarni = {
+			}
+			b_radkokinko = {
+			}
+			b_radkokinko_2 = {
+			}
+			b_radkokinko_3 = {
+			}
+			b_radkokinko_4 = {
+			}
+		}
+		c_rinihr = { # 16
+			color={ 126 45 14 }
+			color2={ 255 255 255 }
+			
+			b_paleledo = {
+			}
+			b_viga = {
+			}
+			b_lenada = {
+			}
+			b_rinihr = {
+			}
+			b_rinihr_2 = {
+			}
+			b_rinihr_3 = {
+			}
+			b_rinihr_4 = {
+			}
+		}
+		c_sinulay = { # 12
+			color={ 42 192 3 }
+			color2={ 255 255 255 }
+			
+			b_maceras = {
+			}
+			b_pavelas = {
+			}
+			b_portanico = {
+			}
+			b_sinulay = {
+			}
+			b_sinulay_2 = {
+			}
+			b_sinulay_3 = {
+			}
+			b_sinulay_4 = {
+			}
+		}
+		c_tamsouz = { # 11
+			color={ 168 33 12 }
+			color2={ 255 255 255 }
+			
+			b_nalzano = {
+			}
+			b_civime = {
+			}
+			b_temona = {
+			}
+			b_tamsouz = {
+			}
+			b_tamsouz_2 = {
+			}
+			b_tamsouz_3 = {
+			}
+			b_tamsouz_4 = {
+			}
+		}
+	}
+	d_zucca = {
+		color={ 35 111 50 }
+		color2={ 255 255 255 }
+		
+		allow = {is_republic = yes
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 13 province_id = 14 province_id = 15 province_id = 20 province_id = 40 } }
+			}
+		}
+		capital = 13 # c_wagilf
+		
+		c_wagilf = { # 13
+			color={ 0 21 10 }
+			color2={ 255 255 255 }
+			
+			b_fandela = {
+			}
+			b_bramor = {
+			}
+			b_becem = {
+			}
+			b_wagilf = {
+			}
+			b_wagilf_2 = {
+			}
+			b_wagilf_3 = {
+			}
+			b_wagilf_4 = {
+			}
+		}
+		c_byua = { # 15
+			color={ 0 204 5 }
+			color2={ 255 255 255 }
+			
+			b_maladorm = {
+			}
+			b_santiancia = {
+			}
+			b_zancia = {
+			}
+			b_byua = {
+			}
+			b_byua_2 = {
+			}
+			b_byua_3 = {
+			}
+			b_byua_4 = {
+			}
+		}
+		c_kicijne = { # 40
+			color={ 126 12 44 }
+			color2={ 255 255 255 }
+			holy_site = estazi_faith
+			
+			b_guadaria = {
+			}
+			b_gedolid = {
+			}
+			b_seno = {
+			}
+			b_kicijne = {
+			}
+			b_kicijne_2 = {
+			}
+			b_kicijne_3 = {
+			}
+			b_kicijne_4 = {
+			}
+		}
+		c_ratako = { # 14
+			color={ 42 39 13 }
+			color2={ 255 255 255 }
+			
+			b_sencoso = {
+			}
+			b_cartanhel = {
+			}
+			b_lamevelas = {
+			}
+			b_ratako = {
+			}
+			b_ratako_2 = {
+			}
+			b_ratako_3 = {
+			}
+			b_ratako_4 = {
+			}
+		}
+		c_selyao = { # 20
+			color={ 168 186 2 }
+			color2={ 255 255 255 }
+			
+			b_pabes = {
+			}
+			b_ieradri = {
+			}
+			b_preverni = {
+			}
+			b_selyao = {
+			}
+			b_selyao_2 = {
+			}
+			b_selyao_3 = {
+			}
+			b_selyao_4 = {
+			}
+		}
+	}
+}

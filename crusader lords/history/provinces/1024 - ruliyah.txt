@@ -1,21 +1,17 @@
-	title = c_ruliyah
-	max_settlements = 3
-	culture = sutidoka
-	religion = kusran
-	b_wiosri = tribal
-390.4.1 = {
-	culture = alaurine
-}
+# c_ruliyah
 
-394.3.1 = {
-	religion = qigiyah
-}
+# County Title
+title = c_ruliyah
 
-397.4.1 = {
-	culture = kyayalen
-}
+# Settlements
+max_settlements = 3
 
-452.4.1 = {
-	culture = alaurine
-}
+b_ruliyah = castle
+b_ruliyah_2 = city
+b_ruliyah_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

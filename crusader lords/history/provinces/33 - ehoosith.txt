@@ -1,37 +1,21 @@
-	title = c_ehoosith
-	max_settlements = 6
-	culture = setako
-	religion = aguninya
-	b_dalil = tribal
-1.1.1 = {
-	b_laharia = ct_port_1
-}
+# c_ehoosith
 
-201.4.1 = {
-	culture = doleven
-}
+# County Title
+title = c_ehoosith
 
-740.4.1 = {
-	b_dalil = castle
-}
+# Settlements
+max_settlements = 7
 
-809.4.1 = {
-	b_bakaria = temple
-}
+b_boloni = city
+b_viarno = city
+b_bolzavero = temple
+#b_ehoosith = castle
+#b_ehoosith_2 = city
+#b_ehoosith_3 = temple
+#b_ehoosith_4 = castle
 
-863.4.1 = {
-	b_laharia = city
-}
+# Misc
+culture = estazi_culture4
+religion = estazi_faith
 
-917.4.1 = {
-	b_lazata = temple
-}
-
-981.4.1 = {
-	b_sical = city
-}
-
-1037.4.1 = {
-	b_natalool = city
-}
-
+#History

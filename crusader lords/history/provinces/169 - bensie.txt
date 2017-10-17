@@ -1,29 +1,17 @@
-	title = c_bensie
-	max_settlements = 3
-	culture = sodinia
-	religion = neharis
-	b_elutava = tribal
-202.4.1 = {
-	culture = aqahebel
-}
+# c_bensie
 
-263.4.1 = {
-	culture = sodinia
-}
+# County Title
+title = c_bensie
 
-291.4.1 = {
-	culture = talentiy
-}
+# Settlements
+max_settlements = 3
 
-500.4.1 = {
-	b_elutava = castle
-}
+b_bensie = castle
+b_bensie_2 = city
+b_bensie_3 = temple
 
-650.4.1 = {
-	b_neneria = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-844.4.1 = {
-	b_tuhnes = city
-}
-
+#History

@@ -1,25 +1,17 @@
-	title = c_bises
-	max_settlements = 6
-	culture = narentiy
-	religion = neharis
-	b_totule = tribal
-214.4.1 = {
-	culture = syahes
-}
+# c_bises
 
-422.4.1 = {
-	culture = amuhopti
-}
+# County Title
+title = c_bises
 
-451.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 3
 
-540.4.1 = {
-	b_totule = castle
-}
+b_bises = castle
+b_bises_2 = city
+b_bises_3 = temple
 
-675.4.1 = {
-	b_wegafu = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

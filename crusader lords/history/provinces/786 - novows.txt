@@ -1,21 +1,17 @@
-	title = c_novows
-	max_settlements = 2
-	culture = ebeina
-	religion = qiteka
-	b_aderer = tribal
-339.4.1 = {
-	culture = risutlu
-}
+# c_novows
 
-610.4.1 = {
-	b_aderer = castle
-}
+# County Title
+title = c_novows
 
-729.4.1 = {
-	culture = saimes
-}
+# Settlements
+max_settlements = 3
 
-770.4.1 = {
-	b_dyevodar = temple
-}
+b_novows = castle
+b_novows_2 = city
+b_novows_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

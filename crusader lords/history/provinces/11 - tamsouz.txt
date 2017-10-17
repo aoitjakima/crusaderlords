@@ -1,45 +1,21 @@
-	title = c_tamsouz
-	max_settlements = 4
-	culture = selalya
-	religion = aratihr
-	b_kiarihr = tribal
-1.1.1 = {
-	b_nenujku = ct_port_1
-}
+# c_tamsouz
 
-253.4.1 = {
-	culture = laris
-}
+# County Title
+title = c_tamsouz
 
-255.4.1 = {
-	culture = wubihr
-}
+# Settlements
+max_settlements = 7
 
-302.4.1 = {
-	culture = laris
-}
+b_nalzano = city
+b_civime = city
+b_temona = temple
+#b_tamsouz = castle
+#b_tamsouz_2 = city
+#b_tamsouz_3 = temple
+#b_tamsouz_4 = castle
 
-311.4.1 = {
-	culture = wubihr
-}
+# Misc
+culture = estazi_culture1
+religion = estazi_faith
 
-452.4.1 = {
-	culture = selalya
-}
-
-675.4.1 = {
-	b_kiarihr = castle
-}
-
-805.4.1 = {
-	b_nenujku = city
-}
-
-875.4.1 = {
-	b_relujku = temple
-}
-
-962.4.1 = {
-	b_efyir = temple
-}
-
+#History

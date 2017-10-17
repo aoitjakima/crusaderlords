@@ -1,37 +1,17 @@
-	title = c_runuel
-	max_settlements = 3
-	culture = norse
-	religion = qiteka
-	b_surule = tribal
-1.1.1 = {
-	b_dethee = ct_port_1
-}
+# c_runuel
 
-234.4.1 = {
-	culture = waetutlu
-}
+# County Title
+title = c_runuel
 
-307.4.1 = {
-	culture = risutlu
-}
+# Settlements
+max_settlements = 3
 
-560.4.1 = {
-	b_surule = city
-}
+b_runuel = castle
+b_runuel_2 = city
+b_runuel_3 = temple
 
-670.4.1 = {
-	b_dethee = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-849.4.1 = {
-	b_tirutlu = temple
-}
-
-1060.4.1 = {
-	culture = saimes
-}
-
-1063.4.1 = {
-	culture = risutlu
-}
-
+#History

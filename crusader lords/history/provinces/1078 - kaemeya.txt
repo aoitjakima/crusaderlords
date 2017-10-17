@@ -1,33 +1,17 @@
-	title = c_kaemeya
-	max_settlements = 2
-	culture = reusadra
-	religion = tonuyu
-	b_aqaematti = tribal
-1.1.1 = {
-	b_qaura = ct_port_1
-}
+# c_kaemeya
 
-212.4.1 = {
-	culture = keraam
-}
+# County Title
+title = c_kaemeya
 
-291.4.1 = {
-	culture = tiwics
-}
+# Settlements
+max_settlements = 3
 
-445.4.1 = {
-	culture = nalaam
-}
+b_kaemeya = castle
+b_kaemeya_2 = city
+b_kaemeya_3 = temple
 
-505.4.1 = {
-	culture = tiwics
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-860.4.1 = {
-	b_aqaematti = castle
-}
-
-900.4.1 = {
-	b_qaura = city
-}
-
+#History

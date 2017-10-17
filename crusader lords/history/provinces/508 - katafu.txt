@@ -1,25 +1,17 @@
-	title = c_katafu
-	max_settlements = 5
-	culture = narentiy
-	religion = neharis
-	b_sicafu = tribal
-203.4.1 = {
-	culture = syahes
-}
+# c_katafu
 
-555.4.1 = {
-	b_sicafu = castle
-}
+# County Title
+title = c_katafu
 
-630.4.1 = {
-	b_taudando = temple
-}
+# Settlements
+max_settlements = 3
 
-813.4.1 = {
-	b_titinus = city
-}
+b_katafu = castle
+b_katafu_2 = city
+b_katafu_3 = temple
 
-852.4.1 = {
-	b_tisarma = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

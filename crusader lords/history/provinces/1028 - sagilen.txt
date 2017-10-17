@@ -1,9 +1,17 @@
-	title = c_sagilen
-	max_settlements = 2
-	culture = taroman
-	religion = nukaye
-	b_rabinan = tribal
-236.4.1 = {
-	culture = qariyah
-}
+# c_sagilen
 
+# County Title
+title = c_sagilen
+
+# Settlements
+max_settlements = 3
+
+b_sagilen = castle
+b_sagilen_2 = city
+b_sagilen_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

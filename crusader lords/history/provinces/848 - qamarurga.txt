@@ -1,29 +1,17 @@
-	title = c_qamarurga
-	max_settlements = 3
-	culture = kitule
-	religion = terenat
-	b_kiunl = tribal
-236.3.1 = {
-	religion = begeka
-}
+# c_qamarurga
 
-255.4.1 = {
-	culture = banaila
-}
+# County Title
+title = c_qamarurga
 
-371.4.1 = {
-	culture = kitule
-}
+# Settlements
+max_settlements = 3
 
-545.4.1 = {
-	b_kiunl = castle
-}
+b_qamarurga = castle
+b_qamarurga_2 = city
+b_qamarurga_3 = temple
 
-665.4.1 = {
-	b_kisics = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-834.4.1 = {
-	b_adavenat = temple
-}
-
+#History

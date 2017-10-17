@@ -1,17 +1,17 @@
-	title = c_bazae
-	max_settlements = 2
-	culture = lyarala
-	religion = tonuyu
-	b_amudo = tribal
-221.4.1 = {
-	culture = budandev
-}
+# c_bazae
 
-817.4.1 = {
-	b_amudo = castle
-}
+# County Title
+title = c_bazae
 
-853.4.1 = {
-	b_sosudo = temple
-}
+# Settlements
+max_settlements = 3
 
+b_bazae = castle
+b_bazae_2 = city
+b_bazae_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

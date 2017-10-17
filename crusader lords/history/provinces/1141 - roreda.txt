@@ -1,29 +1,17 @@
-	title = c_roreda
-	max_settlements = 4
-	culture = wenira
-	religion = tonuyu
-	b_aricibor = tribal
-1.1.1 = {
-	b_balibor = ct_port_1
-}
+# c_roreda
 
-337.4.1 = {
-	culture = radabor
-}
+# County Title
+title = c_roreda
 
-710.4.1 = {
-	b_aricibor = castle
-}
+# Settlements
+max_settlements = 3
 
-823.4.1 = {
-	b_kilina = temple
-}
+b_roreda = castle
+b_roreda_2 = city
+b_roreda_3 = temple
 
-940.4.1 = {
-	b_balibor = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-1062.4.1 = {
-	b_retony = temple
-}
-
+#History

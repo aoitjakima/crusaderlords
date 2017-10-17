@@ -1,109 +1,17 @@
-	title = c_terosa
-	max_settlements = 7
-	culture = negasseh
-	religion = wedwig
-	b_rule = tribal
-200.3.1 = {
-	religion = qiteka
-}
+# c_terosa
 
-202.4.1 = {
-	culture = retose
-}
+# County Title
+title = c_terosa
 
-203.3.1 = {
-	religion = terenat
-}
+# Settlements
+max_settlements = 3
 
-204.3.1 = {
-	religion = begeka
-}
+b_terosa = castle
+b_terosa_2 = city
+b_terosa_3 = temple
 
-208.3.1 = {
-	religion = terenat
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-210.3.1 = {
-	religion = begeka
-}
-
-211.3.1 = {
-	religion = terenat
-}
-
-216.4.1 = {
-	culture = banaila
-}
-
-217.3.1 = {
-	religion = begeka
-}
-
-222.3.1 = {
-	religion = terenat
-}
-
-231.3.1 = {
-	religion = begeka
-}
-
-244.4.1 = {
-	culture = runafu
-}
-
-254.4.1 = {
-	culture = kitule
-}
-
-280.4.1 = {
-	culture = banaila
-}
-
-315.4.1 = {
-	culture = kitule
-}
-
-358.4.1 = {
-	culture = banaila
-}
-
-371.4.1 = {
-	culture = kitule
-}
-
-376.3.1 = {
-	religion = terenat
-}
-
-377.4.1 = {
-	culture = banaila
-}
-
-377.3.1 = {
-	religion = begeka
-}
-
-384.4.1 = {
-	culture = kitule
-}
-
-565.4.1 = {
-	b_rule = castle
-}
-
-695.4.1 = {
-	b_eraradi = temple
-}
-
-860.4.1 = {
-	b_nuradi = city
-}
-
-933.4.1 = {
-	b_kirenat = city
-}
-
-1002.4.1 = {
-	b_surga = temple
-}
-
+#History

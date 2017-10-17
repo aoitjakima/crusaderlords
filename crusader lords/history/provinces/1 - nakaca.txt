@@ -1,29 +1,21 @@
-	title = c_nakaca
-	max_settlements = 7
-	culture = nahuda
-	religion = neharis
-	b_wahina = tribal
-1.1.1 = {
-	b_kanent = ct_port_1
-}
+# c_nakaca
 
-824.4.1 = {
-	b_wahina = castle
-}
+# County Title
+title = c_nakaca
 
-853.4.1 = {
-	b_salusha = temple
-}
+# Settlements
+max_settlements = 7
 
-925.4.1 = {
-	b_kanent = city
-}
+b_pregou = city
+b_livalio = city
+b_metsona = temple
+#b_nakaca = castle
+#b_nakaca_2 = city
+#b_nakaca_3 = temple
+#b_nakaca_4 = castle
 
-983.4.1 = {
-	b_lamius = castle
-}
+# Misc
+culture = estazi_culture2
+religion = estazi_faith
 
-1040.4.1 = {
-	b_sakega = castle
-}
-
+#History

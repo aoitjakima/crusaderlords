@@ -1,97 +1,17 @@
-	title = c_lahafu
-	max_settlements = 4
-	culture = kapti
-	religion = kusran
-	b_abaroris = tribal
-200.3.1 = {
-	religion = raipi
-}
+# c_lahafu
 
-212.4.1 = {
-	culture = kaureid
-}
+# County Title
+title = c_lahafu
 
-243.3.1 = {
-	religion = wedwig
-}
+# Settlements
+max_settlements = 3
 
-243.4.1 = {
-	culture = eluedsalh
-}
+b_lahafu = castle
+b_lahafu_2 = city
+b_lahafu_3 = temple
 
-254.3.1 = {
-	religion = raipi
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-258.3.1 = {
-	religion = wedwig
-}
-
-259.3.1 = {
-	religion = raipi
-}
-
-268.3.1 = {
-	religion = wedwig
-}
-
-270.3.1 = {
-	religion = raipi
-}
-
-275.4.1 = {
-	culture = kapti
-}
-
-284.3.1 = {
-	religion = kusran
-}
-
-285.3.1 = {
-	religion = raipi
-}
-
-288.3.1 = {
-	religion = kusran
-}
-
-290.3.1 = {
-	religion = raipi
-}
-
-292.4.1 = {
-	culture = taodha
-}
-
-350.4.1 = {
-	culture = sutidoka
-}
-
-381.4.1 = {
-	culture = kapti
-}
-
-448.4.1 = {
-	culture = sutidoka
-}
-
-465.4.1 = {
-	culture = kapti
-}
-
-706.4.1 = {
-	b_abaroris = castle
-}
-
-832.4.1 = {
-	b_sareesi = city
-}
-
-936.4.1 = {
-	b_duleed = temple
-}
-
-1022.4.1 = {
-	b_avahoris = city
-}
-
+#History

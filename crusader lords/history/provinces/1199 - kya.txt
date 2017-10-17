@@ -1,21 +1,17 @@
-	title = c_kya
-	max_settlements = 3
-	culture = lyarala
-	religion = tonuyu
-	b_rulyape = tribal
-318.4.1 = {
-	culture = budandev
-}
+# c_kya
 
-818.4.1 = {
-	b_rulyape = castle
-}
+# County Title
+title = c_kya
 
-858.4.1 = {
-	b_sylina = temple
-}
+# Settlements
+max_settlements = 3
 
-957.4.1 = {
-	b_budo = city
-}
+b_kya = castle
+b_kya_2 = city
+b_kya_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

@@ -1,73 +1,17 @@
-	title = c_nederd
-	max_settlements = 2
-	culture = durga
-	religion = terenat
-	b_kedidia = tribal
-236.3.1 = {
-	religion = begeka
-}
+# c_nederd
 
-247.3.1 = {
-	religion = terenat
-}
+# County Title
+title = c_nederd
 
-250.3.1 = {
-	religion = begeka
-}
+# Settlements
+max_settlements = 3
 
-261.3.1 = {
-	religion = terenat
-}
+b_nederd = castle
+b_nederd_2 = city
+b_nederd_3 = temple
 
-263.3.1 = {
-	religion = begeka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-266.3.1 = {
-	religion = terenat
-}
-
-269.3.1 = {
-	religion = begeka
-}
-
-275.3.1 = {
-	religion = terenat
-}
-
-282.3.1 = {
-	religion = begeka
-}
-
-283.4.1 = {
-	culture = banaila
-}
-
-313.4.1 = {
-	culture = kitule
-}
-
-329.4.1 = {
-	culture = banaila
-}
-
-400.4.1 = {
-	culture = kitule
-}
-
-430.4.1 = {
-	culture = banaila
-}
-
-498.4.1 = {
-	culture = kitule
-}
-
-520.4.1 = {
-	b_kedidia = castle
-}
-
-690.4.1 = {
-	b_evacob = city
-}
-
+#History

@@ -1,37 +1,17 @@
-	title = c_agenella
-	max_settlements = 2
-	culture = amuhopti
-	religion = neharis
-	b_lavinia = tribal
-203.4.1 = {
-	culture = sodinia
-}
+# c_agenella
 
-232.4.1 = {
-	culture = syahes
-}
+# County Title
+title = c_agenella
 
-238.4.1 = {
-	culture = sodinia
-}
+# Settlements
+max_settlements = 3
 
-354.4.1 = {
-	culture = syahes
-}
+b_agenella = castle
+b_agenella_2 = city
+b_agenella_3 = temple
 
-370.4.1 = {
-	culture = sodinia
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-391.4.1 = {
-	culture = syahes
-}
-
-515.4.1 = {
-	b_lavinia = castle
-}
-
-625.4.1 = {
-	b_barentiy = temple
-}
-
+#History

@@ -1,33 +1,17 @@
-	title = c_eberule
-	max_settlements = 4
-	culture = narentiy
-	religion = neharis
-	b_liseka = tribal
-228.4.1 = {
-	culture = syahes
-}
+# c_eberule
 
-283.4.1 = {
-	culture = amuhopti
-}
+# County Title
+title = c_eberule
 
-320.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 3
 
-322.4.1 = {
-	culture = amuhopti
-}
+b_eberule = castle
+b_eberule_2 = city
+b_eberule_3 = temple
 
-451.4.1 = {
-	culture = syahes
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-575.4.1 = {
-	b_liseka = castle
-}
-
-725.4.1 = {
-	b_etarma = temple
-}
-
+#History

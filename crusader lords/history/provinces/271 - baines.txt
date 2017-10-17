@@ -1,29 +1,17 @@
-	title = c_baines
-	max_settlements = 3
-	culture = syahes
-	religion = neharis
-	b_regeneka = tribal
-283.4.1 = {
-	culture = amuhopti
-}
+# c_baines
 
-320.4.1 = {
-	culture = syahes
-}
+# County Title
+title = c_baines
 
-322.4.1 = {
-	culture = amuhopti
-}
+# Settlements
+max_settlements = 3
 
-451.4.1 = {
-	culture = syahes
-}
+b_binz = castle
+b_baines = city
+b_baines_2 = temple
 
-575.4.1 = {
-	b_regeneka = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-725.4.1 = {
-	b_terarma = temple
-}
-
+#History

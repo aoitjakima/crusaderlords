@@ -1,33 +1,17 @@
-	title = c_wucada
-	max_settlements = 4
-	culture = remis
-	religion = raipi
-	b_ryla = tribal
-205.3.1 = {
-	religion = wedwig
-}
+# c_wucada
 
-217.3.1 = {
-	religion = raipi
-}
+# County Title
+title = c_wucada
 
-229.4.1 = {
-	culture = digaka
-}
+# Settlements
+max_settlements = 3
 
-735.4.1 = {
-	b_ryla = castle
-}
+b_wucada = castle
+b_wucada_2 = city
+b_wucada_3 = temple
 
-822.4.1 = {
-	b_quren = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-914.4.1 = {
-	b_qolyhon = city
-}
-
-1042.4.1 = {
-	b_syoo = temple
-}
-
+#History

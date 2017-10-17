@@ -1,29 +1,17 @@
-	title = c_detpalamadaran
-	max_settlements = 2
-	culture = kadalen
-	religion = tonuyu
-	b_ralaclav = tribal
-1.1.1 = {
-	b_econabra = ct_port_1
-}
+# c_detpalamadaran
 
-213.4.1 = {
-	culture = radabor
-}
+# County Title
+title = c_detpalamadaran
 
-257.4.1 = {
-	culture = wenira
-}
+# Settlements
+max_settlements = 3
 
-260.4.1 = {
-	culture = radabor
-}
+b_detpalamadaran = castle
+b_detpalamadaran_2 = city
+b_detpalamadaran_3 = temple
 
-730.4.1 = {
-	b_ralaclav = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-819.4.1 = {
-	b_econabra = city
-}
-
+#History

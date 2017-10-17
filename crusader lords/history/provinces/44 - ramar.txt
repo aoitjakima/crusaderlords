@@ -1,25 +1,18 @@
-	title = c_ramar
-	max_settlements = 5
-	culture = lodeid
-	religion = kodine
-	b_soukh = tribal
-201.3.1 = {
-	religion = tonuyu
-}
+# c_ramar
 
-210.4.1 = {
-	culture = biho
-}
+# County Title
+title = c_ramar
 
-838.4.1 = {
-	b_soukh = castle
-}
+# Settlements
+max_settlements = 4
 
-872.4.1 = {
-	b_teneta = city
-}
+b_matlalihuitl = temple
+b_cuicatl = city
+#b_ramar = temple
+#b_ramar_2 = castle
 
-976.4.1 = {
-	b_tasyik = temple
-}
+# Misc
+culture = druchi
+religion = kirian
 
+#History

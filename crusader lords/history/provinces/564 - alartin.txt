@@ -1,101 +1,17 @@
-	title = c_alartin
-	max_settlements = 5
-	culture = kapti
-	religion = kusran
-	b_kelalwo = tribal
-1.1.1 = {
-	b_saher = ct_port_1
-}
+# c_alartin
 
-200.3.1 = {
-	religion = raipi
-}
+# County Title
+title = c_alartin
 
-212.4.1 = {
-	culture = kaureid
-}
+# Settlements
+max_settlements = 3
 
-243.3.1 = {
-	religion = wedwig
-}
+b_alartin = castle
+b_alartin_2 = city
+b_alartin_3 = temple
 
-243.4.1 = {
-	culture = eluedsalh
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-254.3.1 = {
-	religion = raipi
-}
-
-258.3.1 = {
-	religion = wedwig
-}
-
-259.3.1 = {
-	religion = raipi
-}
-
-268.3.1 = {
-	religion = wedwig
-}
-
-270.3.1 = {
-	religion = raipi
-}
-
-275.4.1 = {
-	culture = kapti
-}
-
-284.3.1 = {
-	religion = kusran
-}
-
-285.3.1 = {
-	religion = raipi
-}
-
-288.3.1 = {
-	religion = kusran
-}
-
-290.3.1 = {
-	religion = raipi
-}
-
-292.4.1 = {
-	culture = taodha
-}
-
-350.4.1 = {
-	culture = sutidoka
-}
-
-381.4.1 = {
-	culture = kapti
-}
-
-448.4.1 = {
-	culture = sutidoka
-}
-
-465.4.1 = {
-	culture = kapti
-}
-
-800.4.1 = {
-	b_kelalwo = castle
-}
-
-834.4.1 = {
-	b_rudalwo = temple
-}
-
-931.4.1 = {
-	b_saher = city
-}
-
-1022.4.1 = {
-	b_telaila = castle
-}
-
+#History

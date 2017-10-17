@@ -1,41 +1,21 @@
-	title = c_wagilf
-	max_settlements = 5
-	culture = wubihr
-	religion = aratihr
-	b_alyia = tribal
-1.1.1 = {
-	b_bafyao = ct_port_1
-}
+# c_wagilf
 
-270.4.1 = {
-	culture = laris
-}
+# County Title
+title = c_wagilf
 
-361.4.1 = {
-	culture = wubihr
-}
+# Settlements
+max_settlements = 7
 
-444.4.1 = {
-	culture = selalya
-}
+b_fandela = city
+b_bramor = city
+b_becem = temple
+#b_wagilf = castle
+#b_wagilf_2 = city
+#b_wagilf_3 = temple
+#b_wagilf_4 = castle
 
-680.4.1 = {
-	b_alyia = castle
-}
+# Misc
+culture = estazi_culture3
+religion = estazi_faith
 
-805.4.1 = {
-	b_bafyao = city
-}
-
-896.4.1 = {
-	b_taicako = temple
-}
-
-973.4.1 = {
-	b_kedako = temple
-}
-
-1064.4.1 = {
-	b_ramaikihr = temple
-}
-
+#History

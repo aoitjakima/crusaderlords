@@ -1,85 +1,17 @@
-	title = c_ryad
-	max_settlements = 2
-	culture = waynald
-	religion = wedwig
-	b_telen = tribal
-202.3.1 = {
-	religion = eraygnars
-}
+# c_ryad
 
-213.3.1 = {
-	religion = wedwig
-}
+# County Title
+title = c_ryad
 
-218.3.1 = {
-	religion = eraygnars
-}
+# Settlements
+max_settlements = 3
 
-225.4.1 = {
-	culture = nuteria
-}
+b_ryad = castle
+b_ryad_2 = city
+b_ryad_3 = temple
 
-234.4.1 = {
-	culture = waynald
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-235.3.1 = {
-	religion = wedwig
-}
-
-236.3.1 = {
-	religion = eraygnars
-}
-
-239.3.1 = {
-	religion = wedwig
-}
-
-252.3.1 = {
-	religion = eraygnars
-}
-
-263.3.1 = {
-	religion = wedwig
-}
-
-282.3.1 = {
-	religion = eraygnars
-}
-
-284.3.1 = {
-	religion = wedwig
-}
-
-289.3.1 = {
-	religion = eraygnars
-}
-
-295.3.1 = {
-	religion = wedwig
-}
-
-303.3.1 = {
-	religion = eraygnars
-}
-
-304.3.1 = {
-	religion = wedwig
-}
-
-309.3.1 = {
-	religion = eraygnars
-}
-
-315.4.1 = {
-	culture = nuteria
-}
-
-725.4.1 = {
-	b_telen = castle
-}
-
-806.4.1 = {
-	b_rayneig = city
-}
-
+#History

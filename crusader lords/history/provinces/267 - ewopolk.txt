@@ -1,13 +1,17 @@
-	title = c_ewopolk
-	max_settlements = 2
-	culture = waynald
-	religion = wedwig
-	b_sitsisas = tribal
-620.4.1 = {
-	b_sitsisas = castle
-}
+# c_ewopolk
 
-795.4.1 = {
-	b_akutayan = temple
-}
+# County Title
+title = c_ewopolk
 
+# Settlements
+max_settlements = 3
+
+b_ewopolk = castle
+b_ewopolk_2 = city
+b_ewopolk_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

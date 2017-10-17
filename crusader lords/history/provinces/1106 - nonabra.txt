@@ -1,37 +1,17 @@
-	title = c_nonabra
-	max_settlements = 5
-	culture = rudeslav
-	religion = tonuyu
-	b_qewiloran = tribal
-1.1.1 = {
-	b_wakuga = ct_port_1
-}
+# c_nonabra
 
-256.4.1 = {
-	culture = wenira
-}
+# County Title
+title = c_nonabra
 
-346.4.1 = {
-	culture = radabor
-}
+# Settlements
+max_settlements = 3
 
-615.4.1 = {
-	b_qewiloran = castle
-}
+b_nonabra = castle
+b_nonabra_2 = city
+b_nonabra_3 = temple
 
-765.4.1 = {
-	b_wakuga = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-873.4.1 = {
-	b_ricatti = temple
-}
-
-946.4.1 = {
-	b_dicony = city
-}
-
-1014.4.1 = {
-	b_ekoratha = city
-}
-
+#History

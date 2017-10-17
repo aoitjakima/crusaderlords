@@ -1,5 +1,18 @@
-	title = c_wepevag
-	max_settlements = 2
-	culture = qarevag
-	religion = neharis
-	b_baraslan = tribal
+# c_wepevag
+
+# County Title
+title = c_wepevag
+
+# Settlements
+max_settlements = 4
+
+b_urkux = temple
+b_joxxukxaz = city
+b_akkzuz = castle
+#b_wepevag = castle
+
+# Misc
+culture = kir-ko
+religion = kirian
+
+#History

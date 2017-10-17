@@ -1,37 +1,17 @@
-	title = c_lenius
-	max_settlements = 6
-	culture = sodinia
-	religion = neharis
-	b_qeria = tribal
-339.4.1 = {
-	culture = nitindik
-}
+# c_lenius
 
-350.4.1 = {
-	culture = talentiy
-}
+# County Title
+title = c_lenius
 
-505.4.1 = {
-	b_qeria = castle
-}
+# Settlements
+max_settlements = 3
 
-625.4.1 = {
-	b_etibel = temple
-}
+b_lenius = castle
+b_lenius_2 = city
+b_lenius_3 = temple
 
-833.4.1 = {
-	b_dutius = city
-}
+# Misc
+culture = bastian_avas
+religion = kirothian
 
-897.4.1 = {
-	b_rareria = city
-}
-
-956.4.1 = {
-	b_qyahsae = castle
-}
-
-1000.4.1 = {
-	b_ralentiy = temple
-}
-
+#History

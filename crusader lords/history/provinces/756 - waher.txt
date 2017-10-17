@@ -1,109 +1,17 @@
-	title = c_waher
-	max_settlements = 3
-	culture = abajule
-	religion = telayira
-	b_kahoris = tribal
-1.1.1 = {
-	b_titer = ct_port_1
-}
+# c_waher
 
-202.3.1 = {
-	religion = kusran
-}
+# County Title
+title = c_waher
 
-203.3.1 = {
-	religion = telayira
-}
+# Settlements
+max_settlements = 3
 
-205.3.1 = {
-	religion = kusran
-}
+b_waher = castle
+b_waher_2 = city
+b_waher_3 = temple
 
-211.3.1 = {
-	religion = telayira
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-214.3.1 = {
-	religion = kusran
-}
-
-218.4.1 = {
-	culture = tasule
-}
-
-224.3.1 = {
-	religion = telayira
-}
-
-227.4.1 = {
-	culture = abajule
-}
-
-236.3.1 = {
-	religion = kusran
-}
-
-252.3.1 = {
-	religion = telayira
-}
-
-254.3.1 = {
-	religion = kusran
-}
-
-259.3.1 = {
-	religion = telayira
-}
-
-260.4.1 = {
-	culture = tasule
-}
-
-272.3.1 = {
-	religion = kusran
-}
-
-273.4.1 = {
-	culture = abajule
-}
-
-278.3.1 = {
-	religion = telayira
-}
-
-278.3.1 = {
-	religion = kusran
-}
-
-279.4.1 = {
-	culture = tasule
-}
-
-281.3.1 = {
-	religion = telayira
-}
-
-295.3.1 = {
-	religion = kusran
-}
-
-298.4.1 = {
-	culture = ricqa
-}
-
-307.4.1 = {
-	culture = abajule
-}
-
-635.4.1 = {
-	b_kahoris = castle
-}
-
-720.4.1 = {
-	b_titer = city
-}
-
-830.4.1 = {
-	b_asoporis = temple
-}
-
+#History

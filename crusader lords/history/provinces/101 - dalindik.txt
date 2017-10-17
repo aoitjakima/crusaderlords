@@ -1,17 +1,17 @@
-	title = c_dalindik
-	max_settlements = 6
-	culture = nuteria
-	religion = wedwig
-	b_leria = tribal
-322.4.1 = {
-	culture = waynald
-}
+# c_dalindik
 
-327.4.1 = {
-	culture = nuteria
-}
+# County Title
+title = c_dalindik
 
-398.4.1 = {
-	culture = waynald
-}
+# Settlements
+max_settlements = 3
 
+b_dalindik = castle
+b_dalindik_2 = city
+b_dalindik_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

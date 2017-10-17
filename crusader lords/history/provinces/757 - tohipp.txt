@@ -1,17 +1,17 @@
-	title = c_tohipp
-	max_settlements = 3
-	culture = abajule
-	religion = kusran
-	b_apritey = tribal
-625.4.1 = {
-	b_apritey = castle
-}
+# c_tohipp
 
-806.4.1 = {
-	b_winoedl = city
-}
+# County Title
+title = c_tohipp
 
-940.4.1 = {
-	b_qotl = temple
-}
+# Settlements
+max_settlements = 3
 
+b_tohipp = castle
+b_tohipp_2 = city
+b_tohipp_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

@@ -1,37 +1,17 @@
-	title = c_tiwihal
-	max_settlements = 7
-	culture = disinos
-	religion = kusran
-	b_dilidiyevb = tribal
-632.3.1 = {
-	religion = qiteka
-}
+# c_tiwihal
 
-640.4.1 = {
-	culture = risutlu
-}
+# County Title
+title = c_tiwihal
 
-667.4.1 = {
-	culture = disinos
-}
+# Settlements
+max_settlements = 3
 
-873.4.1 = {
-	culture = risutlu
-}
+b_tiwihal = castle
+b_tiwihal_2 = city
+b_tiwihal_3 = temple
 
-883.4.1 = {
-	culture = saimes
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-902.4.1 = {
-	culture = risutlu
-}
-
-961.4.1 = {
-	b_dilidiyevb = city
-}
-
-977.4.1 = {
-	b_lavacob = temple
-}
-
+#History

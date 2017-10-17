@@ -1,17 +1,17 @@
-	title = c_kinipp
-	max_settlements = 3
-	culture = abajule
-	religion = kusran
-	b_kedinus = tribal
-620.4.1 = {
-	b_kedinus = castle
-}
+# c_kinipp
 
-745.4.1 = {
-	b_ludlasoplul = city
-}
+# County Title
+title = c_kinipp
 
-869.4.1 = {
-	b_qacotidia = temple
-}
+# Settlements
+max_settlements = 3
 
+b_kinipp = castle
+b_kinipp_2 = city
+b_kinipp_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

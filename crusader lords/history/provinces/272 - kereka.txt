@@ -1,33 +1,17 @@
-	title = c_kereka
-	max_settlements = 4
-	culture = syahes
-	religion = neharis
-	b_denafu = tribal
-206.4.1 = {
-	culture = amuhopti
-}
+# c_kereka
 
-315.4.1 = {
-	culture = syahes
-}
+# County Title
+title = c_kereka
 
-352.4.1 = {
-	culture = amuhopti
-}
+# Settlements
+max_settlements = 3
 
-451.4.1 = {
-	culture = syahes
-}
+b_strasburg = castle
+b_kereka = city
+b_kereka_2 = temple
 
-540.4.1 = {
-	b_denafu = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-660.4.1 = {
-	b_kenando = temple
-}
-
-843.4.1 = {
-	b_wisando = city
-}
-
+#History

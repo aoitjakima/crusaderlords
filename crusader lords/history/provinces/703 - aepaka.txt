@@ -1,29 +1,17 @@
-	title = c_aepaka
-	max_settlements = 7
-	culture = abajule
-	religion = kusran
-	b_webufia = tribal
-1.1.1 = {
-	b_batdasi = ct_port_1
-}
+# c_aepaka
 
-640.4.1 = {
-	b_webufia = castle
-}
+# County Title
+title = c_aepaka
 
-785.4.1 = {
-	b_edoris = temple
-}
+# Settlements
+max_settlements = 3
 
-862.4.1 = {
-	b_batdasi = city
-}
+b_aepaka = castle
+b_aepaka_2 = city
+b_aepaka_3 = temple
 
-922.4.1 = {
-	b_awelerrebr = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-995.4.1 = {
-	b_qatafu = temple
-}
-
+#History

@@ -1,25 +1,17 @@
-	title = c_adyekohn
-	max_settlements = 2
-	culture = syahes
-	religion = neharis
-	b_leheral = tribal
-207.4.1 = {
-	culture = karibel
-}
+# c_adyekohn
 
-248.4.1 = {
-	culture = nitindik
-}
+# County Title
+title = c_adyekohn
 
-540.4.1 = {
-	b_leheral = castle
-}
+# Settlements
+max_settlements = 3
 
-675.4.1 = {
-	b_keygith = temple
-}
+b_adyekohn = castle
+b_adyekohn_2 = city
+b_adyekohn_3 = temple
 
-859.4.1 = {
-	culture = syahes
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

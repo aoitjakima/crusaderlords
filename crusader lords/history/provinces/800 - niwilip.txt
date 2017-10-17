@@ -1,101 +1,17 @@
-	title = c_niwilip
-	max_settlements = 7
-	culture = banaila
-	religion = begeka
-	b_berenat = tribal
-203.3.1 = {
-	religion = terenat
-}
+# c_niwilip
 
-206.3.1 = {
-	religion = begeka
-}
+# County Title
+title = c_niwilip
 
-208.3.1 = {
-	religion = terenat
-}
+# Settlements
+max_settlements = 3
 
-209.3.1 = {
-	religion = begeka
-}
+b_niwilip = castle
+b_niwilip_2 = city
+b_niwilip_3 = temple
 
-211.3.1 = {
-	religion = terenat
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-215.3.1 = {
-	religion = begeka
-}
-
-222.3.1 = {
-	religion = terenat
-}
-
-228.3.1 = {
-	religion = begeka
-}
-
-228.3.1 = {
-	religion = terenat
-}
-
-230.3.1 = {
-	religion = begeka
-}
-
-230.3.1 = {
-	religion = terenat
-}
-
-236.3.1 = {
-	religion = begeka
-}
-
-238.3.1 = {
-	religion = terenat
-}
-
-240.3.1 = {
-	religion = begeka
-}
-
-241.3.1 = {
-	religion = terenat
-}
-
-244.3.1 = {
-	religion = begeka
-}
-
-256.3.1 = {
-	religion = terenat
-}
-
-263.3.1 = {
-	religion = begeka
-}
-
-482.4.1 = {
-	culture = kitule
-}
-
-595.4.1 = {
-	b_berenat = castle
-}
-
-725.4.1 = {
-	b_woumas = temple
-}
-
-861.4.1 = {
-	b_qedrelin = city
-}
-
-937.4.1 = {
-	b_radi = castle
-}
-
-1018.4.1 = {
-	b_rarolas = temple
-}
-
+#History

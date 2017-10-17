@@ -1,49 +1,17 @@
-	title = c_kaladanina
-	max_settlements = 2
-	culture = ryanopti
-	religion = kusran
-	b_alidia = tribal
-201.3.1 = {
-	religion = wedwig
-}
+# c_kaladanina
 
-201.4.1 = {
-	culture = weliana
-}
+# County Title
+title = c_kaladanina
 
-204.4.1 = {
-	culture = ryanopti
-}
+# Settlements
+max_settlements = 3
 
-208.3.1 = {
-	religion = kusran
-}
+b_kaladanina = castle
+b_kaladanina_2 = city
+b_kaladanina_3 = temple
 
-247.3.1 = {
-	religion = wedwig
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-259.3.1 = {
-	religion = kusran
-}
-
-343.3.1 = {
-	religion = wedwig
-}
-
-347.3.1 = {
-	religion = kusran
-}
-
-347.3.1 = {
-	religion = wedwig
-}
-
-615.4.1 = {
-	b_alidia = castle
-}
-
-765.4.1 = {
-	b_kurison = temple
-}
-
+#History

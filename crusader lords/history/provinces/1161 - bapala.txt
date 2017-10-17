@@ -1,45 +1,17 @@
-	title = c_bapala
-	max_settlements = 2
-	culture = reasep
-	religion = worelen
-	b_teusabra = tribal
-203.3.1 = {
-	religion = tonuyu
-}
+# c_bapala
 
-205.3.1 = {
-	religion = worelen
-}
+# County Title
+title = c_bapala
 
-209.3.1 = {
-	religion = tonuyu
-}
+# Settlements
+max_settlements = 3
 
-219.3.1 = {
-	religion = worelen
-}
+b_bapala = castle
+b_bapala_2 = city
+b_bapala_3 = temple
 
-221.3.1 = {
-	religion = tonuyu
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-225.4.1 = {
-	culture = tiwics
-}
-
-444.4.1 = {
-	culture = nalaam
-}
-
-447.4.1 = {
-	culture = tiwics
-}
-
-720.4.1 = {
-	b_teusabra = castle
-}
-
-818.4.1 = {
-	b_qepeya = city
-}
-
+#History

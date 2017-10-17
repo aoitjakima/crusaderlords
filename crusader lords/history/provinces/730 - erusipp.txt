@@ -1,21 +1,17 @@
-	title = c_erusipp
-	max_settlements = 5
-	culture = ryanopti
-	religion = kusran
-	b_qaudey = tribal
-201.4.1 = {
-	culture = disinos
-}
+# c_erusipp
 
-293.4.1 = {
-	culture = ryanopti
-}
+# County Title
+title = c_erusipp
 
-387.3.1 = {
-	religion = wedwig
-}
+# Settlements
+max_settlements = 3
 
-980.4.1 = {
-	b_qaudey = castle
-}
+b_erusipp = castle
+b_erusipp_2 = city
+b_erusipp_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

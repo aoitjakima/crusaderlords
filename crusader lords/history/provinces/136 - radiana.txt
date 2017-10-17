@@ -1,5 +1,17 @@
-	title = c_radiana
-	max_settlements = 2
-	culture = waynald
-	religion = wedwig
-	b_segunduz = tribal
+# c_radiana
+
+# County Title
+title = c_radiana
+
+# Settlements
+max_settlements = 3
+
+b_radiana = castle
+b_radiana_2 = city
+b_radiana_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

@@ -1,137 +1,17 @@
-	title = c_kepatti
-	max_settlements = 3
-	culture = tudatha
-	religion = worelen
-	b_tanaspal = tribal
-203.3.1 = {
-	religion = tonuyu
-}
+# c_kepatti
 
-206.3.1 = {
-	religion = worelen
-}
+# County Title
+title = c_kepatti
 
-209.3.1 = {
-	religion = tonuyu
-}
+# Settlements
+max_settlements = 3
 
-214.3.1 = {
-	religion = worelen
-}
+b_kepatti = castle
+b_kepatti_2 = city
+b_kepatti_3 = temple
 
-217.3.1 = {
-	religion = tonuyu
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-247.3.1 = {
-	religion = worelen
-}
-
-258.3.1 = {
-	religion = tonuyu
-}
-
-259.3.1 = {
-	religion = worelen
-}
-
-259.3.1 = {
-	religion = tonuyu
-}
-
-264.3.1 = {
-	religion = worelen
-}
-
-272.3.1 = {
-	religion = tonuyu
-}
-
-273.3.1 = {
-	religion = worelen
-}
-
-274.3.1 = {
-	religion = tonuyu
-}
-
-277.3.1 = {
-	religion = worelen
-}
-
-277.3.1 = {
-	religion = tonuyu
-}
-
-278.3.1 = {
-	religion = worelen
-}
-
-279.3.1 = {
-	religion = tonuyu
-}
-
-286.3.1 = {
-	religion = worelen
-}
-
-288.3.1 = {
-	religion = tonuyu
-}
-
-294.3.1 = {
-	religion = worelen
-}
-
-301.3.1 = {
-	religion = tonuyu
-}
-
-302.3.1 = {
-	religion = worelen
-}
-
-303.3.1 = {
-	religion = tonuyu
-}
-
-307.3.1 = {
-	religion = worelen
-}
-
-317.3.1 = {
-	religion = tonuyu
-}
-
-319.3.1 = {
-	religion = worelen
-}
-
-338.3.1 = {
-	religion = tonuyu
-}
-
-343.4.1 = {
-	culture = tiwics
-}
-
-392.4.1 = {
-	culture = tudatha
-}
-
-408.4.1 = {
-	culture = tiwics
-}
-
-670.4.1 = {
-	b_tanaspal = castle
-}
-
-806.4.1 = {
-	b_anaspal = temple
-}
-
-916.4.1 = {
-	b_elorebia = city
-}
-
+#History

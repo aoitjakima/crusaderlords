@@ -1,41 +1,17 @@
-	title = c_bucadi
-	max_settlements = 2
-	culture = tiwics
-	religion = tonuyu
-	b_tiwilip = tribal
-1.1.1 = {
-	b_sisabra = ct_port_1
-}
+# c_bucadi
 
-201.4.1 = {
-	culture = reasep
-}
+# County Title
+title = c_bucadi
 
-347.4.1 = {
-	culture = tiwics
-}
+# Settlements
+max_settlements = 3
 
-376.4.1 = {
-	culture = reasep
-}
+b_bucadi = castle
+b_bucadi_2 = city
+b_bucadi_3 = temple
 
-412.4.1 = {
-	culture = tiwics
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-439.4.1 = {
-	culture = reasep
-}
-
-455.4.1 = {
-	culture = tiwics
-}
-
-814.4.1 = {
-	b_tiwilip = castle
-}
-
-850.4.1 = {
-	b_sisabra = city
-}
-
+#History

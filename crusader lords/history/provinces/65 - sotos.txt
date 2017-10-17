@@ -1,17 +1,18 @@
-	title = c_sotos
-	max_settlements = 2
-	culture = biho
-	religion = tonuyu
-	b_lazane = tribal
-1.1.1 = {
-	b_lulenes = ct_port_1
-}
+# c_sotos
 
-964.4.1 = {
-	b_lazane = castle
-}
+# County Title
+title = c_sotos
 
-1005.4.1 = {
-	b_lulenes = city
-}
+# Settlements
+max_settlements = 4
 
+b_natlalihuitl_2 = temple
+#b_sotos = city
+#b_sotos_2 = temple
+#b_sotos_3 = castle
+
+# Misc
+culture = druchi
+religion = kirothian
+
+#History

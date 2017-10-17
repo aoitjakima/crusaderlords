@@ -1,29 +1,17 @@
-	title = c_latotos
-	max_settlements = 5
-	culture = remis
-	religion = raipi
-	b_dovesind = tribal
-205.3.1 = {
-	religion = wedwig
-}
+# c_latotos
 
-216.4.1 = {
-	culture = digaka
-}
+# County Title
+title = c_latotos
 
-217.3.1 = {
-	religion = raipi
-}
+# Settlements
+max_settlements = 3
 
-735.4.1 = {
-	b_dovesind = castle
-}
+b_latotos = castle
+b_latotos_2 = city
+b_latotos_3 = temple
 
-816.4.1 = {
-	b_kaxande = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-991.4.1 = {
-	b_woliby = city
-}
-
+#History

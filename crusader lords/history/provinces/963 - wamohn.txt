@@ -1,37 +1,17 @@
-	title = c_wamohn
-	max_settlements = 3
-	culture = lerelin
-	religion = naneka
-	b_baijong = tribal
-1.1.1 = {
-	b_asepeki = ct_port_1
-}
+# c_wamohn
 
-206.4.1 = {
-	culture = taetoza
-}
+# County Title
+title = c_wamohn
 
-238.4.1 = {
-	culture = lerelin
-}
+# Settlements
+max_settlements = 3
 
-271.4.1 = {
-	culture = wates
-}
+b_wamohn = castle
+b_wamohn_2 = city
+b_wamohn_3 = temple
 
-373.3.1 = {
-	religion = qiteka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-665.4.1 = {
-	b_baijong = castle
-}
-
-765.4.1 = {
-	b_depith = temple
-}
-
-849.4.1 = {
-	b_asepeki = city
-}
-
+#History

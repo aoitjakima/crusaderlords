@@ -1,37 +1,17 @@
-	title = c_qahedia
-	max_settlements = 2
-	culture = ricqa
-	religion = kusran
-	b_rolli = tribal
-272.4.1 = {
-	culture = kapti
-}
+# c_qahedia
 
-283.3.1 = {
-	religion = raipi
-}
+# County Title
+title = c_qahedia
 
-293.4.1 = {
-	culture = taodha
-}
+# Settlements
+max_settlements = 3
 
-315.4.1 = {
-	culture = kapti
-}
+b_qahedia = castle
+b_qahedia_2 = city
+b_qahedia_3 = temple
 
-414.4.1 = {
-	culture = sutidoka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-533.4.1 = {
-	culture = kapti
-}
-
-909.4.1 = {
-	b_rolli = castle
-}
-
-1010.4.1 = {
-	b_saspar = city
-}
-
+#History

@@ -1,69 +1,17 @@
-	title = c_wegamur
-	max_settlements = 4
-	culture = sereka
-	religion = naneka
-	b_kamuvdi = tribal
-202.3.1 = {
-	religion = begeka
-}
+# c_wegamur
 
-222.4.1 = {
-	culture = runafu
-}
+# County Title
+title = c_wegamur
 
-238.3.1 = {
-	religion = naneka
-}
+# Settlements
+max_settlements = 3
 
-242.4.1 = {
-	culture = sereka
-}
+b_wegamur = castle
+b_wegamur_2 = city
+b_wegamur_3 = temple
 
-348.4.1 = {
-	culture = runafu
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-366.4.1 = {
-	culture = sereka
-}
-
-471.4.1 = {
-	culture = runafu
-}
-
-481.4.1 = {
-	culture = sereka
-}
-
-625.4.1 = {
-	b_kamuvdi = castle
-}
-
-702.4.1 = {
-	culture = runafu
-}
-
-765.4.1 = {
-	b_sesanda = temple
-}
-
-876.4.1 = {
-	b_sotamur = city
-}
-
-946.4.1 = {
-	b_naneina = city
-}
-
-963.4.1 = {
-	culture = sereka
-}
-
-982.4.1 = {
-	culture = runafu
-}
-
-1000.4.1 = {
-	culture = sereka
-}
-
+#History

@@ -1,21 +1,17 @@
-	title = c_emaudey
-	max_settlements = 2
-	culture = ebeina
-	religion = qiteka
-	b_redacob = tribal
-523.4.1 = {
-	culture = risutlu
-}
+# c_emaudey
 
-575.4.1 = {
-	b_redacob = castle
-}
+# County Title
+title = c_emaudey
 
-715.4.1 = {
-	b_qyeviby = temple
-}
+# Settlements
+max_settlements = 3
 
-887.4.1 = {
-	culture = saimes
-}
+b_sintra = castle
+b_emaudey = city
+b_emaudey_2 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

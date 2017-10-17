@@ -1,21 +1,18 @@
-	title = c_tuhunas
-	max_settlements = 4
-	culture = duulava
-	religion = neharis
-	b_kartas = tribal
-1.1.1 = {
-	b_wicila = ct_port_1
-}
+# c_tuhunas
 
-965.4.1 = {
-	b_kartas = castle
-}
+# County Title
+title = c_tuhunas
 
-1022.4.1 = {
-	b_kicare = temple
-}
+# Settlements
+max_settlements = 4
 
-1062.4.1 = {
-	b_wicila = city
-}
+b_arrkedrath = temple
+b_alkar_ar = city
+b_jaoxrangux = castle
+#b_tuhunas = castle
 
+# Misc
+culture = kir-ko
+religion = kirian
+
+#History

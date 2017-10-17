@@ -1,0 +1,27 @@
+#DRU
+technology = {
+	titles = {
+		d_bimar
+		d_dalamc
+		d_kepetam
+		d_lenane
+		d_lesine
+		d_necamc
+		d_ramar
+		d_recane
+		d_rergia
+		d_rubine
+		d_sotos
+		d_tetatti
+	}
+	501 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+	1426 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

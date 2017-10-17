@@ -1,45 +1,17 @@
-	title = c_teherdon
-	max_settlements = 7
-	culture = syahes
-	religion = neharis
-	b_tosiel = tribal
-1.1.1 = {
-	b_rasaria = ct_port_1
-}
+# c_teherdon
 
-211.4.1 = {
-	culture = karibel
-}
+# County Title
+title = c_teherdon
 
-334.4.1 = {
-	culture = nitindik
-}
+# Settlements
+max_settlements = 3
 
-625.4.1 = {
-	b_tosiel = castle
-}
+b_teherdon = castle
+b_teherdon_2 = city
+b_teherdon_3 = temple
 
-720.4.1 = {
-	b_syaner = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-840.4.1 = {
-	b_rasaria = city
-}
-
-851.4.1 = {
-	culture = syahes
-}
-
-892.4.1 = {
-	b_ticith = temple
-}
-
-1004.4.1 = {
-	b_taviel = city
-}
-
-1054.4.1 = {
-	b_rahata = temple
-}
-
+#History

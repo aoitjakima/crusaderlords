@@ -1,33 +1,17 @@
-	title = c_setinan
-	max_settlements = 4
-	culture = watinan
-	religion = kusran
-	b_wecutan = tribal
-214.4.1 = {
-	culture = ketamma
-}
+# c_setinan
 
-248.4.1 = {
-	culture = sigivkah
-}
+# County Title
+title = c_setinan
 
-256.4.1 = {
-	culture = ketamma
-}
+# Settlements
+max_settlements = 3
 
-826.4.1 = {
-	b_wecutan = castle
-}
+b_setinan = castle
+b_setinan_2 = city
+b_setinan_3 = temple
 
-865.4.1 = {
-	b_raboka = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-961.4.1 = {
-	b_tyayamma = city
-}
-
-1042.4.1 = {
-	b_wavtan = city
-}
-
+#History

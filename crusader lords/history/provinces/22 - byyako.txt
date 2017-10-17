@@ -1,29 +1,21 @@
-	title = c_byyako
-	max_settlements = 3
-	culture = laris
-	religion = aratihr
-	b_tubujku = tribal
-1.1.1 = {
-	b_tamsihr = ct_port_1
-}
+# c_byyako
 
-231.4.1 = {
-	culture = wubihr
-}
+# County Title
+title = c_byyako
 
-243.4.1 = {
-	culture = selalya
-}
+# Settlements
+max_settlements = 7
 
-685.4.1 = {
-	b_tubujku = city
-}
+b_gallagna = city
+b_pomerma = city
+b_bafati = temple
+#b_byyako = castle
+#b_byyako_2 = city
+#b_byyako_3 = temple
+#b_byyako_4 = castle
 
-755.4.1 = {
-	b_linaytas = temple
-}
+# Misc
+culture = estazi_culture4
+religion = estazi_faith
 
-880.4.1 = {
-	b_tamsihr = city
-}
-
+#History

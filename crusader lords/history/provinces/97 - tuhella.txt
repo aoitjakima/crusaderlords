@@ -1,13 +1,17 @@
-	title = c_tuhella
-	max_settlements = 2
-	culture = daimeig
-	religion = wedwig
-	b_edulens = tribal
-242.4.1 = {
-	culture = waynald
-}
+# c_tuhella
 
-1045.4.1 = {
-	b_edulens = castle
-}
+# County Title
+title = c_tuhella
 
+# Settlements
+max_settlements = 3
+
+b_tuhella = castle
+b_tuhella_2 = city
+b_tuhella_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = kirothian
+
+#History

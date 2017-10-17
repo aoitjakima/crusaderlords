@@ -1,65 +1,17 @@
-	title = c_solas
-	max_settlements = 4
-	culture = runafu
-	religion = naneka
-	b_burenat = tribal
-201.3.1 = {
-	religion = begeka
-}
+# c_solas
 
-203.3.1 = {
-	religion = terenat
-}
+# County Title
+title = c_solas
 
-204.3.1 = {
-	religion = begeka
-}
+# Settlements
+max_settlements = 3
 
-208.3.1 = {
-	religion = terenat
-}
+b_solas = castle
+b_solas_2 = city
+b_solas_3 = temple
 
-222.4.1 = {
-	culture = banaila
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-227.3.1 = {
-	religion = begeka
-}
-
-228.3.1 = {
-	religion = terenat
-}
-
-230.3.1 = {
-	religion = begeka
-}
-
-230.3.1 = {
-	religion = terenat
-}
-
-233.3.1 = {
-	religion = begeka
-}
-
-532.4.1 = {
-	culture = kitule
-}
-
-590.4.1 = {
-	b_burenat = castle
-}
-
-715.4.1 = {
-	b_luel = temple
-}
-
-862.4.1 = {
-	b_kolas = city
-}
-
-927.4.1 = {
-	b_wiwabra = city
-}
-
+#History

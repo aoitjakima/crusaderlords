@@ -1,33 +1,17 @@
-	title = c_seusipp
-	max_settlements = 4
-	culture = ebeina
-	religion = qiteka
-	b_ariwacob = tribal
-1.1.1 = {
-	b_wedyia = ct_port_1
-}
+# c_seusipp
 
-339.4.1 = {
-	culture = risutlu
-}
+# County Title
+title = c_seusipp
 
-595.4.1 = {
-	b_ariwacob = castle
-}
+# Settlements
+max_settlements = 3
 
-729.4.1 = {
-	culture = saimes
-}
+b_seusipp = castle
+b_seusipp_2 = city
+b_seusipp_3 = temple
 
-785.4.1 = {
-	b_wedyia = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-916.4.1 = {
-	b_kaudid = temple
-}
-
-1018.4.1 = {
-	b_ryevivi = temple
-}
-
+#History

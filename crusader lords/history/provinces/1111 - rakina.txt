@@ -1,33 +1,17 @@
-	title = c_rakina
-	max_settlements = 3
-	culture = kadalen
-	religion = tonuyu
-	b_korony = tribal
-217.4.1 = {
-	culture = wenira
-}
+# c_rakina
 
-265.4.1 = {
-	culture = radabor
-}
+# County Title
+title = c_rakina
 
-270.4.1 = {
-	culture = wenira
-}
+# Settlements
+max_settlements = 3
 
-336.4.1 = {
-	culture = radabor
-}
+b_rakina = castle
+b_rakina_2 = city
+b_rakina_3 = temple
 
-715.4.1 = {
-	b_korony = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-823.4.1 = {
-	b_tudabra = temple
-}
-
-950.4.1 = {
-	b_tadalen = city
-}
-
+#History

@@ -1,25 +1,17 @@
-	title = c_nuli
-	max_settlements = 2
-	culture = alaurine
-	religion = wedwig
-	b_tuludha = tribal
-200.3.1 = {
-	religion = qigiyah
-}
+# c_nuli
 
-220.4.1 = {
-	culture = tularda
-}
+# County Title
+title = c_nuli
 
-267.4.1 = {
-	culture = alaurine
-}
+# Settlements
+max_settlements = 3
 
-841.4.1 = {
-	b_tuludha = castle
-}
+b_nuli = castle
+b_nuli_2 = city
+b_nuli_3 = temple
 
-883.4.1 = {
-	b_qine = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

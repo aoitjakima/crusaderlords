@@ -1,17 +1,17 @@
-	title = c_elanaila
-	max_settlements = 2
-	culture = karibel
-	religion = neharis
-	b_benule = tribal
-268.4.1 = {
-	culture = narentiy
-}
+# c_elanaila
 
-565.4.1 = {
-	b_benule = castle
-}
+# County Title
+title = c_elanaila
 
-645.4.1 = {
-	b_bisando = temple
-}
+# Settlements
+max_settlements = 3
 
+b_elanaila = castle
+b_elanaila_2 = city
+b_elanaila_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

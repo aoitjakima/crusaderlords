@@ -1,21 +1,17 @@
-	title = c_araimoto
-	max_settlements = 3
-	culture = karibel
-	religion = neharis
-	b_epesule = tribal
-204.4.1 = {
-	culture = narentiy
-}
+# c_araimoto
 
-560.4.1 = {
-	b_epesule = castle
-}
+# County Title
+title = c_araimoto
 
-675.4.1 = {
-	b_latoto = temple
-}
+# Settlements
+max_settlements = 3
 
-829.4.1 = {
-	b_sunaila = city
-}
+b_araimoto = castle
+b_araimoto_2 = city
+b_araimoto_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

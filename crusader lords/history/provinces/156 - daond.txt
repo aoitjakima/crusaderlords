@@ -1,13 +1,17 @@
-	title = c_daond
-	max_settlements = 2
-	culture = sigivkah
-	religion = kusran
-	b_larand = tribal
-303.3.1 = {
-	religion = qigiyah
-}
+# c_daond
 
-324.4.1 = {
-	culture = alaurine
-}
+# County Title
+title = c_daond
 
+# Settlements
+max_settlements = 3
+
+b_daond = castle
+b_daond_2 = city
+b_daond_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

@@ -1,17 +1,17 @@
-	title = c_rudo
-	max_settlements = 2
-	culture = babosa
-	religion = tonuyu
-	b_kelira = tribal
-267.4.1 = {
-	culture = budandev
-}
+# c_rudo
 
-807.4.1 = {
-	b_kelira = castle
-}
+# County Title
+title = c_rudo
 
-835.4.1 = {
-	b_dyehudo = temple
-}
+# Settlements
+max_settlements = 3
 
+b_rudo = castle
+b_rudo_2 = city
+b_rudo_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

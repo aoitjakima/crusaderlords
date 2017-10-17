@@ -1,17 +1,21 @@
-	title = c_remetata
-	max_settlements = 2
-	culture = nahuda
-	religion = neharis
-	b_lako = tribal
-1.1.1 = {
-	b_reven = ct_port_1
-}
+# c_remetata
 
-823.4.1 = {
-	b_lako = castle
-}
+# County Title
+title = c_remetata
 
-852.4.1 = {
-	b_reven = city
-}
+# Settlements
+max_settlements = 7
 
+b_ialydroupoli = city
+b_egalaia = city
+b_ermoulcis = temple
+#b_remetata = castle
+#b_remetata_2 = city
+#b_remetata_3 = temple
+#b_remetata_4 = castle
+
+# Misc
+culture = estazi_culture2
+religion = estazi_faith
+
+#History

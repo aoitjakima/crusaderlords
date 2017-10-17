@@ -1,25 +1,17 @@
-	title = c_kaviby
-	max_settlements = 2
-	culture = risutlu
-	religion = qiteka
-	b_avidia = tribal
-270.4.1 = {
-	culture = waetutlu
-}
+# c_kaviby
 
-274.4.1 = {
-	culture = risutlu
-}
+# County Title
+title = c_kaviby
 
-560.4.1 = {
-	b_avidia = castle
-}
+# Settlements
+max_settlements = 3
 
-685.4.1 = {
-	b_wohihal = city
-}
+b_kaviby = castle
+b_kaviby_2 = city
+b_kaviby_3 = temple
 
-828.4.1 = {
-	culture = saimes
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

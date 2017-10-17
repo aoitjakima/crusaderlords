@@ -1,37 +1,17 @@
-	title = c_nohdal
-	max_settlements = 3
-	culture = reasep
-	religion = tonuyu
-	b_weusatti = tribal
-347.4.1 = {
-	culture = tiwics
-}
+# c_nohdal
 
-376.4.1 = {
-	culture = reasep
-}
+# County Title
+title = c_nohdal
 
-412.4.1 = {
-	culture = tiwics
-}
+# Settlements
+max_settlements = 3
 
-439.4.1 = {
-	culture = reasep
-}
+b_nohdal = castle
+b_nohdal_2 = city
+b_nohdal_3 = temple
 
-455.4.1 = {
-	culture = tiwics
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-720.4.1 = {
-	b_weusatti = castle
-}
-
-815.4.1 = {
-	b_kaurwet = city
-}
-
-906.4.1 = {
-	b_kaureya = temple
-}
-
+#History

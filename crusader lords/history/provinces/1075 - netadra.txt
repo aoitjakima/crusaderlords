@@ -1,21 +1,17 @@
-	title = c_netadra
-	max_settlements = 3
-	culture = reusadra
-	religion = tonuyu
-	b_araurabra = tribal
-267.4.1 = {
-	culture = tiwics
-}
+# c_netadra
 
-898.4.1 = {
-	b_araurabra = castle
-}
+# County Title
+title = c_netadra
 
-932.4.1 = {
-	b_epetabra = city
-}
+# Settlements
+max_settlements = 3
 
-995.4.1 = {
-	b_berabra = temple
-}
+b_netadra = castle
+b_netadra_2 = city
+b_netadra_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

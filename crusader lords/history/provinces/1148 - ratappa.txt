@@ -1,81 +1,17 @@
-	title = c_ratappa
-	max_settlements = 2
-	culture = qenoos
-	religion = tonuyu
-	b_ekukork = tribal
-1.1.1 = {
-	b_ronuyu = ct_port_1
-}
+# c_ratappa
 
-221.4.1 = {
-	culture = ranahim
-}
+# County Title
+title = c_ratappa
 
-240.4.1 = {
-	culture = qenoos
-}
+# Settlements
+max_settlements = 3
 
-280.4.1 = {
-	culture = ranahim
-}
+b_ratappa = castle
+b_ratappa_2 = city
+b_ratappa_3 = temple
 
-352.4.1 = {
-	culture = qenoos
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-578.4.1 = {
-	culture = ranahim
-}
-
-719.4.1 = {
-	culture = qenoos
-}
-
-726.4.1 = {
-	culture = ranahim
-}
-
-811.4.1 = {
-	culture = qenoos
-}
-
-817.4.1 = {
-	culture = ranahim
-}
-
-901.4.1 = {
-	b_ekukork = castle
-}
-
-950.4.1 = {
-	b_ronuyu = city
-}
-
-974.4.1 = {
-	culture = qenoos
-}
-
-979.4.1 = {
-	culture = ranahim
-}
-
-1007.4.1 = {
-	culture = qenoos
-}
-
-1018.4.1 = {
-	culture = ranahim
-}
-
-1021.4.1 = {
-	culture = qenoos
-}
-
-1024.4.1 = {
-	culture = ranahim
-}
-
-1053.4.1 = {
-	culture = qenoos
-}
-
+#History

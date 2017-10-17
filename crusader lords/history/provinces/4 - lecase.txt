@@ -1,21 +1,18 @@
-	title = c_lecase
-	max_settlements = 4
-	culture = etirune
-	religion = tonuyu
-	b_renatia = tribal
-1.1.1 = {
-	b_kugine = ct_port_1
-}
+# c_lecase
 
-880.4.1 = {
-	b_renatia = castle
-}
+# County Title
+title = c_lecase
 
-920.4.1 = {
-	b_kugine = city
-}
+# Settlements
+max_settlements = 4
 
-990.4.1 = {
-	b_lase = temple
-}
+b_uxros = temple
+b_mokakzath = city
+b_zunruk = castle
+#b_lecase = castle
 
+# Misc
+culture = kir-ko
+religion = kirian
+
+#History

@@ -1,25 +1,17 @@
-	title = c_kusina
-	max_settlements = 2
-	culture = alaurine
-	religion = wedwig
-	b_raipaka = tribal
-200.3.1 = {
-	religion = qigiyah
-}
+# c_kusina
 
-220.4.1 = {
-	culture = tularda
-}
+# County Title
+title = c_kusina
 
-267.4.1 = {
-	culture = alaurine
-}
+# Settlements
+max_settlements = 3
 
-841.4.1 = {
-	b_raipaka = castle
-}
+b_kusina = castle
+b_kusina_2 = city
+b_kusina_3 = temple
 
-883.4.1 = {
-	b_agancis = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

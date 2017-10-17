@@ -1,121 +1,17 @@
-	title = c_namayya
-	max_settlements = 2
-	culture = namyan
-	religion = kusran
-	b_bala = tribal
-200.3.1 = {
-	religion = telayira
-}
+# c_namayya
 
-202.3.1 = {
-	religion = kusran
-}
+# County Title
+title = c_namayya
 
-203.3.1 = {
-	religion = telayira
-}
+# Settlements
+max_settlements = 3
 
-207.3.1 = {
-	religion = kusran
-}
+b_namayya = castle
+b_namayya_2 = city
+b_namayya_3 = temple
 
-209.3.1 = {
-	religion = telayira
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-210.3.1 = {
-	religion = kusran
-}
-
-213.3.1 = {
-	religion = telayira
-}
-
-215.3.1 = {
-	religion = kusran
-}
-
-217.3.1 = {
-	religion = telayira
-}
-
-224.3.1 = {
-	religion = kusran
-}
-
-224.3.1 = {
-	religion = telayira
-}
-
-230.3.1 = {
-	religion = kusran
-}
-
-230.3.1 = {
-	religion = telayira
-}
-
-231.3.1 = {
-	religion = kusran
-}
-
-233.3.1 = {
-	religion = telayira
-}
-
-236.4.1 = {
-	culture = lopher
-}
-
-238.4.1 = {
-	culture = koumas
-}
-
-291.4.1 = {
-	culture = ritiatou
-}
-
-313.4.1 = {
-	culture = koumas
-}
-
-344.4.1 = {
-	culture = ritiatou
-}
-
-414.4.1 = {
-	culture = koumas
-}
-
-494.4.1 = {
-	culture = lopher
-}
-
-590.4.1 = {
-	b_bala = castle
-}
-
-634.4.1 = {
-	culture = koumas
-}
-
-676.4.1 = {
-	culture = lopher
-}
-
-770.4.1 = {
-	b_tala = temple
-}
-
-846.4.1 = {
-	culture = koumas
-}
-
-850.4.1 = {
-	culture = lopher
-}
-
-885.4.1 = {
-	culture = koumas
-}
-
+#History

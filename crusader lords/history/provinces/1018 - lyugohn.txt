@@ -1,21 +1,17 @@
-	title = c_lyugohn
-	max_settlements = 2
-	culture = syahes
-	religion = neharis
-	b_roosre = tribal
-218.4.1 = {
-	culture = nitindik
-}
+# c_lyugohn
 
-350.4.1 = {
-	culture = talentiy
-}
+# County Title
+title = c_lyugohn
 
-540.4.1 = {
-	b_roosre = castle
-}
+# Settlements
+max_settlements = 3
 
-680.4.1 = {
-	b_razohn = city
-}
+b_lyugohn = castle
+b_lyugohn_2 = city
+b_lyugohn_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

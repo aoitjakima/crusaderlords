@@ -1,25 +1,18 @@
-	title = c_begaleid
-	max_settlements = 2
-	culture = rubiho
-	religion = tonuyu
-	b_leselg = tribal
-244.3.1 = {
-	religion = kodine
-}
+# c_begaleid
 
-245.3.1 = {
-	religion = tonuyu
-}
+# County Title
+title = c_begaleid
 
-274.4.1 = {
-	culture = biho
-}
+# Settlements
+max_settlements = 4
 
-846.4.1 = {
-	b_leselg = castle
-}
+b_quetzal = temple
+b_malinalxochitl = city
+#b_begaleid = temple
+#b_begaleid_2 = castle
 
-922.4.1 = {
-	b_agirahus = city
-}
+# Misc
+culture = druchi
+religion = kirothian
 
+#History

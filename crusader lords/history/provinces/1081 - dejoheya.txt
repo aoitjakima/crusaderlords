@@ -1,33 +1,17 @@
-	title = c_dejoheya
-	max_settlements = 3
-	culture = keraam
-	religion = worelen
-	b_lauratti = tribal
-200.4.1 = {
-	culture = tiwics
-}
+# c_dejoheya
 
-203.3.1 = {
-	religion = tonuyu
-}
+# County Title
+title = c_dejoheya
 
-426.4.1 = {
-	culture = nalaam
-}
+# Settlements
+max_settlements = 3
 
-457.4.1 = {
-	culture = tiwics
-}
+b_dejoheya = castle
+b_dejoheya_2 = city
+b_dejoheya_3 = temple
 
-725.4.1 = {
-	b_lauratti = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-819.4.1 = {
-	b_rohaam = temple
-}
-
-953.4.1 = {
-	b_tatti = city
-}
-
+#History

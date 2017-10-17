@@ -1,45 +1,17 @@
-	title = c_nucics
-	max_settlements = 5
-	culture = norse
-	religion = qiteka
-	b_kerlta = tribal
-1.1.1 = {
-	b_wiwutlu = ct_port_1
-}
+# c_nucics
 
-234.4.1 = {
-	culture = waetutlu
-}
+# County Title
+title = c_nucics
 
-307.4.1 = {
-	culture = risutlu
-}
+# Settlements
+max_settlements = 3
 
-565.4.1 = {
-	b_kerlta = castle
-}
+b_nucics = castle
+b_nucics_2 = city
+b_nucics_3 = temple
 
-640.4.1 = {
-	b_sucilip = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-790.4.1 = {
-	b_wiwutlu = city
-}
-
-825.4.1 = {
-	b_qunutlu = temple
-}
-
-852.4.1 = {
-	b_erutlu = city
-}
-
-1060.4.1 = {
-	culture = saimes
-}
-
-1063.4.1 = {
-	culture = risutlu
-}
-
+#History

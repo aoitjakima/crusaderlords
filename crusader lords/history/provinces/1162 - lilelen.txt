@@ -1,25 +1,17 @@
-	title = c_lilelen
-	max_settlements = 2
-	culture = radabor
-	religion = tonuyu
-	b_waemabra = tribal
-204.4.1 = {
-	culture = budandev
-}
+# c_lilelen
 
-253.4.1 = {
-	culture = wenira
-}
+# County Title
+title = c_lilelen
 
-282.4.1 = {
-	culture = radabor
-}
+# Settlements
+max_settlements = 3
 
-715.4.1 = {
-	b_waemabra = castle
-}
+b_lilelen = castle
+b_lilelen_2 = city
+b_lilelen_3 = temple
 
-820.4.1 = {
-	b_setsaajudboelta = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

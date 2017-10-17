@@ -1,0 +1,7 @@
+# d_tartaglia
+500.1.1={
+holder = 1056816
+
+	law = agnatic_succession
+	law = succ_gavelkind
+}

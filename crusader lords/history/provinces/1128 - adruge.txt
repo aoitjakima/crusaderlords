@@ -1,65 +1,17 @@
-	title = c_adruge
-	max_settlements = 2
-	culture = ranahim
-	religion = tonuyu
-	b_datoos = tribal
-1.1.1 = {
-	b_linala = ct_port_1
-}
+# c_adruge
 
-204.4.1 = {
-	culture = wabuzhi
-}
+# County Title
+title = c_adruge
 
-297.4.1 = {
-	culture = ranahim
-}
+# Settlements
+max_settlements = 3
 
-442.4.1 = {
-	culture = qenoos
-}
+b_adruge = castle
+b_adruge_2 = city
+b_adruge_3 = temple
 
-444.4.1 = {
-	culture = ranahim
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-547.4.1 = {
-	culture = qenoos
-}
-
-627.4.1 = {
-	culture = ranahim
-}
-
-633.4.1 = {
-	culture = qenoos
-}
-
-688.4.1 = {
-	culture = ranahim
-}
-
-741.4.1 = {
-	culture = qenoos
-}
-
-748.4.1 = {
-	culture = ranahim
-}
-
-811.4.1 = {
-	culture = qenoos
-}
-
-924.4.1 = {
-	b_datoos = castle
-}
-
-1055.4.1 = {
-	culture = ranahim
-}
-
-1055.4.1 = {
-	b_linala = city
-}
-
+#History

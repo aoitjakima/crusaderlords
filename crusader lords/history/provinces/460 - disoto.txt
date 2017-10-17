@@ -1,25 +1,17 @@
-	title = c_disoto
-	max_settlements = 4
-	culture = narentiy
-	religion = neharis
-	b_rerive = tribal
-251.4.1 = {
-	culture = syahes
-}
+# c_disoto
 
-278.4.1 = {
-	culture = amuhopti
-}
+# County Title
+title = c_disoto
 
-279.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 3
 
-570.4.1 = {
-	b_rerive = castle
-}
+b_disoto = castle
+b_disoto_2 = city
+b_disoto_3 = temple
 
-730.4.1 = {
-	b_terule = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

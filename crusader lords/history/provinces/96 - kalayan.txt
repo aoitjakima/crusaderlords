@@ -1,13 +1,17 @@
-	title = c_kalayan
-	max_settlements = 4
-	culture = daimeig
-	religion = wedwig
-	b_seria = tribal
-242.4.1 = {
-	culture = waynald
-}
+# c_kalayan
 
-928.4.1 = {
-	b_seria = castle
-}
+# County Title
+title = c_kalayan
 
+# Settlements
+max_settlements = 3
+
+b_kalayan = castle
+b_kalayan_2 = city
+b_kalayan_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = kirothian
+
+#History

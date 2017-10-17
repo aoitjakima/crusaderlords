@@ -1,41 +1,17 @@
-	title = c_beliby
-	max_settlements = 4
-	culture = disinos
-	religion = kusran
-	b_wolery = tribal
-1.1.1 = {
-	b_nyever = ct_port_1
-}
+# c_beliby
 
-632.3.1 = {
-	religion = qiteka
-}
+# County Title
+title = c_beliby
 
-640.4.1 = {
-	culture = risutlu
-}
+# Settlements
+max_settlements = 3
 
-667.4.1 = {
-	culture = disinos
-}
+b_beliby = castle
+b_beliby_2 = city
+b_beliby_3 = temple
 
-873.4.1 = {
-	culture = risutlu
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-883.4.1 = {
-	culture = saimes
-}
-
-902.4.1 = {
-	culture = risutlu
-}
-
-983.4.1 = {
-	b_wolery = castle
-}
-
-1003.4.1 = {
-	b_nyever = city
-}
-
+#History

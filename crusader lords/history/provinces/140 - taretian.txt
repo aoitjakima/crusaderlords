@@ -1,21 +1,17 @@
-	title = c_taretian
-	max_settlements = 2
-	culture = sodinia
-	religion = neharis
-	b_tulius = tribal
-339.4.1 = {
-	culture = nitindik
-}
+# c_taretian
 
-350.4.1 = {
-	culture = talentiy
-}
+# County Title
+title = c_taretian
 
-510.4.1 = {
-	b_tulius = castle
-}
+# Settlements
+max_settlements = 3
 
-660.4.1 = {
-	b_ritienus = temple
-}
+b_taretian = castle
+b_taretian_2 = city
+b_taretian_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

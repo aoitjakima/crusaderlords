@@ -1,17 +1,17 @@
-	title = c_wopal
-	max_settlements = 2
-	culture = syahes
-	religion = neharis
-	b_tahata = tribal
-242.4.1 = {
-	culture = karibel
-}
+# c_wopal
 
-545.4.1 = {
-	b_tahata = castle
-}
+# County Title
+title = c_wopal
 
-720.4.1 = {
-	b_kicer = temple
-}
+# Settlements
+max_settlements = 3
 
+b_wopal = castle
+b_wopal_2 = city
+b_wopal_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

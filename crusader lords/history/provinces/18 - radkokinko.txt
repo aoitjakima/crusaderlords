@@ -1,25 +1,21 @@
-	title = c_radkokinko
-	max_settlements = 2
-	culture = selalya
-	religion = aratihr
-	b_binanay = tribal
-1.1.1 = {
-	b_ryao = ct_port_1
-}
+# c_radkokinko
 
-327.4.1 = {
-	culture = wubihr
-}
+# County Title
+title = c_radkokinko
 
-424.4.1 = {
-	culture = selalya
-}
+# Settlements
+max_settlements = 7
 
-670.4.1 = {
-	b_binanay = castle
-}
+b_salamaria = city
+b_mytissos = city
+b_paiarni = temple
+#b_radkokinko = castle
+#b_radkokinko_2 = city
+#b_radkokinko_3 = temple
+#b_radkokinko_4 = castle
 
-775.4.1 = {
-	b_ryao = city
-}
+# Misc
+culture = estazi_culture1
+religion = estazi_faith
 
+#History

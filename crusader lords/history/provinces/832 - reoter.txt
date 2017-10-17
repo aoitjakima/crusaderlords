@@ -1,117 +1,17 @@
-	title = c_reoter
-	max_settlements = 3
-	culture = wates
-	religion = naneka
-	b_wepine = tribal
-272.3.1 = {
-	religion = qiteka
-}
+# c_reoter
 
-274.3.1 = {
-	religion = naneka
-}
+# County Title
+title = c_reoter
 
-280.3.1 = {
-	religion = qiteka
-}
+# Settlements
+max_settlements = 3
 
-287.3.1 = {
-	religion = naneka
-}
+b_reoter = castle
+b_reoter_2 = city
+b_reoter_3 = temple
 
-291.3.1 = {
-	religion = qiteka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-292.3.1 = {
-	religion = naneka
-}
-
-297.3.1 = {
-	religion = qiteka
-}
-
-298.3.1 = {
-	religion = naneka
-}
-
-302.3.1 = {
-	religion = qiteka
-}
-
-307.3.1 = {
-	religion = naneka
-}
-
-308.3.1 = {
-	religion = qiteka
-}
-
-314.3.1 = {
-	religion = naneka
-}
-
-320.3.1 = {
-	religion = qiteka
-}
-
-330.3.1 = {
-	religion = naneka
-}
-
-342.3.1 = {
-	religion = qiteka
-}
-
-348.3.1 = {
-	religion = naneka
-}
-
-350.3.1 = {
-	religion = qiteka
-}
-
-356.3.1 = {
-	religion = naneka
-}
-
-373.3.1 = {
-	religion = qiteka
-}
-
-402.3.1 = {
-	religion = naneka
-}
-
-406.3.1 = {
-	religion = qiteka
-}
-
-410.3.1 = {
-	religion = naneka
-}
-
-416.3.1 = {
-	religion = qiteka
-}
-
-417.3.1 = {
-	religion = naneka
-}
-
-423.3.1 = {
-	religion = qiteka
-}
-
-695.4.1 = {
-	b_wepine = castle
-}
-
-809.4.1 = {
-	b_rukevag = city
-}
-
-904.4.1 = {
-	b_wacith = temple
-}
-
+#History

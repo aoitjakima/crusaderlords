@@ -1,25 +1,17 @@
-	title = c_walatha
-	max_settlements = 4
-	culture = ahenatha
-	religion = tonuyu
-	b_raluga = tribal
-313.3.1 = {
-	religion = worelen
-}
+# c_walatha
 
-322.4.1 = {
-	culture = nalaam
-}
+# County Title
+title = c_walatha
 
-348.4.1 = {
-	culture = ahenatha
-}
+# Settlements
+max_settlements = 3
 
-507.4.1 = {
-	culture = nalaam
-}
+b_walatha = castle
+b_walatha_2 = city
+b_walatha_3 = temple
 
-1061.4.1 = {
-	b_raluga = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

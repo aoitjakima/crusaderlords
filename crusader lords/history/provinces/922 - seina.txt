@@ -1,41 +1,17 @@
-	title = c_seina
-	max_settlements = 3
-	culture = banaila
-	religion = begeka
-	b_woza = tribal
-203.3.1 = {
-	religion = qiteka
-}
+# c_seina
 
-203.3.1 = {
-	religion = terenat
-}
+# County Title
+title = c_seina
 
-207.3.1 = {
-	religion = qiteka
-}
+# Settlements
+max_settlements = 3
 
-208.3.1 = {
-	religion = terenat
-}
+b_seina = castle
+b_seina_2 = city
+b_seina_3 = temple
 
-236.3.1 = {
-	religion = begeka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-414.4.1 = {
-	culture = kitule
-}
-
-560.4.1 = {
-	b_woza = castle
-}
-
-695.4.1 = {
-	b_rurenat = temple
-}
-
-853.4.1 = {
-	b_dutlu = city
-}
-
+#History

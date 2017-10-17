@@ -1,57 +1,17 @@
-	title = c_sanenda
-	max_settlements = 4
-	culture = esunadir
-	religion = qiteka
-	b_rotenda = tribal
-201.4.1 = {
-	culture = narentiy
-}
+# c_sanenda
 
-201.3.1 = {
-	religion = naneka
-}
+# County Title
+title = c_sanenda
 
-211.4.1 = {
-	culture = retose
-}
+# Settlements
+max_settlements = 3
 
-326.4.1 = {
-	culture = esunadir
-}
+b_sanenda = castle
+b_sanenda_2 = city
+b_sanenda_3 = temple
 
-525.4.1 = {
-	culture = sereka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-590.4.1 = {
-	culture = esunadir
-}
-
-590.4.1 = {
-	b_rotenda = castle
-}
-
-705.4.1 = {
-	b_adeodat = city
-}
-
-865.4.1 = {
-	b_ropenda = temple
-}
-
-898.4.1 = {
-	culture = sereka
-}
-
-907.4.1 = {
-	culture = esunadir
-}
-
-918.4.1 = {
-	culture = sereka
-}
-
-939.4.1 = {
-	b_daunry = city
-}
-
+#History

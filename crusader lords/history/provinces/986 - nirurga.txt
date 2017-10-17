@@ -1,13 +1,17 @@
-	title = c_nirurga
-	max_settlements = 2
-	culture = banaila
-	religion = qiteka
-	b_kerratirna = tribal
-570.4.1 = {
-	b_kerratirna = castle
-}
+# c_nirurga
 
-675.4.1 = {
-	b_bunule = city
-}
+# County Title
+title = c_nirurga
 
+# Settlements
+max_settlements = 3
+
+b_nirurga = castle
+b_nirurga_2 = city
+b_nirurga_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

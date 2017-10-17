@@ -1,25 +1,17 @@
-	title = c_dataila
-	max_settlements = 5
-	culture = narentiy
-	religion = neharis
-	b_eresela = tribal
-266.4.1 = {
-	culture = amuhopti
-}
+# c_dataila
 
-273.4.1 = {
-	culture = syahes
-}
+# County Title
+title = c_dataila
 
-545.4.1 = {
-	b_eresela = castle
-}
+# Settlements
+max_settlements = 3
 
-665.4.1 = {
-	b_karma = temple
-}
+b_dataila = castle
+b_dataila_2 = city
+b_dataila_3 = temple
 
-841.4.1 = {
-	b_senaila = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

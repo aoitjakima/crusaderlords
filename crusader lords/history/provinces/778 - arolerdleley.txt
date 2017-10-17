@@ -1,13 +1,17 @@
-	title = c_arolerdleley
-	max_settlements = 2
-	culture = disinos
-	religion = kusran
-	b_eliby = tribal
-293.4.1 = {
-	culture = ryanopti
-}
+# c_arolerdleley
 
-387.3.1 = {
-	religion = wedwig
-}
+# County Title
+title = c_arolerdleley
 
+# Settlements
+max_settlements = 3
+
+b_arolerdleley = castle
+b_arolerdleley_2 = city
+b_arolerdleley_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

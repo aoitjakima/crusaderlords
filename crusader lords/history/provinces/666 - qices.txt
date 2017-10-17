@@ -1,21 +1,17 @@
-	title = c_qices
-	max_settlements = 4
-	culture = karibel
-	religion = neharis
-	b_danule = tribal
-565.4.1 = {
-	b_danule = castle
-}
+# c_qices
 
-680.4.1 = {
-	b_reginus = temple
-}
+# County Title
+title = c_qices
 
-853.4.1 = {
-	b_nesule = city
-}
+# Settlements
+max_settlements = 3
 
-915.4.1 = {
-	b_degafu = castle
-}
+b_qices = castle
+b_qices_2 = city
+b_qices_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

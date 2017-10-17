@@ -1,29 +1,18 @@
-	title = c_ekegelg
-	max_settlements = 3
-	culture = rubiho
-	religion = tonuyu
-	b_temiho = tribal
-387.4.1 = {
-	culture = biho
-}
+# c_ekegelg
 
-414.4.1 = {
-	culture = rubiho
-}
+# County Title
+title = c_ekegelg
 
-471.4.1 = {
-	culture = biho
-}
+# Settlements
+max_settlements = 4
 
-846.4.1 = {
-	b_temiho = castle
-}
+b_chicomeyah = temple
+#b_ekegelg = city
+#b_ekegelg_2 = temple
+#b_ekegelg_3 = castle
 
-882.4.1 = {
-	b_qelg = city
-}
+# Misc
+culture = druchi
+religion = kirothian
 
-969.4.1 = {
-	b_beselg = temple
-}
-
+#History

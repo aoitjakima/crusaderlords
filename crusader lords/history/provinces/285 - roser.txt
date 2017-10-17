@@ -1,29 +1,17 @@
-	title = c_roser
-	max_settlements = 5
-	culture = nitindik
-	religion = neharis
-	b_kahiel = tribal
-260.4.1 = {
-	culture = syahes
-}
+# c_roser
 
-271.4.1 = {
-	culture = amuhopti
-}
+# County Title
+title = c_roser
 
-316.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 3
 
-520.4.1 = {
-	b_kahiel = castle
-}
+b_roser = castle
+b_roser_2 = city
+b_roser_3 = temple
 
-660.4.1 = {
-	b_dosohn = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-845.4.1 = {
-	b_tyekata = temple
-}
-
+#History

@@ -1,57 +1,17 @@
-	title = c_tatiby
-	max_settlements = 4
-	culture = risutlu
-	religion = qiteka
-	b_surina = tribal
-204.3.1 = {
-	religion = wedwig
-}
+# c_tatiby
 
-207.3.1 = {
-	religion = qiteka
-}
+# County Title
+title = c_tatiby
 
-207.3.1 = {
-	religion = wedwig
-}
+# Settlements
+max_settlements = 3
 
-214.4.1 = {
-	culture = davars
-}
+b_tatiby = castle
+b_tatiby_2 = city
+b_tatiby_3 = temple
 
-256.4.1 = {
-	culture = negasseh
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-270.4.1 = {
-	culture = davars
-}
-
-317.4.1 = {
-	culture = weliana
-}
-
-379.4.1 = {
-	culture = durga
-}
-
-480.4.1 = {
-	culture = davars
-}
-
-525.4.1 = {
-	b_surina = castle
-}
-
-615.4.1 = {
-	b_wosedtobey = temple
-}
-
-825.4.1 = {
-	b_kaxya = city
-}
-
-898.4.1 = {
-	b_latenes = city
-}
-
+#History

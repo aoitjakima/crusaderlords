@@ -1,33 +1,17 @@
-	title = c_tulinia
-	max_settlements = 5
-	culture = aqahebel
-	religion = neharis
-	b_kahella = tribal
-279.4.1 = {
-	culture = nitindik
-}
+# c_tulinia
 
-413.4.1 = {
-	culture = talentiy
-}
+# County Title
+title = c_tulinia
 
-500.4.1 = {
-	b_kahella = castle
-}
+# Settlements
+max_settlements = 3
 
-600.4.1 = {
-	b_bahius = temple
-}
+b_tulinia = castle
+b_tulinia_2 = city
+b_tulinia_3 = temple
 
-823.4.1 = {
-	b_bodius = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-883.4.1 = {
-	b_tulayan = city
-}
-
-939.4.1 = {
-	b_kyahibel = castle
-}
-
+#History

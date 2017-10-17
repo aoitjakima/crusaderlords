@@ -1,25 +1,17 @@
-	title = c_ajoherd
-	max_settlements = 4
-	culture = ryanopti
-	religion = kusran
-	b_liwows = tribal
-201.4.1 = {
-	culture = disinos
-}
+# c_ajoherd
 
-293.4.1 = {
-	culture = ryanopti
-}
+# County Title
+title = c_ajoherd
 
-387.3.1 = {
-	religion = wedwig
-}
+# Settlements
+max_settlements = 3
 
-839.4.1 = {
-	b_liwows = castle
-}
+b_ajoherd = castle
+b_ajoherd_2 = city
+b_ajoherd_3 = temple
 
-966.4.1 = {
-	b_delihal = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

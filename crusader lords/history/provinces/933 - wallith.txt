@@ -1,37 +1,17 @@
-	title = c_wallith
-	max_settlements = 2
-	culture = retose
-	religion = naneka
-	b_lacah = tribal
-201.3.1 = {
-	religion = qiteka
-}
+# c_wallith
 
-204.3.1 = {
-	religion = naneka
-}
+# County Title
+title = c_wallith
 
-215.3.1 = {
-	religion = qiteka
-}
+# Settlements
+max_settlements = 3
 
-229.3.1 = {
-	religion = naneka
-}
+b_wallith = castle
+b_wallith_2 = city
+b_wallith_3 = temple
 
-239.3.1 = {
-	religion = qiteka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-259.4.1 = {
-	culture = banaila
-}
-
-615.4.1 = {
-	b_lacah = castle
-}
-
-705.4.1 = {
-	b_barovat = temple
-}
-
+#History

@@ -1,29 +1,17 @@
-	title = c_taterd
-	max_settlements = 4
-	culture = waetutlu
-	religion = qiteka
-	b_ewelerd = tribal
-273.4.1 = {
-	culture = risutlu
-}
+# c_taterd
 
-505.4.1 = {
-	b_ewelerd = castle
-}
+# County Title
+title = c_taterd
 
-620.4.1 = {
-	b_bohery = city
-}
+# Settlements
+max_settlements = 3
 
-719.4.1 = {
-	culture = saimes
-}
+b_taterd = castle
+b_taterd_2 = city
+b_taterd_3 = temple
 
-831.4.1 = {
-	b_amauder = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-895.4.1 = {
-	b_tilows = castle
-}
-
+#History

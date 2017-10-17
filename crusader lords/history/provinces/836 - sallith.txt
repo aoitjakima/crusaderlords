@@ -1,93 +1,17 @@
-	title = c_sallith
-	max_settlements = 4
-	culture = lerelin
-	religion = qiteka
-	b_karaht = tribal
-1.1.1 = {
-	b_kurevag = ct_port_1
-}
+# c_sallith
 
-208.3.1 = {
-	religion = naneka
-}
+# County Title
+title = c_sallith
 
-210.3.1 = {
-	religion = qiteka
-}
+# Settlements
+max_settlements = 3
 
-210.3.1 = {
-	religion = naneka
-}
+b_sallith = castle
+b_sallith_2 = city
+b_sallith_3 = temple
 
-211.3.1 = {
-	religion = qiteka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-214.3.1 = {
-	religion = naneka
-}
-
-217.3.1 = {
-	religion = qiteka
-}
-
-220.3.1 = {
-	religion = naneka
-}
-
-221.3.1 = {
-	religion = qiteka
-}
-
-226.3.1 = {
-	religion = naneka
-}
-
-240.3.1 = {
-	religion = qiteka
-}
-
-240.3.1 = {
-	religion = naneka
-}
-
-241.3.1 = {
-	religion = qiteka
-}
-
-241.3.1 = {
-	religion = naneka
-}
-
-244.3.1 = {
-	religion = qiteka
-}
-
-249.4.1 = {
-	culture = wates
-}
-
-253.3.1 = {
-	religion = naneka
-}
-
-373.3.1 = {
-	religion = qiteka
-}
-
-685.4.1 = {
-	b_karaht = castle
-}
-
-808.4.1 = {
-	b_kurevag = city
-}
-
-901.4.1 = {
-	b_kukong = temple
-}
-
-977.4.1 = {
-	b_keneter = city
-}
-
+#History

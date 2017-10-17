@@ -1,29 +1,17 @@
-	title = c_deser
-	max_settlements = 4
-	culture = ebeina
-	religion = qiteka
-	b_qenacob = tribal
-339.4.1 = {
-	culture = risutlu
-}
+# c_deser
 
-560.4.1 = {
-	b_qenacob = castle
-}
+# County Title
+title = c_deser
 
-729.4.1 = {
-	culture = saimes
-}
+# Settlements
+max_settlements = 3
 
-755.4.1 = {
-	b_bolerd = city
-}
+b_castricum = castle
+b_deser = city
+b_deser_2 = temple
 
-906.4.1 = {
-	b_kusiby = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-1004.4.1 = {
-	b_derada = city
-}
-
+#History

@@ -1,129 +1,17 @@
-	title = c_reina
-	max_settlements = 2
-	culture = runafu
-	religion = naneka
-	b_riwilip = tribal
-202.3.1 = {
-	religion = begeka
-}
+# c_reina
 
-204.3.1 = {
-	religion = naneka
-}
+# County Title
+title = c_reina
 
-209.3.1 = {
-	religion = begeka
-}
+# Settlements
+max_settlements = 3
 
-213.3.1 = {
-	religion = naneka
-}
+b_reina = castle
+b_reina_2 = city
+b_reina_3 = temple
 
-216.3.1 = {
-	religion = begeka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-217.3.1 = {
-	religion = naneka
-}
-
-221.3.1 = {
-	religion = begeka
-}
-
-238.3.1 = {
-	religion = naneka
-}
-
-242.3.1 = {
-	religion = begeka
-}
-
-246.3.1 = {
-	religion = naneka
-}
-
-252.4.1 = {
-	culture = sereka
-}
-
-263.3.1 = {
-	religion = begeka
-}
-
-264.3.1 = {
-	religion = naneka
-}
-
-265.3.1 = {
-	religion = begeka
-}
-
-277.3.1 = {
-	religion = naneka
-}
-
-284.4.1 = {
-	culture = runafu
-}
-
-307.4.1 = {
-	culture = sereka
-}
-
-340.4.1 = {
-	culture = runafu
-}
-
-372.4.1 = {
-	culture = sereka
-}
-
-389.4.1 = {
-	culture = runafu
-}
-
-400.4.1 = {
-	culture = sereka
-}
-
-471.4.1 = {
-	culture = runafu
-}
-
-488.4.1 = {
-	culture = sereka
-}
-
-535.4.1 = {
-	culture = runafu
-}
-
-613.4.1 = {
-	culture = sereka
-}
-
-714.4.1 = {
-	culture = runafu
-}
-
-720.4.1 = {
-	b_riwilip = castle
-}
-
-722.4.1 = {
-	culture = sereka
-}
-
-806.4.1 = {
-	b_larics = temple
-}
-
-851.4.1 = {
-	culture = runafu
-}
-
-857.4.1 = {
-	culture = sereka
-}
-
+#History

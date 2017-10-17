@@ -1,41 +1,17 @@
-	title = c_tando
-	max_settlements = 2
-	culture = syahes
-	religion = neharis
-	b_naudando = tribal
-200.3.1 = {
-	religion = eraygnars
-}
+# c_tando
 
-203.3.1 = {
-	religion = neharis
-}
+# County Title
+title = c_tando
 
-238.4.1 = {
-	culture = narentiy
-}
+# Settlements
+max_settlements = 3
 
-259.4.1 = {
-	culture = amuhopti
-}
+b_tando = castle
+b_tando_2 = city
+b_tando_3 = temple
 
-320.4.1 = {
-	culture = syahes
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-323.4.1 = {
-	culture = amuhopti
-}
-
-421.4.1 = {
-	culture = syahes
-}
-
-585.4.1 = {
-	b_naudando = castle
-}
-
-760.4.1 = {
-	b_nunive = temple
-}
-
+#History

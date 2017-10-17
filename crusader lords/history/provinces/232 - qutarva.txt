@@ -1,29 +1,17 @@
-	title = c_qutarva
-	max_settlements = 6
-	culture = amuhopti
-	religion = neharis
-	b_rusin = tribal
-315.4.1 = {
-	culture = syahes
-}
+# c_qutarva
 
-352.4.1 = {
-	culture = amuhopti
-}
+# County Title
+title = c_qutarva
 
-451.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 3
 
-520.4.1 = {
-	b_rusin = castle
-}
+b_qutarva = castle
+b_qutarva_2 = city
+b_qutarva_3 = temple
 
-655.4.1 = {
-	b_karin = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-839.4.1 = {
-	b_egodin = city
-}
-
+#History

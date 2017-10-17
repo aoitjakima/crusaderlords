@@ -1,29 +1,21 @@
-	title = c_koruyat
-	max_settlements = 5
-	culture = rerinya
-	religion = aguninya
-	b_enuyat = tribal
-1.1.1 = {
-	b_dolanni = ct_port_1
-}
+# c_koruyat
 
-803.4.1 = {
-	b_enuyat = castle
-}
+# County Title
+title = c_koruyat
 
-828.4.1 = {
-	b_wanako = temple
-}
+# Settlements
+max_settlements = 7
 
-899.4.1 = {
-	b_dolanni = city
-}
+b_alcote = city
+b_vijoz = city
+b_guadalander = temple
+#b_koruyat = castle
+#b_koruyat_2 = city
+#b_koruyat_3 = temple
+#b_koruyat_4 = castle
 
-953.4.1 = {
-	b_ratergun = castle
-}
+# Misc
+culture = estazi_culture5
+religion = estazi_faith
 
-1005.4.1 = {
-	b_neninya = temple
-}
-
+#History

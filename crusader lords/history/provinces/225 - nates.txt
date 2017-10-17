@@ -1,13 +1,17 @@
-	title = c_nates
-	max_settlements = 7
-	culture = syahes
-	religion = neharis
-	b_risadir = tribal
-560.4.1 = {
-	b_risadir = castle
-}
+# c_nates
 
-720.4.1 = {
-	b_agenolas = temple
-}
+# County Title
+title = c_nates
 
+# Settlements
+max_settlements = 3
+
+b_nates = castle
+b_nates_2 = city
+b_nates_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

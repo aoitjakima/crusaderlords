@@ -1,25 +1,17 @@
-	title = c_ninia
-	max_settlements = 2
-	culture = talentiy
-	religion = neharis
-	b_rulinia = tribal
-232.4.1 = {
-	culture = syahes
-}
+# c_ninia
 
-252.4.1 = {
-	culture = talentiy
-}
+# County Title
+title = c_ninia
 
-258.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 3
 
-600.4.1 = {
-	b_rulinia = castle
-}
+b_ninia = castle
+b_ninia_2 = city
+b_ninia_3 = temple
 
-775.4.1 = {
-	b_qodius = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

@@ -1,37 +1,17 @@
-	title = c_dobenbosey
-	max_settlements = 2
-	culture = digaka
-	religion = raipi
-	b_nurande = tribal
-205.3.1 = {
-	religion = wedwig
-}
+# c_dobenbosey
 
-206.3.1 = {
-	religion = raipi
-}
+# County Title
+title = c_dobenbosey
 
-208.3.1 = {
-	religion = wedwig
-}
+# Settlements
+max_settlements = 3
 
-213.3.1 = {
-	religion = raipi
-}
+b_dobenbosey = castle
+b_dobenbosey_2 = city
+b_dobenbosey_3 = temple
 
-214.3.1 = {
-	religion = wedwig
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-215.3.1 = {
-	religion = raipi
-}
-
-670.4.1 = {
-	b_nurande = castle
-}
-
-770.4.1 = {
-	b_qeylery = city
-}
-
+#History

@@ -1,21 +1,17 @@
-	title = c_qalyhon
-	max_settlements = 3
-	culture = lopher
-	religion = kusran
-	b_daysuge = tribal
-276.3.1 = {
-	religion = telayira
-}
+# c_qalyhon
 
-278.4.1 = {
-	culture = ritiatou
-}
+# County Title
+title = c_qalyhon
 
-378.4.1 = {
-	culture = koumas
-}
+# Settlements
+max_settlements = 3
 
-937.4.1 = {
-	culture = lopher
-}
+b_qalyhon = castle
+b_qalyhon_2 = city
+b_qalyhon_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

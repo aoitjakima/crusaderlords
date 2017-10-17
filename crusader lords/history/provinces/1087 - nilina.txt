@@ -1,45 +1,17 @@
-	title = c_nilina
-	max_settlements = 3
-	culture = tudatha
-	religion = worelen
-	b_budeslav = tribal
-1.1.1 = {
-	b_rakuga = ct_port_1
-}
+# c_nilina
 
-203.3.1 = {
-	religion = tonuyu
-}
+# County Title
+title = c_nilina
 
-212.3.1 = {
-	religion = worelen
-}
+# Settlements
+max_settlements = 3
 
-213.3.1 = {
-	religion = tonuyu
-}
+b_nilina = castle
+b_nilina_2 = city
+b_nilina_3 = temple
 
-244.4.1 = {
-	culture = tiwics
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-546.4.1 = {
-	culture = keraam
-}
-
-553.4.1 = {
-	culture = tiwics
-}
-
-670.4.1 = {
-	b_budeslav = castle
-}
-
-817.4.1 = {
-	b_bilina = temple
-}
-
-954.4.1 = {
-	b_rakuga = city
-}
-
+#History

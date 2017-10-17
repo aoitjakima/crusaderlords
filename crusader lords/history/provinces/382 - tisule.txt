@@ -1,45 +1,17 @@
-	title = c_tisule
-	max_settlements = 4
-	culture = syahes
-	religion = neharis
-	b_lotarma = tribal
-248.4.1 = {
-	culture = amuhopti
-}
+# c_tisule
 
-320.4.1 = {
-	culture = syahes
-}
+# County Title
+title = c_tisule
 
-331.4.1 = {
-	culture = amuhopti
-}
+# Settlements
+max_settlements = 3
 
-366.4.1 = {
-	culture = qindik
-}
+b_radebeul = castle
+b_tisule = city
+b_tisule_2 = temple
 
-377.4.1 = {
-	culture = amuhopti
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-451.4.1 = {
-	culture = syahes
-}
-
-462.4.1 = {
-	culture = amuhopti
-}
-
-486.4.1 = {
-	culture = syahes
-}
-
-575.4.1 = {
-	b_lotarma = castle
-}
-
-735.4.1 = {
-	b_segoto = city
-}
-
+#History

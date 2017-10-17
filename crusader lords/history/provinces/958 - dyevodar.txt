@@ -1,21 +1,17 @@
-	title = c_dyevodar
-	max_settlements = 2
-	culture = waetutlu
-	religion = qiteka
-	b_qyed = tribal
-273.4.1 = {
-	culture = risutlu
-}
+# c_dyevodar
 
-505.4.1 = {
-	b_qyed = castle
-}
+# County Title
+title = c_dyevodar
 
-630.4.1 = {
-	b_aberacob = temple
-}
+# Settlements
+max_settlements = 3
 
-719.4.1 = {
-	culture = saimes
-}
+b_dyevodar = castle
+b_dyevodar_2 = city
+b_dyevodar_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

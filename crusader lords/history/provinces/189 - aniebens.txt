@@ -1,9 +1,17 @@
-	title = c_aniebens
-	max_settlements = 3
-	culture = waynald
-	religion = wedwig
-	b_nahibel = tribal
-1046.4.1 = {
-	b_nahibel = castle
-}
+# c_aniebens
 
+# County Title
+title = c_aniebens
+
+# Settlements
+max_settlements = 3
+
+b_aniebens = castle
+b_aniebens_2 = city
+b_aniebens_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

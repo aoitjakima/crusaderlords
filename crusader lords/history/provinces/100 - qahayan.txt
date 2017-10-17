@@ -1,5 +1,17 @@
-	title = c_qahayan
-	max_settlements = 4
-	culture = waynald
-	religion = wedwig
-	b_wavayan = tribal
+# c_qahayan
+
+# County Title
+title = c_qahayan
+
+# Settlements
+max_settlements = 3
+
+b_qahayan = castle
+b_qahayan_2 = city
+b_qahayan_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = kirothian
+
+#History

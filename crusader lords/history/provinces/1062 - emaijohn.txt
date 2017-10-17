@@ -1,21 +1,17 @@
-	title = c_emaijohn
-	max_settlements = 2
-	culture = syahes
-	religion = neharis
-	b_qacevag = tribal
-1.1.1 = {
-	b_talenna = ct_port_1
-}
+# c_emaijohn
 
-202.4.1 = {
-	culture = karibel
-}
+# County Title
+title = c_emaijohn
 
-645.4.1 = {
-	b_qacevag = castle
-}
+# Settlements
+max_settlements = 3
 
-755.4.1 = {
-	b_talenna = city
-}
+b_emaijohn = castle
+b_emaijohn_2 = city
+b_emaijohn_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

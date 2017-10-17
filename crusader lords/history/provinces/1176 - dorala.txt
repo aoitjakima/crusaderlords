@@ -1,41 +1,17 @@
-	title = c_dorala
-	max_settlements = 3
-	culture = reasep
-	religion = tonuyu
-	b_retabra = tribal
-1.1.1 = {
-	b_wandev = ct_port_1
-}
+# c_dorala
 
-347.4.1 = {
-	culture = tiwics
-}
+# County Title
+title = c_dorala
 
-376.4.1 = {
-	culture = reasep
-}
+# Settlements
+max_settlements = 3
 
-412.4.1 = {
-	culture = tiwics
-}
+b_dorala = castle
+b_dorala_2 = city
+b_dorala_3 = temple
 
-439.4.1 = {
-	culture = reasep
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-455.4.1 = {
-	culture = tiwics
-}
-
-720.4.1 = {
-	b_retabra = castle
-}
-
-822.4.1 = {
-	b_sahkala = temple
-}
-
-918.4.1 = {
-	b_wandev = city
-}
-
+#History

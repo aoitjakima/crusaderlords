@@ -1,29 +1,17 @@
-	title = c_naves
-	max_settlements = 3
-	culture = daimeig
-	religion = wedwig
-	b_qutinia = tribal
-322.4.1 = {
-	culture = waynald
-}
+# c_naves
 
-323.4.1 = {
-	culture = daimeig
-}
+# County Title
+title = c_naves
 
-382.4.1 = {
-	culture = waynald
-}
+# Settlements
+max_settlements = 3
 
-605.4.1 = {
-	b_qutinia = castle
-}
+b_naves = castle
+b_naves_2 = city
+b_naves_3 = temple
 
-700.4.1 = {
-	b_lareria = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-842.4.1 = {
-	b_rentiy = city
-}
-
+#History

@@ -1,37 +1,17 @@
-	title = c_tosesind
-	max_settlements = 4
-	culture = digaka
-	religion = raipi
-	b_kucoros = tribal
-1.1.1 = {
-	b_nyia = ct_port_1
-}
+# c_tosesind
 
-269.4.1 = {
-	culture = sigivkah
-}
+# County Title
+title = c_tosesind
 
-303.4.1 = {
-	culture = digaka
-}
+# Settlements
+max_settlements = 3
 
-304.4.1 = {
-	culture = sigivkah
-}
+b_tosesind = castle
+b_tosesind_2 = city
+b_tosesind_3 = temple
 
-670.4.1 = {
-	b_kucoros = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-804.4.1 = {
-	b_qurina = temple
-}
-
-894.4.1 = {
-	b_nyia = city
-}
-
-980.4.1 = {
-	b_diyanes = temple
-}
-
+#History

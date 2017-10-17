@@ -1,29 +1,17 @@
-	title = c_toratha
-	max_settlements = 2
-	culture = wenira
-	religion = tonuyu
-	b_ajakelen = tribal
-1.1.1 = {
-	b_soratha = ct_port_1
-}
+# c_toratha
 
-265.4.1 = {
-	culture = radabor
-}
+# County Title
+title = c_toratha
 
-270.4.1 = {
-	culture = wenira
-}
+# Settlements
+max_settlements = 3
 
-336.4.1 = {
-	culture = radabor
-}
+b_toratha = castle
+b_toratha_2 = city
+b_toratha_3 = temple
 
-710.4.1 = {
-	b_ajakelen = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-821.4.1 = {
-	b_soratha = city
-}
-
+#History

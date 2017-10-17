@@ -1,65 +1,17 @@
-	title = c_wurutan
-	max_settlements = 4
-	culture = ketamma
-	religion = kusran
-	b_ebozamma = tribal
-200.3.1 = {
-	religion = neharis
-}
+# c_wurutan
 
-201.3.1 = {
-	religion = raipi
-}
+# County Title
+title = c_wurutan
 
-207.3.1 = {
-	religion = neharis
-}
+# Settlements
+max_settlements = 3
 
-208.4.1 = {
-	culture = taroman
-}
+b_wurutan = castle
+b_wurutan_2 = city
+b_wurutan_3 = temple
 
-220.3.1 = {
-	religion = raipi
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-235.3.1 = {
-	religion = neharis
-}
-
-239.3.1 = {
-	religion = raipi
-}
-
-246.3.1 = {
-	religion = neharis
-}
-
-251.3.1 = {
-	religion = raipi
-}
-
-320.4.1 = {
-	culture = eluedsalh
-}
-
-340.4.1 = {
-	culture = sigivkah
-}
-
-806.4.1 = {
-	b_ebozamma = castle
-}
-
-838.4.1 = {
-	b_natacik = temple
-}
-
-934.4.1 = {
-	b_qurilen = city
-}
-
-1027.4.1 = {
-	b_baropti = city
-}
-
+#History

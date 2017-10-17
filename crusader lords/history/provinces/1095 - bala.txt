@@ -1,21 +1,17 @@
-	title = c_bala
-	max_settlements = 2
-	culture = reusadra
-	religion = tonuyu
-	b_deraam = tribal
-326.4.1 = {
-	culture = tiwics
-}
+# c_bala
 
-429.4.1 = {
-	culture = nalaam
-}
+# County Title
+title = c_bala
 
-494.4.1 = {
-	culture = keraam
-}
+# Settlements
+max_settlements = 3
 
-553.4.1 = {
-	culture = tiwics
-}
+b_bala = castle
+b_bala_2 = city
+b_bala_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

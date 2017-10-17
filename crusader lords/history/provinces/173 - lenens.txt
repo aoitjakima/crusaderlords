@@ -1,13 +1,17 @@
-	title = c_lenens
-	max_settlements = 2
-	culture = talentiy
-	religion = neharis
-	b_byahayan = tribal
-520.4.1 = {
-	b_byahayan = castle
-}
+# c_lenens
 
-625.4.1 = {
-	b_davnus = temple
-}
+# County Title
+title = c_lenens
 
+# Settlements
+max_settlements = 3
+
+b_lenens = castle
+b_lenens_2 = city
+b_lenens_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

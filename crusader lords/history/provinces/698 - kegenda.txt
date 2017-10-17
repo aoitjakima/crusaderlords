@@ -1,109 +1,17 @@
-	title = c_kegenda
-	max_settlements = 2
-	culture = esunadir
-	religion = qiteka
-	b_qiebive = tribal
-201.3.1 = {
-	religion = naneka
-}
+# c_kegenda
 
-202.3.1 = {
-	religion = qiteka
-}
+# County Title
+title = c_kegenda
 
-202.3.1 = {
-	religion = naneka
-}
+# Settlements
+max_settlements = 3
 
-209.3.1 = {
-	religion = qiteka
-}
+b_kegenda = castle
+b_kegenda_2 = city
+b_kegenda_3 = temple
 
-211.3.1 = {
-	religion = naneka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-213.3.1 = {
-	religion = qiteka
-}
-
-213.3.1 = {
-	religion = naneka
-}
-
-217.3.1 = {
-	religion = qiteka
-}
-
-219.3.1 = {
-	religion = naneka
-}
-
-224.3.1 = {
-	religion = qiteka
-}
-
-225.3.1 = {
-	religion = naneka
-}
-
-228.3.1 = {
-	religion = qiteka
-}
-
-228.3.1 = {
-	religion = naneka
-}
-
-229.3.1 = {
-	religion = qiteka
-}
-
-231.3.1 = {
-	religion = naneka
-}
-
-233.3.1 = {
-	religion = qiteka
-}
-
-233.3.1 = {
-	religion = naneka
-}
-
-240.3.1 = {
-	religion = qiteka
-}
-
-243.3.1 = {
-	religion = naneka
-}
-
-337.4.1 = {
-	culture = sereka
-}
-
-418.4.1 = {
-	culture = esunadir
-}
-
-420.4.1 = {
-	culture = sereka
-}
-
-668.4.1 = {
-	culture = esunadir
-}
-
-685.4.1 = {
-	b_qiebive = castle
-}
-
-819.4.1 = {
-	b_qesan = temple
-}
-
-886.4.1 = {
-	culture = sereka
-}
-
+#History

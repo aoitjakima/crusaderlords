@@ -1,5 +1,17 @@
-	title = c_rahen
-	max_settlements = 5
-	culture = waynald
-	religion = wedwig
-	b_esuhsos = tribal
+# c_rahen
+
+# County Title
+title = c_rahen
+
+# Settlements
+max_settlements = 3
+
+b_rahen = castle
+b_rahen_2 = city
+b_rahen_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

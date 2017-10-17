@@ -1,25 +1,17 @@
-	title = c_waribel
-	max_settlements = 2
-	culture = talentiy
-	religion = neharis
-	b_nenes = tribal
-232.4.1 = {
-	culture = syahes
-}
+# c_waribel
 
-252.4.1 = {
-	culture = talentiy
-}
+# County Title
+title = c_waribel
 
-258.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 3
 
-530.4.1 = {
-	b_nenes = castle
-}
+b_waribel = castle
+b_waribel_2 = city
+b_waribel_3 = temple
 
-710.4.1 = {
-	b_etaheria = city
-}
+# Misc
+culture = bastian_avas
+religion = kirothian
 
+#History

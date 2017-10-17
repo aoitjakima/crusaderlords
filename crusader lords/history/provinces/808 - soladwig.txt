@@ -1,41 +1,17 @@
-	title = c_soladwig
-	max_settlements = 2
-	culture = durga
-	religion = terenat
-	b_reusivi = tribal
-203.3.1 = {
-	religion = qiteka
-}
+# c_soladwig
 
-204.3.1 = {
-	religion = terenat
-}
+# County Title
+title = c_soladwig
 
-212.3.1 = {
-	religion = qiteka
-}
+# Settlements
+max_settlements = 3
 
-214.3.1 = {
-	religion = terenat
-}
+b_soladwig = castle
+b_soladwig_2 = city
+b_soladwig_3 = temple
 
-218.3.1 = {
-	religion = qiteka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-392.4.1 = {
-	culture = risutlu
-}
-
-515.4.1 = {
-	b_reusivi = castle
-}
-
-685.4.1 = {
-	b_tahenacob = city
-}
-
-735.4.1 = {
-	culture = saimes
-}
-
+#History

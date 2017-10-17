@@ -1,129 +1,17 @@
-	title = c_sisadi
-	max_settlements = 2
-	culture = banaila
-	religion = qiteka
-	b_seruel = tribal
-203.3.1 = {
-	religion = terenat
-}
+# c_sisadi
 
-208.3.1 = {
-	religion = qiteka
-}
+# County Title
+title = c_sisadi
 
-208.3.1 = {
-	religion = terenat
-}
+# Settlements
+max_settlements = 3
 
-216.3.1 = {
-	religion = qiteka
-}
+b_sisadi = castle
+b_sisadi_2 = city
+b_sisadi_3 = temple
 
-222.3.1 = {
-	religion = terenat
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-235.4.1 = {
-	culture = kitule
-}
-
-236.3.1 = {
-	religion = begeka
-}
-
-241.3.1 = {
-	religion = terenat
-}
-
-244.3.1 = {
-	religion = begeka
-}
-
-246.4.1 = {
-	culture = banaila
-}
-
-247.3.1 = {
-	religion = terenat
-}
-
-250.3.1 = {
-	religion = begeka
-}
-
-252.3.1 = {
-	religion = terenat
-}
-
-263.3.1 = {
-	religion = begeka
-}
-
-264.3.1 = {
-	religion = terenat
-}
-
-265.3.1 = {
-	religion = begeka
-}
-
-268.3.1 = {
-	religion = terenat
-}
-
-269.3.1 = {
-	religion = begeka
-}
-
-278.3.1 = {
-	religion = terenat
-}
-
-284.3.1 = {
-	religion = begeka
-}
-
-291.3.1 = {
-	religion = terenat
-}
-
-297.3.1 = {
-	religion = begeka
-}
-
-303.3.1 = {
-	religion = terenat
-}
-
-304.3.1 = {
-	religion = begeka
-}
-
-306.3.1 = {
-	religion = terenat
-}
-
-306.3.1 = {
-	religion = begeka
-}
-
-385.4.1 = {
-	culture = kitule
-}
-
-393.4.1 = {
-	culture = banaila
-}
-
-448.4.1 = {
-	culture = kitule
-}
-
-575.4.1 = {
-	b_seruel = castle
-}
-
-710.4.1 = {
-	b_sucoza = city
-}
-
+#History

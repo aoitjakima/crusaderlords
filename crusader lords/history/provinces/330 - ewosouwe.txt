@@ -1,17 +1,17 @@
-	title = c_ewosouwe
-	max_settlements = 2
-	culture = syahes
-	religion = neharis
-	b_tatwekel = tribal
-215.4.1 = {
-	culture = sodinia
-}
+# c_ewosouwe
 
-595.4.1 = {
-	b_tatwekel = castle
-}
+# County Title
+title = c_ewosouwe
 
-685.4.1 = {
-	b_awyugijne = temple
-}
+# Settlements
+max_settlements = 3
 
+b_ewosouwe = castle
+b_ewosouwe_2 = city
+b_ewosouwe_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

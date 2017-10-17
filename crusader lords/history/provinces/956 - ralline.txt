@@ -1,53 +1,17 @@
-	title = c_ralline
-	max_settlements = 2
-	culture = lerelin
-	religion = naneka
-	b_rurah = tribal
-347.4.1 = {
-	culture = wates
-}
+# c_ralline
 
-353.4.1 = {
-	culture = lerelin
-}
+# County Title
+title = c_ralline
 
-373.3.1 = {
-	religion = qiteka
-}
+# Settlements
+max_settlements = 3
 
-374.3.1 = {
-	religion = naneka
-}
+b_ralline = castle
+b_ralline_2 = city
+b_ralline_3 = temple
 
-378.3.1 = {
-	religion = qiteka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-379.3.1 = {
-	religion = naneka
-}
-
-383.3.1 = {
-	religion = qiteka
-}
-
-397.3.1 = {
-	religion = naneka
-}
-
-398.3.1 = {
-	religion = qiteka
-}
-
-401.4.1 = {
-	culture = wates
-}
-
-705.4.1 = {
-	b_rurah = castle
-}
-
-809.4.1 = {
-	b_bamong = temple
-}
-
+#History

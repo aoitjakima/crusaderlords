@@ -1,41 +1,17 @@
-	title = c_tieboto
-	max_settlements = 2
-	culture = qindik
-	religion = neharis
-	b_disolas = tribal
-200.3.1 = {
-	religion = eraygnars
-}
+# c_tieboto
 
-203.3.1 = {
-	religion = neharis
-}
+# County Title
+title = c_tieboto
 
-238.4.1 = {
-	culture = narentiy
-}
+# Settlements
+max_settlements = 3
 
-259.4.1 = {
-	culture = amuhopti
-}
+b_tieboto = castle
+b_tieboto_2 = city
+b_tieboto_3 = temple
 
-320.4.1 = {
-	culture = syahes
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-323.4.1 = {
-	culture = amuhopti
-}
-
-421.4.1 = {
-	culture = syahes
-}
-
-585.4.1 = {
-	b_disolas = castle
-}
-
-765.4.1 = {
-	b_wicule = city
-}
-
+#History

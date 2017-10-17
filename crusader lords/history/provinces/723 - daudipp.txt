@@ -1,109 +1,17 @@
-	title = c_daudipp
-	max_settlements = 5
-	culture = ryanopti
-	religion = kusran
-	b_emauder = tribal
-201.3.1 = {
-	religion = wedwig
-}
+# c_daudipp
 
-208.3.1 = {
-	religion = kusran
-}
+# County Title
+title = c_daudipp
 
-247.3.1 = {
-	religion = wedwig
-}
+# Settlements
+max_settlements = 3
 
-266.3.1 = {
-	religion = kusran
-}
+b_daudipp = castle
+b_daudipp_2 = city
+b_daudipp_3 = temple
 
-343.3.1 = {
-	religion = wedwig
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-351.3.1 = {
-	religion = kusran
-}
-
-353.3.1 = {
-	religion = wedwig
-}
-
-354.3.1 = {
-	religion = kusran
-}
-
-356.3.1 = {
-	religion = wedwig
-}
-
-360.3.1 = {
-	religion = kusran
-}
-
-373.3.1 = {
-	religion = wedwig
-}
-
-378.3.1 = {
-	religion = kusran
-}
-
-383.3.1 = {
-	religion = wedwig
-}
-
-385.3.1 = {
-	religion = kusran
-}
-
-390.3.1 = {
-	religion = wedwig
-}
-
-395.3.1 = {
-	religion = kusran
-}
-
-396.3.1 = {
-	religion = wedwig
-}
-
-397.3.1 = {
-	religion = kusran
-}
-
-400.3.1 = {
-	religion = wedwig
-}
-
-404.3.1 = {
-	religion = kusran
-}
-
-409.3.1 = {
-	religion = wedwig
-}
-
-550.4.1 = {
-	b_emauder = castle
-}
-
-745.4.1 = {
-	b_ratid = temple
-}
-
-873.4.1 = {
-	b_batey = city
-}
-
-954.4.1 = {
-	b_tavipp = temple
-}
-
-1033.4.1 = {
-	b_denihal = city
-}
-
+#History

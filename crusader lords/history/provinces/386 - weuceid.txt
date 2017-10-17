@@ -1,25 +1,17 @@
-	title = c_weuceid
-	max_settlements = 3
-	culture = sutidoka
-	religion = kusran
-	b_kaurina = tribal
-200.3.1 = {
-	religion = qigiyah
-}
+# c_weuceid
 
-233.4.1 = {
-	culture = alaurine
-}
+# County Title
+title = c_weuceid
 
-827.4.1 = {
-	b_kaurina = castle
-}
+# Settlements
+max_settlements = 3
 
-870.4.1 = {
-	b_tigudha = city
-}
+b_weuceid = castle
+b_weuceid_2 = city
+b_weuceid_3 = temple
 
-969.4.1 = {
-	b_qegancis = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

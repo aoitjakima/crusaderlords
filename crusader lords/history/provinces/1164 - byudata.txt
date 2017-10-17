@@ -1,57 +1,17 @@
-	title = c_byudata
-	max_settlements = 2
-	culture = ryarahim
-	religion = binuyu
-	b_esigeda = tribal
-215.4.1 = {
-	culture = qenoos
-}
+# c_byudata
 
-241.4.1 = {
-	culture = ryarahim
-}
+# County Title
+title = c_byudata
 
-270.4.1 = {
-	culture = qenoos
-}
+# Settlements
+max_settlements = 3
 
-294.4.1 = {
-	culture = ryarahim
-}
+b_byudata = castle
+b_byudata_2 = city
+b_byudata_3 = temple
 
-336.3.1 = {
-	religion = tonuyu
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-338.4.1 = {
-	culture = qenoos
-}
-
-356.4.1 = {
-	culture = ryarahim
-}
-
-427.4.1 = {
-	culture = ranahim
-}
-
-810.4.1 = {
-	culture = qenoos
-}
-
-846.4.1 = {
-	culture = ranahim
-}
-
-863.4.1 = {
-	culture = qenoos
-}
-
-882.4.1 = {
-	culture = ranahim
-}
-
-918.4.1 = {
-	culture = qenoos
-}
-
+#History

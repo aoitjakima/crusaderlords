@@ -1,85 +1,17 @@
-	title = c_kumance
-	max_settlements = 5
-	culture = esunadir
-	religion = begeka
-	b_kamiam = tribal
-233.4.1 = {
-	culture = runafu
-}
+# c_kumance
 
-238.3.1 = {
-	religion = naneka
-}
+# County Title
+title = c_kumance
 
-242.3.1 = {
-	religion = begeka
-}
+# Settlements
+max_settlements = 3
 
-246.3.1 = {
-	religion = naneka
-}
+b_kumance = castle
+b_kumance_2 = city
+b_kumance_3 = temple
 
-253.4.1 = {
-	culture = sereka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-263.3.1 = {
-	religion = begeka
-}
-
-264.3.1 = {
-	religion = naneka
-}
-
-265.3.1 = {
-	religion = begeka
-}
-
-269.3.1 = {
-	religion = naneka
-}
-
-338.4.1 = {
-	culture = runafu
-}
-
-369.4.1 = {
-	culture = sereka
-}
-
-399.4.1 = {
-	culture = runafu
-}
-
-596.4.1 = {
-	b_kamiam = castle
-}
-
-674.4.1 = {
-	culture = sereka
-}
-
-697.4.1 = {
-	culture = runafu
-}
-
-700.4.1 = {
-	b_danamur = city
-}
-
-724.4.1 = {
-	culture = sereka
-}
-
-827.4.1 = {
-	b_wordan = temple
-}
-
-874.4.1 = {
-	b_kesose = temple
-}
-
-922.4.1 = {
-	b_detose = castle
-}
-
+#History

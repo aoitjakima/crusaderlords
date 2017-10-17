@@ -1,29 +1,17 @@
-	title = c_kuhopti
-	max_settlements = 5
-	culture = nitindik
-	religion = neharis
-	b_kahinia = tribal
-200.4.1 = {
-	culture = sodinia
-}
+# c_kuhopti
 
-515.4.1 = {
-	b_kahinia = castle
-}
+# County Title
+title = c_kuhopti
 
-620.4.1 = {
-	b_ezahens = temple
-}
+# Settlements
+max_settlements = 3
 
-821.4.1 = {
-	b_tindik = city
-}
+b_kuhopti = castle
+b_kuhopti_2 = city
+b_kuhopti_3 = temple
 
-885.4.1 = {
-	b_ewodava = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-946.4.1 = {
-	b_sodius = castle
-}
-
+#History

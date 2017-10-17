@@ -1,33 +1,17 @@
-	title = c_leheven
-	max_settlements = 3
-	culture = syahes
-	religion = neharis
-	b_sehata = tribal
-1.1.1 = {
-	b_talaa = ct_port_1
-}
+# c_leheven
 
-285.4.1 = {
-	culture = sodinia
-}
+# County Title
+title = c_leheven
 
-297.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 3
 
-300.4.1 = {
-	culture = sodinia
-}
+b_leheven = castle
+b_leheven_2 = city
+b_leheven_3 = temple
 
-610.4.1 = {
-	b_sehata = castle
-}
+# Misc
+culture = bastian_avas
+religion = kirothian
 
-760.4.1 = {
-	b_deilohn = temple
-}
-
-878.4.1 = {
-	b_talaa = city
-}
-
+#History

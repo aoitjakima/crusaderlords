@@ -1,37 +1,17 @@
-	title = c_takabra
-	max_settlements = 2
-	culture = tudatha
-	religion = worelen
-	b_sabedony = tribal
-203.3.1 = {
-	religion = tonuyu
-}
+# c_takabra
 
-212.3.1 = {
-	religion = worelen
-}
+# County Title
+title = c_takabra
 
-213.3.1 = {
-	religion = tonuyu
-}
+# Settlements
+max_settlements = 3
 
-244.4.1 = {
-	culture = tiwics
-}
+b_takabra = castle
+b_takabra_2 = city
+b_takabra_3 = temple
 
-546.4.1 = {
-	culture = keraam
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-553.4.1 = {
-	culture = tiwics
-}
-
-780.4.1 = {
-	b_sabedony = castle
-}
-
-832.4.1 = {
-	b_kaysa = temple
-}
-
+#History

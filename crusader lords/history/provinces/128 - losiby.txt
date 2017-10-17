@@ -1,29 +1,17 @@
-	title = c_losiby
-	max_settlements = 3
-	culture = remis
-	religion = raipi
-	b_bolyhon = tribal
-205.3.1 = {
-	religion = wedwig
-}
+# c_losiby
 
-217.3.1 = {
-	religion = raipi
-}
+# County Title
+title = c_losiby
 
-229.4.1 = {
-	culture = digaka
-}
+# Settlements
+max_settlements = 3
 
-665.4.1 = {
-	b_bolyhon = castle
-}
+b_losiby = castle
+b_losiby_2 = city
+b_losiby_3 = temple
 
-790.4.1 = {
-	b_riwey = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-872.4.1 = {
-	b_dobande = city
-}
-
+#History

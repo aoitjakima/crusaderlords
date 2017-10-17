@@ -1,5 +1,18 @@
-	title = c_qepaura
-	max_settlements = 7
-	culture = everala
-	religion = tonuyu
-	b_reusler = tribal
+# c_qepaura
+
+# County Title
+title = c_qepaura
+
+# Settlements
+max_settlements = 4
+
+b_tapaloc = temple
+b_mazazuma = city
+#b_qepaura = temple
+#b_qepaura_2 = castle
+
+# Misc
+culture = Druchi
+religion = kirothian
+
+#History

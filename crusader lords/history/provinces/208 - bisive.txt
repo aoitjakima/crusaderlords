@@ -1,53 +1,17 @@
-	title = c_bisive
-	max_settlements = 5
-	culture = qindik
-	religion = neharis
-	b_botando = tribal
-202.3.1 = {
-	religion = wedwig
-}
+# c_bisive
 
-203.3.1 = {
-	religion = neharis
-}
+# County Title
+title = c_bisive
 
-207.4.1 = {
-	culture = daimeig
-}
+# Settlements
+max_settlements = 3
 
-214.3.1 = {
-	religion = wedwig
-}
+b_bisive = castle
+b_bisive_2 = city
+b_bisive_3 = temple
 
-215.3.1 = {
-	religion = neharis
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-239.4.1 = {
-	culture = qindik
-}
-
-258.4.1 = {
-	culture = daimeig
-}
-
-266.4.1 = {
-	culture = syahes
-}
-
-371.4.1 = {
-	culture = amuhopti
-}
-
-419.4.1 = {
-	culture = syahes
-}
-
-575.4.1 = {
-	b_botando = castle
-}
-
-710.4.1 = {
-	b_runarma = temple
-}
-
+#History

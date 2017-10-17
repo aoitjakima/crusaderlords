@@ -1,29 +1,21 @@
-	title = c_bunijne
-	max_settlements = 5
-	culture = doleven
-	religion = aguninya
-	b_sanergun = tribal
-1.1.1 = {
-	b_rerdon = ct_port_1
-}
+# c_bunijne
 
-740.4.1 = {
-	b_sanergun = castle
-}
+# County Title
+title = c_bunijne
 
-809.4.1 = {
-	b_sanuyat = temple
-}
+# Settlements
+max_settlements = 7
 
-873.4.1 = {
-	b_rerdon = city
-}
+b_bamona = city
+b_rasello = city
+b_veroviso = temple
+#b_bunijne = castle
+#b_bunijne_2 = city
+#b_bunijne_3 = temple
+#b_bunijne_4 = castle
 
-938.4.1 = {
-	b_anergun = city
-}
+# Misc
+culture = estazi_culture4
+religion = estazi_faith
 
-989.4.1 = {
-	b_nucateg = temple
-}
-
+#History

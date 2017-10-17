@@ -1,21 +1,17 @@
-	title = c_lenipp
-	max_settlements = 2
-	culture = waetutlu
-	religion = qiteka
-	b_natacob = tribal
-319.4.1 = {
-	culture = risutlu
-}
+# c_lenipp
 
-515.4.1 = {
-	b_natacob = castle
-}
+# County Title
+title = c_lenipp
 
-640.4.1 = {
-	b_qavada = city
-}
+# Settlements
+max_settlements = 3
 
-723.4.1 = {
-	culture = saimes
-}
+b_lenipp = castle
+b_lenipp_2 = city
+b_lenipp_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

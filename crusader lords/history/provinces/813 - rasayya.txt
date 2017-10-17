@@ -1,53 +1,17 @@
-	title = c_rasayya
-	max_settlements = 3
-	culture = namyan
-	religion = telayira
-	b_qavisheva = tribal
-210.4.1 = {
-	culture = ritiatou
-}
+# c_rasayya
 
-218.4.1 = {
-	culture = koumas
-}
+# County Title
+title = c_rasayya
 
-357.4.1 = {
-	culture = ritiatou
-}
+# Settlements
+max_settlements = 3
 
-407.4.1 = {
-	culture = koumas
-}
+b_rasayya = castle
+b_rasayya_2 = city
+b_rasayya_3 = temple
 
-580.4.1 = {
-	culture = lopher
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-610.4.1 = {
-	b_qavisheva = castle
-}
-
-765.4.1 = {
-	b_kicayya = city
-}
-
-840.4.1 = {
-	culture = koumas
-}
-
-864.4.1 = {
-	culture = lopher
-}
-
-875.4.1 = {
-	b_kusong = temple
-}
-
-892.4.1 = {
-	culture = koumas
-}
-
-904.4.1 = {
-	culture = lopher
-}
-
+#History

@@ -1,25 +1,17 @@
-	title = c_taver
-	max_settlements = 2
-	culture = syahes
-	religion = neharis
-	b_ehajpal = tribal
-285.4.1 = {
-	culture = sodinia
-}
+# c_taver
 
-298.4.1 = {
-	culture = syahes
-}
+# County Title
+title = c_taver
 
-331.4.1 = {
-	culture = sodinia
-}
+# Settlements
+max_settlements = 3
 
-580.4.1 = {
-	b_ehajpal = castle
-}
+b_taver = castle
+b_taver_2 = city
+b_taver_3 = temple
 
-710.4.1 = {
-	b_etataria = temple
-}
+# Misc
+culture = bastian_avas
+religion = kirothian
 
+#History

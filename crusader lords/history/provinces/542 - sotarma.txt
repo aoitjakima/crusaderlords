@@ -1,25 +1,17 @@
-	title = c_sotarma
-	max_settlements = 4
-	culture = karibel
-	religion = neharis
-	b_aberes = tribal
-242.4.1 = {
-	culture = narentiy
-}
+# c_sotarma
 
-560.4.1 = {
-	b_aberes = castle
-}
+# County Title
+title = c_sotarma
 
-650.4.1 = {
-	b_kenive = temple
-}
+# Settlements
+max_settlements = 3
 
-841.4.1 = {
-	b_bawzia = city
-}
+b_sotarma = castle
+b_sotarma_2 = city
+b_sotarma_3 = temple
 
-908.4.1 = {
-	b_risonka = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

@@ -1,5 +1,17 @@
-	title = c_kiafen
-	max_settlements = 3
-	culture = waynald
-	religion = wedwig
-	b_tabratohr = tribal
+# c_kiafen
+
+# County Title
+title = c_kiafen
+
+# Settlements
+max_settlements = 3
+
+b_kiafen = castle
+b_kiafen_2 = city
+b_kiafen_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

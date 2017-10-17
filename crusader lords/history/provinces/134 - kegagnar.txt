@@ -1,5 +1,17 @@
-	title = c_kegagnar
-	max_settlements = 2
-	culture = waynald
-	religion = wedwig
-	b_lohiana = tribal
+# c_kegagnar
+
+# County Title
+title = c_kegagnar
+
+# Settlements
+max_settlements = 3
+
+b_kegagnar = castle
+b_kegagnar_2 = city
+b_kegagnar_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

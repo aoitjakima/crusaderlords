@@ -1,17 +1,17 @@
-	title = c_lalella
-	max_settlements = 2
-	culture = amuhopti
-	religion = neharis
-	b_suhens = tribal
-301.4.1 = {
-	culture = syahes
-}
+# c_lalella
 
-525.4.1 = {
-	b_suhens = castle
-}
+# County Title
+title = c_lalella
 
-660.4.1 = {
-	b_wahius = city
-}
+# Settlements
+max_settlements = 3
 
+b_lalella = castle
+b_lalella_2 = city
+b_lalella_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

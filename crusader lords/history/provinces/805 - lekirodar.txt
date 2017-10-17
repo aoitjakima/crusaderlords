@@ -1,101 +1,17 @@
-	title = c_lekirodar
-	max_settlements = 2
-	culture = durga
-	religion = terenat
-	b_novodar = tribal
-204.3.1 = {
-	religion = wedwig
-}
+# c_lekirodar
 
-206.3.1 = {
-	religion = terenat
-}
+# County Title
+title = c_lekirodar
 
-207.3.1 = {
-	religion = wedwig
-}
+# Settlements
+max_settlements = 3
 
-223.3.1 = {
-	religion = terenat
-}
+b_lekirodar = castle
+b_lekirodar_2 = city
+b_lekirodar_3 = temple
 
-223.3.1 = {
-	religion = wedwig
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-224.3.1 = {
-	religion = terenat
-}
-
-227.3.1 = {
-	religion = wedwig
-}
-
-230.3.1 = {
-	religion = terenat
-}
-
-236.3.1 = {
-	religion = wedwig
-}
-
-238.3.1 = {
-	religion = terenat
-}
-
-243.3.1 = {
-	religion = wedwig
-}
-
-252.3.1 = {
-	religion = terenat
-}
-
-259.3.1 = {
-	religion = wedwig
-}
-
-260.3.1 = {
-	religion = terenat
-}
-
-261.3.1 = {
-	religion = wedwig
-}
-
-306.4.1 = {
-	culture = davars
-}
-
-308.4.1 = {
-	culture = durga
-}
-
-501.4.1 = {
-	culture = davars
-}
-
-520.4.1 = {
-	b_novodar = castle
-}
-
-547.4.1 = {
-	culture = durga
-}
-
-562.4.1 = {
-	culture = davars
-}
-
-577.4.1 = {
-	culture = durga
-}
-
-648.4.1 = {
-	culture = davars
-}
-
-655.4.1 = {
-	b_lelihal = temple
-}
-
+#History

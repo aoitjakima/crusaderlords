@@ -1,25 +1,17 @@
-	title = c_deygiel
-	max_settlements = 2
-	culture = nitindik
-	religion = neharis
-	b_dichaneraker = tribal
-214.4.1 = {
-	culture = syahes
-}
+# c_deygiel
 
-422.4.1 = {
-	culture = amuhopti
-}
+# County Title
+title = c_deygiel
 
-451.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 3
 
-535.4.1 = {
-	b_dichaneraker = castle
-}
+b_deygiel = castle
+b_deygiel_2 = city
+b_deygiel_3 = temple
 
-660.4.1 = {
-	b_liciel = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

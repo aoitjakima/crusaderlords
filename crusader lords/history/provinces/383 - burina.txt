@@ -1,73 +1,17 @@
-	title = c_burina
-	max_settlements = 2
-	culture = sigivkah
-	religion = kusran
-	b_ratery = tribal
-201.3.1 = {
-	religion = raipi
-}
+# c_burina
 
-211.3.1 = {
-	religion = kusran
-}
+# County Title
+title = c_burina
 
-220.3.1 = {
-	religion = raipi
-}
+# Settlements
+max_settlements = 3
 
-229.3.1 = {
-	religion = kusran
-}
+b_burina = castle
+b_burina_2 = city
+b_burina_3 = temple
 
-230.3.1 = {
-	religion = raipi
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-233.3.1 = {
-	religion = kusran
-}
-
-239.3.1 = {
-	religion = raipi
-}
-
-241.3.1 = {
-	religion = kusran
-}
-
-251.3.1 = {
-	religion = raipi
-}
-
-252.3.1 = {
-	religion = kusran
-}
-
-254.3.1 = {
-	religion = raipi
-}
-
-286.4.1 = {
-	culture = eluedsalh
-}
-
-485.4.1 = {
-	culture = sigivkah
-}
-
-524.4.1 = {
-	culture = eluedsalh
-}
-
-558.4.1 = {
-	culture = sigivkah
-}
-
-690.4.1 = {
-	b_ratery = castle
-}
-
-804.4.1 = {
-	b_datiby = city
-}
-
+#History

@@ -1,57 +1,17 @@
-	title = c_runenat
-	max_settlements = 3
-	culture = runafu
-	religion = begeka
-	b_kerabra = tribal
-238.3.1 = {
-	religion = naneka
-}
+# c_runenat
 
-253.4.1 = {
-	culture = sereka
-}
+# County Title
+title = c_runenat
 
-302.4.1 = {
-	culture = runafu
-}
+# Settlements
+max_settlements = 3
 
-311.4.1 = {
-	culture = sereka
-}
+b_runenat = castle
+b_runenat_2 = city
+b_runenat_3 = temple
 
-350.4.1 = {
-	culture = runafu
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-370.4.1 = {
-	culture = sereka
-}
-
-414.4.1 = {
-	culture = runafu
-}
-
-590.4.1 = {
-	b_kerabra = castle
-}
-
-665.4.1 = {
-	culture = sereka
-}
-
-690.4.1 = {
-	b_ravule = temple
-}
-
-701.4.1 = {
-	culture = runafu
-}
-
-863.4.1 = {
-	b_roanics = city
-}
-
-943.4.1 = {
-	culture = sereka
-}
-
+#History

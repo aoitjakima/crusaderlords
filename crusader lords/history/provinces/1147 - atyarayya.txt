@@ -1,65 +1,17 @@
-	title = c_atyarayya
-	max_settlements = 5
-	culture = ranahim
-	religion = tonuyu
-	b_ralkana = tribal
-277.4.1 = {
-	culture = qegudo
-}
+# c_atyarayya
 
-291.4.1 = {
-	culture = qenoos
-}
+# County Title
+title = c_atyarayya
 
-376.4.1 = {
-	culture = ranahim
-}
+# Settlements
+max_settlements = 3
 
-406.4.1 = {
-	culture = qenoos
-}
+b_atyarayya = castle
+b_atyarayya_2 = city
+b_atyarayya_3 = temple
 
-627.4.1 = {
-	culture = ranahim
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-628.4.1 = {
-	culture = qenoos
-}
-
-722.4.1 = {
-	culture = ranahim
-}
-
-811.4.1 = {
-	culture = qenoos
-}
-
-813.4.1 = {
-	culture = ranahim
-}
-
-815.4.1 = {
-	culture = qenoos
-}
-
-840.4.1 = {
-	b_ralkana = castle
-}
-
-869.4.1 = {
-	b_eluyu = temple
-}
-
-927.4.1 = {
-	b_bolae = city
-}
-
-987.4.1 = {
-	b_loning = temple
-}
-
-1037.4.1 = {
-	b_samala = city
-}
-
+#History

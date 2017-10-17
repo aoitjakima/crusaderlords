@@ -1,21 +1,17 @@
-	title = c_kicouwe
-	max_settlements = 2
-	culture = syahes
-	religion = neharis
-	b_rataria = tribal
-240.4.1 = {
-	culture = nitindik
-}
+# c_kicouwe
 
-263.4.1 = {
-	culture = sodinia
-}
+# County Title
+title = c_kicouwe
 
-560.4.1 = {
-	b_rataria = castle
-}
+# Settlements
+max_settlements = 3
 
-735.4.1 = {
-	b_kicith = city
-}
+b_kicouwe = castle
+b_kicouwe_2 = city
+b_kicouwe_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

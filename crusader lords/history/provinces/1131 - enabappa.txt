@@ -1,85 +1,17 @@
-	title = c_enabappa
-	max_settlements = 4
-	culture = qenoos
-	religion = tonuyu
-	b_salia = tribal
-1.1.1 = {
-	b_samadra = ct_port_1
-}
+# c_enabappa
 
-221.4.1 = {
-	culture = ranahim
-}
+# County Title
+title = c_enabappa
 
-240.4.1 = {
-	culture = qenoos
-}
+# Settlements
+max_settlements = 3
 
-280.4.1 = {
-	culture = ranahim
-}
+b_enabappa = castle
+b_enabappa_2 = city
+b_enabappa_3 = temple
 
-352.4.1 = {
-	culture = qenoos
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-578.4.1 = {
-	culture = ranahim
-}
-
-719.4.1 = {
-	culture = qenoos
-}
-
-726.4.1 = {
-	culture = ranahim
-}
-
-811.4.1 = {
-	culture = qenoos
-}
-
-817.4.1 = {
-	culture = ranahim
-}
-
-841.4.1 = {
-	b_salia = castle
-}
-
-907.4.1 = {
-	b_samadra = city
-}
-
-974.4.1 = {
-	culture = qenoos
-}
-
-979.4.1 = {
-	culture = ranahim
-}
-
-1007.4.1 = {
-	culture = qenoos
-}
-
-1018.4.1 = {
-	culture = ranahim
-}
-
-1021.4.1 = {
-	culture = qenoos
-}
-
-1024.4.1 = {
-	culture = ranahim
-}
-
-1053.4.1 = {
-	culture = qenoos
-}
-
-1054.4.1 = {
-	b_tatuzhi = temple
-}
-
+#History

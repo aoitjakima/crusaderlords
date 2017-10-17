@@ -1,61 +1,17 @@
-	title = c_lolina
-	max_settlements = 4
-	culture = kaureid
-	religion = wedwig
-	b_routs = tribal
-200.3.1 = {
-	religion = raipi
-}
+# c_lolina
 
-208.3.1 = {
-	religion = wedwig
-}
+# County Title
+title = c_lolina
 
-214.3.1 = {
-	religion = raipi
-}
+# Settlements
+max_settlements = 3
 
-219.3.1 = {
-	religion = wedwig
-}
+b_lolina = castle
+b_lolina_2 = city
+b_lolina_3 = temple
 
-222.3.1 = {
-	religion = kusran
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-230.3.1 = {
-	religion = raipi
-}
-
-234.3.1 = {
-	religion = kusran
-}
-
-242.3.1 = {
-	religion = raipi
-}
-
-244.3.1 = {
-	religion = kusran
-}
-
-254.3.1 = {
-	religion = raipi
-}
-
-259.4.1 = {
-	culture = kapti
-}
-
-725.4.1 = {
-	b_routs = castle
-}
-
-818.4.1 = {
-	b_daten = city
-}
-
-918.4.1 = {
-	b_biyaby = temple
-}
-
+#History

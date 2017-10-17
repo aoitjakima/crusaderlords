@@ -1,13 +1,17 @@
-	title = c_kanafu
-	max_settlements = 2
-	culture = karibel
-	religion = neharis
-	b_danaila = tribal
-565.4.1 = {
-	b_danaila = castle
-}
+# c_kanafu
 
-695.4.1 = {
-	b_kises = city
-}
+# County Title
+title = c_kanafu
 
+# Settlements
+max_settlements = 3
+
+b_kanafu = castle
+b_kanafu_2 = city
+b_kanafu_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

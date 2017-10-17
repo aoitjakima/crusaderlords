@@ -1,21 +1,17 @@
-	title = c_ematarma
-	max_settlements = 7
-	culture = syahes
-	religion = neharis
-	b_qisive = tribal
-200.4.1 = {
-	culture = amuhopti
-}
+# c_ematarma
 
-207.4.1 = {
-	culture = syahes
-}
+# County Title
+title = c_ematarma
 
-530.4.1 = {
-	b_qisive = castle
-}
+# Settlements
+max_settlements = 3
 
-665.4.1 = {
-	b_dainive = temple
-}
+b_ematarma = castle
+b_ematarma_2 = city
+b_ematarma_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = kirothian
+
+#History

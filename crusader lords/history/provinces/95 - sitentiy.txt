@@ -1,33 +1,17 @@
-	title = c_sitentiy
-	max_settlements = 5
-	culture = daimeig
-	religion = wedwig
-	b_kahopti = tribal
-231.4.1 = {
-	culture = nuteria
-}
+# c_sitentiy
 
-314.4.1 = {
-	culture = waynald
-}
+# County Title
+title = c_sitentiy
 
-585.4.1 = {
-	b_kahopti = castle
-}
+# Settlements
+max_settlements = 3
 
-730.4.1 = {
-	b_karinia = temple
-}
+b_sitentiy = castle
+b_sitentiy_2 = city
+b_sitentiy_3 = temple
 
-862.4.1 = {
-	b_raheria = city
-}
+# Misc
+culture = bastian_avas
+religion = kirothian
 
-943.4.1 = {
-	b_butibel = castle
-}
-
-1030.4.1 = {
-	b_semella = castle
-}
-
+#History

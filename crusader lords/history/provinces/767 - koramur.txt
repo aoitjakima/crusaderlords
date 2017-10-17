@@ -1,65 +1,17 @@
-	title = c_koramur
-	max_settlements = 7
-	culture = negasseh
-	religion = wedwig
-	b_dumose = tribal
-204.4.1 = {
-	culture = davars
-}
+# c_koramur
 
-285.4.1 = {
-	culture = durga
-}
+# County Title
+title = c_koramur
 
-306.4.1 = {
-	culture = davars
-}
+# Settlements
+max_settlements = 3
 
-313.4.1 = {
-	culture = durga
-}
+b_koramur = castle
+b_koramur_2 = city
+b_koramur_3 = temple
 
-368.4.1 = {
-	culture = davars
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-466.4.1 = {
-	culture = durga
-}
-
-514.4.1 = {
-	culture = davars
-}
-
-525.4.1 = {
-	culture = durga
-}
-
-531.4.1 = {
-	culture = davars
-}
-
-550.4.1 = {
-	b_dumose = castle
-}
-
-720.4.1 = {
-	b_toramur = temple
-}
-
-858.4.1 = {
-	b_nesuvdi = city
-}
-
-924.4.1 = {
-	b_kegundes = temple
-}
-
-989.4.1 = {
-	b_lopenda = castle
-}
-
-1052.4.1 = {
-	b_tislav = city
-}
-
+#History

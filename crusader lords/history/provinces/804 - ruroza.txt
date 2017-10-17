@@ -1,81 +1,17 @@
-	title = c_ruroza
-	max_settlements = 2
-	culture = runafu
-	religion = begeka
-	b_nerenat = tribal
-203.3.1 = {
-	religion = terenat
-}
+# c_ruroza
 
-204.3.1 = {
-	religion = begeka
-}
+# County Title
+title = c_ruroza
 
-208.4.1 = {
-	culture = banaila
-}
+# Settlements
+max_settlements = 3
 
-208.3.1 = {
-	religion = terenat
-}
+b_zabki = castle
+b_ruroza = city
+b_ruroza_2 = temple
 
-210.3.1 = {
-	religion = begeka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-211.3.1 = {
-	religion = terenat
-}
-
-217.3.1 = {
-	religion = begeka
-}
-
-222.3.1 = {
-	religion = terenat
-}
-
-231.3.1 = {
-	religion = begeka
-}
-
-249.4.1 = {
-	culture = runafu
-}
-
-262.4.1 = {
-	culture = kitule
-}
-
-287.4.1 = {
-	culture = runafu
-}
-
-308.4.1 = {
-	culture = kitule
-}
-
-358.4.1 = {
-	culture = banaila
-}
-
-364.4.1 = {
-	culture = kitule
-}
-
-419.4.1 = {
-	culture = banaila
-}
-
-527.4.1 = {
-	culture = kitule
-}
-
-590.4.1 = {
-	b_nerenat = castle
-}
-
-740.4.1 = {
-	b_tirethee = temple
-}
-
+#History

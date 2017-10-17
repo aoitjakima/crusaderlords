@@ -1,21 +1,17 @@
-	title = c_nadanpalawadanmas
-	max_settlements = 2
-	culture = rudeslav
-	religion = tonuyu
-	b_wayseda = tribal
-256.4.1 = {
-	culture = wenira
-}
+# c_nadanpalawadanmas
 
-346.4.1 = {
-	culture = radabor
-}
+# County Title
+title = c_nadanpalawadanmas
 
-615.4.1 = {
-	b_wayseda = castle
-}
+# Settlements
+max_settlements = 3
 
-760.4.1 = {
-	b_dakira = city
-}
+b_nadanpalawadanmas = castle
+b_nadanpalawadanmas_2 = city
+b_nadanpalawadanmas_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

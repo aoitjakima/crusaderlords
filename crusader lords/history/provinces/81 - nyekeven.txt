@@ -1,21 +1,17 @@
-	title = c_nyekeven
-	max_settlements = 2
-	culture = syahes
-	religion = neharis
-	b_tahohn = tribal
-240.4.1 = {
-	culture = nitindik
-}
+# c_nyekeven
 
-263.4.1 = {
-	culture = sodinia
-}
+# County Title
+title = c_nyekeven
 
-580.4.1 = {
-	b_tahohn = castle
-}
+# Settlements
+max_settlements = 3
 
-715.4.1 = {
-	b_abhaver = temple
-}
+b_nyekeven = castle
+b_nyekeven_2 = city
+b_nyekeven_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = kirothian
+
+#History

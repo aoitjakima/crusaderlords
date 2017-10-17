@@ -1,25 +1,17 @@
-	title = c_buhibel
-	max_settlements = 2
-	culture = amuhopti
-	religion = neharis
-	b_luheria = tribal
-315.4.1 = {
-	culture = syahes
-}
+# c_buhibel
 
-352.4.1 = {
-	culture = amuhopti
-}
+# County Title
+title = c_buhibel
 
-451.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 3
 
-515.4.1 = {
-	b_luheria = castle
-}
+b_buhibel = castle
+b_buhibel_2 = city
+b_buhibel_3 = temple
 
-650.4.1 = {
-	b_niebava = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

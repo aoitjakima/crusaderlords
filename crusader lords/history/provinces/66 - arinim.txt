@@ -1,21 +1,18 @@
-	title = c_arinim
-	max_settlements = 2
-	culture = lodeid
-	religion = kodine
-	b_ryleta = tribal
-201.3.1 = {
-	religion = tonuyu
-}
+# c_arinim
 
-210.4.1 = {
-	culture = biho
-}
+# County Title
+title = c_arinim
 
-878.4.1 = {
-	b_ryleta = castle
-}
+# Settlements
+max_settlements = 4
 
-917.4.1 = {
-	b_awyau = temple
-}
+b_chimalli = temple
+#b_arinim = city
+#b_arinim_2 = temple
+#b_arinim_3 = castle
 
+# Misc
+culture = druchi
+religion = kirothian
+
+#History

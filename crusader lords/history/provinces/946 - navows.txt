@@ -1,33 +1,17 @@
-	title = c_navows
-	max_settlements = 2
-	culture = waetutlu
-	religion = qiteka
-	b_lyevodar = tribal
-1.1.1 = {
-	b_lyos = ct_port_1
-}
+# c_navows
 
-308.4.1 = {
-	culture = risutlu
-}
+# County Title
+title = c_navows
 
-515.4.1 = {
-	b_lyevodar = castle
-}
+# Settlements
+max_settlements = 3
 
-635.4.1 = {
-	b_lyos = city
-}
+b_navows = castle
+b_navows_2 = city
+b_navows_3 = temple
 
-727.4.1 = {
-	culture = saimes
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-733.4.1 = {
-	culture = risutlu
-}
-
-893.4.1 = {
-	culture = saimes
-}
-
+#History

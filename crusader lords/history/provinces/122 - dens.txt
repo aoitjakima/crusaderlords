@@ -1,25 +1,17 @@
-	title = c_dens
-	max_settlements = 2
-	culture = talentiy
-	religion = neharis
-	b_bensan = tribal
-232.4.1 = {
-	culture = syahes
-}
+# c_dens
 
-252.4.1 = {
-	culture = talentiy
-}
+# County Title
+title = c_dens
 
-258.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 3
 
-525.4.1 = {
-	b_bensan = castle
-}
+b_dens = castle
+b_dens_2 = city
+b_dens_3 = temple
 
-705.4.1 = {
-	b_salella = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

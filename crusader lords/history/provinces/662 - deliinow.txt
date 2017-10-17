@@ -1,25 +1,17 @@
-	title = c_deliinow
-	max_settlements = 4
-	culture = abajule
-	religion = kusran
-	b_rahissa = tribal
-1.1.1 = {
-	b_lopadir = ct_port_1
-}
+# c_deliinow
 
-795.4.1 = {
-	b_rahissa = castle
-}
+# County Title
+title = c_deliinow
 
-833.4.1 = {
-	b_lopadir = city
-}
+# Settlements
+max_settlements = 3
 
-897.4.1 = {
-	b_keloris = temple
-}
+b_deliinow = castle
+b_deliinow_2 = city
+b_deliinow_3 = temple
 
-995.4.1 = {
-	b_nulafu = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

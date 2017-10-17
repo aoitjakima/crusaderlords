@@ -1,37 +1,17 @@
-	title = c_talius
-	max_settlements = 6
-	culture = sodinia
-	religion = neharis
-	b_titentiy = tribal
-339.4.1 = {
-	culture = nitindik
-}
+# c_talius
 
-350.4.1 = {
-	culture = talentiy
-}
+# County Title
+title = c_talius
 
-505.4.1 = {
-	b_titentiy = castle
-}
+# Settlements
+max_settlements = 3
 
-630.4.1 = {
-	b_bulibel = temple
-}
+b_talius = castle
+b_talius_2 = city
+b_talius_3 = temple
 
-835.4.1 = {
-	b_renayan = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-907.4.1 = {
-	b_ritindik = city
-}
-
-973.4.1 = {
-	b_demibel = temple
-}
-
-1022.4.1 = {
-	b_qenens = temple
-}
-
+#History

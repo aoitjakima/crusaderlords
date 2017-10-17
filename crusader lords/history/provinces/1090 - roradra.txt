@@ -1,37 +1,17 @@
-	title = c_roradra
-	max_settlements = 7
-	culture = deusala
-	religion = worelen
-	b_lereya = tribal
-200.4.1 = {
-	culture = tiwics
-}
+# c_roradra
 
-203.3.1 = {
-	religion = tonuyu
-}
+# County Title
+title = c_roradra
 
-426.4.1 = {
-	culture = nalaam
-}
+# Settlements
+max_settlements = 3
 
-457.4.1 = {
-	culture = tiwics
-}
+b_roradra = castle
+b_roradra_2 = city
+b_roradra_3 = temple
 
-725.4.1 = {
-	b_lereya = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-816.4.1 = {
-	b_toratti = temple
-}
-
-905.4.1 = {
-	b_norala = city
-}
-
-996.4.1 = {
-	b_wegroumas = city
-}
-
+#History

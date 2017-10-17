@@ -1,65 +1,17 @@
-	title = c_nitnow
-	max_settlements = 3
-	culture = ricqa
-	religion = kusran
-	b_bulild = tribal
-200.3.1 = {
-	religion = raipi
-}
+# c_nitnow
 
-207.3.1 = {
-	religion = kusran
-}
+# County Title
+title = c_nitnow
 
-214.3.1 = {
-	religion = raipi
-}
+# Settlements
+max_settlements = 3
 
-217.3.1 = {
-	religion = kusran
-}
+b_nitnow = castle
+b_nitnow_2 = city
+b_nitnow_3 = temple
 
-224.4.1 = {
-	culture = kapti
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-230.3.1 = {
-	religion = raipi
-}
-
-235.3.1 = {
-	religion = kusran
-}
-
-242.3.1 = {
-	religion = raipi
-}
-
-244.3.1 = {
-	religion = kusran
-}
-
-254.3.1 = {
-	religion = raipi
-}
-
-323.4.1 = {
-	culture = taodha
-}
-
-365.4.1 = {
-	culture = kapti
-}
-
-705.4.1 = {
-	b_bulild = castle
-}
-
-820.4.1 = {
-	b_rudaka = temple
-}
-
-914.4.1 = {
-	b_woler = city
-}
-
+#History

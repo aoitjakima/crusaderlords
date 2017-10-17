@@ -1,33 +1,17 @@
-	title = c_qosouwe
-	max_settlements = 3
-	culture = karibel
-	religion = neharis
-	b_wavata = tribal
-248.4.1 = {
-	culture = nitindik
-}
+# c_qosouwe
 
-540.4.1 = {
-	b_wavata = castle
-}
+# County Title
+title = c_qosouwe
 
-635.4.1 = {
-	b_tezahhwehlteygal = temple
-}
+# Settlements
+max_settlements = 3
 
-836.4.1 = {
-	b_reygge = city
-}
+b_qosouwe = castle
+b_qosouwe_2 = city
+b_qosouwe_3 = temple
 
-866.4.1 = {
-	culture = syahes
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-915.4.1 = {
-	culture = nitindik
-}
-
-953.4.1 = {
-	culture = syahes
-}
-
+#History

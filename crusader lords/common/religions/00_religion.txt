@@ -406,6 +406,7 @@ estazi_religion_group = {
 	graphical_culture = muslimgfx
 	playable = yes
 	hostile_within_group = no
+	
 	estazi_faith = {
 		graphical_culture = muslimgfx
 		icon = 20

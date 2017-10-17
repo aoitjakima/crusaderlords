@@ -1,69 +1,17 @@
-	title = c_loanule
-	max_settlements = 2
-	culture = retose
-	religion = naneka
-	b_lerucenat = tribal
-201.3.1 = {
-	religion = qiteka
-}
+# c_loanule
 
-204.3.1 = {
-	religion = naneka
-}
+# County Title
+title = c_loanule
 
-213.4.1 = {
-	culture = sereka
-}
+# Settlements
+max_settlements = 3
 
-215.3.1 = {
-	religion = qiteka
-}
+b_loanule = castle
+b_loanule_2 = city
+b_loanule_3 = temple
 
-217.3.1 = {
-	religion = naneka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-220.3.1 = {
-	religion = qiteka
-}
-
-221.3.1 = {
-	religion = naneka
-}
-
-223.3.1 = {
-	religion = qiteka
-}
-
-236.3.1 = {
-	religion = naneka
-}
-
-239.3.1 = {
-	religion = qiteka
-}
-
-242.3.1 = {
-	religion = naneka
-}
-
-244.4.1 = {
-	culture = retose
-}
-
-245.3.1 = {
-	religion = qiteka
-}
-
-249.4.1 = {
-	culture = banaila
-}
-
-615.4.1 = {
-	b_lerucenat = castle
-}
-
-750.4.1 = {
-	b_raradi = city
-}
-
+#History

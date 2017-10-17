@@ -1,13 +1,17 @@
-	title = c_arayan
-	max_settlements = 2
-	culture = waynald
-	religion = wedwig
-	b_suhes = tribal
-630.4.1 = {
-	b_suhes = castle
-}
+# c_arayan
 
-801.4.1 = {
-	b_raretian = temple
-}
+# County Title
+title = c_arayan
 
+# Settlements
+max_settlements = 3
+
+b_arayan = castle
+b_arayan_2 = city
+b_arayan_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

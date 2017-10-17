@@ -1,45 +1,17 @@
-	title = c_raroka
-	max_settlements = 3
-	culture = watinan
-	religion = kusran
-	b_tecogul = tribal
-272.4.1 = {
-	culture = ketamma
-}
+# c_raroka
 
-324.4.1 = {
-	culture = watinan
-}
+# County Title
+title = c_raroka
 
-344.4.1 = {
-	culture = ketamma
-}
+# Settlements
+max_settlements = 3
 
-350.4.1 = {
-	culture = watinan
-}
+b_raroka = castle
+b_raroka_2 = city
+b_raroka_3 = temple
 
-359.4.1 = {
-	culture = ketamma
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-365.4.1 = {
-	culture = watinan
-}
-
-396.4.1 = {
-	culture = ketamma
-}
-
-829.4.1 = {
-	b_tecogul = castle
-}
-
-863.4.1 = {
-	b_lalamma = temple
-}
-
-974.4.1 = {
-	b_wyaadkabe = city
-}
-
+#History

@@ -1,29 +1,17 @@
-	title = c_areria
-	max_settlements = 3
-	culture = talentiy
-	religion = neharis
-	b_wuheria = tribal
-232.4.1 = {
-	culture = syahes
-}
+# c_areria
 
-252.4.1 = {
-	culture = talentiy
-}
+# County Title
+title = c_areria
 
-258.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 3
 
-530.4.1 = {
-	b_wuheria = castle
-}
+b_areria = castle
+b_areria_2 = city
+b_areria_3 = temple
 
-710.4.1 = {
-	b_etopolk = city
-}
+# Misc
+culture = bastian_avas
+religion = kirothian
 
-856.4.1 = {
-	b_titen = temple
-}
-
+#History

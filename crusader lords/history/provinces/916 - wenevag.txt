@@ -1,81 +1,17 @@
-	title = c_wenevag
-	max_settlements = 2
-	culture = lerelin
-	religion = qiteka
-	b_talleter = tribal
-208.3.1 = {
-	religion = naneka
-}
+# c_wenevag
 
-210.3.1 = {
-	religion = qiteka
-}
+# County Title
+title = c_wenevag
 
-210.3.1 = {
-	religion = naneka
-}
+# Settlements
+max_settlements = 3
 
-211.3.1 = {
-	religion = qiteka
-}
+b_wenevag = castle
+b_wenevag_2 = city
+b_wenevag_3 = temple
 
-214.3.1 = {
-	religion = naneka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-217.3.1 = {
-	religion = qiteka
-}
-
-220.3.1 = {
-	religion = naneka
-}
-
-221.3.1 = {
-	religion = qiteka
-}
-
-226.3.1 = {
-	religion = naneka
-}
-
-240.3.1 = {
-	religion = qiteka
-}
-
-240.3.1 = {
-	religion = naneka
-}
-
-241.3.1 = {
-	religion = qiteka
-}
-
-241.3.1 = {
-	religion = naneka
-}
-
-244.3.1 = {
-	religion = qiteka
-}
-
-249.4.1 = {
-	culture = wates
-}
-
-253.3.1 = {
-	religion = naneka
-}
-
-373.3.1 = {
-	religion = qiteka
-}
-
-808.4.1 = {
-	b_talleter = castle
-}
-
-848.4.1 = {
-	b_eratevag = temple
-}
-
+#History

@@ -1,25 +1,17 @@
-	title = c_rusarva
-	max_settlements = 5
-	culture = syahes
-	religion = neharis
-	b_rusunye = tribal
-555.4.1 = {
-	b_rusunye = castle
-}
+# c_rusarva
 
-675.4.1 = {
-	b_rinnites = temple
-}
+# County Title
+title = c_rusarva
 
-876.4.1 = {
-	b_noduda = city
-}
+# Settlements
+max_settlements = 3
 
-938.4.1 = {
-	b_weldunye = temple
-}
+b_rusarva = castle
+b_rusarva_2 = city
+b_rusarva_3 = temple
 
-1000.4.1 = {
-	b_kitise = city
-}
+# Misc
+culture = bastian_avas
+religion = kirothian
 
+#History

@@ -1,25 +1,17 @@
-	title = c_neusiby
-	max_settlements = 5
-	culture = abajule
-	religion = kusran
-	b_kiaqover = tribal
-625.4.1 = {
-	b_kiaqover = castle
-}
+# c_neusiby
 
-750.4.1 = {
-	b_belelder = temple
-}
+# County Title
+title = c_neusiby
 
-878.4.1 = {
-	b_bohid = city
-}
+# Settlements
+max_settlements = 3
 
-944.4.1 = {
-	b_kusey = city
-}
+b_neusiby = castle
+b_neusiby_2 = city
+b_neusiby_3 = temple
 
-987.4.1 = {
-	b_aleusid = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

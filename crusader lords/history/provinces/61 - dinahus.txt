@@ -1,17 +1,18 @@
-	title = c_dinahus
-	max_settlements = 4
-	culture = biho
-	religion = tonuyu
-	b_rinelg = tribal
-847.4.1 = {
-	b_rinelg = castle
-}
+# c_dinahus
 
-888.4.1 = {
-	b_luzahus = city
-}
+# County Title
+title = c_dinahus
 
-1001.4.1 = {
-	b_kuldagald = temple
-}
+# Settlements
+max_settlements = 4
 
+b_mictlantecuhtli = castle
+#b_dinahus = city
+#b_dinahus_2 = temple
+#b_dinahus_3 = castle
+
+# Misc
+culture = druchi
+religion = kirothian
+
+#History

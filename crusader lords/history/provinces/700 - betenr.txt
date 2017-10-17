@@ -1,109 +1,17 @@
-	title = c_betenr
-	max_settlements = 2
-	culture = esunadir
-	religion = qiteka
-	b_taudiam = tribal
-201.3.1 = {
-	religion = naneka
-}
+# c_betenr
 
-202.3.1 = {
-	religion = qiteka
-}
+# County Title
+title = c_betenr
 
-202.3.1 = {
-	religion = naneka
-}
+# Settlements
+max_settlements = 3
 
-209.3.1 = {
-	religion = qiteka
-}
+b_larino = castle
+b_agnone = city
+b_betenr = temple
 
-211.3.1 = {
-	religion = naneka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-213.3.1 = {
-	religion = qiteka
-}
-
-213.3.1 = {
-	religion = naneka
-}
-
-217.3.1 = {
-	religion = qiteka
-}
-
-219.3.1 = {
-	religion = naneka
-}
-
-224.3.1 = {
-	religion = qiteka
-}
-
-225.3.1 = {
-	religion = naneka
-}
-
-228.3.1 = {
-	religion = qiteka
-}
-
-228.3.1 = {
-	religion = naneka
-}
-
-229.3.1 = {
-	religion = qiteka
-}
-
-231.3.1 = {
-	religion = naneka
-}
-
-233.3.1 = {
-	religion = qiteka
-}
-
-233.3.1 = {
-	religion = naneka
-}
-
-240.3.1 = {
-	religion = qiteka
-}
-
-243.3.1 = {
-	religion = naneka
-}
-
-337.4.1 = {
-	culture = sereka
-}
-
-418.4.1 = {
-	culture = esunadir
-}
-
-420.4.1 = {
-	culture = sereka
-}
-
-668.4.1 = {
-	culture = esunadir
-}
-
-795.4.1 = {
-	b_taudiam = castle
-}
-
-841.4.1 = {
-	b_taudenda = city
-}
-
-886.4.1 = {
-	culture = sereka
-}
-
+#History

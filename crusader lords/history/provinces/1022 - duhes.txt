@@ -1,29 +1,17 @@
-	title = c_duhes
-	max_settlements = 3
-	culture = talentiy
-	religion = neharis
-	b_qetava = tribal
-232.4.1 = {
-	culture = syahes
-}
+# c_duhes
 
-252.4.1 = {
-	culture = talentiy
-}
+# County Title
+title = c_duhes
 
-258.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 3
 
-595.4.1 = {
-	b_qetava = castle
-}
+b_duhes = castle
+b_duhes_2 = city
+b_duhes_3 = temple
 
-720.4.1 = {
-	b_ritens = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-864.4.1 = {
-	b_balen = city
-}
-
+#History

@@ -1,33 +1,17 @@
-	title = c_raysa
-	max_settlements = 5
-	culture = rudeslav
-	religion = worelen
-	b_eforatti = tribal
-1.1.1 = {
-	b_bilelen = ct_port_1
-}
+# c_raysa
 
-205.4.1 = {
-	culture = nalaam
-}
+# County Title
+title = c_raysa
 
-615.4.1 = {
-	b_eforatti = castle
-}
+# Settlements
+max_settlements = 3
 
-710.4.1 = {
-	b_bilelen = city
-}
+b_raysa = castle
+b_raysa_2 = city
+b_raysa_3 = temple
 
-826.4.1 = {
-	b_dudatha = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-874.4.1 = {
-	b_lonelen = castle
-}
-
-937.4.1 = {
-	b_kudaclav = castle
-}
-
+#History

@@ -1,13 +1,17 @@
-	title = c_roka
-	max_settlements = 2
-	culture = sigivkah
-	religion = kusran
-	b_dabopti = tribal
-303.3.1 = {
-	religion = qigiyah
-}
+# c_roka
 
-324.4.1 = {
-	culture = alaurine
-}
+# County Title
+title = c_roka
 
+# Settlements
+max_settlements = 3
+
+b_roka = castle
+b_roka_2 = city
+b_roka_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

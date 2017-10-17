@@ -1,21 +1,17 @@
-	title = c_esumalay
-	max_settlements = 4
-	culture = keusaam
-	religion = tonuyu
-	b_sikila = tribal
-413.4.1 = {
-	culture = keraam
-}
+# c_esumalay
 
-705.4.1 = {
-	culture = tiwics
-}
+# County Title
+title = c_esumalay
 
-721.4.1 = {
-	culture = keraam
-}
+# Settlements
+max_settlements = 3
 
-748.4.1 = {
-	culture = tiwics
-}
+b_esumalay = castle
+b_esumalay_2 = city
+b_esumalay_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

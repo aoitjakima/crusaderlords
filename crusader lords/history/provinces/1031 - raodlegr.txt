@@ -1,21 +1,17 @@
-	title = c_raodlegr
-	max_settlements = 4
-	culture = sutidoka
-	religion = kusran
-	b_nagewin = tribal
-390.4.1 = {
-	culture = alaurine
-}
+# c_raodlegr
 
-394.3.1 = {
-	religion = qigiyah
-}
+# County Title
+title = c_raodlegr
 
-397.4.1 = {
-	culture = kyayalen
-}
+# Settlements
+max_settlements = 3
 
-452.4.1 = {
-	culture = alaurine
-}
+b_raodlegr = castle
+b_raodlegr_2 = city
+b_raodlegr_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

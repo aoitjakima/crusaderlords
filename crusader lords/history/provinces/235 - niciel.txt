@@ -1,17 +1,17 @@
-	title = c_niciel
-	max_settlements = 2
-	culture = syahes
-	religion = neharis
-	b_rateorge = tribal
-215.4.1 = {
-	culture = sodinia
-}
+# c_niciel
 
-640.4.1 = {
-	b_rateorge = castle
-}
+# County Title
+title = c_niciel
 
-755.4.1 = {
-	b_qicijne = temple
-}
+# Settlements
+max_settlements = 3
 
+b_niciel = castle
+b_niciel_2 = city
+b_niciel_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

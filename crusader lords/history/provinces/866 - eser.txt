@@ -1,53 +1,17 @@
-	title = c_eser
-	max_settlements = 5
-	culture = durga
-	religion = terenat
-	b_batihal = tribal
-203.3.1 = {
-	religion = qiteka
-}
+# c_eser
 
-204.3.1 = {
-	religion = terenat
-}
+# County Title
+title = c_eser
 
-212.3.1 = {
-	religion = qiteka
-}
+# Settlements
+max_settlements = 3
 
-214.3.1 = {
-	religion = terenat
-}
+b_eser = castle
+b_eser_2 = city
+b_eser_3 = temple
 
-218.3.1 = {
-	religion = qiteka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-392.4.1 = {
-	culture = risutlu
-}
-
-505.4.1 = {
-	b_batihal = castle
-}
-
-685.4.1 = {
-	b_sohipp = city
-}
-
-735.4.1 = {
-	culture = saimes
-}
-
-826.4.1 = {
-	b_ekyevacob = temple
-}
-
-865.4.1 = {
-	b_agilihal = temple
-}
-
-902.4.1 = {
-	b_lehenidia = castle
-}
-
+#History

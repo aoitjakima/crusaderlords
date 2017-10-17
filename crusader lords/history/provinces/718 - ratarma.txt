@@ -1,45 +1,17 @@
-	title = c_ratarma
-	max_settlements = 4
-	culture = syahes
-	religion = neharis
-	b_tanarma = tribal
-202.3.1 = {
-	religion = qiteka
-}
+# c_ratarma
 
-207.3.1 = {
-	religion = neharis
-}
+# County Title
+title = c_ratarma
 
-210.4.1 = {
-	culture = retose
-}
+# Settlements
+max_settlements = 3
 
-213.3.1 = {
-	religion = qiteka
-}
+b_ratarma = castle
+b_ratarma_2 = city
+b_ratarma_3 = temple
 
-216.3.1 = {
-	religion = neharis
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-320.4.1 = {
-	culture = karibel
-}
-
-640.4.1 = {
-	b_tanarma = castle
-}
-
-760.4.1 = {
-	b_epartn = temple
-}
-
-843.4.1 = {
-	b_kily = city
-}
-
-885.4.1 = {
-	b_enunadir = castle
-}
-
+#History

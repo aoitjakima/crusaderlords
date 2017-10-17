@@ -1,25 +1,17 @@
-	title = c_lolidoi
-	max_settlements = 2
-	culture = risutlu
-	religion = qiteka
-	b_byalelid = tribal
-246.4.1 = {
-	culture = waetutlu
-}
+# c_lolidoi
 
-401.4.1 = {
-	culture = risutlu
-}
+# County Title
+title = c_lolidoi
 
-610.4.1 = {
-	b_byalelid = castle
-}
+# Settlements
+max_settlements = 3
 
-770.4.1 = {
-	b_katacob = temple
-}
+b_lolidoi = castle
+b_lolidoi_2 = city
+b_lolidoi_3 = temple
 
-999.4.1 = {
-	culture = saimes
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

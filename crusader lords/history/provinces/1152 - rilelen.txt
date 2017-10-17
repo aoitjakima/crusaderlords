@@ -1,21 +1,17 @@
-	title = c_rilelen
-	max_settlements = 2
-	culture = radabor
-	religion = tonuyu
-	b_wilony = tribal
-257.4.1 = {
-	culture = wenira
-}
+# c_rilelen
 
-268.4.1 = {
-	culture = radabor
-}
+# County Title
+title = c_rilelen
 
-725.4.1 = {
-	b_wilony = castle
-}
+# Settlements
+max_settlements = 3
 
-816.4.1 = {
-	b_taysony = temple
-}
+b_rilelen = castle
+b_rilelen_2 = city
+b_rilelen_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

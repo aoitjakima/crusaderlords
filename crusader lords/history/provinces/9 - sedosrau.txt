@@ -1,45 +1,21 @@
-	title = c_sedosrau
-	max_settlements = 4
-	culture = selalya
-	religion = aratihr
-	b_tamsaba = tribal
-1.1.1 = {
-	b_qyir = ct_port_1
-}
+# c_sedosrau
 
-222.4.1 = {
-	culture = laris
-}
+# County Title
+title = c_sedosrau
 
-256.4.1 = {
-	culture = wubihr
-}
+# Settlements
+max_settlements = 7
 
-302.4.1 = {
-	culture = laris
-}
+b_carletta = city
+b_lameramo = city
+b_miscia = temple
+#b_sedosrau = castle
+#b_sedosrau_2 = city
+#b_sedosrau_3 = temple
+#b_sedosrau_4 = castle
 
-311.4.1 = {
-	culture = wubihr
-}
+# Misc
+culture = estazi_culture2
+religion = estazi_faith
 
-379.4.1 = {
-	culture = selalya
-}
-
-770.4.1 = {
-	b_tamsaba = castle
-}
-
-815.4.1 = {
-	b_qyir = city
-}
-
-868.4.1 = {
-	b_enedyako = temple
-}
-
-928.4.1 = {
-	b_rubujku = city
-}
-
+#History

@@ -1,93 +1,18 @@
-	title = c_bimar
-	max_settlements = 7
-	culture = lodeid
-	religion = kodine
-	b_tinar = tribal
-1.1.1 = {
-	b_tepar = ct_port_1
-}
+# c_bimar
 
-201.3.1 = {
-	religion = tonuyu
-}
+# County Title
+title = c_bimar
 
-205.4.1 = {
-	culture = eweseedun
-}
+# Settlements
+max_settlements = 4
 
-244.4.1 = {
-	culture = tawtus
-}
+b_xipil = temple
+b_zyanya = city
+#b_bimar = temple
+#b_bimar_2 = castle
 
-256.4.1 = {
-	culture = eweseedun
-}
+# Misc
+culture = druchi
+religion = kirothian
 
-264.3.1 = {
-	religion = kodine
-}
-
-264.3.1 = {
-	religion = tonuyu
-}
-
-270.4.1 = {
-	culture = lodeid
-}
-
-272.3.1 = {
-	religion = kodine
-}
-
-280.4.1 = {
-	culture = biho
-}
-
-282.3.1 = {
-	religion = tonuyu
-}
-
-342.4.1 = {
-	culture = rubiho
-}
-
-436.4.1 = {
-	culture = lodeid
-}
-
-456.4.1 = {
-	culture = rubiho
-}
-
-472.4.1 = {
-	culture = lodeid
-}
-
-545.4.1 = {
-	culture = biho
-}
-
-837.4.1 = {
-	b_tinar = castle
-}
-
-867.4.1 = {
-	b_tepar = city
-}
-
-905.4.1 = {
-	b_agilk = temple
-}
-
-956.4.1 = {
-	b_lidamc = temple
-}
-
-1005.4.1 = {
-	b_nesamur = castle
-}
-
-1053.4.1 = {
-	b_tinim = city
-}
-
+#History

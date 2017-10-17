@@ -1,17 +1,17 @@
-	title = c_rasork
-	max_settlements = 2
-	culture = nonayaka
-	religion = tonuyu
-	b_qetolappa = tribal
-204.4.1 = {
-	culture = budandev
-}
+# c_rasork
 
-846.4.1 = {
-	b_qetolappa = castle
-}
+# County Title
+title = c_rasork
 
-873.4.1 = {
-	b_nonkabols = temple
-}
+# Settlements
+max_settlements = 3
 
+b_rasork = castle
+b_rasork_2 = city
+b_rasork_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

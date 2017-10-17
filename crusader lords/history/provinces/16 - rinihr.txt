@@ -1,41 +1,21 @@
-	title = c_rinihr
-	max_settlements = 3
-	culture = selalya
-	religion = aratihr
-	b_nagaba = tribal
-1.1.1 = {
-	b_qaikaba = ct_port_1
-}
+# c_rinihr
 
-253.4.1 = {
-	culture = laris
-}
+# County Title
+title = c_rinihr
 
-255.4.1 = {
-	culture = wubihr
-}
+# Settlements
+max_settlements = 7
 
-302.4.1 = {
-	culture = laris
-}
+b_paleledo = city
+b_viga = city
+b_lenada = temple
+#b_rinihr = castle
+#b_rinihr_2 = city
+#b_rinihr_3 = temple
+#b_rinihr_4 = castle
 
-311.4.1 = {
-	culture = wubihr
-}
+# Misc
+culture = estazi_culture1
+religion = estazi_faith
 
-452.4.1 = {
-	culture = selalya
-}
-
-675.4.1 = {
-	b_nagaba = castle
-}
-
-806.4.1 = {
-	b_qaikaba = city
-}
-
-876.4.1 = {
-	b_kinujku = temple
-}
-
+#History

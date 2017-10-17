@@ -1,33 +1,17 @@
-	title = c_ebhavham
-	max_settlements = 2
-	culture = ketamma
-	religion = kusran
-	b_saipare = tribal
-200.3.1 = {
-	religion = raipi
-}
+# c_ebhavham
 
-203.3.1 = {
-	religion = kusran
-}
+# County Title
+title = c_ebhavham
 
-204.3.1 = {
-	religion = raipi
-}
+# Settlements
+max_settlements = 3
 
-217.4.1 = {
-	culture = kaureid
-}
+b_ebhavham = castle
+b_ebhavham_2 = city
+b_ebhavham_3 = temple
 
-519.4.1 = {
-	culture = kapti
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-841.4.1 = {
-	b_saipare = castle
-}
-
-869.4.1 = {
-	b_naipoka = temple
-}
-
+#History

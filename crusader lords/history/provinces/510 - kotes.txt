@@ -1,25 +1,17 @@
-	title = c_kotes
-	max_settlements = 3
-	culture = narentiy
-	religion = neharis
-	b_rando = tribal
-251.4.1 = {
-	culture = syahes
-}
+# c_kotes
 
-278.4.1 = {
-	culture = amuhopti
-}
+# County Title
+title = c_kotes
 
-279.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 3
 
-580.4.1 = {
-	b_rando = castle
-}
+b_kotes = castle
+b_kotes_2 = city
+b_kotes_3 = temple
 
-730.4.1 = {
-	b_kerando = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

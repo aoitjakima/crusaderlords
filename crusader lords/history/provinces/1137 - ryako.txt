@@ -1,9 +1,17 @@
-	title = c_ryako
-	max_settlements = 2
-	culture = takukork
-	religion = tonuyu
-	b_tesune = tribal
-288.4.1 = {
-	culture = budandev
-}
+# c_ryako
 
+# County Title
+title = c_ryako
+
+# Settlements
+max_settlements = 3
+
+b_ryako = castle
+b_ryako_2 = city
+b_ryako_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

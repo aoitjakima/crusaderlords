@@ -1,21 +1,18 @@
-	title = c_tauhdun
-	max_settlements = 2
-	culture = lodeid
-	religion = kodine
-	b_widane = tribal
-201.3.1 = {
-	religion = tonuyu
-}
+# c_tauhdun
 
-210.4.1 = {
-	culture = biho
-}
+# County Title
+title = c_tauhdun
 
-838.4.1 = {
-	b_widane = castle
-}
+# Settlements
+max_settlements = 4
 
-876.4.1 = {
-	b_satilk = temple
-}
+b_natlalihuitl = temple
+#b_tauhdun = city
+#b_tauhdun_2 = temple
+#b_tauhdun_3 = castle
 
+# Misc
+culture = druchi
+religion = kirian
+
+#History

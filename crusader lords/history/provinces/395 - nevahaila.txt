@@ -1,61 +1,17 @@
-	title = c_nevahaila
-	max_settlements = 3
-	culture = sutidoka
-	religion = kusran
-	b_emadir = tribal
-1.1.1 = {
-	b_baher = ct_port_1
-}
+# c_nevahaila
 
-200.3.1 = {
-	religion = raipi
-}
+# County Title
+title = c_nevahaila
 
-206.3.1 = {
-	religion = kusran
-}
+# Settlements
+max_settlements = 3
 
-214.3.1 = {
-	religion = raipi
-}
+b_nevahaila = castle
+b_nevahaila_2 = city
+b_nevahaila_3 = temple
 
-215.3.1 = {
-	religion = kusran
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-215.3.1 = {
-	religion = raipi
-}
-
-245.4.1 = {
-	culture = kaureid
-}
-
-346.4.1 = {
-	culture = taodha
-}
-
-369.4.1 = {
-	culture = kapti
-}
-
-394.4.1 = {
-	culture = taodha
-}
-
-420.4.1 = {
-	culture = kapti
-}
-
-806.4.1 = {
-	b_emadir = castle
-}
-
-826.4.1 = {
-	b_baher = city
-}
-
-885.4.1 = {
-	b_sepeesi = temple
-}
-
+#History

@@ -1,17 +1,17 @@
-	title = c_qavibel
-	max_settlements = 2
-	culture = sodinia
-	religion = neharis
-	b_nalindik = tribal
-210.4.1 = {
-	culture = talentiy
-}
+# c_qavibel
 
-520.4.1 = {
-	b_nalindik = castle
-}
+# County Title
+title = c_qavibel
 
-625.4.1 = {
-	b_tuhella = temple
-}
+# Settlements
+max_settlements = 3
 
+b_qavibel = castle
+b_qavibel_2 = city
+b_qavibel_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = kirothian
+
+#History

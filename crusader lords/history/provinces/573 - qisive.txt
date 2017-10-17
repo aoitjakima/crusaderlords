@@ -1,29 +1,17 @@
-	title = c_qisive
-	max_settlements = 5
-	culture = karibel
-	religion = neharis
-	b_kenadir = tribal
-242.4.1 = {
-	culture = narentiy
-}
+# c_qisive
 
-560.4.1 = {
-	b_kenadir = castle
-}
+# County Title
+title = c_qisive
 
-655.4.1 = {
-	b_kanule = temple
-}
+# Settlements
+max_settlements = 3
 
-836.4.1 = {
-	b_tuninus = city
-}
+b_qisive = castle
+b_qisive_2 = city
+b_qisive_3 = temple
 
-903.4.1 = {
-	b_leative = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-967.4.1 = {
-	b_taimes = temple
-}
-
+#History

@@ -1,21 +1,17 @@
-	title = c_bovacob
-	max_settlements = 2
-	culture = ebeina
-	religion = qiteka
-	b_senivi = tribal
-339.4.1 = {
-	culture = risutlu
-}
+# c_bovacob
 
-605.4.1 = {
-	b_senivi = castle
-}
+# County Title
+title = c_bovacob
 
-729.4.1 = {
-	culture = saimes
-}
+# Settlements
+max_settlements = 3
 
-770.4.1 = {
-	b_erusodar = temple
-}
+b_bovacob = castle
+b_bovacob_2 = city
+b_bovacob_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

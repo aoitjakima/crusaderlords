@@ -1,29 +1,17 @@
-	title = c_diwiby
-	max_settlements = 4
-	culture = waetutlu
-	religion = qiteka
-	b_eqyaa = tribal
-319.4.1 = {
-	culture = risutlu
-}
+# c_diwiby
 
-505.4.1 = {
-	b_eqyaa = castle
-}
+# County Title
+title = c_diwiby
 
-640.4.1 = {
-	b_tenery = temple
-}
+# Settlements
+max_settlements = 3
 
-723.4.1 = {
-	culture = saimes
-}
+b_diwiby = castle
+b_diwiby_2 = city
+b_diwiby_3 = temple
 
-860.4.1 = {
-	b_atiwipp = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-932.4.1 = {
-	b_daudery = castle
-}
-
+#History

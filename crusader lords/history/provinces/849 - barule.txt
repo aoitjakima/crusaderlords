@@ -1,77 +1,17 @@
-	title = c_barule
-	max_settlements = 4
-	culture = durga
-	religion = terenat
-	b_edroza = tribal
-236.3.1 = {
-	religion = begeka
-}
+# c_barule
 
-240.3.1 = {
-	religion = terenat
-}
+# County Title
+title = c_barule
 
-240.3.1 = {
-	religion = begeka
-}
+# Settlements
+max_settlements = 3
 
-246.3.1 = {
-	religion = terenat
-}
+b_barule = castle
+b_barule_2 = city
+b_barule_3 = temple
 
-250.3.1 = {
-	religion = begeka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-257.3.1 = {
-	religion = terenat
-}
-
-258.4.1 = {
-	culture = ruraura
-}
-
-262.3.1 = {
-	religion = begeka
-}
-
-276.4.1 = {
-	culture = banaila
-}
-
-305.4.1 = {
-	culture = ruraura
-}
-
-326.4.1 = {
-	culture = banaila
-}
-
-429.4.1 = {
-	culture = kitule
-}
-
-482.4.1 = {
-	culture = banaila
-}
-
-508.4.1 = {
-	culture = kitule
-}
-
-525.4.1 = {
-	b_edroza = castle
-}
-
-600.4.1 = {
-	b_birolas = city
-}
-
-790.4.1 = {
-	b_dirurga = temple
-}
-
-834.4.1 = {
-	b_wurilip = castle
-}
-
+#History

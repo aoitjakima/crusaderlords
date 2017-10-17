@@ -1,69 +1,17 @@
-	title = c_wopaila
-	max_settlements = 2
-	culture = ricqa
-	religion = kusran
-	b_rebayar = tribal
-201.3.1 = {
-	religion = wedwig
-}
+# c_wopaila
 
-208.3.1 = {
-	religion = kusran
-}
+# County Title
+title = c_wopaila
 
-235.3.1 = {
-	religion = wedwig
-}
+# Settlements
+max_settlements = 3
 
-258.4.1 = {
-	culture = ryanopti
-}
+b_wopaila = castle
+b_wopaila_2 = city
+b_wopaila_3 = temple
 
-259.3.1 = {
-	religion = kusran
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-343.3.1 = {
-	religion = wedwig
-}
-
-354.3.1 = {
-	religion = kusran
-}
-
-356.3.1 = {
-	religion = wedwig
-}
-
-359.3.1 = {
-	religion = kusran
-}
-
-373.3.1 = {
-	religion = wedwig
-}
-
-378.3.1 = {
-	religion = kusran
-}
-
-383.3.1 = {
-	religion = wedwig
-}
-
-385.3.1 = {
-	religion = kusran
-}
-
-390.3.1 = {
-	religion = wedwig
-}
-
-720.4.1 = {
-	b_rebayar = castle
-}
-
-818.4.1 = {
-	b_katufia = city
-}
-
+#History

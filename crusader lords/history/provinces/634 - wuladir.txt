@@ -1,25 +1,17 @@
-	title = c_wuladir
-	max_settlements = 4
-	culture = ricqa
-	religion = kusran
-	b_aqulaila = tribal
-273.4.1 = {
-	culture = abajule
-}
+# c_wuladir
 
-705.4.1 = {
-	b_aqulaila = castle
-}
+# County Title
+title = c_wuladir
 
-817.4.1 = {
-	b_qahufia = temple
-}
+# Settlements
+max_settlements = 3
 
-911.4.1 = {
-	b_anudded = city
-}
+b_servia = castle
+b_servia_2 = city
+b_wuladir = temple
 
-995.4.1 = {
-	b_teper = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

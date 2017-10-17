@@ -1,57 +1,17 @@
-	title = c_kenunando
-	max_settlements = 5
-	culture = esunadir
-	religion = neharis
-	b_agisaila = tribal
-201.4.1 = {
-	culture = narentiy
-}
+# c_kenunando
 
-201.3.1 = {
-	religion = naneka
-}
+# County Title
+title = c_kenunando
 
-211.4.1 = {
-	culture = retose
-}
+# Settlements
+max_settlements = 3
 
-326.4.1 = {
-	culture = esunadir
-}
+b_kenunando = castle
+b_kenunando_2 = city
+b_kenunando_3 = temple
 
-525.4.1 = {
-	culture = sereka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-580.4.1 = {
-	b_agisaila = castle
-}
-
-590.4.1 = {
-	culture = esunadir
-}
-
-750.4.1 = {
-	b_eqataila = city
-}
-
-866.4.1 = {
-	b_waudonka = temple
-}
-
-898.4.1 = {
-	culture = sereka
-}
-
-907.4.1 = {
-	culture = esunadir
-}
-
-918.4.1 = {
-	culture = sereka
-}
-
-939.4.1 = {
-	b_sule = city
-}
-
+#History

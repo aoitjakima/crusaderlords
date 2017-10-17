@@ -1,37 +1,17 @@
-	title = c_nuliid
-	max_settlements = 2
-	culture = ricqa
-	religion = kusran
-	b_ebiid = tribal
-272.4.1 = {
-	culture = kapti
-}
+# c_nuliid
 
-283.3.1 = {
-	religion = raipi
-}
+# County Title
+title = c_nuliid
 
-293.4.1 = {
-	culture = taodha
-}
+# Settlements
+max_settlements = 3
 
-315.4.1 = {
-	culture = kapti
-}
+b_nuliid = castle
+b_nuliid_2 = city
+b_nuliid_3 = temple
 
-414.4.1 = {
-	culture = sutidoka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-533.4.1 = {
-	culture = kapti
-}
-
-907.4.1 = {
-	b_ebiid = castle
-}
-
-1022.4.1 = {
-	b_budiid = city
-}
-
+#History

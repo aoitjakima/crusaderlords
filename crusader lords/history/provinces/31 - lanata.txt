@@ -1,33 +1,21 @@
-	title = c_lanata
-	max_settlements = 4
-	culture = rerinya
-	religion = aguninya
-	b_ranalya = tribal
-1.1.1 = {
-	b_eboluhan = ct_port_1
-}
+# c_lanata
 
-226.4.1 = {
-	culture = setako
-}
+# County Title
+title = c_lanata
 
-251.4.1 = {
-	culture = rerinya
-}
+# Settlements
+max_settlements = 7
 
-804.4.1 = {
-	b_ranalya = castle
-}
+b_erynina = city
+b_elellini = city
+b_kamanikon = temple
+#b_lanata = castle
+#b_lanata_2 = city
+#b_lanata_3 = temple
+#b_lanata_4 = castle
 
-829.4.1 = {
-	b_eboluhan = city
-}
+# Misc
+culture = estazi_culture5
+religion = estazi_faith
 
-898.4.1 = {
-	b_natergun = temple
-}
-
-958.4.1 = {
-	b_quceven = city
-}
-
+#History

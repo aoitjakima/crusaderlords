@@ -1,21 +1,17 @@
-	title = c_koratti
-	max_settlements = 5
-	culture = reusadra
-	religion = tonuyu
-	b_bahkabra = tribal
-1.1.1 = {
-	b_wepatti = ct_port_1
-}
+# c_koratti
 
-267.4.1 = {
-	culture = tiwics
-}
+# County Title
+title = c_koratti
 
-918.4.1 = {
-	b_bahkabra = castle
-}
+# Settlements
+max_settlements = 3
 
-963.4.1 = {
-	b_wepatti = city
-}
+b_koratti = castle
+b_koratti_2 = city
+b_koratti_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

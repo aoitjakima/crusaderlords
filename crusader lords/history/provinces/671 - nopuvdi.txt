@@ -1,93 +1,17 @@
-	title = c_nopuvdi
-	max_settlements = 2
-	culture = saimes
-	religion = qiteka
-	b_kegenda = tribal
-201.3.1 = {
-	religion = naneka
-}
+# c_nopuvdi
 
-204.3.1 = {
-	religion = qiteka
-}
+# County Title
+title = c_nopuvdi
 
-208.3.1 = {
-	religion = naneka
-}
+# Settlements
+max_settlements = 3
 
-209.3.1 = {
-	religion = qiteka
-}
+b_montecelio = castle
+b_nopuvdi = city
+b_nopuvdi_2 = temple
 
-211.3.1 = {
-	religion = naneka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-217.3.1 = {
-	religion = qiteka
-}
-
-219.3.1 = {
-	religion = naneka
-}
-
-221.3.1 = {
-	religion = qiteka
-}
-
-221.3.1 = {
-	religion = naneka
-}
-
-227.3.1 = {
-	religion = qiteka
-}
-
-228.3.1 = {
-	religion = naneka
-}
-
-233.3.1 = {
-	religion = qiteka
-}
-
-233.3.1 = {
-	religion = naneka
-}
-
-265.4.1 = {
-	culture = sereka
-}
-
-297.4.1 = {
-	culture = esunadir
-}
-
-335.4.1 = {
-	culture = sereka
-}
-
-398.4.1 = {
-	culture = esunadir
-}
-
-442.4.1 = {
-	culture = sereka
-}
-
-468.4.1 = {
-	culture = esunadir
-}
-
-496.4.1 = {
-	culture = sereka
-}
-
-601.4.1 = {
-	b_kegenda = castle
-}
-
-755.4.1 = {
-	b_kesulad = temple
-}
-
+#History

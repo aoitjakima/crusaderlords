@@ -1,0 +1,7 @@
+# d_storto
+500.1.1={
+ holder = 1057116
+
+	law = agnatic_succession
+	law = succ_gavelkind
+}

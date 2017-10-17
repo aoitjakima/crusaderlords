@@ -1,13 +1,17 @@
-	title = c_ranes
-	max_settlements = 3
-	culture = syahes
-	religion = neharis
-	b_kiebes = tribal
-575.4.1 = {
-	b_kiebes = castle
-}
+# c_ranes
 
-715.4.1 = {
-	b_saudule = city
-}
+# County Title
+title = c_ranes
 
+# Settlements
+max_settlements = 3
+
+b_ranes = castle
+b_ranes_2 = city
+b_ranes_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

@@ -1,37 +1,17 @@
-	title = c_dabopti
-	max_settlements = 3
-	culture = ketamma
-	religion = kusran
-	b_kecopti = tribal
-200.3.1 = {
-	religion = raipi
-}
+# c_dabopti
 
-203.3.1 = {
-	religion = kusran
-}
+# County Title
+title = c_dabopti
 
-204.3.1 = {
-	religion = raipi
-}
+# Settlements
+max_settlements = 3
 
-217.4.1 = {
-	culture = kaureid
-}
+b_dabopti = castle
+b_dabopti_2 = city
+b_dabopti_3 = temple
 
-519.4.1 = {
-	culture = kapti
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-803.4.1 = {
-	b_kecopti = castle
-}
-
-827.4.1 = {
-	b_rayilen = city
-}
-
-889.4.1 = {
-	b_rozinan = temple
-}
-
+#History

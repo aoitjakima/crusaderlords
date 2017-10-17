@@ -1,29 +1,17 @@
-	title = c_buhen
-	max_settlements = 3
-	culture = sodinia
-	religion = neharis
-	b_luhius = tribal
-202.4.1 = {
-	culture = aqahebel
-}
+# c_buhen
 
-263.4.1 = {
-	culture = sodinia
-}
+# County Title
+title = c_buhen
 
-291.4.1 = {
-	culture = talentiy
-}
+# Settlements
+max_settlements = 3
 
-500.4.1 = {
-	b_luhius = castle
-}
+b_buhen = castle
+b_buhen_2 = city
+b_buhen_3 = temple
 
-620.4.1 = {
-	b_reribel = city
-}
+# Misc
+culture = bastian_avas
+religion = kirothian
 
-833.4.1 = {
-	b_erindik = temple
-}
-
+#History

@@ -1,65 +1,17 @@
-	title = c_robalt
-	max_settlements = 5
-	culture = risutlu
-	religion = terenat
-	b_bataka = tribal
-200.3.1 = {
-	religion = qiteka
-}
+# c_robalt
 
-204.3.1 = {
-	religion = wedwig
-}
+# County Title
+title = c_robalt
 
-207.3.1 = {
-	religion = qiteka
-}
+# Settlements
+max_settlements = 3
 
-207.3.1 = {
-	religion = wedwig
-}
+b_robalt = castle
+b_robalt_2 = city
+b_robalt_3 = temple
 
-214.4.1 = {
-	culture = davars
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-256.4.1 = {
-	culture = negasseh
-}
-
-270.4.1 = {
-	culture = davars
-}
-
-317.4.1 = {
-	culture = weliana
-}
-
-379.4.1 = {
-	culture = durga
-}
-
-480.4.1 = {
-	culture = davars
-}
-
-505.4.1 = {
-	b_bataka = castle
-}
-
-595.4.1 = {
-	b_wuriby = city
-}
-
-811.4.1 = {
-	b_kuyanes = temple
-}
-
-880.4.1 = {
-	b_waxiby = city
-}
-
-950.4.1 = {
-	b_riyaen = castle
-}
-
+#History

@@ -1,29 +1,17 @@
-	title = c_qaysuge
-	max_settlements = 5
-	culture = namyan
-	religion = kusran
-	b_qaladi = tribal
-262.4.1 = {
-	culture = abajule
-}
+# c_qaysuge
 
-596.4.1 = {
-	b_qaladi = castle
-}
+# County Title
+title = c_qaysuge
 
-730.4.1 = {
-	b_tesule = temple
-}
+# Settlements
+max_settlements = 3
 
-869.4.1 = {
-	b_noumas = city
-}
+b_qaysuge = castle
+b_qaysuge_2 = city
+b_qaysuge_3 = temple
 
-946.4.1 = {
-	b_kicadi = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-1020.4.1 = {
-	b_kyros = castle
-}
-
+#History

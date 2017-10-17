@@ -1,21 +1,17 @@
-	title = c_taloumas
-	max_settlements = 2
-	culture = radabor
-	religion = tonuyu
-	b_qilabra = tribal
-257.4.1 = {
-	culture = wenira
-}
+# c_taloumas
 
-268.4.1 = {
-	culture = radabor
-}
+# County Title
+title = c_taloumas
 
-730.4.1 = {
-	b_qilabra = castle
-}
+# Settlements
+max_settlements = 3
 
-825.4.1 = {
-	b_buarira = city
-}
+b_taloumas = castle
+b_taloumas_2 = city
+b_taloumas_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

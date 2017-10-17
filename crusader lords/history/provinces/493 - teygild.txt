@@ -1,73 +1,17 @@
-	title = c_teygild
-	max_settlements = 2
-	culture = kapti
-	religion = kusran
-	b_kamiinow = tribal
-200.3.1 = {
-	religion = raipi
-}
+# c_teygild
 
-202.3.1 = {
-	religion = kusran
-}
+# County Title
+title = c_teygild
 
-204.3.1 = {
-	religion = raipi
-}
+# Settlements
+max_settlements = 3
 
-205.3.1 = {
-	religion = kusran
-}
+b_teygild = castle
+b_teygild_2 = city
+b_teygild_3 = temple
 
-214.3.1 = {
-	religion = raipi
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-231.4.1 = {
-	culture = biosupo
-}
-
-238.3.1 = {
-	religion = kusran
-}
-
-242.3.1 = {
-	religion = raipi
-}
-
-243.3.1 = {
-	religion = kusran
-}
-
-254.3.1 = {
-	religion = raipi
-}
-
-255.4.1 = {
-	culture = kapti
-}
-
-332.4.1 = {
-	culture = kaureid
-}
-
-339.4.1 = {
-	culture = kapti
-}
-
-392.4.1 = {
-	culture = sutidoka
-}
-
-446.4.1 = {
-	culture = kapti
-}
-
-725.4.1 = {
-	b_kamiinow = castle
-}
-
-822.4.1 = {
-	b_tebafu = temple
-}
-
+#History

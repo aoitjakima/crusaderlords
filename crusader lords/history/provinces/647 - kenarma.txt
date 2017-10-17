@@ -1,17 +1,17 @@
-	title = c_kenarma
-	max_settlements = 3
-	culture = karibel
-	religion = neharis
-	b_wegises = tribal
-570.4.1 = {
-	b_wegises = castle
-}
+# c_kenarma
 
-740.4.1 = {
-	b_anotule = temple
-}
+# County Title
+title = c_kenarma
 
-907.4.1 = {
-	b_anicadir = city
-}
+# Settlements
+max_settlements = 3
 
+b_kenarma = castle
+b_kenarma_2 = city
+b_kenarma_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

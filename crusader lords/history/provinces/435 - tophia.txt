@@ -1,29 +1,17 @@
-	title = c_tophia
-	max_settlements = 3
-	culture = sutidoka
-	religion = kusran
-	b_egewin = tribal
-1.1.1 = {
-	b_wigancis = ct_port_1
-}
+# c_tophia
 
-200.3.1 = {
-	religion = qigiyah
-}
+# County Title
+title = c_tophia
 
-233.4.1 = {
-	culture = alaurine
-}
+# Settlements
+max_settlements = 3
 
-827.4.1 = {
-	b_egewin = castle
-}
+b_tophia = castle
+b_tophia_2 = city
+b_tophia_3 = temple
 
-865.4.1 = {
-	b_qaleike = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-982.4.1 = {
-	b_wigancis = city
-}
-
+#History

@@ -1,17 +1,17 @@
-	title = c_baladam
-	max_settlements = 2
-	culture = amuhopti
-	religion = neharis
-	b_titafnai = tribal
-301.4.1 = {
-	culture = syahes
-}
+# c_baladam
 
-530.4.1 = {
-	b_titafnai = castle
-}
+# County Title
+title = c_baladam
 
-665.4.1 = {
-	b_wusarva = temple
-}
+# Settlements
+max_settlements = 3
 
+b_baladam = castle
+b_baladam_2 = city
+b_baladam_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

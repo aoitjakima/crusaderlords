@@ -1,21 +1,17 @@
-	title = c_sehentia
-	max_settlements = 2
-	culture = syahes
-	religion = neharis
-	b_erosiel = tribal
-240.4.1 = {
-	culture = nitindik
-}
+# c_sehentia
 
-263.4.1 = {
-	culture = sodinia
-}
+# County Title
+title = c_sehentia
 
-555.4.1 = {
-	b_erosiel = castle
-}
+# Settlements
+max_settlements = 3
 
-725.4.1 = {
-	b_abakohn = temple
-}
+b_sehentia = castle
+b_sehentia_2 = city
+b_sehentia_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = kirothian
+
+#History

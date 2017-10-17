@@ -1,17 +1,17 @@
-	title = c_biebise
-	max_settlements = 5
-	culture = amuhopti
-	religion = neharis
-	b_qicunye = tribal
-207.4.1 = {
-	culture = syahes
-}
+# c_biebise
 
-530.4.1 = {
-	b_qicunye = castle
-}
+# County Title
+title = c_biebise
 
-670.4.1 = {
-	b_nunye = temple
-}
+# Settlements
+max_settlements = 3
 
+b_biebise = castle
+b_biebise_2 = city
+b_biebise_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

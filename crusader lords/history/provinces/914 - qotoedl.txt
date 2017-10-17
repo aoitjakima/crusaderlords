@@ -1,33 +1,17 @@
-	title = c_qotoedl
-	max_settlements = 4
-	culture = ebeina
-	religion = qiteka
-	b_qinidia = tribal
-1.1.1 = {
-	b_kolinus = ct_port_1
-}
+# c_qotoedl
 
-523.4.1 = {
-	culture = risutlu
-}
+# County Title
+title = c_qotoedl
 
-565.4.1 = {
-	b_qinidia = castle
-}
+# Settlements
+max_settlements = 3
 
-705.4.1 = {
-	b_wunivi = temple
-}
+b_qotoedl = castle
+b_qotoedl_2 = city
+b_qotoedl_3 = temple
 
-862.4.1 = {
-	b_kolinus = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-887.4.1 = {
-	culture = saimes
-}
-
-930.4.1 = {
-	b_bidey = temple
-}
-
+#History

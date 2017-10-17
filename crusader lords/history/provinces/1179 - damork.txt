@@ -1,77 +1,17 @@
-	title = c_damork
-	max_settlements = 4
-	culture = ranahim
-	religion = tonuyu
-	b_wonoos = tribal
-1.1.1 = {
-	b_enala = ct_port_1
-}
+# c_damork
 
-329.4.1 = {
-	culture = qenoos
-}
+# County Title
+title = c_damork
 
-466.4.1 = {
-	culture = ranahim
-}
+# Settlements
+max_settlements = 3
 
-517.4.1 = {
-	culture = qenoos
-}
+b_damork = castle
+b_damork_2 = city
+b_damork_3 = temple
 
-577.4.1 = {
-	culture = ranahim
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-811.4.1 = {
-	culture = qenoos
-}
-
-813.4.1 = {
-	culture = ranahim
-}
-
-840.4.1 = {
-	b_wonoos = castle
-}
-
-872.4.1 = {
-	b_enala = city
-}
-
-964.4.1 = {
-	b_loluyu = temple
-}
-
-974.4.1 = {
-	culture = qenoos
-}
-
-975.4.1 = {
-	culture = ranahim
-}
-
-1007.4.1 = {
-	culture = qenoos
-}
-
-1009.4.1 = {
-	culture = ranahim
-}
-
-1021.4.1 = {
-	culture = qenoos
-}
-
-1024.4.1 = {
-	culture = ranahim
-}
-
-1048.4.1 = {
-	b_lining = city
-}
-
-1053.4.1 = {
-	culture = qenoos
-}
-
+#History

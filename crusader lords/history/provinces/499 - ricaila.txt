@@ -1,25 +1,17 @@
-	title = c_ricaila
-	max_settlements = 2
-	culture = narentiy
-	religion = neharis
-	b_kanotolas = tribal
-251.4.1 = {
-	culture = syahes
-}
+# c_ricaila
 
-278.4.1 = {
-	culture = amuhopti
-}
+# County Title
+title = c_ricaila
 
-279.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 3
 
-585.4.1 = {
-	b_kanotolas = castle
-}
+b_ricaila = castle
+b_ricaila_2 = city
+b_ricaila_3 = temple
 
-720.4.1 = {
-	b_kicaila = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

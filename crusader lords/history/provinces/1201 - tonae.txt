@@ -1,61 +1,17 @@
-	title = c_tonae
-	max_settlements = 2
-	culture = wabuzhi
-	religion = tonuyu
-	b_boluyu = tribal
-200.4.1 = {
-	culture = ranahim
-}
+# c_tonae
 
-243.4.1 = {
-	culture = wabuzhi
-}
+# County Title
+title = c_tonae
 
-302.4.1 = {
-	culture = ranahim
-}
+# Settlements
+max_settlements = 3
 
-442.4.1 = {
-	culture = qenoos
-}
+b_tonae = castle
+b_tonae_2 = city
+b_tonae_3 = temple
 
-445.4.1 = {
-	culture = ranahim
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-503.4.1 = {
-	culture = qenoos
-}
-
-533.4.1 = {
-	culture = ranahim
-}
-
-573.4.1 = {
-	culture = qenoos
-}
-
-627.4.1 = {
-	culture = ranahim
-}
-
-634.4.1 = {
-	culture = qenoos
-}
-
-748.4.1 = {
-	culture = ranahim
-}
-
-754.4.1 = {
-	culture = qenoos
-}
-
-862.4.1 = {
-	b_boluyu = castle
-}
-
-894.4.1 = {
-	b_kolork = temple
-}
-
+#History

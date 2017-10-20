@@ -4,14 +4,12 @@
 title = c_enunaila
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_enunaila = castle
-b_enunaila_2 = city
-b_enunaila_3 = temple
 
 # Misc
-culture = bastian_avas
+culture = bastian_rural
 religion = terrorian
 
 #History

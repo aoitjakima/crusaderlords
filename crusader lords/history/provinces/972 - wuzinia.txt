@@ -4,14 +4,12 @@
 title = c_wuzinia
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_wuzinia = castle
-b_wuzinia_2 = city
-b_wuzinia_3 = temple
 
 # Misc
-culture = bastian_avas
+culture = swamp_avasian
 religion = terrorian
 
 #History

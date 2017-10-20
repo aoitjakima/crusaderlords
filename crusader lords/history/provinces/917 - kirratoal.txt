@@ -4,14 +4,12 @@
 title = c_kirratoal
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_kirratoal = castle
-b_kirratoal_2 = city
-b_kirratoal_3 = temple
 
 # Misc
-culture = bastian_avas
+culture = bastian_noble
 religion = terrorian
 
 #History

@@ -4,14 +4,12 @@
 title = c_qahild
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_qahild = castle
-b_qahild_2 = city
-b_qahild_3 = temple
 
 # Misc
-culture = bastian_avas
+culture = niefhiem_forrest
 religion = terrorian
 
 #History

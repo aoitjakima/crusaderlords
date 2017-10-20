@@ -4,14 +4,12 @@
 title = c_tyaa
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_tyaa = castle
-b_tyaa_2 = city
-b_tyaa_3 = temple
 
 # Misc
-culture = bastian_avas
+culture = northern_avasian
 religion = terrorian
 
 #History

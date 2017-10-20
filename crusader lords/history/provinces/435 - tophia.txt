@@ -4,14 +4,12 @@
 title = c_tophia
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_tophia = castle
-b_tophia_2 = city
-b_tophia_3 = temple
 
 # Misc
-culture = bastian_avas
+culture = niefhiem_lake
 religion = terrorian
 
 #History

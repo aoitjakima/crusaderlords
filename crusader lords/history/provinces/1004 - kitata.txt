@@ -4,14 +4,12 @@
 title = c_kitata
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_kitata = castle
-b_kitata_2 = city
-b_kitata_3 = temple
 
 # Misc
-culture = bastian_avas
+culture = swamp_avasian
 religion = terrorian
 
 #History

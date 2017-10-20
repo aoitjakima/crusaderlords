@@ -4,14 +4,12 @@
 title = c_nitnow
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_nitnow = castle
-b_nitnow_2 = city
-b_nitnow_3 = temple
 
 # Misc
-culture = bastian_avas
+culture = northern_avasian
 religion = terrorian
 
 #History

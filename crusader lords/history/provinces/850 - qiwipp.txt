@@ -4,11 +4,9 @@
 title = c_qiwipp
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_qiwipp = castle
-b_qiwipp_2 = city
-b_qiwipp_3 = temple
 
 # Misc
 culture = bastian_avas

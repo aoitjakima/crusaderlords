@@ -4,14 +4,12 @@
 title = c_erusipp
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_erusipp = castle
-b_erusipp_2 = city
-b_erusipp_3 = temple
 
 # Misc
-culture = bastian_avas
+culture = northern_avasian
 religion = terrorian
 
 #History

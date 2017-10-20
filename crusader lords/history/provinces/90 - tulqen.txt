@@ -4,14 +4,12 @@
 title = c_tulqen
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_tulqen = castle
-b_tulqen_2 = city
-b_tulqen_3 = temple
 
 # Misc
-culture = bastian_avas
-religion = kirothian
+culture = bastian_rural
+religion = terrorian
 
 #History

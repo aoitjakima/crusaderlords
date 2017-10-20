@@ -4,11 +4,9 @@
 title = c_tirey
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_tirey = castle
-b_tirey_2 = city
-b_tirey_3 = temple
 
 # Misc
 culture = bastian_avas

@@ -4,14 +4,12 @@
 title = c_sehentia
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_sehentia = castle
-b_sehentia_2 = city
-b_sehentia_3 = temple
 
 # Misc
 culture = bastian_avas
-religion = kirothian
+religion = terrorian
 
 #History

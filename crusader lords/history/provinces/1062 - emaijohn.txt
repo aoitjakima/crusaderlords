@@ -4,14 +4,12 @@
 title = c_emaijohn
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_emaijohn = castle
-b_emaijohn_2 = city
-b_emaijohn_3 = temple
 
 # Misc
-culture = bastian_avas
+culture = bastia_city
 religion = terrorian
 
 #History

@@ -4,14 +4,12 @@
 title = c_niwilip
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_niwilip = castle
-b_niwilip_2 = city
-b_niwilip_3 = temple
 
 # Misc
-culture = bastian_avas
+culture = bastian_noble
 religion = terrorian
 
 #History

@@ -4,14 +4,12 @@
 title = c_dabopti
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_dabopti = castle
-b_dabopti_2 = city
-b_dabopti_3 = temple
 
 # Misc
-culture = bastian_avas
+culture = niefhiem_mountain
 religion = terrorian
 
 #History

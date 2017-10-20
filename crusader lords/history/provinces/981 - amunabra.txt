@@ -4,11 +4,9 @@
 title = c_amunabra
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_amunabra = castle
-b_amunabra_2 = city
-b_amunabra_3 = temple
 
 # Misc
 culture = bastian_avas

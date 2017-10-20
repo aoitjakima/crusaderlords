@@ -4,11 +4,9 @@
 title = c_runenat
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_runenat = castle
-b_runenat_2 = city
-b_runenat_3 = temple
 
 # Misc
 culture = bastian_avas

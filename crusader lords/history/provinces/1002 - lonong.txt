@@ -4,14 +4,12 @@
 title = c_lonong
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_lonong = castle
-b_lonong_2 = city
-b_lonong_3 = temple
 
 # Misc
-culture = bastian_avas
+culture = swamp_avasian
 religion = terrorian
 
 #History

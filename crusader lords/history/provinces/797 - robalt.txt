@@ -4,11 +4,9 @@
 title = c_robalt
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_robalt = castle
-b_robalt_2 = city
-b_robalt_3 = temple
 
 # Misc
 culture = bastian_avas

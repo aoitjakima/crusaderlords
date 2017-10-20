@@ -4,14 +4,12 @@
 title = c_kige
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_kige = castle
-b_kige_2 = city
-b_kige_3 = temple
 
 # Misc
-culture = bastian_avas
+culture = swamp_avasian
 religion = terrorian
 
 #History

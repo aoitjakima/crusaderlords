@@ -4,14 +4,17 @@
 title = c_koraam
 
 # Settlements
-max_settlements = 3
+max_settlements = 6
 
-b_koraam = castle
-b_koraam_2 = city
-b_koraam_3 = temple
+b_tel_khahdad = temple
+b_al_diwatbah = city
+b_dihojaf = temple
+#b_koraam = castle
+#b_koraam_2 = city
+#b_koraam_3 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

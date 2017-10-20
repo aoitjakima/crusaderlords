@@ -6,12 +6,12 @@ title = c_egraura
 # Settlements
 max_settlements = 3
 
-b_egraura = castle
-b_egraura_2 = city
-b_egraura_3 = temple
+b_dhusha = temple
+#b_taburaidah = city
+#b_shatoorah = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

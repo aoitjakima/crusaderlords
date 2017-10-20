@@ -4,14 +4,15 @@
 title = c_tagilina
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_tagilina = castle
-b_tagilina_2 = city
-b_tagilina_3 = temple
+b_shellthorn = castle
+b_forgerest = city
+#b_ghosford = temple
+#b_boonton = castle
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

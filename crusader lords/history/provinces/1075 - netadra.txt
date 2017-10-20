@@ -4,14 +4,15 @@
 title = c_netadra
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_netadra = castle
-b_netadra_2 = city
-b_netadra_3 = temple
+b_safmeir = temple
+#b_al_annardah = city
+#b_al_bahludiyah = temple
+#b_netadra = castle
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

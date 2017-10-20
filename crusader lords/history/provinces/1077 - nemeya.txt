@@ -6,12 +6,12 @@ title = c_nemeya
 # Settlements
 max_settlements = 3
 
-b_nemeya = castle
-b_nemeya_2 = city
-b_nemeya_3 = temple
+b_hamarran = temple
+#b_salmasayr = city
+#b_qardalin = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

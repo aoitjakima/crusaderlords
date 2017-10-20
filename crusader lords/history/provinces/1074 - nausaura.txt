@@ -4,14 +4,13 @@
 title = c_nausaura
 
 # Settlements
-max_settlements = 3
+max_settlements = 2
 
-b_nausaura = castle
-b_nausaura_2 = city
-b_nausaura_3 = temple
+b_ar_rarhinah = temple
+#b_al_maralayn = city
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

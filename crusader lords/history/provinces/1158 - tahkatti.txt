@@ -4,14 +4,15 @@
 title = c_tahkatti
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_tahkatti = castle
-b_tahkatti_2 = city
-b_tahkatti_3 = temple
+b_al_fazeh = temple
+#b_mishemayn = city
+#b_mhaffag = temple
+#b_tahkatti = castle
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kir-ko
+religion = kirian
 
 #History

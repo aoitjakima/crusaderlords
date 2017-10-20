@@ -4,14 +4,15 @@
 title = c_toradra
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_toradra = castle
-b_toradra_2 = city
-b_toradra_3 = temple
+b_hudayda = castle
+#b_dhifar = city
+#b_al_jarratra = temple
+#b_toradra = castle
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kir-ko
+religion = kirian
 
 #History

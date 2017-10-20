@@ -1,4 +1,4 @@
-# k_dru
+# k_ramar
 500.1.1={
-	liege=k_dru
+	liege=d_ramar
 }

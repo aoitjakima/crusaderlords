@@ -4,14 +4,15 @@
 title = c_taureya
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_taureya = castle
-b_taureya_2 = city
-b_taureya_3 = temple
+b_kangaris = temple
+#b_asas = city
+#b_shahrihriar = temple
+#b_taureya = castle
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

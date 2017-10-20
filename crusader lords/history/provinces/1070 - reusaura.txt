@@ -6,12 +6,12 @@ title = c_reusaura
 # Settlements
 max_settlements = 3
 
-b_reusaura = castle
-b_reusaura_2 = city
-b_reusaura_3 = temple
+b_al_artariyah = temple
+#b_al_jafehyan = city
+#b_tabouwain = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

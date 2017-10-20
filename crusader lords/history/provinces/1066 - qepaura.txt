@@ -12,7 +12,7 @@ b_mazazuma = city
 #b_qepaura_2 = castle
 
 # Misc
-culture = Druchi
+culture = druchi
 religion = kirothian
 
 #History

@@ -6,12 +6,12 @@ title = c_dejoheya
 # Settlements
 max_settlements = 3
 
-b_dejoheya = castle
-b_dejoheya_2 = city
-b_dejoheya_3 = temple
+b_el_kanansoura = castle
+#b_arinha = city
+#b_agahalla = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kir-ko
+religion = kirian
 
 #History

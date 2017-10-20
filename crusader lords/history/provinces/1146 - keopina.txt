@@ -4,14 +4,15 @@
 title = c_keopina
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_keopina = castle
-b_keopina_2 = city
-b_keopina_3 = temple
+b_glummoor = castle
+b_vinford = city
+#b_dawnmoor = temple
+#b_burnfort = castle
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

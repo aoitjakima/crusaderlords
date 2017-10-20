@@ -4,14 +4,16 @@
 title = c_tagilira
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
-b_tagilira = castle
-b_tagilira_2 = city
-b_tagilira_3 = temple
+b_shardmire = castle
+b_charringburg_2 = city
+b_clearmoure = temple
+#b_coldmourn = castle
+#b_dustton = city
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kir-ko
+religion = kirian
 
 #History

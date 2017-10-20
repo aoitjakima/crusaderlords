@@ -4,14 +4,16 @@
 title = c_ruarmas
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
-b_ruarmas = castle
-b_ruarmas_2 = city
-b_ruarmas_3 = temple
+b_ripmourn = castle
+b_slagate = city
+b_illthorn = temple
+#b_necbrooke = castle
+#b_hardrest = city
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kir-ko
+religion = kirian
 
 #History

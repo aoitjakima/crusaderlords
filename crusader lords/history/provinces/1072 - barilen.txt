@@ -4,14 +4,15 @@
 title = c_barilen
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_barilen = castle
-b_barilen_2 = city
-b_barilen_3 = temple
+b_andist = temple
+#b_minoohijan = city
+#b_tehrajarm = temple
+#b_barilen = castle
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kir-ko
+religion = kirian
 
 #History

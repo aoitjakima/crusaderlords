@@ -4,14 +4,16 @@
 title = c_takabra
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
-b_takabra = castle
-b_takabra_2 = city
-b_takabra_3 = temple
+b_sivrinoluk = castle
+b_cakizkale = city
+#b_avallar = temple
+#b_takabra = castle
+#b_takabra_2 = city
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kir-ko
+religion = kirian
 
 #History

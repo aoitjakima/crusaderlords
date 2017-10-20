@@ -6194,7 +6194,7 @@
 }
 
 1240 = {
-	name = Dallima
+	name = druchima
 	culture = tinda
 }
 
@@ -177342,177 +177342,177 @@
 28960=
 {
 	name="Acatl"
-	culture="Dalli"
+	culture="druchi"
 }
 28959=
 {
 	name="Atl"
-	culture="Dalli"
+	culture="druchi"
 }
 28958=
 {
 	name="Calli"
-	culture="Dalli"
+	culture="druchi"
 }
 28957=
 {
 	name="Cipactli"
-	culture="Dalli"
+	culture="druchi"
 }
 28956=
 {
 	name="Coatl"
-	culture="Dalli"
+	culture="druchi"
 }
 28955=
 {
 	name="Coyotl"
-	culture="Dalli"
+	culture="druchi"
 }
-1035006=
+28961=
 {
 	name="Cozcaquauhtli"
-	culture="Dalli"
+	culture="druchi"
 }
 1035007=
 {
 	name="Cuetzpalin"
-	culture="Dalli"
+	culture="druchi"
 }
 1035008=
 {
 	name="Ehecatl"
-	culture="Dalli"
+	culture="druchi"
 }
 1035009=
 {
 	name="Icpalli"
-	culture="Dalli"
+	culture="druchi"
 }
 1035010=
 {
 	name="Itz"
-	culture="Dalli"
+	culture="druchi"
 }
 1035011=
 {
 	name="Itzcuintli"
-	culture="Dalli"
+	culture="druchi"
 }
 1035012=
 {
 	name="Macehualli"
-	culture="Dalli"
+	culture="druchi"
 }
 1035013=
 {
 	name="Malinalli"
-	culture="Dalli"
+	culture="druchi"
 }
 1035014=
 {
 	name="Mazatl"
-	culture="Dalli"
+	culture="druchi"
 }
 1035015=
 {
 	name="Miquiztli"
-	culture="Dalli"
+	culture="druchi"
 }
 1035016=
 {
 	name="Nezahual"
-	culture="Dalli"
+	culture="druchi"
 }
 1035017=
 {
 	name="Nochtli"
-	culture="Dalli"
+	culture="druchi"
 }
 1035018=
 {
 	name="Ocelotl"
-	culture="Dalli"
+	culture="druchi"
 }
 1035019=
 {
 	name="Ollin"
-	culture="Dalli"
+	culture="druchi"
 }
 1035020=
 {
 	name="Otli"
-	culture="Dalli"
+	culture="druchi"
 }
 1035021=
 {
 	name="Ozomatli"
-	culture="Dalli"
+	culture="druchi"
 }
 1035022=
 {
 	name="Pipiltin"
-	culture="Dalli"
+	culture="druchi"
 }
 1035023=
 {
 	name="Pochtecatl"
-	culture="Dalli"
+	culture="druchi"
 }
 1035024=
 {
 	name="Quauhtli"
-	culture="Dalli"
+	culture="druchi"
 }
 1035025=
 {
 	name="Quauitl"
-	culture="Dalli"
+	culture="druchi"
 }
 1035026=
 {
 	name="Quiautl"
-	culture="Dalli"
+	culture="druchi"
 }
 1035027=
 {
 	name="Tecpatl"
-	culture="Dalli"
+	culture="druchi"
 }
 1035028=
 {
 	name="Tecuhtli"
-	culture="Dalli"
+	culture="druchi"
 }
 1035029=
 {
 	name="Tepetl"
-	culture="Dalli"
+	culture="druchi"
 }
 1035030=
 {
 	name="Tetl"
-	culture="Dalli"
+	culture="druchi"
 }
 1035031=
 {
 	name="Tlantli"
-	culture="Dalli"
+	culture="druchi"
 }
 1035032=
 {
 	name="Tochtli"
-	culture="Dalli"
+	culture="druchi"
 }
 1035033=
 {
 	name="Toltecatl"
-	culture="Dalli"
+	culture="druchi"
 }
 1035034=
 {
 	name="Xochitl"
-	culture="Dalli"
+	culture="druchi"
 }
 1029029=
 {

@@ -4,14 +4,13 @@
 title = c_ematti
 
 # Settlements
-max_settlements = 3
+max_settlements = 2
 
-b_ematti = castle
-b_ematti_2 = city
-b_ematti_3 = temple
+b_as_suth = temple
+#b_al_olarma = city
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

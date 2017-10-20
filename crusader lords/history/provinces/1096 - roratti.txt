@@ -6,12 +6,12 @@ title = c_roratti
 # Settlements
 max_settlements = 3
 
-b_roratti = castle
-b_roratti_2 = city
-b_roratti_3 = temple
+b_necuachitl = temple
+#b_al_qusrah = city
+#b_az_zurra = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kir-ko
+religion = kirian
 
 #History

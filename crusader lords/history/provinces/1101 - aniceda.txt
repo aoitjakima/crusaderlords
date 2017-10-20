@@ -4,14 +4,15 @@
 title = c_aniceda
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_aniceda = castle
-b_aniceda_2 = city
-b_aniceda_3 = temple
+b_geleslu = temple
+#b_bagarhisar = city
+#b_sivrisler = temple
+#b_aniceda = castle
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kir-ko
+religion = kirian
 
 #History

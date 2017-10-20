@@ -4,14 +4,15 @@
 title = c_bucadi
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_bucadi = castle
-b_bucadi_2 = city
-b_bucadi_3 = temple
+b_afamadi = temple
+#b_tel_kadhillah = city
+#b_az_zusiyyah = temple
+#b_bucadi = castle
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

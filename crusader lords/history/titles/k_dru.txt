@@ -1,1 +1,6 @@
 # k_dru
+500.1.1
+{
+holder=1058464
+liege=e_kiroth
+}

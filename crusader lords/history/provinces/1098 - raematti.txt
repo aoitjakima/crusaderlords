@@ -4,14 +4,15 @@
 title = c_raematti
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_raematti = castle
-b_raematti_2 = city
-b_raematti_3 = temple
+b_parastar = temple
+#b_tehradaj = city
+#b_asaker = temple
+#b_raematti = castle
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

@@ -4,14 +4,16 @@
 title = c_sonelen
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
-b_sonelen = castle
-b_sonelen_2 = city
-b_sonelen_3 = temple
+b_woemoor = castle
+b_boonford = city
+b_bittermire = temple
+#b_shelgate = castle
+#b_browmere = city
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kir-ko
+religion = kirian
 
 #History

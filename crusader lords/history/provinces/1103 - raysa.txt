@@ -4,14 +4,15 @@
 title = c_raysa
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_raysa = castle
-b_raysa_2 = city
-b_raysa_3 = temple
+b_slatebrooke = castle
+b_blighburgh = city
+#b_clearmoure_2 = temple
+#b_bareridge = castle
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

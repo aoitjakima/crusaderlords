@@ -4,14 +4,15 @@
 title = c_kalaura
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_kalaura = castle
-b_kalaura_2 = city
-b_kalaura_3 = temple
+b_omunkum = temple
+#b_aglankum = city
+#b_mehmendira = temple
+#b_kalaura = castle
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

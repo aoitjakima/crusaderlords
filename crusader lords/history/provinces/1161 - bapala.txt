@@ -6,12 +6,12 @@ title = c_bapala
 # Settlements
 max_settlements = 3
 
-b_bapala = castle
-b_bapala_2 = city
-b_bapala_3 = temple
+b_nahanjan = temple
+#b_gonanshah = city
+#b_zabobad = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

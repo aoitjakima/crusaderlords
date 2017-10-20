@@ -4,14 +4,15 @@
 title = c_daurebia
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_daurebia = castle
-b_daurebia_2 = city
-b_daurebia_3 = temple
+b_muqdalad = castle
+#b_at_tadin = city
+#b_tall_kappe = temple
+#b_daurebia = castle
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

@@ -6,12 +6,12 @@ title = c_seya
 # Settlements
 max_settlements = 3
 
-b_seya = castle
-b_seya_2 = city
-b_seya_3 = temple
+b_hamammam = temple
+#b_jasselbeh = city
+#b_arrajar = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

@@ -1,4 +1,5 @@
-# k_dru
+# k_dalamc
 500.1.1={
-	liege=k_dru
+	liege=d_dalamc
+	holder=1058264
 }

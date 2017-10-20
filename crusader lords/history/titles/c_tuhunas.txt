@@ -1,4 +1,5 @@
 # k_kir_ko
 500.1.1={
-	liege=k_kir_ko
+	liege=d_kir_ko
+	holder = 1057864
 }

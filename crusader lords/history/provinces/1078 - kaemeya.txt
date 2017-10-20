@@ -4,14 +4,15 @@
 title = c_kaemeya
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_kaemeya = castle
-b_kaemeya_2 = city
-b_kaemeya_3 = temple
+b_haihij = temple
+#b_jaadschil = city
+#b_al_hubid = temple
+#b_kaemeya = castle
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

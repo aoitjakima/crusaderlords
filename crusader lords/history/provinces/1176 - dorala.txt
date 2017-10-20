@@ -4,14 +4,15 @@
 title = c_dorala
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_dorala = castle
-b_dorala_2 = city
-b_dorala_3 = temple
+b_saqubin = temple
+#b_deinayem = city
+#b_akosan = temple
+#b_dorala = castle
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

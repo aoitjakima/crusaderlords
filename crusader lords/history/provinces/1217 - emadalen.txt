@@ -4,14 +4,16 @@
 title = c_emadalen
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
-b_emadalen = castle
-b_emadalen_2 = city
-b_emadalen_3 = temple
+b_lowburgh = castle
+b_shellbrooke = city
+b_spiridge = temple
+#b_charringburg = castle
+#b_malifall = city
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kir-ko
+religion = kirian
 
 #History

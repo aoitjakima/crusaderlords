@@ -43581,7 +43581,7 @@ k_sayimii = {
 	title_female = lann
 }
 
-k_qepadra = {
+#k_qepadra = {
 	color = { 141 173 96 }
 	color2 = { 141 173 96 }
 	capital = 1090
@@ -48059,10 +48059,10 @@ k_wadnota = {
 }
 
 #k_sinaura = {
-	color = { 224 243 109 }
-	color2 = { 224 243 109 }
-	capital = 53
-	d_rubius = {
+#	color = { 224 243 109 }
+#	color2 = { 224 243 109 }
+#	capital = 53
+#	d_rubius = {
 		color = { 162 248 66 }
 		color2 = { 162 248 66 }
 		capital = 53
@@ -48187,7 +48187,7 @@ k_wadnota = {
 		title = asta
 		title_female = asta
 	}
-	d_rubelg = {
+#	d_rubelg = {
 		color = { 180 242 74 }
 		color2 = { 180 242 74 }
 		capital = 65
@@ -48312,7 +48312,7 @@ k_wadnota = {
 		title = asta
 		title_female = asta
 	}
-	d_nyugilk = {
+#	d_nyugilk = {
 		color = { 147 197 222 }
 		color2 = { 147 197 222 }
 		capital = 61
@@ -48398,7 +48398,7 @@ k_wadnota = {
 		title = asta
 		title_female = asta
 	}
-	d_dotos = {
+#	d_dotos = {
 		color = { 107 208 207 }
 		color2 = { 107 208 207 }
 		capital = 48
@@ -48523,7 +48523,7 @@ k_wadnota = {
 		title = asta
 		title_female = asta
 	}
-	d_kyasim = {
+#	d_kyasim = {
 		color = { 68 184 61 }
 		color2 = { 68 184 61 }
 		capital = 49
@@ -48649,7 +48649,7 @@ k_wadnota = {
 		title = asta
 		title_female = asta
 	}
-	d_riahus = {
+#	d_riahus = {
 		color = { 237 112 73 }
 		color2 = { 237 112 73 }
 		capital = 71
@@ -48774,7 +48774,7 @@ k_wadnota = {
 		title = asta
 		title_female = asta
 	}
-	d_sepeta = {
+#	d_sepeta = {
 		color = { 173 135 64 }
 		color2 = { 173 135 64 }
 		capital = 56
@@ -48900,7 +48900,7 @@ k_wadnota = {
 		title = asta
 		title_female = asta
 	}
-	d_qilan = {
+#	d_qilan = {
 		color = { 201 207 200 }
 		color2 = { 201 207 200 }
 		capital = 69
@@ -49025,7 +49025,7 @@ k_wadnota = {
 		title = asta
 		title_female = asta
 	}
-	d_talam = {
+#	d_talam = {
 		color = { 87 134 152 }
 		color2 = { 87 134 152 }
 		capital = 60
@@ -49111,7 +49111,7 @@ k_wadnota = {
 		title = asta
 		title_female = asta
 	}
-	d_seta = {
+#	d_seta = {
 		color = { 120 224 247 }
 		color2 = { 120 224 247 }
 		capital = 44
@@ -49236,7 +49236,7 @@ k_wadnota = {
 		title = asta
 		title_female = asta
 	}
-	d_serunan = {
+#	d_serunan = {
 		color = { 192 184 189 }
 		color2 = { 192 184 189 }
 		capital = 77
@@ -49322,7 +49322,7 @@ k_wadnota = {
 		title = asta
 		title_female = asta
 	}
-	d_begulam = {
+#	d_begulam = {
 		color = { 211 103 61 }
 		color2 = { 211 103 61 }
 		capital = 43
@@ -49447,7 +49447,7 @@ k_wadnota = {
 		title = asta
 		title_female = asta
 	}
-	d_seopili = {
+#	d_seopili = {
 		color = { 97 111 59 }
 		color2 = { 97 111 59 }
 		capital = 73
@@ -49572,7 +49572,7 @@ k_wadnota = {
 		title = asta
 		title_female = asta
 	}
-	d_leopili = {
+#	d_leopili = {
 		color = { 226 59 82 }
 		color2 = { 226 59 82 }
 		capital = 41
@@ -49659,10 +49659,10 @@ k_wadnota = {
 		title = asta
 		title_female = asta
 	}
-	culture = biho
-	title = kul
-	title_female = kul
-}
+#	culture = biho
+#	title = kul
+#	title_female = kul
+#}
 
 k_tinappa = {
 	color = { 198 94 101 }

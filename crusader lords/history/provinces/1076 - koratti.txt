@@ -4,14 +4,15 @@
 title = c_koratti
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_koratti = castle
-b_koratti_2 = city
-b_koratti_3 = temple
+b_tel_kadhibala = temple
+#b_baisrah = city
+#b_tel_khazi = temple
+#b_koratti = castle
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

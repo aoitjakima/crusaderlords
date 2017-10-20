@@ -6,12 +6,12 @@ title = c_daurala
 # Settlements
 max_settlements = 3
 
-b_daurala = castle
-b_daurala_2 = city
-b_daurala_3 = temple
+b_baqumadi = temple
+#b_suladariyah = city
+#b_al_fallufar = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kir-ko
+religion = kirian
 
 #History

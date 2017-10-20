@@ -4,14 +4,15 @@
 title = c_ketaura
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_arborg = castle
-b_akranes = city
-b_fjardhabyggdh = temple
+b_sahast = temple
+#b_parsazd = city
+#b_aliraz = temple
+#b_ketaura = castle
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

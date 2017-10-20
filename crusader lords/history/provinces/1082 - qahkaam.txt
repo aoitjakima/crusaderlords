@@ -6,12 +6,12 @@ title = c_qahkaam
 # Settlements
 max_settlements = 3
 
-b_qahkaam = castle
-b_qahkaam_2 = city
-b_qahkaam_3 = temple
+b_geyiyuva = temple
+#b_kamasova = city
+#b_dedendost = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kir-ko
+religion = kirian
 
 #History

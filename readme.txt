@@ -22,12 +22,14 @@ load and debug
 
 3. Take a sub-culture, open the provincesDef.xls in map and remove all the lines except the ones with your selected culture column 'k'
 
-4. create logical dutchies roughly 3.5 counties in size (Make one duchy 3 and another one 4)
+4. Create logical dutchies roughly 3.5 counties in size (Make one duchy 3 and another one 4)
 	Decide the borders of the dutchy based on the counties in the game
 	copy the name of the dutchy into column J
 
-5. create holding names
+5. Create holding names
 	fill in columns P-V with the holding names
-	in holding P suffix the name of the holding with (U)
+	in column P suffix the name of the holding with (U)
 		example: bortford(U)
-
+		
+6. Save off changes as 'provenceDef - <3 letter culture abriviation>'
+	for example 'provinceDef - VIL'

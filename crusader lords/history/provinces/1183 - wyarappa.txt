@@ -1,33 +1,17 @@
-	title = c_wyarappa
-	max_settlements = 6
-	culture = wabuzhi
-	religion = tonuyu
-	b_satae = tribal
-204.4.1 = {
-	culture = budandev
-}
+# c_wyarappa
 
-230.4.1 = {
-	culture = wabuzhi
-}
+# County Title
+title = c_wyarappa
 
-477.4.1 = {
-	culture = budandev
-}
+# Settlements
+max_settlements = 3
 
-840.4.1 = {
-	b_satae = castle
-}
+b_wyarappa = castle
+b_wyarappa_2 = city
+b_wyarappa_3 = temple
 
-871.4.1 = {
-	b_tatappa = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-965.4.1 = {
-	b_kelala = temple
-}
-
-1049.4.1 = {
-	b_ralahim = city
-}
-
+#History

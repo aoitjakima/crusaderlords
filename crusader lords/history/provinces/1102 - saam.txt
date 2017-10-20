@@ -1,61 +1,18 @@
-	title = c_saam
-	max_settlements = 5
-	culture = nalaam
-	religion = worelen
-	b_eforaura = tribal
-1.1.1 = {
-	b_reratti = ct_port_1
-}
+# c_saam
 
-203.3.1 = {
-	religion = tonuyu
-}
+# County Title
+title = c_saam
 
-204.3.1 = {
-	religion = worelen
-}
+# Settlements
+max_settlements = 4
 
-209.3.1 = {
-	religion = tonuyu
-}
+b_el_thoutara = castle
+#b_awlanater = city
+#b_noubarya = temple
+#b_saam = castle
 
-211.3.1 = {
-	religion = worelen
-}
+# Misc
+culture = kir-ko
+religion = kirian
 
-213.3.1 = {
-	religion = tonuyu
-}
-
-216.3.1 = {
-	religion = worelen
-}
-
-217.3.1 = {
-	religion = tonuyu
-}
-
-220.4.1 = {
-	culture = tiwics
-}
-
-720.4.1 = {
-	b_eforaura = castle
-}
-
-817.4.1 = {
-	b_laura = temple
-}
-
-902.4.1 = {
-	b_reratti = city
-}
-
-955.4.1 = {
-	b_learem = city
-}
-
-998.4.1 = {
-	b_teusaura = castle
-}
-
+#History

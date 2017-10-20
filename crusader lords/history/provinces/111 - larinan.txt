@@ -1,49 +1,15 @@
-	title = c_larinan
-	max_settlements = 2
-	culture = taroman
-	religion = neharis
-	b_qavoka = tribal
-202.3.1 = {
-	religion = kusran
-}
+# c_larinan
 
-203.3.1 = {
-	religion = nukaye
-}
+# County Title
+title = c_larinan
 
-211.3.1 = {
-	religion = kusran
-}
+# Settlements
+max_settlements = 1
 
-216.3.1 = {
-	religion = nukaye
-}
+b_larinan = castle
 
-221.3.1 = {
-	religion = kusran
-}
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
 
-249.4.1 = {
-	culture = watinan
-}
-
-344.4.1 = {
-	culture = ketamma
-}
-
-356.4.1 = {
-	culture = watinan
-}
-
-359.4.1 = {
-	culture = ketamma
-}
-
-827.4.1 = {
-	b_qavoka = castle
-}
-
-919.4.1 = {
-	b_barilen = temple
-}
-
+#History

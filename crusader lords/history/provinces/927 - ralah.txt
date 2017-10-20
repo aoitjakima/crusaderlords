@@ -1,33 +1,15 @@
-	title = c_ralah
-	max_settlements = 3
-	culture = lerelin
-	religion = naneka
-	b_rukine = tribal
-206.4.1 = {
-	culture = taetoza
-}
+# c_ralah
 
-238.4.1 = {
-	culture = lerelin
-}
+# County Title
+title = c_ralah
 
-271.4.1 = {
-	culture = wates
-}
+# Settlements
+max_settlements = 1
 
-373.3.1 = {
-	religion = qiteka
-}
+b_ralah = castle
 
-615.4.1 = {
-	b_rukine = castle
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-695.4.1 = {
-	b_bine = city
-}
-
-822.4.1 = {
-	b_wuulah = temple
-}
-
+#History

@@ -1,69 +1,15 @@
-	title = c_edurelin
-	max_settlements = 3
-	culture = ruraura
-	religion = terenat
-	b_esmoza = tribal
-236.3.1 = {
-	religion = begeka
-}
+# c_edurelin
 
-240.3.1 = {
-	religion = terenat
-}
+# County Title
+title = c_edurelin
 
-240.3.1 = {
-	religion = begeka
-}
+# Settlements
+max_settlements = 1
 
-246.3.1 = {
-	religion = terenat
-}
+b_edurelin = castle
 
-250.3.1 = {
-	religion = begeka
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-257.3.1 = {
-	religion = terenat
-}
-
-259.3.1 = {
-	religion = begeka
-}
-
-262.4.1 = {
-	culture = banaila
-}
-
-520.4.1 = {
-	b_esmoza = castle
-}
-
-538.4.1 = {
-	culture = kitule
-}
-
-546.4.1 = {
-	culture = banaila
-}
-
-559.4.1 = {
-	culture = kitule
-}
-
-565.4.1 = {
-	culture = banaila
-}
-
-630.4.1 = {
-	culture = kitule
-}
-
-670.4.1 = {
-	b_adrabra = city
-}
-
-846.4.1 = {
-	b_sunutlu = temple
-}
-
+#History

@@ -1,105 +1,15 @@
-	title = c_desordan
-	max_settlements = 3
-	culture = negasseh
-	religion = wedwig
-	b_koteina = tribal
-206.3.1 = {
-	religion = terenat
-}
+# c_desordan
 
-207.3.1 = {
-	religion = wedwig
-}
+# County Title
+title = c_desordan
 
-208.4.1 = {
-	culture = durga
-}
+# Settlements
+max_settlements = 1
 
-223.3.1 = {
-	religion = terenat
-}
+b_desordan = castle
 
-223.3.1 = {
-	religion = wedwig
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-224.3.1 = {
-	religion = terenat
-}
-
-227.3.1 = {
-	religion = wedwig
-}
-
-230.3.1 = {
-	religion = terenat
-}
-
-236.3.1 = {
-	religion = wedwig
-}
-
-238.3.1 = {
-	religion = terenat
-}
-
-243.3.1 = {
-	religion = wedwig
-}
-
-252.3.1 = {
-	religion = terenat
-}
-
-259.3.1 = {
-	religion = wedwig
-}
-
-260.3.1 = {
-	religion = terenat
-}
-
-261.3.1 = {
-	religion = wedwig
-}
-
-306.4.1 = {
-	culture = davars
-}
-
-308.4.1 = {
-	culture = durga
-}
-
-501.4.1 = {
-	culture = davars
-}
-
-525.4.1 = {
-	b_koteina = castle
-}
-
-547.4.1 = {
-	culture = durga
-}
-
-562.4.1 = {
-	culture = davars
-}
-
-577.4.1 = {
-	culture = durga
-}
-
-648.4.1 = {
-	culture = davars
-}
-
-700.4.1 = {
-	b_araumr = city
-}
-
-857.4.1 = {
-	b_sopanda = temple
-}
-
+#History

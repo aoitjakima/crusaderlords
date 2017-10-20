@@ -1,17 +1,15 @@
-	title = c_legibanl
-	max_settlements = 3
-	culture = saimes
-	religion = qiteka
-	b_riebi = tribal
-600.4.1 = {
-	b_riebi = castle
-}
+# c_legibanl
 
-730.4.1 = {
-	b_danive = city
-}
+# County Title
+title = c_legibanl
 
-873.4.1 = {
-	b_kaudamur = temple
-}
+# Settlements
+max_settlements = 1
 
+b_legibanl = castle
+
+# Misc
+culture = bastian_noble
+religion = terrorian
+
+#History

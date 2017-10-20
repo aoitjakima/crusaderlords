@@ -1,25 +1,18 @@
-	title = c_rergia
-	max_settlements = 2
-	culture = rubiho
-	religion = tonuyu
-	b_kireid = tribal
-387.4.1 = {
-	culture = biho
-}
+# c_rergia
 
-414.4.1 = {
-	culture = rubiho
-}
+# County Title
+title = c_rergia
 
-471.4.1 = {
-	culture = biho
-}
+# Settlements
+max_settlements = 4
 
-846.4.1 = {
-	b_kireid = castle
-}
+b_ohtli_2 = temple
+b_tlilpopepe = city
+#b_rergia = temple
+#b_rergia_2 = castle
 
-883.4.1 = {
-	b_tasho = city
-}
+# Misc
+culture = druchi
+religion = kirian
 
+#History

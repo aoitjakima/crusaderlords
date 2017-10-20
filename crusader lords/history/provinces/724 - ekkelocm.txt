@@ -1,13 +1,15 @@
-	title = c_ekkelocm
-	max_settlements = 2
-	culture = saimes
-	religion = qiteka
-	b_setenda = tribal
-685.4.1 = {
-	b_setenda = castle
-}
+# c_ekkelocm
 
-813.4.1 = {
-	b_wiebi = city
-}
+# County Title
+title = c_ekkelocm
 
+# Settlements
+max_settlements = 1
+
+b_ekkelocm = castle
+
+# Misc
+culture = bastian_noble
+religion = terrorian
+
+#History

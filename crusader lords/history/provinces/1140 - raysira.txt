@@ -1,25 +1,17 @@
-	title = c_raysira
-	max_settlements = 3
-	culture = wenira
-	religion = tonuyu
-	b_naemborkalabilb = tribal
-1.1.1 = {
-	b_torelen = ct_port_1
-}
+# c_raysira
 
-337.4.1 = {
-	culture = radabor
-}
+# County Title
+title = c_raysira
 
-650.4.1 = {
-	b_naemborkalabilb = castle
-}
+# Settlements
+max_settlements = 3
 
-820.4.1 = {
-	b_lenira = temple
-}
+b_raysira = castle
+b_raysira_2 = city
+b_raysira_3 = temple
 
-938.4.1 = {
-	b_torelen = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

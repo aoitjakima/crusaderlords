@@ -1,25 +1,15 @@
-	title = c_edaila
-	max_settlements = 4
-	culture = karibel
-	religion = neharis
-	b_totarma = tribal
-268.4.1 = {
-	culture = narentiy
-}
+# c_edaila
 
-565.4.1 = {
-	b_totarma = castle
-}
+# County Title
+title = c_edaila
 
-650.4.1 = {
-	b_raimafu = city
-}
+# Settlements
+max_settlements = 1
 
-813.4.1 = {
-	b_wily = temple
-}
+b_edaila = castle
 
-854.4.1 = {
-	b_waimes = city
-}
+# Misc
+culture = bastian_rural
+religion = terrorian
 
+#History

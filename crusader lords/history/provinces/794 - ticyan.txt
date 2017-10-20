@@ -1,25 +1,15 @@
-	title = c_ticyan
-	max_settlements = 3
-	culture = namyan
-	religion = telayira
-	b_dyagala = tribal
-202.3.1 = {
-	religion = kusran
-}
+# c_ticyan
 
-262.4.1 = {
-	culture = abajule
-}
+# County Title
+title = c_ticyan
 
-600.4.1 = {
-	b_dyagala = castle
-}
+# Settlements
+max_settlements = 1
 
-730.4.1 = {
-	b_tudtaya = city
-}
+b_ticyan = castle
 
-866.4.1 = {
-	b_taulong = temple
-}
+# Misc
+culture = swamp_avasian
+religion = terrorian
 
+#History

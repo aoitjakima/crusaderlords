@@ -1,17 +1,18 @@
-	title = c_kyiliho
-	max_settlements = 3
-	culture = biho
-	religion = tonuyu
-	b_seid = tribal
-847.4.1 = {
-	b_seid = castle
-}
+# c_kyiliho
 
-888.4.1 = {
-	b_alinenes = city
-}
+# County Title
+title = c_kyiliho
 
-992.4.1 = {
-	b_todenes = temple
-}
+# Settlements
+max_settlements = 4
 
+b_mictlantecuhtli_2 = temple
+#b_kyiliho = city
+#b_kyiliho_2 = temple
+#b_kyiliho_3 = castle
+
+# Misc
+culture = druchi
+religion = kirian
+
+#History

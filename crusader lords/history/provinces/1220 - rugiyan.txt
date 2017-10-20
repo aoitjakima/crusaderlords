@@ -1,13 +1,15 @@
-	title = c_rugiyan
-	max_settlements = 2
-	culture = alerata
-	religion = kusran
-	b_laucore = tribal
-785.4.1 = {
-	b_laucore = castle
-}
+# c_rugiyan
 
-821.4.1 = {
-	b_nicayya = temple
-}
+# County Title
+title = c_rugiyan
 
+# Settlements
+max_settlements = 1
+
+b_rugiyan = castle
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

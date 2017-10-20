@@ -1,45 +1,21 @@
-	title = c_ewyaz
-	max_settlements = 4
-	culture = selalya
-	religion = aratihr
-	b_taikaba = tribal
-1.1.1 = {
-	b_kamsihr = ct_port_1
-}
+# c_ewyaz
 
-222.4.1 = {
-	culture = laris
-}
+# County Title
+title = c_ewyaz
 
-256.4.1 = {
-	culture = wubihr
-}
+# Settlements
+max_settlements = 7
 
-302.4.1 = {
-	culture = laris
-}
+b_tarrarm = city
+b_almelche = city
+b_molade = temple
+#b_ewyaz = castle
+#b_ewyaz_2 = city
+#b_ewyaz_3 = temple
+#b_ewyaz_4 = castle
 
-311.4.1 = {
-	culture = wubihr
-}
+# Misc
+culture = estazi_culture2
+religion = estazi_faith
 
-379.4.1 = {
-	culture = selalya
-}
-
-665.4.1 = {
-	b_taikaba = castle
-}
-
-765.4.1 = {
-	b_katulay = temple
-}
-
-848.4.1 = {
-	b_kamsihr = city
-}
-
-895.4.1 = {
-	b_tyao = city
-}
-
+#History

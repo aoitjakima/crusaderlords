@@ -1,37 +1,15 @@
-	title = c_ryevacob
-	max_settlements = 2
-	culture = waetutlu
-	religion = qiteka
-	b_ekenodar = tribal
-201.3.1 = {
-	religion = terenat
-}
+# c_ryevacob
 
-203.4.1 = {
-	culture = durga
-}
+# County Title
+title = c_ryevacob
 
-203.3.1 = {
-	religion = qiteka
-}
+# Settlements
+max_settlements = 1
 
-210.4.1 = {
-	culture = waetutlu
-}
+b_ryevacob = castle
 
-335.4.1 = {
-	culture = risutlu
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-505.4.1 = {
-	b_ekenodar = castle
-}
-
-635.4.1 = {
-	b_tyoa = temple
-}
-
-734.4.1 = {
-	culture = saimes
-}
-
+#History

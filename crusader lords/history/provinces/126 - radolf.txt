@@ -1,37 +1,15 @@
-	title = c_radolf
-	max_settlements = 4
-	culture = remis
-	religion = raipi
-	b_karlrar = tribal
-1.1.1 = {
-	b_wohotil = ct_port_1
-}
+# c_radolf
 
-205.3.1 = {
-	religion = wedwig
-}
+# County Title
+title = c_radolf
 
-216.4.1 = {
-	culture = digaka
-}
+# Settlements
+max_settlements = 1
 
-217.3.1 = {
-	religion = raipi
-}
+b_radolf = castle
 
-812.4.1 = {
-	b_karlrar = castle
-}
+# Misc
+culture = niefhiem_lake
+religion = terrorian
 
-835.4.1 = {
-	b_wohotil = city
-}
-
-902.4.1 = {
-	b_dorars = temple
-}
-
-1029.4.1 = {
-	b_lemis = city
-}
-
+#History

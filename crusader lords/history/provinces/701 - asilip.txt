@@ -1,25 +1,15 @@
-	title = c_asilip
-	max_settlements = 4
-	culture = saimes
-	religion = begeka
-	b_nisadi = tribal
-207.3.1 = {
-	religion = qiteka
-}
+# c_asilip
 
-600.4.1 = {
-	b_nisadi = castle
-}
+# County Title
+title = c_asilip
 
-740.4.1 = {
-	b_qoza = city
-}
+# Settlements
+max_settlements = 1
 
-900.4.1 = {
-	b_taruclela = temple
-}
+b_asilip = castle
 
-971.4.1 = {
-	b_evlutlu = castle
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
+#History

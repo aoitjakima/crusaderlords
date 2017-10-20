@@ -1,25 +1,15 @@
-	title = c_tulopti
-	max_settlements = 4
-	culture = sodinia
-	religion = neharis
-	b_denibel = tribal
-210.4.1 = {
-	culture = talentiy
-}
+# c_tulopti
 
-505.4.1 = {
-	b_denibel = castle
-}
+# County Title
+title = c_tulopti
 
-620.4.1 = {
-	b_kutses = temple
-}
+# Settlements
+max_settlements = 1
 
-827.4.1 = {
-	b_benopti = city
-}
+b_tulopti = castle
 
-914.4.1 = {
-	b_akyahopti = city
-}
+# Misc
+culture = bastian_rural
+religion = terrorian
 
+#History

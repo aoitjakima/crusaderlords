@@ -1,21 +1,16 @@
-	title = c_nausaura
-	max_settlements = 2
-	culture = keusaam
-	religion = tonuyu
-	b_kikunes = tribal
-413.4.1 = {
-	culture = keraam
-}
+# c_nausaura
 
-705.4.1 = {
-	culture = tiwics
-}
+# County Title
+title = c_nausaura
 
-721.4.1 = {
-	culture = keraam
-}
+# Settlements
+max_settlements = 2
 
-748.4.1 = {
-	culture = tiwics
-}
+b_ar_rarhinah = temple
+#b_al_maralayn = city
 
+# Misc
+culture = kiroth
+religion = kirothian
+
+#History

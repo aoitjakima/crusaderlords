@@ -1,45 +1,15 @@
-	title = c_rudeva
-	max_settlements = 5
-	culture = namyan
-	religion = kusran
-	b_eqonyan = tribal
-200.3.1 = {
-	religion = telayira
-}
+# c_rudeva
 
-266.4.1 = {
-	culture = koumas
-}
+# County Title
+title = c_rudeva
 
-510.4.1 = {
-	culture = lopher
-}
+# Settlements
+max_settlements = 1
 
-523.4.1 = {
-	culture = koumas
-}
+b_rudeva = castle
 
-590.4.1 = {
-	b_eqonyan = castle
-}
+# Misc
+culture = swamp_avasian
+religion = terrorian
 
-735.4.1 = {
-	b_ryagen = temple
-}
-
-870.4.1 = {
-	b_konqaul = city
-}
-
-931.4.1 = {
-	culture = lopher
-}
-
-946.4.1 = {
-	b_lahayya = city
-}
-
-1005.4.1 = {
-	b_ludyan = city
-}
-
+#History

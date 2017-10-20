@@ -1,25 +1,17 @@
-	title = c_dorabra
-	max_settlements = 3
-	culture = kapala
-	religion = tonuyu
-	b_amatti = tribal
-1.1.1 = {
-	b_baysina = ct_port_1
-}
+# c_dorabra
 
-785.4.1 = {
-	b_amatti = castle
-}
+# County Title
+title = c_dorabra
 
-821.4.1 = {
-	b_tudaclav = temple
-}
+# Settlements
+max_settlements = 3
 
-870.4.1 = {
-	b_baysina = city
-}
+b_dorabra = castle
+b_dorabra_2 = city
+b_dorabra_3 = temple
 
-957.4.1 = {
-	culture = biho
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

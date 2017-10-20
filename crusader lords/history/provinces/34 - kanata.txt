@@ -1,41 +1,21 @@
-	title = c_kanata
-	max_settlements = 7
-	culture = rerinya
-	religion = aguninya
-	b_ruyat = tribal
-1.1.1 = {
-	b_doleven = ct_port_1
-}
+# c_kanata
 
-226.4.1 = {
-	culture = setako
-}
+# County Title
+title = c_kanata
 
-251.4.1 = {
-	culture = rerinya
-}
+# Settlements
+max_settlements = 7
 
-740.4.1 = {
-	b_ruyat = castle
-}
+b_salersala = city
+b_brirrara = city
+b_vellendria = temple
+#b_kanata = castle
+#b_kanata_2 = city
+#b_kanata_3 = temple
+#b_kanata_4 = castle
 
-809.4.1 = {
-	b_diafal = temple
-}
+# Misc
+culture = estazi_culture5
+religion = estazi_faith
 
-872.4.1 = {
-	b_doleven = city
-}
-
-931.4.1 = {
-	b_borye = city
-}
-
-986.4.1 = {
-	b_erananni = temple
-}
-
-1034.4.1 = {
-	b_toluyat = city
-}
-
+#History

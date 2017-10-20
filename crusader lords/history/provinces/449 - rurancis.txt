@@ -1,17 +1,15 @@
-	title = c_rurancis
-	max_settlements = 2
-	culture = alaurine
-	religion = wedwig
-	b_waludha = tribal
-200.3.1 = {
-	religion = qigiyah
-}
+# c_rurancis
 
-841.4.1 = {
-	b_waludha = castle
-}
+# County Title
+title = c_rurancis
 
-883.4.1 = {
-	b_kaown = city
-}
+# Settlements
+max_settlements = 1
 
+b_rurancis = castle
+
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
+
+#History

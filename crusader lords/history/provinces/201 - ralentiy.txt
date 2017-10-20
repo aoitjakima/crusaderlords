@@ -1,33 +1,15 @@
-	title = c_ralentiy
-	max_settlements = 5
-	culture = daimeig
-	religion = wedwig
-	b_awuhsam = tribal
-231.4.1 = {
-	culture = nuteria
-}
+# c_ralentiy
 
-314.4.1 = {
-	culture = waynald
-}
+# County Title
+title = c_ralentiy
 
-585.4.1 = {
-	b_awuhsam = castle
-}
+# Settlements
+max_settlements = 1
 
-725.4.1 = {
-	b_quhava = temple
-}
+b_ralentiy = castle
 
-905.4.1 = {
-	b_kutibel = city
-}
+# Misc
+culture = niefhiem_forrest
+religion = terrorian
 
-970.4.1 = {
-	b_talentiy = temple
-}
-
-1026.4.1 = {
-	b_naheria = temple
-}
-
+#History

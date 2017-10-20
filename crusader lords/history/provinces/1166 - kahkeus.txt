@@ -1,49 +1,18 @@
-	title = c_kahkeus
-	max_settlements = 2
-	culture = reasep
-	religion = worelen
-	b_watti = tribal
-1.1.1 = {
-	b_keradra = ct_port_1
-}
+# c_kahkeus
 
-203.3.1 = {
-	religion = tonuyu
-}
+# County Title
+title = c_kahkeus
 
-205.3.1 = {
-	religion = worelen
-}
+# Settlements
+max_settlements = 4
 
-209.3.1 = {
-	religion = tonuyu
-}
+b_amamarit = temple
+#b_bustarran = city
+#b_madarwad = temple
+#b_kahkeus = castle
 
-219.3.1 = {
-	religion = worelen
-}
+# Misc
+culture = kiroth
+religion = kirothian
 
-221.3.1 = {
-	religion = tonuyu
-}
-
-225.4.1 = {
-	culture = tiwics
-}
-
-444.4.1 = {
-	culture = nalaam
-}
-
-447.4.1 = {
-	culture = tiwics
-}
-
-720.4.1 = {
-	b_watti = castle
-}
-
-817.4.1 = {
-	b_keradra = city
-}
-
+#History

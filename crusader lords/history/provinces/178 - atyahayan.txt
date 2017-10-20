@@ -1,41 +1,15 @@
-	title = c_atyahayan
-	max_settlements = 5
-	culture = waynald
-	religion = wedwig
-	b_kindik = tribal
-214.4.1 = {
-	culture = daimeig
-}
+# c_atyahayan
 
-322.4.1 = {
-	culture = waynald
-}
+# County Title
+title = c_atyahayan
 
-323.4.1 = {
-	culture = daimeig
-}
+# Settlements
+max_settlements = 1
 
-382.4.1 = {
-	culture = waynald
-}
+b_atyahayan = castle
 
-605.4.1 = {
-	b_kindik = castle
-}
+# Misc
+culture = niefhiem_forrest
+religion = terrorian
 
-700.4.1 = {
-	b_rahinia = temple
-}
-
-835.4.1 = {
-	b_tezahella = city
-}
-
-879.4.1 = {
-	b_barens = castle
-}
-
-921.4.1 = {
-	b_nulella = castle
-}
-
+#History

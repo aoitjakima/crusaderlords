@@ -1,29 +1,15 @@
-	title = c_naimes
-	max_settlements = 2
-	culture = syahes
-	religion = neharis
-	b_sesive = tribal
-321.4.1 = {
-	culture = amuhopti
-}
+# c_naimes
 
-323.4.1 = {
-	culture = syahes
-}
+# County Title
+title = c_naimes
 
-417.4.1 = {
-	culture = amuhopti
-}
+# Settlements
+max_settlements = 1
 
-451.4.1 = {
-	culture = syahes
-}
+b_naimes = castle
 
-590.4.1 = {
-	b_sesive = castle
-}
+# Misc
+culture = bastian_rural
+religion = terrorian
 
-785.4.1 = {
-	b_qices = city
-}
-
+#History

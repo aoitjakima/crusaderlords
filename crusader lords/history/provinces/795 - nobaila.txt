@@ -1,33 +1,15 @@
-	title = c_nobaila
-	max_settlements = 4
-	culture = risutlu
-	religion = qiteka
-	b_niwen = tribal
-246.4.1 = {
-	culture = waetutlu
-}
+# c_nobaila
 
-401.4.1 = {
-	culture = risutlu
-}
+# County Title
+title = c_nobaila
 
-506.4.1 = {
-	b_niwen = castle
-}
+# Settlements
+max_settlements = 1
 
-665.4.1 = {
-	b_tovidia = temple
-}
+b_nobaila = castle
 
-844.4.1 = {
-	b_dawaenr = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-912.4.1 = {
-	b_tiwaila = temple
-}
-
-999.4.1 = {
-	culture = saimes
-}
-
+#History

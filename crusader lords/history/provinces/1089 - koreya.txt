@@ -1,21 +1,18 @@
-	title = c_koreya
-	max_settlements = 2
-	culture = tiwics
-	religion = tonuyu
-	b_torelia = tribal
-426.4.1 = {
-	culture = nalaam
-}
+# c_koreya
 
-457.4.1 = {
-	culture = tiwics
-}
+# County Title
+title = c_koreya
 
-839.4.1 = {
-	b_torelia = castle
-}
+# Settlements
+max_settlements = 4
 
-879.4.1 = {
-	b_kahkatti = temple
-}
+b_safaseir = temple
+#b_disurqa = city
+#b_hermoshawai = temple
+#b_koreya = castle
 
+# Misc
+culture = kiroth
+religion = kirothian
+
+#History

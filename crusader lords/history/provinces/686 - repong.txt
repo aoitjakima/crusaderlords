@@ -1,21 +1,15 @@
-	title = c_repong
-	max_settlements = 3
-	culture = karibel
-	religion = neharis
-	b_abaline = tribal
-1.1.1 = {
-	b_racohn = ct_port_1
-}
+# c_repong
 
-660.4.1 = {
-	b_abaline = castle
-}
+# County Title
+title = c_repong
 
-755.4.1 = {
-	b_racohn = city
-}
+# Settlements
+max_settlements = 1
 
-880.4.1 = {
-	b_neonna = temple
-}
+b_repong = castle
 
+# Misc
+culture = bastian_rural
+religion = terrorian
+
+#History

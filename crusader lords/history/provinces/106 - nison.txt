@@ -1,49 +1,15 @@
-	title = c_nison
-	max_settlements = 5
-	culture = digaka
-	religion = raipi
-	b_epurada = tribal
-205.3.1 = {
-	religion = wedwig
-}
+# c_nison
 
-206.3.1 = {
-	religion = raipi
-}
+# County Title
+title = c_nison
 
-208.3.1 = {
-	religion = wedwig
-}
+# Settlements
+max_settlements = 1
 
-213.3.1 = {
-	religion = raipi
-}
+b_nison = castle
 
-214.3.1 = {
-	religion = wedwig
-}
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
 
-215.3.1 = {
-	religion = raipi
-}
-
-665.4.1 = {
-	b_epurada = castle
-}
-
-760.4.1 = {
-	b_eruzison = city
-}
-
-835.4.1 = {
-	b_qucison = temple
-}
-
-880.4.1 = {
-	b_neylen = city
-}
-
-924.4.1 = {
-	b_rolalt = castle
-}
-
+#History

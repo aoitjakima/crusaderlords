@@ -1,21 +1,15 @@
-	title = c_badi
-	max_settlements = 3
-	culture = retose
-	religion = qiteka
-	b_risayaka = tribal
-203.4.1 = {
-	culture = banaila
-}
+# c_badi
 
-575.4.1 = {
-	b_risayaka = castle
-}
+# County Title
+title = c_badi
 
-720.4.1 = {
-	b_wiwuel = city
-}
+# Settlements
+max_settlements = 1
 
-863.4.1 = {
-	b_kavutlu = temple
-}
+b_badi = castle
 
+# Misc
+culture = bastian_noble
+religion = terrorian
+
+#History

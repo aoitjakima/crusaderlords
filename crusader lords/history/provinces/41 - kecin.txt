@@ -1,73 +1,18 @@
-	title = c_kecin
-	max_settlements = 2
-	culture = tawtus
-	religion = kodine
-	b_kili = tribal
-201.3.1 = {
-	religion = tonuyu
-}
+# c_kecin
 
-205.4.1 = {
-	culture = eweseedun
-}
+# County Title
+title = c_kecin
 
-244.4.1 = {
-	culture = tawtus
-}
+# Settlements
+max_settlements = 4
 
-256.4.1 = {
-	culture = eweseedun
-}
+b_meztli = temple
+#b_kecin = city
+#b_kecin_2 = temple
+#b_kecin_3 = castle
 
-264.3.1 = {
-	religion = kodine
-}
+# Misc
+culture = druchi
+religion = kirothian
 
-264.3.1 = {
-	religion = tonuyu
-}
-
-270.4.1 = {
-	culture = lodeid
-}
-
-272.3.1 = {
-	religion = kodine
-}
-
-280.4.1 = {
-	culture = biho
-}
-
-282.3.1 = {
-	religion = tonuyu
-}
-
-342.4.1 = {
-	culture = rubiho
-}
-
-436.4.1 = {
-	culture = lodeid
-}
-
-456.4.1 = {
-	culture = rubiho
-}
-
-472.4.1 = {
-	culture = lodeid
-}
-
-545.4.1 = {
-	culture = biho
-}
-
-911.4.1 = {
-	b_kili = castle
-}
-
-947.4.1 = {
-	b_tapin = temple
-}
-
+#History

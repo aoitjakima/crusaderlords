@@ -1,101 +1,15 @@
-	title = c_qegenda
-	max_settlements = 3
-	culture = reatoto
-	religion = qiteka
-	b_qesamur = tribal
-204.3.1 = {
-	religion = neharis
-}
+# c_qegenda
 
-206.4.1 = {
-	culture = esunadir
-}
+# County Title
+title = c_qegenda
 
-207.3.1 = {
-	religion = begeka
-}
+# Settlements
+max_settlements = 1
 
-208.3.1 = {
-	religion = neharis
-}
+b_qegenda = castle
 
-214.4.1 = {
-	culture = reatoto
-}
+# Misc
+culture = bastian_rural
+religion = terrorian
 
-214.3.1 = {
-	religion = begeka
-}
-
-221.3.1 = {
-	religion = neharis
-}
-
-228.3.1 = {
-	religion = begeka
-}
-
-229.3.1 = {
-	religion = neharis
-}
-
-233.4.1 = {
-	culture = esunadir
-}
-
-237.3.1 = {
-	religion = begeka
-}
-
-241.3.1 = {
-	religion = neharis
-}
-
-241.3.1 = {
-	religion = begeka
-}
-
-244.3.1 = {
-	religion = neharis
-}
-
-248.3.1 = {
-	religion = begeka
-}
-
-253.3.1 = {
-	religion = qiteka
-}
-
-253.3.1 = {
-	religion = begeka
-}
-
-256.3.1 = {
-	religion = qiteka
-}
-
-257.3.1 = {
-	religion = begeka
-}
-
-259.4.1 = {
-	culture = reatoto
-}
-
-273.4.1 = {
-	culture = esunadir
-}
-
-600.4.1 = {
-	b_qesamur = castle
-}
-
-735.4.1 = {
-	b_rielkiam = city
-}
-
-862.4.1 = {
-	b_nordan = temple
-}
-
+#History

@@ -1,41 +1,15 @@
-	title = c_erusid
-	max_settlements = 5
-	culture = disinos
-	religion = kusran
-	b_davodar = tribal
-1.1.1 = {
-	b_kenihal = ct_port_1
-}
+# c_erusid
 
-632.3.1 = {
-	religion = qiteka
-}
+# County Title
+title = c_erusid
 
-640.4.1 = {
-	culture = risutlu
-}
+# Settlements
+max_settlements = 1
 
-667.4.1 = {
-	culture = disinos
-}
+b_erusid = castle
 
-873.4.1 = {
-	culture = risutlu
-}
+# Misc
+culture = swamp_avasian
+religion = terrorian
 
-883.4.1 = {
-	culture = saimes
-}
-
-902.4.1 = {
-	culture = risutlu
-}
-
-983.4.1 = {
-	b_davodar = castle
-}
-
-1033.4.1 = {
-	b_kenihal = city
-}
-
+#History

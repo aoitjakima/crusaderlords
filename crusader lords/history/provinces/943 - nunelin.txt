@@ -1,73 +1,15 @@
-	title = c_nunelin
-	max_settlements = 3
-	culture = ruraura
-	religion = qiteka
-	b_reruel = tribal
-203.3.1 = {
-	religion = terenat
-}
+# c_nunelin
 
-209.3.1 = {
-	religion = qiteka
-}
+# County Title
+title = c_nunelin
 
-211.3.1 = {
-	religion = terenat
-}
+# Settlements
+max_settlements = 1
 
-213.3.1 = {
-	religion = qiteka
-}
+b_nunelin = castle
 
-220.4.1 = {
-	culture = banaila
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-222.3.1 = {
-	religion = terenat
-}
-
-224.3.1 = {
-	religion = begeka
-}
-
-228.3.1 = {
-	religion = terenat
-}
-
-236.3.1 = {
-	religion = begeka
-}
-
-514.4.1 = {
-	culture = kitule
-}
-
-558.4.1 = {
-	culture = banaila
-}
-
-559.4.1 = {
-	culture = kitule
-}
-
-560.4.1 = {
-	culture = banaila
-}
-
-560.4.1 = {
-	b_reruel = castle
-}
-
-568.4.1 = {
-	culture = kitule
-}
-
-685.4.1 = {
-	b_kerosa = temple
-}
-
-852.4.1 = {
-	b_qerosa = city
-}
-
+#History

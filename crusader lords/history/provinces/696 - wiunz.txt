@@ -1,65 +1,15 @@
-	title = c_wiunz
-	max_settlements = 2
-	culture = saimes
-	religion = begeka
-	b_selin = tribal
-202.3.1 = {
-	religion = qiteka
-}
+# c_wiunz
 
-205.3.1 = {
-	religion = begeka
-}
+# County Title
+title = c_wiunz
 
-207.3.1 = {
-	religion = qiteka
-}
+# Settlements
+max_settlements = 1
 
-211.3.1 = {
-	religion = begeka
-}
+b_wiunz = castle
 
-212.3.1 = {
-	religion = qiteka
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-220.3.1 = {
-	religion = begeka
-}
-
-220.3.1 = {
-	religion = qiteka
-}
-
-223.3.1 = {
-	religion = begeka
-}
-
-227.3.1 = {
-	religion = qiteka
-}
-
-232.3.1 = {
-	religion = begeka
-}
-
-232.3.1 = {
-	religion = qiteka
-}
-
-235.3.1 = {
-	religion = begeka
-}
-
-238.3.1 = {
-	religion = qiteka
-}
-
-595.4.1 = {
-	b_selin = castle
-}
-
-710.4.1 = {
-	b_nuroza = city
-}
-
+#History

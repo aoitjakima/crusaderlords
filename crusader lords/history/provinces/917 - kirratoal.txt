@@ -1,21 +1,15 @@
-	title = c_kirratoal
-	max_settlements = 2
-	culture = retose
-	religion = naneka
-	b_loanoza = tribal
-201.3.1 = {
-	religion = qiteka
-}
+# c_kirratoal
 
-203.4.1 = {
-	culture = banaila
-}
+# County Title
+title = c_kirratoal
 
-625.4.1 = {
-	b_loanoza = castle
-}
+# Settlements
+max_settlements = 1
 
-745.4.1 = {
-	b_rururga = city
-}
+b_kirratoal = castle
 
+# Misc
+culture = bastian_noble
+religion = terrorian
+
+#History

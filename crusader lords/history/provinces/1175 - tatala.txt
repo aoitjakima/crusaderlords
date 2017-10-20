@@ -1,65 +1,17 @@
-	title = c_tatala
-	max_settlements = 4
-	culture = ranahim
-	religion = tonuyu
-	b_nasala = tribal
-243.4.1 = {
-	culture = wabuzhi
-}
+# c_tatala
 
-302.4.1 = {
-	culture = ranahim
-}
+# County Title
+title = c_tatala
 
-442.4.1 = {
-	culture = qenoos
-}
+# Settlements
+max_settlements = 3
 
-445.4.1 = {
-	culture = ranahim
-}
+b_tatala = castle
+b_tatala_2 = city
+b_tatala_3 = temple
 
-503.4.1 = {
-	culture = qenoos
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-533.4.1 = {
-	culture = ranahim
-}
-
-573.4.1 = {
-	culture = qenoos
-}
-
-627.4.1 = {
-	culture = ranahim
-}
-
-634.4.1 = {
-	culture = qenoos
-}
-
-748.4.1 = {
-	culture = ranahim
-}
-
-754.4.1 = {
-	culture = qenoos
-}
-
-841.4.1 = {
-	b_nasala = castle
-}
-
-875.4.1 = {
-	b_lonuyu = city
-}
-
-940.4.1 = {
-	b_anayaka = temple
-}
-
-1005.4.1 = {
-	b_damappa = castle
-}
-
+#History

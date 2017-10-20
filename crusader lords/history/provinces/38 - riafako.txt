@@ -1,13 +1,21 @@
-	title = c_riafako
-	max_settlements = 2
-	culture = rerinya
-	religion = aguninya
-	b_qanatant = tribal
-803.4.1 = {
-	b_qanatant = castle
-}
+# c_riafako
 
-827.4.1 = {
-	b_ranergun = city
-}
+# County Title
+title = c_riafako
 
+# Settlements
+max_settlements = 7
+
+b_guanhos = city
+b_barcedras = city
+b_freamoz = temple
+#b_riafako = castle
+#b_riafako_2 = city
+#b_riafako_3 = temple
+#b_riafako_4 = castle
+
+# Misc
+culture = estazi_culture5
+religion = estazi_faith
+
+#History

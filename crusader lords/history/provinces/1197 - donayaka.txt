@@ -1,17 +1,17 @@
-	title = c_donayaka
-	max_settlements = 2
-	culture = nonayaka
-	religion = tonuyu
-	b_koling = tribal
-204.4.1 = {
-	culture = budandev
-}
+# c_donayaka
 
-817.4.1 = {
-	b_koling = castle
-}
+# County Title
+title = c_donayaka
 
-844.4.1 = {
-	b_rinuzhi = city
-}
+# Settlements
+max_settlements = 3
 
+b_donayaka = castle
+b_donayaka_2 = city
+b_donayaka_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

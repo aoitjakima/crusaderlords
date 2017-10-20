@@ -1,57 +1,18 @@
-	title = c_tandev
-	max_settlements = 4
-	culture = deusala
-	religion = worelen
-	b_raemeya = tribal
-202.4.1 = {
-	culture = nalaam
-}
+# c_tandev
 
-203.3.1 = {
-	religion = tonuyu
-}
+# County Title
+title = c_tandev
 
-204.3.1 = {
-	religion = worelen
-}
+# Settlements
+max_settlements = 4
 
-209.3.1 = {
-	religion = tonuyu
-}
+b_agisova = temple
+#b_mecizkale = city
+#b_olurmuslu = temple
+#b_tandev = castle
 
-211.3.1 = {
-	religion = worelen
-}
+# Misc
+culture = kir-ko
+religion = kirian
 
-213.3.1 = {
-	religion = tonuyu
-}
-
-216.3.1 = {
-	religion = worelen
-}
-
-217.3.1 = {
-	religion = tonuyu
-}
-
-220.4.1 = {
-	culture = tiwics
-}
-
-745.4.1 = {
-	b_raemeya = castle
-}
-
-845.4.1 = {
-	b_beya = temple
-}
-
-1000.4.1 = {
-	b_keusebia = city
-}
-
-1057.4.1 = {
-	b_rereya = castle
-}
-
+#History

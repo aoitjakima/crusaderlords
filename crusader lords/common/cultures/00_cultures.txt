@@ -703,7 +703,7 @@ kirian = {
 	kir-ko = {
 		graphical_cultures = { arabicgfx muslimgfx }
 		
-		color = { 0.1 0.75 0.1 }
+		color = { 0.1 0.75 0.05 }
 
 		male_names = {
 			Abu-Bakr_Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir Abdul-Wahab Abdul_Abdul Abdullah_Abdullah Aghlab Akin Ali_Ali Alim Aram Azam Bahir Burhanaddin
@@ -722,7 +722,7 @@ kirian = {
 		female_patronym = "bint "
 		prefix = yes
 		
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 
 		modifier = default_culture_modifier
@@ -730,7 +730,7 @@ kirian = {
 	kiroth = {
 		graphical_cultures = { arabicgfx muslimgfx }
 		
-		color = { 0.2 0.9 0.2 }
+		color = { 0.3 0.9 0.2 }
 
 		male_names = {
 			Abakada Abazza Abbas_Abbas Abdul_Abdul Abdul-Azeem Abdul-Haleem Abdul-Kareem Abdul-Rahman Abdullah_Abdullah Abidin Adal Adam_Adam Aderbal Adergazuz
@@ -768,7 +768,7 @@ kirian = {
 		female_patronym = "bint "
 		prefix = yes
 		
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 		
 		modifier = default_culture_modifier

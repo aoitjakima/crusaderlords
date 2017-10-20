@@ -1,5 +1,15 @@
-	title = c_wolappa
-	max_settlements = 2
-	culture = qegudo
-	religion = tonuyu
-	b_wyehappa = tribal
+# c_wolappa
+
+# County Title
+title = c_wolappa
+
+# Settlements
+max_settlements = 1
+
+b_wolappa = castle
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

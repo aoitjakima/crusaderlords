@@ -1,69 +1,17 @@
-	title = c_wabappa
-	max_settlements = 5
-	culture = ranahim
-	religion = tonuyu
-	b_tolia = tribal
-1.1.1 = {
-	b_benia = ct_port_1
-}
+# c_wabappa
 
-277.4.1 = {
-	culture = qegudo
-}
+# County Title
+title = c_wabappa
 
-291.4.1 = {
-	culture = qenoos
-}
+# Settlements
+max_settlements = 3
 
-376.4.1 = {
-	culture = ranahim
-}
+b_wabappa = castle
+b_wabappa_2 = city
+b_wabappa_3 = temple
 
-406.4.1 = {
-	culture = qenoos
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-627.4.1 = {
-	culture = ranahim
-}
-
-628.4.1 = {
-	culture = qenoos
-}
-
-722.4.1 = {
-	culture = ranahim
-}
-
-811.4.1 = {
-	culture = qenoos
-}
-
-813.4.1 = {
-	culture = ranahim
-}
-
-815.4.1 = {
-	culture = qenoos
-}
-
-841.4.1 = {
-	b_tolia = castle
-}
-
-869.4.1 = {
-	b_benia = city
-}
-
-918.4.1 = {
-	b_nonae = temple
-}
-
-969.4.1 = {
-	b_bolala = castle
-}
-
-1029.4.1 = {
-	b_bonayaka = city
-}
-
+#History

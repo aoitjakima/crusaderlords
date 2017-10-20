@@ -1,17 +1,15 @@
-	title = c_lekudo
-	max_settlements = 2
-	culture = lyarala
-	religion = tonuyu
-	b_aregyape = tribal
-318.4.1 = {
-	culture = budandev
-}
+# c_lekudo
 
-822.4.1 = {
-	b_aregyape = castle
-}
+# County Title
+title = c_lekudo
 
-865.4.1 = {
-	b_dulyape = temple
-}
+# Settlements
+max_settlements = 1
 
+b_lekudo = castle
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

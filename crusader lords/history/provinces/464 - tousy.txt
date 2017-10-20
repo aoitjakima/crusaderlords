@@ -1,33 +1,15 @@
-	title = c_tousy
-	max_settlements = 4
-	culture = eluedsalh
-	religion = raipi
-	b_tatidia = tribal
-220.4.1 = {
-	culture = kaureid
-}
+# c_tousy
 
-286.4.1 = {
-	culture = eluedsalh
-}
+# County Title
+title = c_tousy
 
-343.4.1 = {
-	culture = sigivkah
-}
+# Settlements
+max_settlements = 1
 
-685.4.1 = {
-	b_tatidia = castle
-}
+b_remscheild = castle
 
-806.4.1 = {
-	b_dyaila = temple
-}
+# Misc
+culture = niefhiem_forrest
+religion = terrorian
 
-891.4.1 = {
-	b_kovoros = city
-}
-
-972.4.1 = {
-	b_esada = castle
-}
-
+#History

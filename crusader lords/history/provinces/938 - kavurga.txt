@@ -1,37 +1,15 @@
-	title = c_kavurga
-	max_settlements = 2
-	culture = ruraura
-	religion = terenat
-	b_suroza = tribal
-236.3.1 = {
-	religion = begeka
-}
+# c_kavurga
 
-273.4.1 = {
-	culture = banaila
-}
+# County Title
+title = c_kavurga
 
-285.4.1 = {
-	culture = ruraura
-}
+# Settlements
+max_settlements = 1
 
-293.4.1 = {
-	culture = kitule
-}
+b_kavurga = castle
 
-357.4.1 = {
-	culture = banaila
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-405.4.1 = {
-	culture = kitule
-}
-
-520.4.1 = {
-	b_suroza = castle
-}
-
-680.4.1 = {
-	b_daetelin = city
-}
-
+#History

@@ -1,37 +1,15 @@
-	title = c_runaura
-	max_settlements = 2
-	culture = kitule
-	religion = begeka
-	b_dislterlavl = tribal
-203.3.1 = {
-	religion = terenat
-}
+# c_runaura
 
-236.3.1 = {
-	religion = begeka
-}
+# County Title
+title = c_runaura
 
-269.4.1 = {
-	culture = banaila
-}
+# Settlements
+max_settlements = 1
 
-294.4.1 = {
-	culture = kitule
-}
+b_runaura = castle
 
-358.4.1 = {
-	culture = banaila
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-361.4.1 = {
-	culture = kitule
-}
-
-690.4.1 = {
-	b_dislterlavl = castle
-}
-
-822.4.1 = {
-	b_kurelin = temple
-}
-
+#History

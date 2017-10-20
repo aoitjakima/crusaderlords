@@ -1,29 +1,15 @@
-	title = c_larudfu
-	max_settlements = 3
-	culture = sutidoka
-	religion = kusran
-	b_ramderer = tribal
-200.3.1 = {
-	religion = raipi
-}
+# c_larudfu
 
-200.4.1 = {
-	culture = kaureid
-}
+# County Title
+title = c_larudfu
 
-277.4.1 = {
-	culture = kapti
-}
+# Settlements
+max_settlements = 1
 
-735.4.1 = {
-	b_ramderer = castle
-}
+b_larudfu = castle
 
-819.4.1 = {
-	b_soper = city
-}
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
 
-912.4.1 = {
-	b_wahufia = temple
-}
-
+#History

@@ -1,33 +1,15 @@
-	title = c_lisafu
-	max_settlements = 5
-	culture = karibel
-	religion = neharis
-	b_apive = tribal
-201.4.1 = {
-	culture = syahes
-}
+# c_lisafu
 
-242.4.1 = {
-	culture = karibel
-}
+# County Title
+title = c_lisafu
 
-565.4.1 = {
-	b_apive = castle
-}
+# Settlements
+max_settlements = 1
 
-680.4.1 = {
-	b_wotadir = temple
-}
+b_lisafu = castle
 
-837.4.1 = {
-	b_bitawzia = city
-}
+# Misc
+culture = bastian_rural
+religion = terrorian
 
-903.4.1 = {
-	b_kegily = city
-}
-
-968.4.1 = {
-	b_atartn = temple
-}
-
+#History

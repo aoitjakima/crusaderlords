@@ -1,37 +1,18 @@
-	title = c_kalaura
-	max_settlements = 2
-	culture = keusaam
-	religion = tonuyu
-	b_eshaura = tribal
-266.4.1 = {
-	culture = nalaam
-}
+# c_kalaura
 
-284.4.1 = {
-	culture = tiwics
-}
+# County Title
+title = c_kalaura
 
-293.4.1 = {
-	culture = nalaam
-}
+# Settlements
+max_settlements = 4
 
-300.4.1 = {
-	culture = tiwics
-}
+b_omunkum = temple
+#b_aglankum = city
+#b_mehmendira = temple
+#b_kalaura = castle
 
-391.4.1 = {
-	culture = nalaam
-}
+# Misc
+culture = kiroth
+religion = kirothian
 
-437.4.1 = {
-	culture = tiwics
-}
-
-444.4.1 = {
-	culture = nalaam
-}
-
-538.4.1 = {
-	culture = tiwics
-}
-
+#History

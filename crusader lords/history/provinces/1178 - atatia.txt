@@ -1,61 +1,17 @@
-	title = c_atatia
-	max_settlements = 7
-	culture = wabuzhi
-	religion = tonuyu
-	b_lonuzhi = tribal
-229.4.1 = {
-	culture = ranahim
-}
+# c_atatia
 
-442.4.1 = {
-	culture = qenoos
-}
+# County Title
+title = c_atatia
 
-457.4.1 = {
-	culture = ranahim
-}
+# Settlements
+max_settlements = 3
 
-697.4.1 = {
-	culture = qenoos
-}
+b_atatia = castle
+b_atatia_2 = city
+b_atatia_3 = temple
 
-748.4.1 = {
-	culture = ranahim
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-752.4.1 = {
-	culture = qenoos
-}
-
-841.4.1 = {
-	b_lonuzhi = castle
-}
-
-879.4.1 = {
-	b_dalayaka = temple
-}
-
-982.4.1 = {
-	b_denkakab = city
-}
-
-991.4.1 = {
-	culture = ranahim
-}
-
-1007.4.1 = {
-	culture = qenoos
-}
-
-1015.4.1 = {
-	culture = ranahim
-}
-
-1021.4.1 = {
-	culture = qenoos
-}
-
-1031.4.1 = {
-	culture = ranahim
-}
-
+#History

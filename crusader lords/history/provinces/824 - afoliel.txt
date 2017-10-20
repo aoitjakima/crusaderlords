@@ -1,29 +1,15 @@
-	title = c_afoliel
-	max_settlements = 4
-	culture = namyan
-	religion = kusran
-	b_kihoedl = tribal
-1.1.1 = {
-	b_sunacob = ct_port_1
-}
+# c_afoliel
 
-248.4.1 = {
-	culture = abajule
-}
+# County Title
+title = c_afoliel
 
-590.4.1 = {
-	b_kihoedl = castle
-}
+# Settlements
+max_settlements = 1
 
-740.4.1 = {
-	b_sunacob = city
-}
+b_afoliel = castle
 
-871.4.1 = {
-	b_esunoedl = temple
-}
+# Misc
+culture = swamp_avasian
+religion = terrorian
 
-947.4.1 = {
-	b_dotius = castle
-}
-
+#History

@@ -1,13 +1,15 @@
-	title = c_lodopti
-	max_settlements = 2
-	culture = syahes
-	religion = neharis
-	b_sitopolk = tribal
-660.4.1 = {
-	b_sitopolk = castle
-}
+# c_lodopti
 
-818.4.1 = {
-	b_esuhius = temple
-}
+# County Title
+title = c_lodopti
 
+# Settlements
+max_settlements = 1
+
+b_lodopti = castle
+
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
+
+#History

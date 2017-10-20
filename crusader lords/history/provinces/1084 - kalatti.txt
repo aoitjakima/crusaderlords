@@ -1,145 +1,18 @@
-	title = c_kalatti
-	max_settlements = 7
-	culture = tudatha
-	religion = worelen
-	b_eflapala = tribal
-1.1.1 = {
-	b_realeya = ct_port_1
-}
+# c_kalatti
 
-203.3.1 = {
-	religion = tonuyu
-}
+# County Title
+title = c_kalatti
 
-206.3.1 = {
-	religion = worelen
-}
+# Settlements
+max_settlements = 4
 
-209.3.1 = {
-	religion = tonuyu
-}
+b_doulin = temple
+#b_arirdah = city
+#b_qamihnaya = temple
+#b_kalatti = castle
 
-214.3.1 = {
-	religion = worelen
-}
+# Misc
+culture = kiroth
+religion = kirothian
 
-217.3.1 = {
-	religion = tonuyu
-}
-
-247.3.1 = {
-	religion = worelen
-}
-
-258.3.1 = {
-	religion = tonuyu
-}
-
-259.3.1 = {
-	religion = worelen
-}
-
-259.3.1 = {
-	religion = tonuyu
-}
-
-264.3.1 = {
-	religion = worelen
-}
-
-272.3.1 = {
-	religion = tonuyu
-}
-
-273.3.1 = {
-	religion = worelen
-}
-
-274.3.1 = {
-	religion = tonuyu
-}
-
-277.3.1 = {
-	religion = worelen
-}
-
-277.3.1 = {
-	religion = tonuyu
-}
-
-278.3.1 = {
-	religion = worelen
-}
-
-279.3.1 = {
-	religion = tonuyu
-}
-
-286.3.1 = {
-	religion = worelen
-}
-
-288.3.1 = {
-	religion = tonuyu
-}
-
-294.3.1 = {
-	religion = worelen
-}
-
-301.3.1 = {
-	religion = tonuyu
-}
-
-302.3.1 = {
-	religion = worelen
-}
-
-303.3.1 = {
-	religion = tonuyu
-}
-
-307.3.1 = {
-	religion = worelen
-}
-
-317.3.1 = {
-	religion = tonuyu
-}
-
-319.3.1 = {
-	religion = worelen
-}
-
-338.3.1 = {
-	religion = tonuyu
-}
-
-343.4.1 = {
-	culture = tiwics
-}
-
-392.4.1 = {
-	culture = tudatha
-}
-
-408.4.1 = {
-	culture = tiwics
-}
-
-670.4.1 = {
-	b_eflapala = castle
-}
-
-816.4.1 = {
-	b_enepelia = temple
-}
-
-909.4.1 = {
-	b_realeya = city
-}
-
-994.4.1 = {
-	b_daemaura = castle
-}
-
+#History

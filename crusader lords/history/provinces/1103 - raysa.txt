@@ -1,33 +1,18 @@
-	title = c_raysa
-	max_settlements = 5
-	culture = rudeslav
-	religion = worelen
-	b_eforatti = tribal
-1.1.1 = {
-	b_bilelen = ct_port_1
-}
+# c_raysa
 
-205.4.1 = {
-	culture = nalaam
-}
+# County Title
+title = c_raysa
 
-615.4.1 = {
-	b_eforatti = castle
-}
+# Settlements
+max_settlements = 4
 
-710.4.1 = {
-	b_bilelen = city
-}
+b_slatebrooke = castle
+b_blighburgh = city
+#b_clearmoure_2 = temple
+#b_bareridge = castle
 
-826.4.1 = {
-	b_dudatha = temple
-}
+# Misc
+culture = kiroth
+religion = kirothian
 
-874.4.1 = {
-	b_lonelen = castle
-}
-
-937.4.1 = {
-	b_kudaclav = castle
-}
-
+#History

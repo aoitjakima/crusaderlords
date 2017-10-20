@@ -1,21 +1,15 @@
-	title = c_afabyan
-	max_settlements = 4
-	culture = ketamma
-	religion = kusran
-	b_kauroka = tribal
-827.4.1 = {
-	b_kauroka = castle
-}
+# c_afabyan
 
-862.4.1 = {
-	b_kaipan = temple
-}
+# County Title
+title = c_afabyan
 
-963.4.1 = {
-	b_ravham = city
-}
+# Settlements
+max_settlements = 1
 
-1049.4.1 = {
-	b_kyayapti = temple
-}
+b_afabyan = castle
 
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
+
+#History

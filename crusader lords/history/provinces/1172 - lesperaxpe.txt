@@ -1,21 +1,17 @@
-	title = c_lesperaxpe
-	max_settlements = 3
-	culture = lyarala
-	religion = tonuyu
-	b_sukudo = tribal
-221.4.1 = {
-	culture = budandev
-}
+# c_lesperaxpe
 
-809.4.1 = {
-	b_sukudo = castle
-}
+# County Title
+title = c_lesperaxpe
 
-842.4.1 = {
-	b_tesae = city
-}
+# Settlements
+max_settlements = 3
 
-896.4.1 = {
-	b_saziks = temple
-}
+b_lesperaxpe = castle
+b_lesperaxpe_2 = city
+b_lesperaxpe_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

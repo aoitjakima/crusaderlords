@@ -1,21 +1,15 @@
-	title = c_reusid
-	max_settlements = 2
-	culture = ebeina
-	religion = qiteka
-	b_tovery = tribal
-523.4.1 = {
-	culture = risutlu
-}
+# c_reusid
 
-575.4.1 = {
-	b_tovery = castle
-}
+# County Title
+title = c_reusid
 
-710.4.1 = {
-	b_tohiby = city
-}
+# Settlements
+max_settlements = 1
 
-887.4.1 = {
-	culture = saimes
-}
+b_reusid = castle
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

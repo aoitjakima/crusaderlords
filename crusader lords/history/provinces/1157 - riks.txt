@@ -1,33 +1,17 @@
-	title = c_riks
-	max_settlements = 3
-	culture = takukork
-	religion = tonuyu
-	b_rukyako = tribal
-202.4.1 = {
-	culture = wabuzhi
-}
+# c_riks
 
-204.4.1 = {
-	culture = budandev
-}
+# County Title
+title = c_riks
 
-208.4.1 = {
-	culture = wabuzhi
-}
+# Settlements
+max_settlements = 3
 
-219.4.1 = {
-	culture = budandev
-}
+b_riks = castle
+b_riks_2 = city
+b_riks_3 = temple
 
-843.4.1 = {
-	b_rukyako = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-883.4.1 = {
-	b_raxpekaxpe = temple
-}
-
-955.4.1 = {
-	b_wekiks = city
-}
-
+#History

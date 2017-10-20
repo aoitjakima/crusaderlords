@@ -1,29 +1,15 @@
-	title = c_tudacob
-	max_settlements = 6
-	culture = namyan
-	religion = kusran
-	b_tudoedl = tribal
-203.4.1 = {
-	culture = abajule
-}
+# c_tudacob
 
-600.4.1 = {
-	b_tudoedl = castle
-}
+# County Title
+title = c_tudacob
 
-770.4.1 = {
-	b_ridada = temple
-}
+# Settlements
+max_settlements = 1
 
-872.4.1 = {
-	b_katheodl = city
-}
+b_tudacob = castle
 
-947.4.1 = {
-	b_totiel = temple
-}
+# Misc
+culture = swamp_avasian
+religion = terrorian
 
-1015.4.1 = {
-	b_lohemor = temple
-}
-
+#History

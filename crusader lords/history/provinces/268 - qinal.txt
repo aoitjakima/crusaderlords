@@ -1,33 +1,15 @@
-	title = c_qinal
-	max_settlements = 4
-	culture = nitindik
-	religion = neharis
-	b_qaharia = tribal
-213.4.1 = {
-	culture = syahes
-}
+# c_qinal
 
-227.4.1 = {
-	culture = nitindik
-}
+# County Title
+title = c_qinal
 
-234.4.1 = {
-	culture = sodinia
-}
+# Settlements
+max_settlements = 1
 
-515.4.1 = {
-	b_qaharia = castle
-}
+b_qinal = castle
 
-615.4.1 = {
-	b_diceven = temple
-}
+# Misc
+culture = bastian_rural
+religion = terrorian
 
-830.4.1 = {
-	b_ticenna = city
-}
-
-874.4.1 = {
-	b_kiniel = temple
-}
-
+#History

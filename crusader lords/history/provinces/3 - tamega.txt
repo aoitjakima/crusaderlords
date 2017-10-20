@@ -1,17 +1,21 @@
-	title = c_tamega
-	max_settlements = 2
-	culture = nahuda
-	religion = neharis
-	b_kuxsas = tribal
-1.1.1 = {
-	b_tamrivdi = ct_port_1
-}
+# c_tamega
 
-823.4.1 = {
-	b_kuxsas = castle
-}
+# County Title
+title = c_tamega
 
-852.4.1 = {
-	b_tamrivdi = city
-}
+# Settlements
+max_settlements = 7
 
+b_malonghi = city
+b_giarfosi = city
+b_mettos = temple
+#b_tamega = castle
+#b_tamega_2 = city
+#b_tamega_3 = temple
+#b_tamega_4 = castle
+
+# Misc
+culture = estazi_culture2
+religion = estazi_faith
+
+#History

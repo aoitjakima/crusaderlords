@@ -1,37 +1,15 @@
-	title = c_raveria
-	max_settlements = 2
-	culture = amuhopti
-	religion = neharis
-	b_buhayan = tribal
-203.4.1 = {
-	culture = sodinia
-}
+# c_raveria
 
-232.4.1 = {
-	culture = syahes
-}
+# County Title
+title = c_raveria
 
-238.4.1 = {
-	culture = sodinia
-}
+# Settlements
+max_settlements = 1
 
-354.4.1 = {
-	culture = syahes
-}
+b_raveria = castle
 
-370.4.1 = {
-	culture = sodinia
-}
+# Misc
+culture = bastian_rural
+religion = terrorian
 
-391.4.1 = {
-	culture = syahes
-}
-
-515.4.1 = {
-	b_buhayan = castle
-}
-
-665.4.1 = {
-	b_tareria = city
-}
-
+#History

@@ -1,37 +1,18 @@
-	title = c_tubeid
-	max_settlements = 4
-	culture = lodeid
-	religion = tonuyu
-	b_tesyros = tribal
-202.4.1 = {
-	culture = rubiho
-}
+# c_tubeid
 
-244.3.1 = {
-	religion = kodine
-}
+# County Title
+title = c_tubeid
 
-245.3.1 = {
-	religion = tonuyu
-}
+# Settlements
+max_settlements = 4
 
-274.4.1 = {
-	culture = biho
-}
+b_xixiuitl = temple
+#b_tubeid = city
+#b_tubeid_2 = temple
+#b_tubeid_3 = castle
 
-846.4.1 = {
-	b_tesyros = castle
-}
+# Misc
+culture = druchi
+religion = kirothian
 
-879.4.1 = {
-	b_lahus = temple
-}
-
-939.4.1 = {
-	b_ruzelg = city
-}
-
-1049.4.1 = {
-	b_dergia = temple
-}
-
+#History

@@ -1,21 +1,15 @@
-	title = c_dalige
-	max_settlements = 4
-	culture = lopher
-	religion = kusran
-	b_luge = tribal
-276.3.1 = {
-	religion = telayira
-}
+# c_dalige
 
-278.4.1 = {
-	culture = ritiatou
-}
+# County Title
+title = c_dalige
 
-378.4.1 = {
-	culture = koumas
-}
+# Settlements
+max_settlements = 1
 
-937.4.1 = {
-	culture = lopher
-}
+b_dalige = castle
 
+# Misc
+culture = swamp_avasian
+religion = terrorian
+
+#History

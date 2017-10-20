@@ -1,165 +1,18 @@
-	title = c_rameya
-	max_settlements = 4
-	culture = deusala
-	religion = worelen
-	b_kelia = tribal
-203.3.1 = {
-	religion = tonuyu
-}
+# c_rameya
 
-205.3.1 = {
-	religion = worelen
-}
+# County Title
+title = c_rameya
 
-209.3.1 = {
-	religion = tonuyu
-}
+# Settlements
+max_settlements = 4
 
-210.3.1 = {
-	religion = worelen
-}
+b_nippuwja = castle
+#b_tel_halaji = city
+#b_erbirnah = temple
+#b_rameya = castle
 
-213.3.1 = {
-	religion = tonuyu
-}
+# Misc
+culture = kir-ko
+religion = kirian
 
-215.3.1 = {
-	religion = worelen
-}
-
-217.3.1 = {
-	religion = tonuyu
-}
-
-218.3.1 = {
-	religion = worelen
-}
-
-221.3.1 = {
-	religion = tonuyu
-}
-
-231.3.1 = {
-	religion = worelen
-}
-
-231.3.1 = {
-	religion = tonuyu
-}
-
-232.3.1 = {
-	religion = worelen
-}
-
-243.3.1 = {
-	religion = tonuyu
-}
-
-248.3.1 = {
-	religion = worelen
-}
-
-258.3.1 = {
-	religion = tonuyu
-}
-
-259.3.1 = {
-	religion = worelen
-}
-
-259.3.1 = {
-	religion = tonuyu
-}
-
-264.3.1 = {
-	religion = worelen
-}
-
-268.4.1 = {
-	culture = tudatha
-}
-
-272.3.1 = {
-	religion = tonuyu
-}
-
-273.3.1 = {
-	religion = worelen
-}
-
-274.3.1 = {
-	religion = tonuyu
-}
-
-277.3.1 = {
-	religion = worelen
-}
-
-277.3.1 = {
-	religion = tonuyu
-}
-
-278.3.1 = {
-	religion = worelen
-}
-
-279.3.1 = {
-	religion = tonuyu
-}
-
-286.3.1 = {
-	religion = worelen
-}
-
-288.3.1 = {
-	religion = tonuyu
-}
-
-294.3.1 = {
-	religion = worelen
-}
-
-301.3.1 = {
-	religion = tonuyu
-}
-
-302.3.1 = {
-	religion = worelen
-}
-
-303.3.1 = {
-	religion = tonuyu
-}
-
-307.3.1 = {
-	religion = worelen
-}
-
-317.3.1 = {
-	religion = tonuyu
-}
-
-319.3.1 = {
-	religion = worelen
-}
-
-338.3.1 = {
-	religion = tonuyu
-}
-
-339.4.1 = {
-	culture = tiwics
-}
-
-795.4.1 = {
-	b_kelia = castle
-}
-
-835.4.1 = {
-	b_tahkebia = temple
-}
-
-996.4.1 = {
-	b_kepadra = city
-}
-
+#History

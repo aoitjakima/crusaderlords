@@ -1,29 +1,15 @@
-	title = c_qenat
-	max_settlements = 5
-	culture = banaila
-	religion = qiteka
-	b_bolas = tribal
-1.1.1 = {
-	b_adurolas = ct_port_1
-}
+# c_qenat
 
-585.4.1 = {
-	b_bolas = castle
-}
+# County Title
+title = c_qenat
 
-705.4.1 = {
-	b_duruel = temple
-}
+# Settlements
+max_settlements = 1
 
-864.4.1 = {
-	b_adurolas = city
-}
+b_qenat = castle
 
-937.4.1 = {
-	b_karoza = temple
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-1004.4.1 = {
-	b_elavuel = city
-}
-
+#History

@@ -1,29 +1,15 @@
-	title = c_regasseh
-	max_settlements = 2
-	culture = daimeja
-	religion = raipi
-	b_segiana = tribal
-1.1.1 = {
-	b_behaimolf = ct_port_1
-}
+# c_regasseh
 
-222.4.1 = {
-	culture = nuteria
-}
+# County Title
+title = c_regasseh
 
-228.4.1 = {
-	culture = eluedsalh
-}
+# Settlements
+max_settlements = 1
 
-565.4.1 = {
-	culture = sigivkah
-}
+b_regasseh = castle
 
-645.4.1 = {
-	b_segiana = castle
-}
+# Misc
+culture = niefhiem_lake
+religion = terrorian
 
-801.4.1 = {
-	b_behaimolf = city
-}
-
+#History

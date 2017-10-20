@@ -1,37 +1,15 @@
-	title = c_kehohn
-	max_settlements = 5
-	culture = syahes
-	religion = neharis
-	b_loparia = tribal
-285.4.1 = {
-	culture = sodinia
-}
+# c_kehohn
 
-297.4.1 = {
-	culture = syahes
-}
+# County Title
+title = c_kehohn
 
-300.4.1 = {
-	culture = sodinia
-}
+# Settlements
+max_settlements = 1
 
-520.4.1 = {
-	b_loparia = castle
-}
+b_kehohn = castle
 
-650.4.1 = {
-	b_keilith = city
-}
+# Misc
+culture = bastia_city
+religion = terrorian
 
-854.4.1 = {
-	b_sehanda = temple
-}
-
-925.4.1 = {
-	b_ehooser = temple
-}
-
-980.4.1 = {
-	b_ehoosal = castle
-}
-
+#History

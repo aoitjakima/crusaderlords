@@ -1,21 +1,15 @@
-	title = c_datadir
-	max_settlements = 6
-	culture = syahes
-	religion = neharis
-	b_keronka = tribal
-421.4.1 = {
-	culture = amuhopti
-}
+# c_datadir
 
-451.4.1 = {
-	culture = syahes
-}
+# County Title
+title = c_datadir
 
-555.4.1 = {
-	b_keronka = castle
-}
+# Settlements
+max_settlements = 1
 
-710.4.1 = {
-	b_saila = city
-}
+b_datadir = castle
 
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
+
+#History

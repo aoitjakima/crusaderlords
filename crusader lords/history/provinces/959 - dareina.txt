@@ -1,21 +1,15 @@
-	title = c_dareina
-	max_settlements = 3
-	culture = retose
-	religion = qiteka
-	b_qerenat = tribal
-205.4.1 = {
-	culture = banaila
-}
+# c_dareina
 
-575.4.1 = {
-	b_qerenat = castle
-}
+# County Title
+title = c_dareina
 
-680.4.1 = {
-	b_barule = temple
-}
+# Settlements
+max_settlements = 1
 
-833.4.1 = {
-	b_wurga = city
-}
+b_dareina = castle
 
+# Misc
+culture = bastian_noble
+religion = terrorian
+
+#History

@@ -1,17 +1,17 @@
-	title = c_tosyape
-	max_settlements = 2
-	culture = lyarala
-	religion = tonuyu
-	b_rabira = tribal
-318.4.1 = {
-	culture = budandev
-}
+# c_tosyape
 
-822.4.1 = {
-	b_rabira = castle
-}
+# County Title
+title = c_tosyape
 
-855.4.1 = {
-	b_ezabiks = city
-}
+# Settlements
+max_settlements = 3
 
+b_tosyape = castle
+b_tosyape_2 = city
+b_tosyape_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

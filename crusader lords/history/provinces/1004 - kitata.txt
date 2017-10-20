@@ -1,41 +1,15 @@
-	title = c_kitata
-	max_settlements = 3
-	culture = laaug
-	religion = telayira
-	b_qezayya = tribal
-1.1.1 = {
-	b_atuginia = ct_port_1
-}
+# c_kitata
 
-216.4.1 = {
-	culture = ritiatou
-}
+# County Title
+title = c_kitata
 
-300.4.1 = {
-	culture = koumas
-}
+# Settlements
+max_settlements = 1
 
-531.4.1 = {
-	culture = lopher
-}
+b_kitata = castle
 
-539.4.1 = {
-	culture = koumas
-}
+# Misc
+culture = swamp_avasian
+religion = terrorian
 
-600.4.1 = {
-	b_qezayya = castle
-}
-
-790.4.1 = {
-	b_kekaria = temple
-}
-
-867.4.1 = {
-	culture = lopher
-}
-
-886.4.1 = {
-	b_atuginia = city
-}
-
+#History

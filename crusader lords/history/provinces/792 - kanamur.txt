@@ -1,89 +1,15 @@
-	title = c_kanamur
-	max_settlements = 2
-	culture = retose
-	religion = qiteka
-	b_sorive = tribal
-203.3.1 = {
-	religion = terenat
-}
+# c_kanamur
 
-204.3.1 = {
-	religion = begeka
-}
+# County Title
+title = c_kanamur
 
-208.3.1 = {
-	religion = terenat
-}
+# Settlements
+max_settlements = 1
 
-210.3.1 = {
-	religion = begeka
-}
+b_kanamur = castle
 
-211.3.1 = {
-	religion = terenat
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-216.4.1 = {
-	culture = banaila
-}
-
-217.3.1 = {
-	religion = begeka
-}
-
-222.3.1 = {
-	religion = terenat
-}
-
-231.3.1 = {
-	religion = begeka
-}
-
-244.4.1 = {
-	culture = runafu
-}
-
-254.4.1 = {
-	culture = kitule
-}
-
-280.4.1 = {
-	culture = banaila
-}
-
-315.4.1 = {
-	culture = kitule
-}
-
-358.4.1 = {
-	culture = banaila
-}
-
-371.4.1 = {
-	culture = kitule
-}
-
-376.3.1 = {
-	religion = terenat
-}
-
-377.4.1 = {
-	culture = banaila
-}
-
-377.3.1 = {
-	religion = begeka
-}
-
-384.4.1 = {
-	culture = kitule
-}
-
-630.4.1 = {
-	b_sorive = castle
-}
-
-790.4.1 = {
-	b_aqamenda = temple
-}
-
+#History

@@ -1,29 +1,15 @@
-	title = c_wari
-	max_settlements = 5
-	culture = disinos
-	religion = qigiyah
-	b_elaurina = tribal
-1.1.1 = {
-	b_egesiyah = ct_port_1
-}
+# c_wari
 
-200.4.1 = {
-	culture = tularda
-}
+# County Title
+title = c_wari
 
-271.4.1 = {
-	culture = alaurine
-}
+# Settlements
+max_settlements = 1
 
-826.4.1 = {
-	b_elaurina = castle
-}
+b_wari = castle
 
-868.4.1 = {
-	b_egesiyah = city
-}
+# Misc
+culture = niefhiem_lake
+religion = terrorian
 
-969.4.1 = {
-	b_alaureid = temple
-}
-
+#History

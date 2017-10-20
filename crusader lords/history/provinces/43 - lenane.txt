@@ -1,49 +1,18 @@
-	title = c_lenane
-	max_settlements = 4
-	culture = tawtus
-	religion = kodine
-	b_sinilk = tribal
-201.3.1 = {
-	religion = tonuyu
-}
+# c_lenane
 
-209.3.1 = {
-	religion = kodine
-}
+# County Title
+title = c_lenane
 
-211.3.1 = {
-	religion = tonuyu
-}
+# Settlements
+max_settlements = 4
 
-213.3.1 = {
-	religion = kodine
-}
+b_tlalli = temple
+#b_lenane = city
+#b_lenane_2 = temple
+#b_lenane_3 = castle
 
-224.3.1 = {
-	religion = tonuyu
-}
+# Misc
+culture = druchi
+religion = kirothian
 
-236.3.1 = {
-	religion = kodine
-}
-
-238.3.1 = {
-	religion = tonuyu
-}
-
-242.4.1 = {
-	culture = biho
-}
-
-838.4.1 = {
-	b_sinilk = castle
-}
-
-872.4.1 = {
-	b_rytapar = city
-}
-
-978.4.1 = {
-	b_rutim = temple
-}
-
+#History

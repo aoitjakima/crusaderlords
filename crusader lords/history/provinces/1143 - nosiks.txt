@@ -1,21 +1,17 @@
-	title = c_nosiks
-	max_settlements = 3
-	culture = takukork
-	religion = tonuyu
-	b_qauhiks = tribal
-244.4.1 = {
-	culture = wabuzhi
-}
+# c_nosiks
 
-507.4.1 = {
-	culture = budandev
-}
+# County Title
+title = c_nosiks
 
-942.4.1 = {
-	b_qauhiks = castle
-}
+# Settlements
+max_settlements = 3
 
-1059.4.1 = {
-	b_tesyape = city
-}
+b_nosiks = castle
+b_nosiks_2 = city
+b_nosiks_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

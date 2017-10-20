@@ -1,41 +1,15 @@
-	title = c_bitopolk
-	max_settlements = 3
-	culture = talentiy
-	religion = neharis
-	b_bahnan = tribal
-203.4.1 = {
-	culture = sodinia
-}
+# c_bitopolk
 
-232.4.1 = {
-	culture = syahes
-}
+# County Title
+title = c_bitopolk
 
-238.4.1 = {
-	culture = sodinia
-}
+# Settlements
+max_settlements = 1
 
-354.4.1 = {
-	culture = syahes
-}
+b_bitopolk = castle
 
-370.4.1 = {
-	culture = sodinia
-}
+# Misc
+culture = bastian_rural
+religion = terrorian
 
-391.4.1 = {
-	culture = syahes
-}
-
-521.4.1 = {
-	b_bahnan = castle
-}
-
-620.4.1 = {
-	b_tuhopti = temple
-}
-
-823.4.1 = {
-	b_doden = city
-}
-
+#History

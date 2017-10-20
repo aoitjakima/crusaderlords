@@ -1,37 +1,15 @@
-	title = c_kodens
-	max_settlements = 5
-	culture = daimeig
-	religion = wedwig
-	b_renava = tribal
-322.4.1 = {
-	culture = waynald
-}
+# c_kodens
 
-332.4.1 = {
-	culture = daimeig
-}
+# County Title
+title = c_kodens
 
-386.4.1 = {
-	culture = waynald
-}
+# Settlements
+max_settlements = 1
 
-610.4.1 = {
-	b_renava = castle
-}
+b_kodens = castle
 
-745.4.1 = {
-	b_ketian = city
-}
+# Misc
+culture = niefhiem_forrest
+religion = terrorian
 
-863.4.1 = {
-	b_emuhibel = temple
-}
-
-930.4.1 = {
-	b_binia = castle
-}
-
-995.4.1 = {
-	b_amuhopti = temple
-}
-
+#History

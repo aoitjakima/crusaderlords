@@ -1,29 +1,15 @@
-	title = c_epavacob
-	max_settlements = 2
-	culture = ebeina
-	religion = qiteka
-	b_lusey = tribal
-257.4.1 = {
-	culture = waetutlu
-}
+# c_epavacob
 
-273.4.1 = {
-	culture = ebeina
-}
+# County Title
+title = c_epavacob
 
-342.4.1 = {
-	culture = risutlu
-}
+# Settlements
+max_settlements = 1
 
-590.4.1 = {
-	b_lusey = castle
-}
+b_epavacob = castle
 
-720.4.1 = {
-	b_amauderd = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-862.4.1 = {
-	culture = saimes
-}
-
+#History

@@ -1,29 +1,15 @@
-	title = c_keilith
-	max_settlements = 3
-	culture = nitindik
-	religion = neharis
-	b_laver = tribal
-213.4.1 = {
-	culture = syahes
-}
+# c_keilith
 
-227.4.1 = {
-	culture = nitindik
-}
+# County Title
+title = c_keilith
 
-234.4.1 = {
-	culture = sodinia
-}
+# Settlements
+max_settlements = 1
 
-520.4.1 = {
-	b_laver = castle
-}
+b_keilith = castle
 
-660.4.1 = {
-	b_ateilre = city
-}
+# Misc
+culture = bastian_rural
+religion = terrorian
 
-839.4.1 = {
-	b_abakith = temple
-}
-
+#History

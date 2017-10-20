@@ -1,29 +1,15 @@
-	title = c_toboros
-	max_settlements = 2
-	culture = digaka
-	religion = raipi
-	b_woblaqosla = tribal
-261.4.1 = {
-	culture = sigivkah
-}
+# c_toboros
 
-271.4.1 = {
-	culture = digaka
-}
+# County Title
+title = c_toboros
 
-293.4.1 = {
-	culture = eluedsalh
-}
+# Settlements
+max_settlements = 1
 
-474.4.1 = {
-	culture = sigivkah
-}
+b_toboros = castle
 
-675.4.1 = {
-	b_woblaqosla = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-809.4.1 = {
-	b_ruraila = temple
-}
-
+#History

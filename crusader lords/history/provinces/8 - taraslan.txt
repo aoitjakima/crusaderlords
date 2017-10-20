@@ -1,17 +1,18 @@
-	title = c_taraslan
-	max_settlements = 4
-	culture = duulava
-	religion = neharis
-	b_darevag = tribal
-1.1.1 = {
-	b_elleter = ct_port_1
-}
+# c_taraslan
 
-965.4.1 = {
-	b_darevag = castle
-}
+# County Title
+title = c_taraslan
 
-1022.4.1 = {
-	b_elleter = city
-}
+# Settlements
+max_settlements = 4
 
+b_alzihmouz = temple
+b_khoozzuk_chaur = city
+b_phokkzokves = castle
+#b_taraslan = castle
+
+# Misc
+culture = kir-ko
+religion = kirian
+
+#History

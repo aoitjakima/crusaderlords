@@ -1,17 +1,15 @@
-	title = c_tesa
-	max_settlements = 2
-	culture = amuhopti
-	religion = neharis
-	b_katinus = tribal
-301.4.1 = {
-	culture = syahes
-}
+# c_tesa
 
-540.4.1 = {
-	b_katinus = castle
-}
+# County Title
+title = c_tesa
 
-660.4.1 = {
-	b_sanonka = temple
-}
+# Settlements
+max_settlements = 1
 
+b_tesa = castle
+
+# Misc
+culture = bastian_rural
+religion = terrorian
+
+#History

@@ -1,25 +1,15 @@
-	title = c_lisarses
-	max_settlements = 5
-	culture = lopher
-	religion = kusran
-	b_qisotos = tribal
-276.3.1 = {
-	religion = telayira
-}
+# c_lisarses
 
-278.4.1 = {
-	culture = ritiatou
-}
+# County Title
+title = c_lisarses
 
-378.4.1 = {
-	culture = koumas
-}
+# Settlements
+max_settlements = 1
 
-937.4.1 = {
-	culture = lopher
-}
+b_lisarses = castle
 
-954.4.1 = {
-	b_qisotos = castle
-}
+# Misc
+culture = swamp_avasian
+religion = terrorian
 
+#History

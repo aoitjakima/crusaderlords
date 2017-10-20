@@ -1,41 +1,21 @@
-	title = c_byua
-	max_settlements = 5
-	culture = wubihr
-	religion = aratihr
-	b_bedis = tribal
-1.1.1 = {
-	b_satata = ct_port_1
-}
+# c_byua
 
-212.4.1 = {
-	culture = laris
-}
+# County Title
+title = c_byua
 
-356.4.1 = {
-	culture = wubihr
-}
+# Settlements
+max_settlements = 7
 
-365.4.1 = {
-	culture = selalya
-}
+b_maladorm = city
+b_santiancia = city
+b_zancia = temple
+#b_byua = castle
+#b_byua_2 = city
+#b_byua_3 = temple
+#b_byua_4 = castle
 
-680.4.1 = {
-	b_bedis = castle
-}
+# Misc
+culture = estazi_culture3
+religion = estazi_faith
 
-804.4.1 = {
-	b_ragako = temple
-}
-
-897.4.1 = {
-	b_satata = city
-}
-
-979.4.1 = {
-	b_ediarihr = temple
-}
-
-1064.4.1 = {
-	b_ryyako = temple
-}
-
+#History

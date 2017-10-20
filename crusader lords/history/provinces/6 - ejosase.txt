@@ -1,21 +1,18 @@
-	title = c_ejosase
-	max_settlements = 3
-	culture = etirune
-	religion = tonuyu
-	b_ekiam = tribal
-1.1.1 = {
-	b_kiorine = ct_port_1
-}
+# c_ejosase
 
-880.4.1 = {
-	b_ekiam = castle
-}
+# County Title
+title = c_ejosase
 
-920.4.1 = {
-	b_kiorine = city
-}
+# Settlements
+max_settlements = 4
 
-966.4.1 = {
-	b_telune = temple
-}
+b_jonkhirlez = temple
+b_mar_gocraz = city
+b_nekruhrud = castle
+#b_ejosase = castle
 
+# Misc
+culture = kir-ko
+religion = kirian
+
+#History

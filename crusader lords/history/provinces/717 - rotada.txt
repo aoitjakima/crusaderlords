@@ -1,17 +1,15 @@
-	title = c_rotada
-	max_settlements = 3
-	culture = abajule
-	religion = kusran
-	b_arididia = tribal
-625.4.1 = {
-	b_arididia = castle
-}
+# c_rotada
 
-750.4.1 = {
-	b_rarius = city
-}
+# County Title
+title = c_rotada
 
-878.4.1 = {
-	b_qeodl = temple
-}
+# Settlements
+max_settlements = 1
 
+b_rotada = castle
+
+# Misc
+culture = northern_avasian
+religion = terrorian
+
+#History

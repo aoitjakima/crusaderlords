@@ -1,21 +1,15 @@
-	title = c_wineven
-	max_settlements = 2
-	culture = karibel
-	religion = neharis
-	b_syanohn = tribal
-201.4.1 = {
-	culture = syahes
-}
+# c_wineven
 
-242.4.1 = {
-	culture = karibel
-}
+# County Title
+title = c_wineven
 
-570.4.1 = {
-	b_syanohn = castle
-}
+# Settlements
+max_settlements = 1
 
-680.4.1 = {
-	b_kebakanda = temple
-}
+b_wineven = castle
 
+# Misc
+culture = bastian_rural
+religion = terrorian
+
+#History

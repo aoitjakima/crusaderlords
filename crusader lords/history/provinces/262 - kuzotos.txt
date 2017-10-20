@@ -1,89 +1,15 @@
-	title = c_kuzotos
-	max_settlements = 3
-	culture = eramred
-	religion = raipi
-	b_ryaa = tribal
-1.1.1 = {
-	b_tataila = ct_port_1
-}
+# c_kuzotos
 
-200.3.1 = {
-	religion = kusran
-}
+# County Title
+title = c_kuzotos
 
-201.4.1 = {
-	culture = sigivkah
-}
+# Settlements
+max_settlements = 1
 
-201.3.1 = {
-	religion = raipi
-}
+b_teltow = castle
 
-211.3.1 = {
-	religion = kusran
-}
+# Misc
+culture = niefhiem_forrest
+religion = terrorian
 
-220.3.1 = {
-	religion = raipi
-}
-
-229.3.1 = {
-	religion = kusran
-}
-
-230.3.1 = {
-	religion = raipi
-}
-
-233.3.1 = {
-	religion = kusran
-}
-
-239.3.1 = {
-	religion = raipi
-}
-
-241.3.1 = {
-	religion = kusran
-}
-
-251.3.1 = {
-	religion = raipi
-}
-
-252.3.1 = {
-	religion = kusran
-}
-
-254.3.1 = {
-	religion = raipi
-}
-
-286.4.1 = {
-	culture = eluedsalh
-}
-
-485.4.1 = {
-	culture = sigivkah
-}
-
-524.4.1 = {
-	culture = eluedsalh
-}
-
-558.4.1 = {
-	culture = sigivkah
-}
-
-690.4.1 = {
-	b_ryaa = castle
-}
-
-830.4.1 = {
-	b_emaxey = temple
-}
-
-957.4.1 = {
-	b_tataila = city
-}
-
+#History

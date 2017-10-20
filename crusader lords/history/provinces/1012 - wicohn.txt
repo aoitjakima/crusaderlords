@@ -1,13 +1,15 @@
-	title = c_wicohn
-	max_settlements = 3
-	culture = syahes
-	religion = neharis
-	b_ricith = tribal
-248.4.1 = {
-	culture = liebes
-}
+# c_wicohn
 
-947.4.1 = {
-	b_ricith = castle
-}
+# County Title
+title = c_wicohn
 
+# Settlements
+max_settlements = 1
+
+b_wicohn = castle
+
+# Misc
+culture = bastia_city
+religion = terrorian
+
+#History

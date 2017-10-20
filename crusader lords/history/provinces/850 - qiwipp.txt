@@ -1,41 +1,15 @@
-	title = c_qiwipp
-	max_settlements = 2
-	culture = durga
-	religion = terenat
-	b_qohiby = tribal
-203.3.1 = {
-	religion = qiteka
-}
+# c_qiwipp
 
-204.3.1 = {
-	religion = terenat
-}
+# County Title
+title = c_qiwipp
 
-212.3.1 = {
-	religion = qiteka
-}
+# Settlements
+max_settlements = 1
 
-214.3.1 = {
-	religion = terenat
-}
+b_qiwipp = castle
 
-218.3.1 = {
-	religion = qiteka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-392.4.1 = {
-	culture = risutlu
-}
-
-505.4.1 = {
-	b_qohiby = castle
-}
-
-595.4.1 = {
-	b_tenipp = temple
-}
-
-735.4.1 = {
-	culture = saimes
-}
-
+#History

@@ -1,41 +1,15 @@
-	title = c_kohows
-	max_settlements = 4
-	culture = risutlu
-	religion = qiteka
-	b_egiley = tribal
-203.4.1 = {
-	culture = ebeina
-}
+# c_kohows
 
-257.4.1 = {
-	culture = waetutlu
-}
+# County Title
+title = c_kohows
 
-273.4.1 = {
-	culture = ebeina
-}
+# Settlements
+max_settlements = 1
 
-342.4.1 = {
-	culture = risutlu
-}
+b_kohows = castle
 
-500.4.1 = {
-	b_egiley = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-585.4.1 = {
-	b_lenodar = temple
-}
-
-823.4.1 = {
-	b_lirery = city
-}
-
-862.4.1 = {
-	culture = saimes
-}
-
-899.4.1 = {
-	b_kelihal = castle
-}
-
+#History

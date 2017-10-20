@@ -1,13 +1,17 @@
-	title = c_kedaveina
-	max_settlements = 2
-	culture = ramarilip
-	religion = qiteka
-	b_darilip = tribal
-822.4.1 = {
-	b_darilip = city
-}
+# c_kedaveina
 
-851.4.1 = {
-	b_tavldirra = temple
-}
+# County Title
+title = c_kedaveina
 
+# Settlements
+max_settlements = 3
+
+b_kedaveina = castle
+b_kedaveina_2 = city
+b_kedaveina_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

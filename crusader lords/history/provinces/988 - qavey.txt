@@ -1,41 +1,15 @@
-	title = c_qavey
-	max_settlements = 7
-	culture = waetutlu
-	religion = qiteka
-	b_nyevey = tribal
-1.1.1 = {
-	b_rilery = ct_port_1
-}
+# c_qavey
 
-319.4.1 = {
-	culture = risutlu
-}
+# County Title
+title = c_qavey
 
-510.4.1 = {
-	b_nyevey = castle
-}
+# Settlements
+max_settlements = 1
 
-630.4.1 = {
-	b_rilery = city
-}
+b_qavey = castle
 
-723.4.1 = {
-	culture = saimes
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-846.4.1 = {
-	b_ravery = temple
-}
-
-923.4.1 = {
-	b_lohodar = castle
-}
-
-985.4.1 = {
-	b_reusodar = castle
-}
-
-1048.4.1 = {
-	b_kolelder = temple
-}
-
+#History

@@ -1,29 +1,17 @@
-	title = c_retatha
-	max_settlements = 2
-	culture = radabor
-	religion = tonuyu
-	b_nuarina = tribal
-206.4.1 = {
-	culture = kadalen
-}
+# c_retatha
 
-238.4.1 = {
-	culture = radabor
-}
+# County Title
+title = c_retatha
 
-257.4.1 = {
-	culture = wenira
-}
+# Settlements
+max_settlements = 3
 
-264.4.1 = {
-	culture = radabor
-}
+b_vordingborg = castle
+b_ringsted = city
+b_lejre = temple
 
-715.4.1 = {
-	b_nuarina = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-819.4.1 = {
-	b_sonelen = temple
-}
-
+#History

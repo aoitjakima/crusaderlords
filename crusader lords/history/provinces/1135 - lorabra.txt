@@ -1,13 +1,17 @@
-	title = c_lorabra
-	max_settlements = 2
-	culture = budandev
-	religion = tonuyu
-	b_ebedatti = tribal
-740.4.1 = {
-	b_ebedatti = castle
-}
+# c_lorabra
 
-812.4.1 = {
-	b_ronatti = temple
-}
+# County Title
+title = c_lorabra
 
+# Settlements
+max_settlements = 3
+
+b_lorabra = castle
+b_lorabra_2 = city
+b_lorabra_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

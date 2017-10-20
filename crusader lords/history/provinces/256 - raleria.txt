@@ -1,17 +1,15 @@
-	title = c_raleria
-	max_settlements = 3
-	culture = waynald
-	religion = wedwig
-	b_ten = tribal
-630.4.1 = {
-	b_ten = castle
-}
+# c_raleria
 
-790.4.1 = {
-	b_ehen = city
-}
+# County Title
+title = c_raleria
 
-879.4.1 = {
-	b_karayan = temple
-}
+# Settlements
+max_settlements = 1
 
+b_raleria = castle
+
+# Misc
+culture = niefhiem_forrest
+religion = terrorian
+
+#History

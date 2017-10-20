@@ -1,37 +1,17 @@
-	title = c_reopmas
-	max_settlements = 4
-	culture = radabor
-	religion = tonuyu
-	b_dudedawabr = tribal
-206.4.1 = {
-	culture = kadalen
-}
+# c_reopmas
 
-238.4.1 = {
-	culture = radabor
-}
+# County Title
+title = c_reopmas
 
-257.4.1 = {
-	culture = wenira
-}
+# Settlements
+max_settlements = 3
 
-264.4.1 = {
-	culture = radabor
-}
+b_reopmas = castle
+b_reopmas_2 = city
+b_reopmas_3 = temple
 
-730.4.1 = {
-	b_dudedawabr = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-821.4.1 = {
-	b_ledibor = temple
-}
-
-937.4.1 = {
-	b_konelen = city
-}
-
-1015.4.1 = {
-	b_kedelen = temple
-}
-
+#History

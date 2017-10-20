@@ -1,21 +1,15 @@
-	title = c_dateka
-	max_settlements = 3
-	culture = narentiy
-	religion = neharis
-	b_ekisadir = tribal
-203.4.1 = {
-	culture = syahes
-}
+# c_dateka
 
-555.4.1 = {
-	b_ekisadir = castle
-}
+# County Title
+title = c_dateka
 
-650.4.1 = {
-	b_ranarma = city
-}
+# Settlements
+max_settlements = 1
 
-813.4.1 = {
-	b_laines = temple
-}
+b_dateka = castle
 
+# Misc
+culture = bastian_rural
+religion = terrorian
+
+#History

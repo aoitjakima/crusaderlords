@@ -1,53 +1,15 @@
-	title = c_tucutlu
-	max_settlements = 2
-	culture = runafu
-	religion = begeka
-	b_turics = tribal
-238.3.1 = {
-	religion = naneka
-}
+# c_tucutlu
 
-253.4.1 = {
-	culture = sereka
-}
+# County Title
+title = c_tucutlu
 
-302.4.1 = {
-	culture = runafu
-}
+# Settlements
+max_settlements = 1
 
-311.4.1 = {
-	culture = sereka
-}
+b_tucutlu = castle
 
-350.4.1 = {
-	culture = runafu
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-370.4.1 = {
-	culture = sereka
-}
-
-414.4.1 = {
-	culture = runafu
-}
-
-665.4.1 = {
-	culture = sereka
-}
-
-701.4.1 = {
-	culture = runafu
-}
-
-715.4.1 = {
-	b_turics = castle
-}
-
-818.4.1 = {
-	b_rerilip = temple
-}
-
-943.4.1 = {
-	culture = sereka
-}
-
+#History

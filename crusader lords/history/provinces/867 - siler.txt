@@ -1,37 +1,15 @@
-	title = c_siler
-	max_settlements = 4
-	culture = risutlu
-	religion = terenat
-	b_kiler = tribal
-203.3.1 = {
-	religion = qiteka
-}
+# c_siler
 
-270.4.1 = {
-	culture = waetutlu
-}
+# County Title
+title = c_siler
 
-274.4.1 = {
-	culture = risutlu
-}
+# Settlements
+max_settlements = 1
 
-505.4.1 = {
-	b_kiler = castle
-}
+b_siler = castle
 
-630.4.1 = {
-	b_qeusows = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-828.4.1 = {
-	culture = saimes
-}
-
-833.4.1 = {
-	b_saudid = city
-}
-
-915.4.1 = {
-	b_kerery = temple
-}
-
+#History

@@ -1,37 +1,18 @@
-	title = c_barilen
-	max_settlements = 3
-	culture = keusaam
-	religion = tonuyu
-	b_nausine = tribal
-266.4.1 = {
-	culture = nalaam
-}
+# c_barilen
 
-284.4.1 = {
-	culture = tiwics
-}
+# County Title
+title = c_barilen
 
-293.4.1 = {
-	culture = nalaam
-}
+# Settlements
+max_settlements = 4
 
-300.4.1 = {
-	culture = tiwics
-}
+b_andist = temple
+#b_minoohijan = city
+#b_tehrajarm = temple
+#b_barilen = castle
 
-391.4.1 = {
-	culture = nalaam
-}
+# Misc
+culture = kir-ko
+religion = kirian
 
-437.4.1 = {
-	culture = tiwics
-}
-
-444.4.1 = {
-	culture = nalaam
-}
-
-538.4.1 = {
-	culture = tiwics
-}
-
+#History

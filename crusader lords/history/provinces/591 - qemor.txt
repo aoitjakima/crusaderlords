@@ -1,41 +1,15 @@
-	title = c_qemor
-	max_settlements = 4
-	culture = ricqa
-	religion = kusran
-	b_wunoedl = tribal
-200.3.1 = {
-	religion = raipi
-}
+# c_qemor
 
-209.3.1 = {
-	religion = kusran
-}
+# County Title
+title = c_qemor
 
-214.3.1 = {
-	religion = raipi
-}
+# Settlements
+max_settlements = 1
 
-240.4.1 = {
-	culture = kaureid
-}
+b_melnik = castle
 
-516.4.1 = {
-	culture = kapti
-}
+# Misc
+culture = northern_avasian
+religion = terrorian
 
-655.4.1 = {
-	b_wunoedl = castle
-}
-
-801.4.1 = {
-	b_soley = temple
-}
-
-885.4.1 = {
-	b_raral = city
-}
-
-961.4.1 = {
-	b_qotius = castle
-}
-
+#History

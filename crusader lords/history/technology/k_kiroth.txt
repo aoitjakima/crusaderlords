@@ -1,0 +1,34 @@
+#KIROTH
+technology = {
+	titles = {
+		d_atilen
+		d_baruar
+		d_bijine
+		d_borira
+		d_edonmas_rudba
+		d_kaleya
+		d_nahkelia
+		d_nala
+		d_qaurebia
+		d_qoumas
+		d_repeya
+		d_roratti
+		d_sadatha
+		d_watti
+		d_wenina
+		d_keopina
+		d_keth
+		d_kirothi
+		d_kiria
+	}
+	501 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+	1426 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

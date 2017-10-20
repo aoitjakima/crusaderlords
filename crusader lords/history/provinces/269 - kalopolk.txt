@@ -1,29 +1,15 @@
-	title = c_kalopolk
-	max_settlements = 7
-	culture = nitindik
-	religion = neharis
-	b_rens = tribal
-214.4.1 = {
-	culture = syahes
-}
+# c_kalopolk
 
-422.4.1 = {
-	culture = amuhopti
-}
+# County Title
+title = c_kalopolk
 
-451.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 1
 
-520.4.1 = {
-	b_rens = castle
-}
+b_kalopolk = castle
 
-660.4.1 = {
-	b_elentiy = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-841.4.1 = {
-	b_nindik = city
-}
-
+#History

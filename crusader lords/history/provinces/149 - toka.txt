@@ -1,37 +1,15 @@
-	title = c_toka
-	max_settlements = 6
-	culture = latuma
-	religion = atheociu
-	b_tecopti = tribal
-259.4.1 = {
-	culture = sigivkah
-}
+# c_toka
 
-289.4.1 = {
-	culture = latuma
-}
+# County Title
+title = c_toka
 
-333.4.1 = {
-	culture = sigivkah
-}
+# Settlements
+max_settlements = 1
 
-347.4.1 = {
-	culture = latuma
-}
+b_toka = castle
 
-828.4.1 = {
-	b_tecopti = castle
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-861.4.1 = {
-	b_bilen = temple
-}
-
-963.4.1 = {
-	b_sarelahka = city
-}
-
-1061.4.1 = {
-	b_nuroka = castle
-}
-
+#History

@@ -1,41 +1,15 @@
-	title = c_nedodar
-	max_settlements = 3
-	culture = ebeina
-	religion = qiteka
-	b_qiwacob = tribal
-1.1.1 = {
-	b_luserd = ct_port_1
-}
+# c_nedodar
 
-210.4.1 = {
-	culture = waetutlu
-}
+# County Title
+title = c_nedodar
 
-308.4.1 = {
-	culture = risutlu
-}
+# Settlements
+max_settlements = 1
 
-510.4.1 = {
-	b_qiwacob = castle
-}
+b_wolbrom = castle
 
-640.4.1 = {
-	b_luserd = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-727.4.1 = {
-	culture = saimes
-}
-
-733.4.1 = {
-	culture = risutlu
-}
-
-836.4.1 = {
-	b_lerows = temple
-}
-
-893.4.1 = {
-	culture = saimes
-}
-
+#History

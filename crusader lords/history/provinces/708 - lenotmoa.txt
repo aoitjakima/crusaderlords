@@ -1,93 +1,15 @@
-	title = c_lenotmoa
-	max_settlements = 2
-	culture = saimes
-	religion = begeka
-	b_kance = tribal
-201.3.1 = {
-	religion = naneka
-}
+# c_lenotmoa
 
-204.3.1 = {
-	religion = qiteka
-}
+# County Title
+title = c_lenotmoa
 
-208.3.1 = {
-	religion = naneka
-}
+# Settlements
+max_settlements = 1
 
-209.3.1 = {
-	religion = qiteka
-}
+b_lenotmoa = castle
 
-211.3.1 = {
-	religion = naneka
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-217.3.1 = {
-	religion = qiteka
-}
-
-219.3.1 = {
-	religion = naneka
-}
-
-221.3.1 = {
-	religion = qiteka
-}
-
-221.3.1 = {
-	religion = naneka
-}
-
-227.3.1 = {
-	religion = qiteka
-}
-
-228.3.1 = {
-	religion = naneka
-}
-
-233.3.1 = {
-	religion = qiteka
-}
-
-233.3.1 = {
-	religion = naneka
-}
-
-265.4.1 = {
-	culture = sereka
-}
-
-297.4.1 = {
-	culture = esunadir
-}
-
-335.4.1 = {
-	culture = sereka
-}
-
-398.4.1 = {
-	culture = esunadir
-}
-
-442.4.1 = {
-	culture = sereka
-}
-
-468.4.1 = {
-	culture = esunadir
-}
-
-496.4.1 = {
-	culture = sereka
-}
-
-595.4.1 = {
-	b_kance = castle
-}
-
-740.4.1 = {
-	b_laudeina = temple
-}
-
+#History

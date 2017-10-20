@@ -1,81 +1,15 @@
-	title = c_wicen
-	max_settlements = 2
-	culture = koumas
-	religion = kusran
-	b_nenda = tribal
-200.3.1 = {
-	religion = telayira
-}
+# c_wicen
 
-203.3.1 = {
-	religion = kusran
-}
+# County Title
+title = c_wicen
 
-203.3.1 = {
-	religion = telayira
-}
+# Settlements
+max_settlements = 1
 
-210.3.1 = {
-	religion = kusran
-}
+b_wicen = castle
 
-213.3.1 = {
-	religion = telayira
-}
+# Misc
+culture = swamp_avasian
+religion = terrorian
 
-224.3.1 = {
-	religion = kusran
-}
-
-224.3.1 = {
-	religion = telayira
-}
-
-240.3.1 = {
-	religion = kusran
-}
-
-241.3.1 = {
-	religion = telayira
-}
-
-293.4.1 = {
-	culture = ritiatou
-}
-
-321.4.1 = {
-	culture = koumas
-}
-
-384.4.1 = {
-	culture = lopher
-}
-
-633.4.1 = {
-	culture = koumas
-}
-
-654.4.1 = {
-	culture = lopher
-}
-
-670.4.1 = {
-	b_nenda = castle
-}
-
-807.4.1 = {
-	b_kahayya = city
-}
-
-846.4.1 = {
-	culture = koumas
-}
-
-856.4.1 = {
-	culture = lopher
-}
-
-866.4.1 = {
-	culture = koumas
-}
-
+#History

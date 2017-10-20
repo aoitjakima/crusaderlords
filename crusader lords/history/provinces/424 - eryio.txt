@@ -1,25 +1,15 @@
-	title = c_eryio
-	max_settlements = 2
-	culture = eluedsalh
-	religion = raipi
-	b_dyio = tribal
-406.4.1 = {
-	culture = sigivkah
-}
+# c_eryio
 
-574.4.1 = {
-	culture = eluedsalh
-}
+# County Title
+title = c_eryio
 
-642.4.1 = {
-	culture = sigivkah
-}
+# Settlements
+max_settlements = 1
 
-802.4.1 = {
-	b_dyio = castle
-}
+b_eryio = castle
 
-824.4.1 = {
-	b_dosalt = city
-}
+# Misc
+culture = niefhiem_forrest
+religion = terrorian
 
+#History

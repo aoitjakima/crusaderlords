@@ -1,61 +1,15 @@
-	title = c_lopeed
-	max_settlements = 4
-	culture = qosogul
-	religion = kusran
-	b_latder = tribal
-201.3.1 = {
-	religion = raipi
-}
+# c_lopeed
 
-204.3.1 = {
-	religion = kusran
-}
+# County Title
+title = c_lopeed
 
-220.3.1 = {
-	religion = raipi
-}
+# Settlements
+max_settlements = 1
 
-229.3.1 = {
-	religion = kusran
-}
+b_lopeed = castle
 
-230.3.1 = {
-	religion = raipi
-}
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
 
-232.3.1 = {
-	religion = kusran
-}
-
-239.3.1 = {
-	religion = raipi
-}
-
-241.3.1 = {
-	religion = kusran
-}
-
-249.3.1 = {
-	religion = raipi
-}
-
-265.4.1 = {
-	culture = eluedsalh
-}
-
-336.4.1 = {
-	culture = sigivkah
-}
-
-804.4.1 = {
-	b_latder = castle
-}
-
-858.4.1 = {
-	b_rolaka = temple
-}
-
-1000.4.1 = {
-	b_apulissa = city
-}
-
+#History

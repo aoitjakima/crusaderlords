@@ -1,17 +1,15 @@
-	title = c_lirurga
-	max_settlements = 2
-	culture = saimes
-	religion = begeka
-	b_tutlu = tribal
-201.3.1 = {
-	religion = qiteka
-}
+# c_lirurga
 
-595.4.1 = {
-	b_tutlu = castle
-}
+# County Title
+title = c_lirurga
 
-730.4.1 = {
-	b_kevlakerna = temple
-}
+# Settlements
+max_settlements = 1
 
+b_lirurga = castle
+
+# Misc
+culture = bastian_noble
+religion = terrorian
+
+#History

@@ -1,57 +1,15 @@
-	title = c_erenat
-	max_settlements = 6
-	culture = banaila
-	religion = begeka
-	b_waetelin = tribal
-1.1.1 = {
-	b_sarelin = ct_port_1
-}
+# c_erenat
 
-203.3.1 = {
-	religion = qiteka
-}
+# County Title
+title = c_erenat
 
-203.3.1 = {
-	religion = terenat
-}
+# Settlements
+max_settlements = 1
 
-207.3.1 = {
-	religion = qiteka
-}
+b_erenat = castle
 
-208.3.1 = {
-	religion = terenat
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-236.3.1 = {
-	religion = begeka
-}
-
-414.4.1 = {
-	culture = kitule
-}
-
-570.4.1 = {
-	b_waetelin = castle
-}
-
-705.4.1 = {
-	b_suruel = temple
-}
-
-852.4.1 = {
-	b_sarelin = city
-}
-
-917.4.1 = {
-	b_avlilip = city
-}
-
-974.4.1 = {
-	b_sunadi = city
-}
-
-1031.4.1 = {
-	b_laetuel = city
-}
-
+#History

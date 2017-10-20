@@ -1,21 +1,17 @@
-	title = c_lilibor
-	max_settlements = 2
-	culture = radabor
-	religion = tonuyu
-	b_qiceda = tribal
-257.4.1 = {
-	culture = wenira
-}
+# c_lilibor
 
-268.4.1 = {
-	culture = radabor
-}
+# County Title
+title = c_lilibor
 
-725.4.1 = {
-	b_qiceda = castle
-}
+# Settlements
+max_settlements = 3
 
-820.4.1 = {
-	b_bicatti = temple
-}
+b_lilibor = castle
+b_lilibor_2 = city
+b_lilibor_3 = temple
 
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

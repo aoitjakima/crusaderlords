@@ -1,69 +1,17 @@
-	title = c_roratti
-	max_settlements = 2
-	culture = nalaam
-	religion = worelen
-	b_keya = tribal
-203.3.1 = {
-	religion = tonuyu
-}
+# c_roratti
 
-208.3.1 = {
-	religion = worelen
-}
+# County Title
+title = c_roratti
 
-209.3.1 = {
-	religion = tonuyu
-}
+# Settlements
+max_settlements = 3
 
-211.3.1 = {
-	religion = worelen
-}
+b_necuachitl = temple
+#b_al_qusrah = city
+#b_az_zurra = temple
 
-213.3.1 = {
-	religion = tonuyu
-}
+# Misc
+culture = kir-ko
+religion = kirian
 
-214.3.1 = {
-	religion = worelen
-}
-
-217.3.1 = {
-	religion = tonuyu
-}
-
-230.3.1 = {
-	religion = worelen
-}
-
-231.3.1 = {
-	religion = tonuyu
-}
-
-232.3.1 = {
-	religion = worelen
-}
-
-243.3.1 = {
-	religion = tonuyu
-}
-
-327.4.1 = {
-	culture = tiwics
-}
-
-400.4.1 = {
-	culture = nalaam
-}
-
-412.4.1 = {
-	culture = tiwics
-}
-
-725.4.1 = {
-	b_keya = castle
-}
-
-816.4.1 = {
-	b_everala = temple
-}
-
+#History

@@ -1,29 +1,15 @@
-	title = c_qatoris
-	max_settlements = 2
-	culture = ricqa
-	religion = kusran
-	b_batadir = tribal
-272.4.1 = {
-	culture = kapti
-}
+# c_qatoris
 
-283.3.1 = {
-	religion = raipi
-}
+# County Title
+title = c_qatoris
 
-293.4.1 = {
-	culture = taodha
-}
+# Settlements
+max_settlements = 1
 
-315.4.1 = {
-	culture = kapti
-}
+b_qatoris = castle
 
-414.4.1 = {
-	culture = sutidoka
-}
+# Misc
+culture = northern_avasian
+religion = terrorian
 
-533.4.1 = {
-	culture = kapti
-}
-
+#History

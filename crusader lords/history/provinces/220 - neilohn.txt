@@ -1,21 +1,15 @@
-	title = c_neilohn
-	max_settlements = 3
-	culture = nitindik
-	religion = neharis
-	b_dasltahl = tribal
-200.4.1 = {
-	culture = sodinia
-}
+# c_neilohn
 
-520.4.1 = {
-	b_dasltahl = castle
-}
+# County Title
+title = c_neilohn
 
-635.4.1 = {
-	b_ryaneven = city
-}
+# Settlements
+max_settlements = 1
 
-822.4.1 = {
-	b_noseven = temple
-}
+b_neilohn = castle
 
+# Misc
+culture = bastian_rural
+religion = terrorian
+
+#History

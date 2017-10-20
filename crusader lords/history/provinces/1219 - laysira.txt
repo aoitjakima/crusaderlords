@@ -1,17 +1,17 @@
-	title = c_laysira
-	max_settlements = 2
-	culture = kapala
-	religion = tonuyu
-	b_dakina = tribal
-1.1.1 = {
-	b_epetuga = ct_port_1
-}
+# c_laysira
 
-755.4.1 = {
-	b_dakina = city
-}
+# County Title
+title = c_laysira
 
-828.4.1 = {
-	b_epetuga = city
-}
+# Settlements
+max_settlements = 3
 
+b_laysira = castle
+b_laysira_2 = city
+b_laysira_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

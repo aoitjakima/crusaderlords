@@ -1,25 +1,18 @@
-	title = c_sililen
-	max_settlements = 2
-	culture = eweseedun
-	religion = tonuyu
-	b_areopili = tribal
-1.1.1 = {
-	b_qonane = ct_port_1
-}
+# c_sililen
 
-241.4.1 = {
-	culture = rubiho
-}
+# County Title
+title = c_sililen
 
-397.4.1 = {
-	culture = biho
-}
+# Settlements
+max_settlements = 4
 
-946.4.1 = {
-	b_areopili = castle
-}
+b_icnometl = temple
+#b_sililen = city
+#b_sililen_2 = temple
+#b_sililen_3 = castle
 
-995.4.1 = {
-	b_qonane = city
-}
+# Misc
+culture = druchi
+religion = kirian
 
+#History

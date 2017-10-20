@@ -1,73 +1,15 @@
-	title = c_aburohn
-	max_settlements = 4
-	culture = wates
-	religion = naneka
-	b_taceki = tribal
-224.4.1 = {
-	culture = sereka
-}
+# c_aburohn
 
-326.4.1 = {
-	culture = esunadir
-}
+# County Title
+title = c_aburohn
 
-342.4.1 = {
-	culture = sereka
-}
+# Settlements
+max_settlements = 1
 
-418.4.1 = {
-	culture = esunadir
-}
+b_aburohn = castle
 
-429.4.1 = {
-	culture = sereka
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-524.4.1 = {
-	culture = esunadir
-}
-
-625.4.1 = {
-	b_taceki = castle
-}
-
-631.4.1 = {
-	culture = sereka
-}
-
-691.4.1 = {
-	culture = esunadir
-}
-
-750.4.1 = {
-	b_qallevag = temple
-}
-
-768.4.1 = {
-	culture = sereka
-}
-
-783.4.1 = {
-	culture = esunadir
-}
-
-898.4.1 = {
-	culture = sereka
-}
-
-911.4.1 = {
-	b_duulohn = city
-}
-
-914.4.1 = {
-	culture = esunadir
-}
-
-934.4.1 = {
-	culture = sereka
-}
-
-1030.4.1 = {
-	b_enacine = castle
-}
-
+#History

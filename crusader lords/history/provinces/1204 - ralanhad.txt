@@ -1,25 +1,15 @@
-	title = c_ralanhad
-	max_settlements = 2
-	culture = kapala
-	religion = tonuyu
-	b_dudandev = tribal
-252.4.1 = {
-	culture = ahenatha
-}
+# c_ralanhad
 
-313.3.1 = {
-	religion = worelen
-}
+# County Title
+title = c_ralanhad
 
-322.4.1 = {
-	culture = nalaam
-}
+# Settlements
+max_settlements = 1
 
-348.4.1 = {
-	culture = ahenatha
-}
+b_ralanhad = castle
 
-507.4.1 = {
-	culture = nalaam
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

@@ -1,25 +1,15 @@
-	title = c_keliana
-	max_settlements = 7
-	culture = remis
-	religion = wedwig
-	b_ekegiana = tribal
-200.4.1 = {
-	culture = nuteria
-}
+# c_keliana
 
-322.4.1 = {
-	culture = waynald
-}
+# County Title
+title = c_keliana
 
-327.4.1 = {
-	culture = nuteria
-}
+# Settlements
+max_settlements = 1
 
-398.4.1 = {
-	culture = waynald
-}
+b_keliana = castle
 
-957.4.1 = {
-	b_ekegiana = castle
-}
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
 
+#History

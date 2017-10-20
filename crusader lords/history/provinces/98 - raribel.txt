@@ -1,9 +1,15 @@
-	title = c_raribel
-	max_settlements = 3
-	culture = daimeig
-	religion = wedwig
-	b_amuhella = tribal
-207.4.1 = {
-	culture = waynald
-}
+# c_raribel
 
+# County Title
+title = c_raribel
+
+# Settlements
+max_settlements = 1
+
+b_raribel = castle
+
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
+
+#History

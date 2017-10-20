@@ -1,45 +1,17 @@
-	title = c_bapala
-	max_settlements = 2
-	culture = reasep
-	religion = worelen
-	b_teusabra = tribal
-203.3.1 = {
-	religion = tonuyu
-}
+# c_bapala
 
-205.3.1 = {
-	religion = worelen
-}
+# County Title
+title = c_bapala
 
-209.3.1 = {
-	religion = tonuyu
-}
+# Settlements
+max_settlements = 3
 
-219.3.1 = {
-	religion = worelen
-}
+b_nahanjan = temple
+#b_gonanshah = city
+#b_zabobad = temple
 
-221.3.1 = {
-	religion = tonuyu
-}
+# Misc
+culture = kiroth
+religion = kirothian
 
-225.4.1 = {
-	culture = tiwics
-}
-
-444.4.1 = {
-	culture = nalaam
-}
-
-447.4.1 = {
-	culture = tiwics
-}
-
-720.4.1 = {
-	b_teusabra = castle
-}
-
-818.4.1 = {
-	b_qepeya = city
-}
-
+#History

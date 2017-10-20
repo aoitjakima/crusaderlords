@@ -1,65 +1,15 @@
-	title = c_resamur
-	max_settlements = 2
-	culture = retose
-	religion = qiteka
-	b_raudenda = tribal
-205.3.1 = {
-	religion = begeka
-}
+# c_resamur
 
-207.3.1 = {
-	religion = qiteka
-}
+# County Title
+title = c_resamur
 
-211.3.1 = {
-	religion = begeka
-}
+# Settlements
+max_settlements = 1
 
-212.3.1 = {
-	religion = qiteka
-}
+b_resamur = castle
 
-218.4.1 = {
-	culture = saimes
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-220.3.1 = {
-	religion = begeka
-}
-
-220.3.1 = {
-	religion = qiteka
-}
-
-223.3.1 = {
-	religion = begeka
-}
-
-227.3.1 = {
-	religion = qiteka
-}
-
-232.3.1 = {
-	religion = begeka
-}
-
-232.3.1 = {
-	religion = qiteka
-}
-
-235.3.1 = {
-	religion = begeka
-}
-
-238.3.1 = {
-	religion = qiteka
-}
-
-705.4.1 = {
-	b_raudenda = castle
-}
-
-808.4.1 = {
-	b_desuel = city
-}
-
+#History

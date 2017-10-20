@@ -1,41 +1,15 @@
-	title = c_revenovat
-	max_settlements = 6
-	culture = retose
-	religion = naneka
-	b_banahtag = tribal
-1.1.1 = {
-	b_rukeki = ct_port_1
-}
+# c_revenovat
 
-201.3.1 = {
-	religion = qiteka
-}
+# County Title
+title = c_revenovat
 
-203.4.1 = {
-	culture = banaila
-}
+# Settlements
+max_settlements = 1
 
-575.4.1 = {
-	b_banahtag = castle
-}
+b_revenovat = castle
 
-730.4.1 = {
-	b_rukeki = city
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-863.4.1 = {
-	b_tesepevag = temple
-}
-
-933.4.1 = {
-	b_reovag = temple
-}
-
-1000.4.1 = {
-	b_darovat = temple
-}
-
-1045.4.1 = {
-	b_rallong = castle
-}
-
+#History

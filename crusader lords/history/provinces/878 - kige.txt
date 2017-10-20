@@ -1,125 +1,15 @@
-	title = c_kige
-	max_settlements = 3
-	culture = disinos
-	religion = kusran
-	b_doumas = tribal
-1.1.1 = {
-	b_taladi = ct_port_1
-}
+# c_kige
 
-200.3.1 = {
-	religion = telayira
-}
+# County Title
+title = c_kige
 
-205.3.1 = {
-	religion = kusran
-}
+# Settlements
+max_settlements = 1
 
-209.3.1 = {
-	religion = telayira
-}
+b_kige = castle
 
-214.3.1 = {
-	religion = kusran
-}
+# Misc
+culture = swamp_avasian
+religion = terrorian
 
-217.4.1 = {
-	culture = lopher
-}
-
-217.3.1 = {
-	religion = telayira
-}
-
-223.3.1 = {
-	religion = kusran
-}
-
-224.3.1 = {
-	religion = telayira
-}
-
-228.4.1 = {
-	culture = disinos
-}
-
-242.3.1 = {
-	religion = kusran
-}
-
-245.3.1 = {
-	religion = telayira
-}
-
-246.4.1 = {
-	culture = lopher
-}
-
-253.3.1 = {
-	religion = kusran
-}
-
-254.3.1 = {
-	religion = telayira
-}
-
-256.3.1 = {
-	religion = kusran
-}
-
-257.3.1 = {
-	religion = telayira
-}
-
-265.3.1 = {
-	religion = kusran
-}
-
-265.3.1 = {
-	religion = telayira
-}
-
-266.3.1 = {
-	religion = kusran
-}
-
-275.3.1 = {
-	religion = telayira
-}
-
-282.3.1 = {
-	religion = kusran
-}
-
-284.3.1 = {
-	religion = telayira
-}
-
-285.3.1 = {
-	religion = kusran
-}
-
-292.3.1 = {
-	religion = telayira
-}
-
-590.4.1 = {
-	b_doumas = castle
-}
-
-635.4.1 = {
-	culture = koumas
-}
-
-740.4.1 = {
-	b_qisania = temple
-}
-
-871.4.1 = {
-	b_taladi = city
-}
-
-993.4.1 = {
-	culture = lopher
-}
-
+#History

@@ -1,29 +1,15 @@
-	title = c_qidia
-	max_settlements = 3
-	culture = digaka
-	religion = raipi
-	b_bucalt = tribal
-269.4.1 = {
-	culture = sigivkah
-}
+# c_qidia
 
-303.4.1 = {
-	culture = digaka
-}
+# County Title
+title = c_qidia
 
-304.4.1 = {
-	culture = sigivkah
-}
+# Settlements
+max_settlements = 1
 
-790.4.1 = {
-	b_bucalt = castle
-}
+b_qidia = castle
 
-835.4.1 = {
-	b_ruzoros = city
-}
+# Misc
+culture = niefhiem_forrest
+religion = terrorian
 
-941.4.1 = {
-	b_bosyhon = temple
-}
-
+#History

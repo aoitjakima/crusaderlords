@@ -1,37 +1,17 @@
-	title = c_dudony
-	max_settlements = 5
-	culture = radabor
-	religion = tonuyu
-	b_tedatti = tribal
-1.1.1 = {
-	b_kuarmas = ct_port_1
-}
+# c_dudony
 
-204.4.1 = {
-	culture = budandev
-}
+# County Title
+title = c_dudony
 
-253.4.1 = {
-	culture = wenira
-}
+# Settlements
+max_settlements = 3
 
-282.4.1 = {
-	culture = radabor
-}
+b_dudony = castle
+b_dudony_2 = city
+b_dudony_3 = temple
 
-715.4.1 = {
-	b_tedatti = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-818.4.1 = {
-	b_kuarmas = city
-}
-
-914.4.1 = {
-	b_wenira = temple
-}
-
-999.4.1 = {
-	b_naleslav = city
-}
-
+#History

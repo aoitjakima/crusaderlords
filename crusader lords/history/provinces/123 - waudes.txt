@@ -1,49 +1,15 @@
-	title = c_waudes
-	max_settlements = 6
-	culture = daimeig
-	religion = wedwig
-	b_kunoto = tribal
-203.3.1 = {
-	religion = neharis
-}
+# c_waudes
 
-214.3.1 = {
-	religion = wedwig
-}
+# County Title
+title = c_waudes
 
-215.3.1 = {
-	religion = neharis
-}
+# Settlements
+max_settlements = 1
 
-239.4.1 = {
-	culture = qindik
-}
+b_waudes = castle
 
-258.4.1 = {
-	culture = daimeig
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-266.4.1 = {
-	culture = syahes
-}
-
-371.4.1 = {
-	culture = amuhopti
-}
-
-419.4.1 = {
-	culture = syahes
-}
-
-555.4.1 = {
-	b_kunoto = castle
-}
-
-710.4.1 = {
-	b_ritily = temple
-}
-
-883.4.1 = {
-	b_daudando = city
-}
-
+#History

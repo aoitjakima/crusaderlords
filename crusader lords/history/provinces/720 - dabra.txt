@@ -1,21 +1,15 @@
-	title = c_dabra
-	max_settlements = 3
-	culture = saimes
-	religion = begeka
-	b_davenat = tribal
-207.3.1 = {
-	religion = qiteka
-}
+# c_dabra
 
-595.4.1 = {
-	b_davenat = castle
-}
+# County Title
+title = c_dabra
 
-760.4.1 = {
-	b_rurabra = city
-}
+# Settlements
+max_settlements = 1
 
-870.4.1 = {
-	b_rucurga = temple
-}
+b_dabra = castle
 
+# Misc
+culture = bastian_noble
+religion = terrorian
+
+#History

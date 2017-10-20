@@ -1,41 +1,15 @@
-	title = c_nopeina
-	max_settlements = 2
-	culture = esunadir
-	religion = qiteka
-	b_siemborm = tribal
-201.3.1 = {
-	religion = naneka
-}
+# c_nopeina
 
-217.4.1 = {
-	culture = retose
-}
+# County Title
+title = c_nopeina
 
-257.4.1 = {
-	culture = sereka
-}
+# Settlements
+max_settlements = 1
 
-308.4.1 = {
-	culture = esunadir
-}
+b_saronno = castle
 
-610.4.1 = {
-	culture = sereka
-}
+# Misc
+culture = bastia_city
+religion = terrorian
 
-720.4.1 = {
-	culture = esunadir
-}
-
-750.4.1 = {
-	b_siemborm = castle
-}
-
-784.4.1 = {
-	culture = sereka
-}
-
-822.4.1 = {
-	b_botenda = temple
-}
-
+#History

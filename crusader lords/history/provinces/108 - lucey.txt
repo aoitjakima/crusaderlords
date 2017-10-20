@@ -1,57 +1,15 @@
-	title = c_lucey
-	max_settlements = 7
-	culture = digaka
-	religion = raipi
-	b_syee = tribal
-205.3.1 = {
-	religion = wedwig
-}
+# c_lucey
 
-206.3.1 = {
-	religion = raipi
-}
+# County Title
+title = c_lucey
 
-208.3.1 = {
-	religion = wedwig
-}
+# Settlements
+max_settlements = 1
 
-213.3.1 = {
-	religion = raipi
-}
+b_lucey = castle
 
-214.3.1 = {
-	religion = wedwig
-}
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
 
-215.3.1 = {
-	religion = raipi
-}
-
-670.4.1 = {
-	b_syee = castle
-}
-
-765.4.1 = {
-	b_bolaila = city
-}
-
-850.4.1 = {
-	b_kiyande = temple
-}
-
-905.4.1 = {
-	b_kalt = city
-}
-
-959.4.1 = {
-	b_bosotos = city
-}
-
-1002.4.1 = {
-	b_kurenes = castle
-}
-
-1043.4.1 = {
-	b_wiyaby = temple
-}
-
+#History

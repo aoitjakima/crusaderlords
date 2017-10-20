@@ -1,29 +1,17 @@
-	title = c_elanhad
-	max_settlements = 2
-	culture = kadalen
-	religion = tonuyu
-	b_rudibor = tribal
-1.1.1 = {
-	b_rudira = ct_port_1
-}
+# c_elanhad
 
-213.4.1 = {
-	culture = radabor
-}
+# County Title
+title = c_elanhad
 
-257.4.1 = {
-	culture = wenira
-}
+# Settlements
+max_settlements = 3
 
-260.4.1 = {
-	culture = radabor
-}
+b_elanhad = castle
+b_elanhad_2 = city
+b_elanhad_3 = temple
 
-735.4.1 = {
-	b_rudibor = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-825.4.1 = {
-	b_rudira = city
-}
-
+#History

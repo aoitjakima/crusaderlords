@@ -1,57 +1,18 @@
-	title = c_kepetam
-	max_settlements = 7
-	culture = lodeid
-	religion = kodine
-	b_qinilk = tribal
-201.3.1 = {
-	religion = tonuyu
-}
+# c_kepetam
 
-212.4.1 = {
-	culture = eweseedun
-}
+# County Title
+title = c_kepetam
 
-263.4.1 = {
-	culture = lodeid
-}
+# Settlements
+max_settlements = 4
 
-264.3.1 = {
-	religion = kodine
-}
+b_miahuaxiuitl = temple
+#b_kepetam = city
+#b_kepetam_2 = temple
+#b_kepetam_3 = castle
 
-264.3.1 = {
-	religion = tonuyu
-}
+# Misc
+culture = druchi
+religion = kirothian
 
-266.3.1 = {
-	religion = kodine
-}
-
-271.3.1 = {
-	religion = tonuyu
-}
-
-274.3.1 = {
-	religion = kodine
-}
-
-281.3.1 = {
-	religion = tonuyu
-}
-
-423.4.1 = {
-	culture = biho
-}
-
-839.4.1 = {
-	b_qinilk = castle
-}
-
-875.4.1 = {
-	b_rimkil = city
-}
-
-976.4.1 = {
-	b_wyugeta = temple
-}
-
+#History

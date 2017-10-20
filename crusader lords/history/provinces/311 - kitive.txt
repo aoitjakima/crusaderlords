@@ -1,21 +1,15 @@
-	title = c_kitive
-	max_settlements = 3
-	culture = qindik
-	religion = neharis
-	b_benes = tribal
-211.4.1 = {
-	culture = syahes
-}
+# c_kitive
 
-575.4.1 = {
-	b_benes = castle
-}
+# County Title
+title = c_kitive
 
-710.4.1 = {
-	b_risule = city
-}
+# Settlements
+max_settlements = 1
 
-855.4.1 = {
-	b_tadir = temple
-}
+b_kitive = castle
 
+# Misc
+culture = niefhiem_forrest
+religion = terrorian
+
+#History

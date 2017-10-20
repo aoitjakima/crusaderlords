@@ -1,33 +1,15 @@
-	title = c_riwina
-	max_settlements = 3
-	culture = digaka
-	religion = raipi
-	b_esiyaed = tribal
-261.4.1 = {
-	culture = sigivkah
-}
+# c_riwina
 
-271.4.1 = {
-	culture = digaka
-}
+# County Title
+title = c_riwina
 
-293.4.1 = {
-	culture = eluedsalh
-}
+# Settlements
+max_settlements = 1
 
-474.4.1 = {
-	culture = sigivkah
-}
+b_riwina = castle
 
-665.4.1 = {
-	b_esiyaed = castle
-}
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
 
-803.4.1 = {
-	b_ratada = temple
-}
-
-885.4.1 = {
-	b_tosephen = city
-}
-
+#History

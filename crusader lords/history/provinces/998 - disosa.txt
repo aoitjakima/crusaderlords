@@ -1,29 +1,15 @@
-	title = c_disosa
-	max_settlements = 3
-	culture = waetutlu
-	religion = qiteka
-	b_rucutlu = tribal
-1.1.1 = {
-	b_tirkatucl = ct_port_1
-}
+# c_disosa
 
-319.4.1 = {
-	culture = risutlu
-}
+# County Title
+title = c_disosa
 
-560.4.1 = {
-	b_rucutlu = castle
-}
+# Settlements
+max_settlements = 1
 
-685.4.1 = {
-	b_tirkatucl = city
-}
+b_disosa = castle
 
-723.4.1 = {
-	culture = saimes
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-833.4.1 = {
-	b_qaetabra = temple
-}
-
+#History

@@ -1,21 +1,21 @@
-	title = c_wariraz
-	max_settlements = 2
-	culture = laris
-	religion = aratihr
-	b_ratako = tribal
-231.4.1 = {
-	culture = wubihr
-}
+# c_wariraz
 
-243.4.1 = {
-	culture = selalya
-}
+# County Title
+title = c_wariraz
 
-685.4.1 = {
-	b_ratako = castle
-}
+# Settlements
+max_settlements = 7
 
-750.4.1 = {
-	b_sagako = temple
-}
+b_moda = city
+b_matestoia = city
+b_burrara = temple
+#b_wariraz = castle
+#b_wariraz_2 = city
+#b_wariraz_3 = temple
+#b_wariraz_4 = castle
 
+# Misc
+culture = estazi_culture4
+religion = estazi_faith
+
+#History

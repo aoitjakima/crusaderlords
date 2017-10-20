@@ -1,25 +1,19 @@
-	title = c_sonelen
-	max_settlements = 2
-	culture = ahenatha
-	religion = tonuyu
-	b_keopony = tribal
-313.3.1 = {
-	religion = worelen
-}
+# c_sonelen
 
-322.4.1 = {
-	culture = nalaam
-}
+# County Title
+title = c_sonelen
 
-348.4.1 = {
-	culture = ahenatha
-}
+# Settlements
+max_settlements = 5
 
-507.4.1 = {
-	culture = nalaam
-}
+b_woemoor = castle
+b_boonford = city
+b_bittermire = temple
+#b_shelgate = castle
+#b_browmere = city
 
-977.4.1 = {
-	b_keopony = castle
-}
+# Misc
+culture = kir-ko
+religion = kirian
 
+#History

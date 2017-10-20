@@ -1,81 +1,15 @@
-	title = c_waetutlu
-	max_settlements = 3
-	culture = banaila
-	religion = begeka
-	b_sarics = tribal
-203.3.1 = {
-	religion = terenat
-}
+# c_waetutlu
 
-204.3.1 = {
-	religion = begeka
-}
+# County Title
+title = c_waetutlu
 
-208.3.1 = {
-	religion = terenat
-}
+# Settlements
+max_settlements = 1
 
-210.3.1 = {
-	religion = begeka
-}
+b_waetutlu = castle
 
-211.3.1 = {
-	religion = terenat
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-217.3.1 = {
-	religion = begeka
-}
-
-222.3.1 = {
-	religion = terenat
-}
-
-231.3.1 = {
-	religion = begeka
-}
-
-249.4.1 = {
-	culture = runafu
-}
-
-262.4.1 = {
-	culture = kitule
-}
-
-287.4.1 = {
-	culture = runafu
-}
-
-308.4.1 = {
-	culture = kitule
-}
-
-358.4.1 = {
-	culture = banaila
-}
-
-364.4.1 = {
-	culture = kitule
-}
-
-419.4.1 = {
-	culture = banaila
-}
-
-527.4.1 = {
-	culture = kitule
-}
-
-590.4.1 = {
-	b_sarics = castle
-}
-
-800.4.1 = {
-	b_derelin = temple
-}
-
-915.4.1 = {
-	b_kunolas = city
-}
-
+#History

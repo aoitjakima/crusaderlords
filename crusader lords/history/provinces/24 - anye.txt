@@ -1,57 +1,21 @@
-	title = c_anye
-	max_settlements = 3
-	culture = laris
-	religion = aratihr
-	b_lunuyat = tribal
-1.1.1 = {
-	b_tanye = ct_port_1
-}
+# c_anye
 
-312.4.1 = {
-	culture = selalya
-}
+# County Title
+title = c_anye
 
-382.4.1 = {
-	culture = wubihr
-}
+# Settlements
+max_settlements = 7
 
-441.4.1 = {
-	culture = selalya
-}
+b_matocedo = city
+b_ermengo = city
+b_fiseu = temple
+#b_anye = castle
+#b_anye_2 = city
+#b_anye_3 = temple
+#b_anye_4 = castle
 
-457.4.1 = {
-	culture = wubihr
-}
+# Misc
+culture = estazi_culture4
+religion = estazi_faith
 
-515.4.1 = {
-	culture = selalya
-}
-
-517.4.1 = {
-	culture = wubihr
-}
-
-537.4.1 = {
-	culture = selalya
-}
-
-541.4.1 = {
-	culture = wubihr
-}
-
-570.4.1 = {
-	culture = selalya
-}
-
-685.4.1 = {
-	b_lunuyat = castle
-}
-
-805.4.1 = {
-	b_tanye = city
-}
-
-873.4.1 = {
-	b_rolanni = temple
-}
-
+#History

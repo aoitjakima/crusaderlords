@@ -1,57 +1,15 @@
-	title = c_data
-	max_settlements = 2
-	culture = koumas
-	religion = kusran
-	b_batabuya = tribal
-1.1.1 = {
-	b_elitaenez = ct_port_1
-}
+# c_data
 
-200.3.1 = {
-	religion = telayira
-}
+# County Title
+title = c_data
 
-206.3.1 = {
-	religion = kusran
-}
+# Settlements
+max_settlements = 1
 
-209.3.1 = {
-	religion = telayira
-}
+b_data = castle
 
-210.3.1 = {
-	religion = kusran
-}
+# Misc
+culture = swamp_avasian
+religion = terrorian
 
-213.3.1 = {
-	religion = telayira
-}
-
-466.4.1 = {
-	culture = lopher
-}
-
-600.4.1 = {
-	b_batabuya = castle
-}
-
-618.4.1 = {
-	culture = koumas
-}
-
-680.4.1 = {
-	b_elitaenez = city
-}
-
-772.4.1 = {
-	culture = lopher
-}
-
-845.4.1 = {
-	culture = koumas
-}
-
-946.4.1 = {
-	culture = lopher
-}
-
+#History

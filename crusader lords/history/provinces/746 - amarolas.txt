@@ -1,57 +1,15 @@
-	title = c_amarolas
-	max_settlements = 2
-	culture = saimes
-	religion = begeka
-	b_qerethee = tribal
-207.3.1 = {
-	religion = qiteka
-}
+# c_amarolas
 
-211.3.1 = {
-	religion = begeka
-}
+# County Title
+title = c_amarolas
 
-212.3.1 = {
-	religion = qiteka
-}
+# Settlements
+max_settlements = 1
 
-220.3.1 = {
-	religion = begeka
-}
+b_amarolas = castle
 
-220.3.1 = {
-	religion = qiteka
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-223.3.1 = {
-	religion = begeka
-}
-
-227.3.1 = {
-	religion = qiteka
-}
-
-232.3.1 = {
-	religion = begeka
-}
-
-232.3.1 = {
-	religion = qiteka
-}
-
-235.3.1 = {
-	religion = begeka
-}
-
-238.3.1 = {
-	religion = qiteka
-}
-
-705.4.1 = {
-	b_qerethee = castle
-}
-
-816.4.1 = {
-	b_kisosa = city
-}
-
+#History

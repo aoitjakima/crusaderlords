@@ -1,0 +1,357 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+b_abahnuj;Abahnuj;Abahnuj;Abahnuj;;Abahnuj;;;;;;;;;x
+b_abahnuj_adj;Abahnujian;;abahnujer;;;;;;;;;;;x
+b_abdindost;Abdindost;Abdindost;Abdindost;;Abdindost;;;;;;;;;x
+b_abdindost_adj;Abdindostian;;abdindoster;;;;;;;;;;;x
+b_abqacca;Abqacca;Abqacca;Abqacca;;Abqacca;;;;;;;;;x
+b_abqacca_adj;Abqaccan;;abqaccer;;;;;;;;;;;x
+b_afamadi;Afamadi;Afamadi;Afamadi;;Afamadi;;;;;;;;;x
+b_afamadi_adj;Afamadian;;afamader;;;;;;;;;;;x
+b_agahalla;Agahalla;Agahalla;Agahalla;;Agahalla;;;;;;;;;x
+b_agahalla_adj;Agahallan;;agahaller;;;;;;;;;;;x
+b_agatikh;Agatikh;Agatikh;Agatikh;;Agatikh;;;;;;;;;x
+b_agatikh_adj;Agatikhian;;agatikher;;;;;;;;;;;x
+b_agilpasa;Agilpasa;Agilpasa;Agilpasa;;Agilpasa;;;;;;;;;x
+b_agilpasa_adj;Agilpasan;;agilpaser;;;;;;;;;;;x
+b_agisova;Agisova;Agisova;Agisova;;Agisova;;;;;;;;;x
+b_agisova_adj;Agisovan;;agisover;;;;;;;;;;;x
+b_aglankum;Aglankum;Aglankum;Aglankum;;Aglankum;;;;;;;;;x
+b_aglankum_adj;Aglankumian;;aglankumer;;;;;;;;;;;x
+b_akosan;Akosan;Akosan;Akosan;;Akosan;;;;;;;;;x
+b_akosan_adj;Akosanian;;akosaner;;;;;;;;;;;x
+b_al_annardah;Al Annardah;Al Annardah;Al Annardah;;Al Annardah;;;;;;;;;x
+b_al_annardah_adj;Al Annardahian;;Al Annardaher;;;;;;;;;;;x
+b_al_artariyah;Al Artariyah;Al Artariyah;Al Artariyah;;Al Artariyah;;;;;;;;;x
+b_al_artariyah_adj;Al Artariyahian;;Al Artariyaher;;;;;;;;;;;x
+b_al_artarout;Al Artarout;Al Artarout;Al Artarout;;Al Artarout;;;;;;;;;x
+b_al_artarout_adj;Al Artaroutian;;Al Artarouter;;;;;;;;;;;x
+b_al_bahludiyah;Al Bahludiyah;Al Bahludiyah;Al Bahludiyah;;Al Bahludiyah;;;;;;;;;x
+b_al_bahludiyah_adj;Al Bahludiyahian;;Al Bahludiyaher;;;;;;;;;;;x
+b_al_banomah;Al Banomah;Al Banomah;Al Banomah;;Al Banomah;;;;;;;;;x
+b_al_banomah_adj;Al Banomahian;;Al Banomaher;;;;;;;;;;;x
+b_al_diwatbah;Al Diwatbah;Al Diwatbah;Al Diwatbah;;Al Diwatbah;;;;;;;;;x
+b_al_diwatbah_adj;Al Diwatbahian;;Al Diwatbaher;;;;;;;;;;;x
+b_al_fallufar;Al Fallufar;Al Fallufar;Al Fallufar;;Al Fallufar;;;;;;;;;x
+b_al_fallufar_adj;Al Fallufarian;;Al Fallufarer;;;;;;;;;;;x
+b_al_faydah;Al-Faydah;Al-Faydah;Al-Faydah;;Al-Faydah;;;;;;;;;x
+b_al_faydah_adj;Al-Faydahian;;al-faydaher;;;;;;;;;;;x
+b_al_fazeh;Al Fazeh;Al Fazeh;Al Fazeh;;Al Fazeh;;;;;;;;;x
+b_al_fazeh_adj;Al Fazehian;;Al Fazeher;;;;;;;;;;;x
+b_al_hubid;Al-Hubid;Al-Hubid;Al-Hubid;;Al-Hubid;;;;;;;;;x
+b_al_hubid_adj;Al-Hubidian;;al-hubider;;;;;;;;;;;x
+b_al_jafehyan;Al Jafehyan;Al Jafehyan;Al Jafehyan;;Al Jafehyan;;;;;;;;;x
+b_al_jafehyan_adj;Al Jafehyanian;;Al Jafehyaner;;;;;;;;;;;x
+b_al_jarracha;Al-Jarracha;Al-Jarracha;Al-Jarracha;;Al-Jarracha;;;;;;;;;x
+b_al_jarracha_adj;Al-Jarrachan;;al-jarracher;;;;;;;;;;;x
+b_al_jarratra;Al-Jarratra;Al-Jarratra;Al-Jarratra;;Al-Jarratra;;;;;;;;;x
+b_al_jarratra_adj;Al-Jarratran;;al-jarratrer;;;;;;;;;;;x
+b_al_kanaghada;Al-Kanaghada;Al-Kanaghada;Al-Kanaghada;;Al-Kanaghada;;;;;;;;;x
+b_al_kanaghada_adj;Al-Kanaghadan;;al-kanaghader;;;;;;;;;;;x
+b_al_khurma;Al Khurma;Al Khurma;Al Khurma;;Al Khurma;;;;;;;;;x
+b_al_khurma_adj;Al Khurman;;Al Khurmer;;;;;;;;;;;x
+b_al_maralayn;Al-Maralayn;Al-Maralayn;Al-Maralayn;;Al-Maralayn;;;;;;;;;x
+b_al_maralayn_adj;Al-Maralaynian;;al-maralayner;;;;;;;;;;;x
+b_al_miqdalujah;Al Miqdalujah;Al Miqdalujah;Al Miqdalujah;;Al Miqdalujah;;;;;;;;;x
+b_al_miqdalujah_adj;Al Miqdalujahian;;Al Miqdalujaher;;;;;;;;;;;x
+b_al_nadr;Al Nadr;Al Nadr;Al Nadr;;Al Nadr;;;;;;;;;x
+b_al_nadr_adj;Al Nadrian;;Al Nadrer;;;;;;;;;;;x
+b_al_olarma;Al Olarma;Al Olarma;Al Olarma;;Al Olarma;;;;;;;;;x
+b_al_olarma_adj;Al Olarman;;Al Olarmer;;;;;;;;;;;x
+b_al_qaidhimiya;Al-Qa'idhimiya;Al-Qa'idhimiya;Al-Qa'idhimiya;;Al-Qa'idhimiya;;;;;;;;;x
+b_al_qaidhimiya_adj;Al-Qa'idhimiyan;;al-qa'idhimer;;;;;;;;;;;x
+b_aliraz;Aliraz;Aliraz;Aliraz;;Aliraz;;;;;;;;;x
+b_aliraz_adj;Alirazian;;alirazer;;;;;;;;;;;x
+b_amamarit;Amamarit;Amamarit;Amamarit;;Amamarit;;;;;;;;;x
+b_amamarit_adj;Amamaritian;;amamariter;;;;;;;;;;;x
+b_andist;Andist;Andist;Andist;;Andist;;;;;;;;;x
+b_andist_adj;Andistian;;andister;;;;;;;;;;;x
+b_aniceda;Aniceda;Aniceda;Aniceda;;Aniceda;;;;;;;;;x
+b_aniceda_adj;Anicedan;;aniceder;;;;;;;;;;;x
+b_ar_rarhinah;Ar-Rarhinah;Ar-Rarhinah;Ar-Rarhinah;;Ar-Rarhinah;;;;;;;;;x
+b_ar_rarhinah_adj;Ar-Rarhinahian;;ar-rarhinaher;;;;;;;;;;;x
+b_arinha;Arinha;Arinha;Arinha;;Arinha;;;;;;;;;x
+b_arinha_adj;Arinhan;;arinher;;;;;;;;;;;x
+b_arirdah;Arirdah;Arirdah;Arirdah;;Arirdah;;;;;;;;;x
+b_arirdah_adj;Arirdahian;;arirdaher;;;;;;;;;;;x
+b_arrajar;Arrajar;Arrajar;Arrajar;;Arrajar;;;;;;;;;x
+b_arrajar_adj;Arrajarian;;arrajarer;;;;;;;;;;;x
+b_as_suth;As Suth;As Suth;As Suth;;As Suth;;;;;;;;;x
+b_as_suth_adj;As Suthian;;As Suther;;;;;;;;;;;x
+b_asaker;Asaker;Asaker;Asaker;;Asaker;;;;;;;;;x
+b_asaker_adj;Asakerian;;asakerer;;;;;;;;;;;x
+b_asas;Asas;Asas;Asas;;Asas;;;;;;;;;x
+b_asas_adj;Asasian;;asaser;;;;;;;;;;;x
+b_at_tadin;At Tadin;At Tadin;At Tadin;;At Tadin;;;;;;;;;x
+b_at_tadin_adj;At Tadinian;;At Tadiner;;;;;;;;;;;x
+b_avallar;Avallar;Avallar;Avallar;;Avallar;;;;;;;;;x
+b_avallar_adj;Avallarian;;avallarer;;;;;;;;;;;x
+b_awlanater;Awlanater;Awlanater;Awlanater;;Awlanater;;;;;;;;;x
+b_awlanater_adj;Awlanaterian;;awlanaterer;;;;;;;;;;;x
+b_az_zayditra;Az-Zayditra;Az-Zayditra;Az-Zayditra;;Az-Zayditra;;;;;;;;;x
+b_az_zayditra_adj;Az-Zayditran;;az-zayditrer;;;;;;;;;;;x
+b_az_zusiyyah;Az Zusiyyah;Az Zusiyyah;Az Zusiyyah;;Az Zusiyyah;;;;;;;;;x
+b_az_zusiyyah_adj;Az Zusiyyahian;;Az Zusiyyaher;;;;;;;;;;;x
+b_bagarhisar;Bagarhisar;Bagarhisar;Bagarhisar;;Bagarhisar;;;;;;;;;x
+b_bagarhisar_adj;Bagarhisarian;;bagarhisarer;;;;;;;;;;;x
+b_baibish;Baibish;Baibish;Baibish;;Baibish;;;;;;;;;x
+b_baibish_adj;Baibishian;;baibisher;;;;;;;;;;;x
+b_baisrah;Baisrah;Baisrah;Baisrah;;Baisrah;;;;;;;;;x
+b_baisrah_adj;Baisrahian;;baisraher;;;;;;;;;;;x
+b_bala;Bala;Bala;Bala;;Bala;;;;;;;;;x
+b_bala_adj;Balan;;baler;;;;;;;;;;;x
+b_baqumadi;Baqumadi;Baqumadi;Baqumadi;;Baqumadi;;;;;;;;;x
+b_baqumadi_adj;Baqumadian;;baqumader;;;;;;;;;;;x
+b_barilen;Barilen;Barilen;Barilen;;Barilen;;;;;;;;;x
+b_barilen_adj;Barilenian;;barilener;;;;;;;;;;;x
+b_behbazd;Behbazd;Behbazd;Behbazd;;Behbazd;;;;;;;;;x
+b_behbazd_adj;Behbazdian;;behbazder;;;;;;;;;;;x
+b_bijagheh;Bijagheh;Bijagheh;Bijagheh;;Bijagheh;;;;;;;;;x
+b_bijagheh_adj;Bijaghehian;;bijagheher;;;;;;;;;;;x
+b_bucadi;Bucadi;Bucadi;Bucadi;;Bucadi;;;;;;;;;x
+b_bucadi_adj;Bucadian;;bucader;;;;;;;;;;;x
+b_bustarran;Bustarran;Bustarran;Bustarran;;Bustarran;;;;;;;;;x
+b_bustarran_adj;Bustarranian;;bustarraner;;;;;;;;;;;x
+b_cakizkale;Çakizkale;Çakizkale;Çakizkale;;Çakizkale;;;;;;;;;x
+b_cakizkale_adj;Çakizkalean;;çakizkaler;;;;;;;;;;;x
+b_chariyah;Chariyah;Chariyah;Chariyah;;Chariyah;;;;;;;;;x
+b_chariyah_adj;Chariyahian;;chariyaher;;;;;;;;;;;x
+b_daurebia;Daurebia;Daurebia;Daurebia;;Daurebia;;;;;;;;;x
+b_daurebia_adj;Daurebian;;daureber;;;;;;;;;;;x
+b_dedendost;Dedendost;Dedendost;Dedendost;;Dedendost;;;;;;;;;x
+b_dedendost_adj;Dedendostian;;dedendoster;;;;;;;;;;;x
+b_deinayem;Deinayem;Deinayem;Deinayem;;Deinayem;;;;;;;;;x
+b_deinayem_adj;Deinayemian;;deinayemer;;;;;;;;;;;x
+b_dhifar;Dhifar;Dhifar;Dhifar;;Dhifar;;;;;;;;;x
+b_dhifar_adj;Dhifarian;;dhifarer;;;;;;;;;;;x
+b_dhusha;Dhusha;Dhusha;Dhusha;;Dhusha;;;;;;;;;x
+b_dhusha_adj;Dhushan;;dhusher;;;;;;;;;;;x
+b_dihojaf;Dihojaf;Dihojaf;Dihojaf;;Dihojaf;;;;;;;;;x
+b_dihojaf_adj;Dihojafian;;dihojafer;;;;;;;;;;;x
+b_dikinkaya;Dikinkaya;Dikinkaya;Dikinkaya;;Dikinkaya;;;;;;;;;x
+b_dikinkaya_adj;Dikinkayan;;dikinkaer;;;;;;;;;;;x
+b_disurqa;Disurqa;Disurqa;Disurqa;;Disurqa;;;;;;;;;x
+b_disurqa_adj;Disurqan;;disurqer;;;;;;;;;;;x
+b_dorala;Dorala;Dorala;Dorala;;Dorala;;;;;;;;;x
+b_dorala_adj;Doralan;;doraler;;;;;;;;;;;x
+b_doulin;Doulin;Doulin;Doulin;;Doulin;;;;;;;;;x
+b_doulin_adj;Doulinian;;douliner;;;;;;;;;;;x
+b_el_gamasna;El Gamasna;El Gamasna;El Gamasna;;El Gamasna;;;;;;;;;x
+b_el_gamasna_adj;El Gamasnan;;El Gamasner;;;;;;;;;;;x
+b_el_kanansoura;El Kanansoura;El Kanansoura;El Kanansoura;;El Kanansoura;;;;;;;;;x
+b_el_kanansoura_adj;El Kanansouran;;El Kanansourer;;;;;;;;;;;x
+b_el_thoutara;El Thoutara;El Thoutara;El Thoutara;;El Thoutara;;;;;;;;;x
+b_el_thoutara_adj;El Thoutaran;;El Thoutarer;;;;;;;;;;;x
+b_erbirnah;Erbirnah;Erbirnah;Erbirnah;;Erbirnah;;;;;;;;;x
+b_erbirnah_adj;Erbirnahian;;erbirnaher;;;;;;;;;;;x
+b_geleslu;Geleslu;Geleslu;Geleslu;;Geleslu;;;;;;;;;x
+b_geleslu_adj;Geleslian;;gelesler;;;;;;;;;;;x
+b_geyiyuva;Geyiyuva;Geyiyuva;Geyiyuva;;Geyiyuva;;;;;;;;;x
+b_geyiyuva_adj;Geyiyuvan;;geyiyuver;;;;;;;;;;;x
+b_ghakalla;Ghakalla;Ghakalla;Ghakalla;;Ghakalla;;;;;;;;;x
+b_ghakalla_adj;Ghakallan;;ghakaller;;;;;;;;;;;x
+b_goekosun;Gökosun;Gökosun;Gökosun;;Gökosun;;;;;;;;;x
+b_goekosun_adj;Gökosunian;;gökosuner;;;;;;;;;;;x
+b_gonanshah;Gonanshah;Gonanshah;Gonanshah;;Gonanshah;;;;;;;;;x
+b_gonanshah_adj;Gonanshahian;;gonanshaher;;;;;;;;;;;x
+b_guemueluk;Gümüluk;Gümüluk;Gümüluk;;Gümüluk;;;;;;;;;x
+b_guemueluk_adj;Gümülukian;;gümüluker;;;;;;;;;;;x
+b_habarasan;Habarasan;Habarasan;Habarasan;;Habarasan;;;;;;;;;x
+b_habarasan_adj;Habarasanian;;habarasaner;;;;;;;;;;;x
+b_haihij;Haihij;Haihij;Haihij;;Haihij;;;;;;;;;x
+b_haihij_adj;Haihijian;;haihijer;;;;;;;;;;;x
+b_hamammam;Hamammam;Hamammam;Hamammam;;Hamammam;;;;;;;;;x
+b_hamammam_adj;Hamammamian;;hamammamer;;;;;;;;;;;x
+b_hamarran;Hamarran;Hamarran;Hamarran;;Hamarran;;;;;;;;;x
+b_hamarran_adj;Hamarranian;;hamarraner;;;;;;;;;;;x
+b_harbah;Harbah;Harbah;Harbah;;Harbah;;;;;;;;;x
+b_harbah_adj;Harbahian;;harbaher;;;;;;;;;;;x
+b_hermoshawai;Hermoshawai;Hermoshawai;Hermoshawai;;Hermoshawai;;;;;;;;;x
+b_hermoshawai_adj;Hermoshawian;;hermoshawer;;;;;;;;;;;x
+b_hudayda;Hudayda;Hudayda;Hudayda;;Hudayda;;;;;;;;;x
+b_hudayda_adj;Hudaydan;;hudayder;;;;;;;;;;;x
+b_jaadschil;Ja'adschil;Ja'adschil;Ja'adschil;;Ja'adschil;;;;;;;;;x
+b_jaadschil_adj;Ja'adschilian;;ja'adschiler;;;;;;;;;;;x
+b_jasselbeh;Jasselbeh;Jasselbeh;Jasselbeh;;Jasselbeh;;;;;;;;;x
+b_jasselbeh_adj;Jasselbehian;;jasselbeher;;;;;;;;;;;x
+b_jirohnuj;Jirohnuj;Jirohnuj;Jirohnuj;;Jirohnuj;;;;;;;;;x
+b_jirohnuj_adj;Jirohnujian;;jirohnujer;;;;;;;;;;;x
+b_kaemeya;Kaemeya;Kaemeya;Kaemeya;;Kaemeya;;;;;;;;;x
+b_kaemeya_adj;Kaemeyan;;kaemeer;;;;;;;;;;;x
+b_kahkeus;Kahkeus;Kahkeus;Kahkeus;;Kahkeus;;;;;;;;;x
+b_kahkeus_adj;Kahkeusian;;kahkeuser;;;;;;;;;;;x
+b_kalatti;Kalatti;Kalatti;Kalatti;;Kalatti;;;;;;;;;x
+b_kalatti_adj;Kalattian;;kalatter;;;;;;;;;;;x
+b_kalaura;Kalaura;Kalaura;Kalaura;;Kalaura;;;;;;;;;x
+b_kalaura_adj;Kalauran;;kalaurer;;;;;;;;;;;x
+b_kamasova;Kamasova;Kamasova;Kamasova;;Kamasova;;;;;;;;;x
+b_kamasova_adj;Kamasovan;;kamasover;;;;;;;;;;;x
+b_kangaris;Kangaris;Kangaris;Kangaris;;Kangaris;;;;;;;;;x
+b_kangaris_adj;Kangarisian;;kangariser;;;;;;;;;;;x
+b_kepatti;Kepatti;Kepatti;Kepatti;;Kepatti;;;;;;;;;x
+b_kepatti_adj;Kepattian;;kepatter;;;;;;;;;;;x
+b_kepaura;Kepaura;Kepaura;Kepaura;;Kepaura;;;;;;;;;x
+b_kepaura_adj;Kepauran;;kepaurer;;;;;;;;;;;x
+b_ketaura;Ketaura;Ketaura;Ketaura;;Ketaura;;;;;;;;;x
+b_ketaura_adj;Ketauran;;ketaurer;;;;;;;;;;;x
+b_kizikiraz;Kizikiraz;Kizikiraz;Kizikiraz;;Kizikiraz;;;;;;;;;x
+b_kizikiraz_adj;Kizikirazian;;kizikirazer;;;;;;;;;;;x
+b_koraam;Koraam;Koraam;Koraam;;Koraam;;;;;;;;;x
+b_koraam_adj;Koraamian;;koraamer;;;;;;;;;;;x
+b_koraam_2;Koraam;Koraam;Koraam;;Koraam;;;;;;;;;x
+b_koraam_2_adj;Koraamian;;koraamer;;;;;;;;;;;x
+b_koraam_3;Koraam;Koraam;Koraam;;Koraam;;;;;;;;;x
+b_koraam_3_adj;Koraamian;;koraamer;;;;;;;;;;;x
+b_koratti;Koratti;Koratti;Koratti;;Koratti;;;;;;;;;x
+b_koratti_adj;Korattian;;koratter;;;;;;;;;;;x
+b_koreya;Koreya;Koreya;Koreya;;Koreya;;;;;;;;;x
+b_koreya_adj;Koreyan;;koreer;;;;;;;;;;;x
+b_kutine;Kutine;Kutine;Kutine;;Kutine;;;;;;;;;x
+b_kutine_adj;Kutinean;;kutiner;;;;;;;;;;;x
+b_lepala;Lepala;Lepala;Lepala;;Lepala;;;;;;;;;x
+b_lepala_adj;Lepalan;;lepaler;;;;;;;;;;;x
+b_madarwad;Madarwad;Madarwad;Madarwad;;Madarwad;;;;;;;;;x
+b_madarwad_adj;Madarwadian;;madarwader;;;;;;;;;;;x
+b_mahahreza;Mahahreza;Mahahreza;Mahahreza;;Mahahreza;;;;;;;;;x
+b_mahahreza_adj;Mahahrezan;;mahahrezer;;;;;;;;;;;x
+b_mecizkale;Mecizkale;Mecizkale;Mecizkale;;Mecizkale;;;;;;;;;x
+b_mecizkale_adj;Mecizkalean;;mecizkaler;;;;;;;;;;;x
+b_medidair;Medidair;Medidair;Medidair;;Medidair;;;;;;;;;x
+b_medidair_adj;Medidairian;;medidairer;;;;;;;;;;;x
+b_medimila;Medimila;Medimila;Medimila;;Medimila;;;;;;;;;x
+b_medimila_adj;Medimilan;;medimiler;;;;;;;;;;;x
+b_mehmendira;Mehmendira;Mehmendira;Mehmendira;;Mehmendira;;;;;;;;;x
+b_mehmendira_adj;Mehmendiran;;mehmendirer;;;;;;;;;;;x
+b_mehmerhan;Mehmerhan;Mehmerhan;Mehmerhan;;Mehmerhan;;;;;;;;;x
+b_mehmerhan_adj;Mehmerhanian;;mehmerhaner;;;;;;;;;;;x
+b_mhaffag;Mhaffag;Mhaffag;Mhaffag;;Mhaffag;;;;;;;;;x
+b_mhaffag_adj;Mhaffagian;;mhaffager;;;;;;;;;;;x
+b_minoohijan;Minoohijan;Minoohijan;Minoohijan;;Minoohijan;;;;;;;;;x
+b_minoohijan_adj;Minoohijanian;;minoohijaner;;;;;;;;;;;x
+b_mishemayn;Mishemayn;Mishemayn;Mishemayn;;Mishemayn;;;;;;;;;x
+b_mishemayn_adj;Mishemaynian;;mishemayner;;;;;;;;;;;x
+b_muqdalad;Muqdalad;Muqdalad;Muqdalad;;Muqdalad;;;;;;;;;x
+b_muqdalad_adj;Muqdaladian;;muqdalader;;;;;;;;;;;x
+b_nabanayat;Nabanayat;Nabanayat;Nabanayat;;Nabanayat;;;;;;;;;x
+b_nabanayat_adj;Nabanayatian;;nabanayater;;;;;;;;;;;x
+b_nahanjan;Nahanjan;Nahanjan;Nahanjan;;Nahanjan;;;;;;;;;x
+b_nahanjan_adj;Nahanjanian;;nahanjaner;;;;;;;;;;;x
+b_nandev;Nandev;Nandev;Nandev;;Nandev;;;;;;;;;x
+b_nandev_adj;Nandevian;;nandever;;;;;;;;;;;x
+b_natti;Natti;Natti;Natti;;Natti;;;;;;;;;x
+b_natti_adj;Nattian;;natter;;;;;;;;;;;x
+b_netadra;Netadra;Netadra;Netadra;;Netadra;;;;;;;;;x
+b_netadra_adj;Netadran;;netadrer;;;;;;;;;;;x
+b_ninesra;Ninesra;Ninesra;Ninesra;;Ninesra;;;;;;;;;x
+b_ninesra_adj;Ninesran;;ninesrer;;;;;;;;;;;x
+b_nippuwja;Nippuwja;Nippuwja;Nippuwja;;Nippuwja;;;;;;;;;x
+b_nippuwja_adj;Nippuwjan;;nippuwjer;;;;;;;;;;;x
+b_nobatian;Nobatian;Nobatian;Nobatian;;Nobatian;;;;;;;;;x
+b_nobatian_adj;Nobatianian;;nobatianer;;;;;;;;;;;x
+b_nohdal;Nohdal;Nohdal;Nohdal;;Nohdal;;;;;;;;;x
+b_nohdal_adj;Nohdalian;;nohdaler;;;;;;;;;;;x
+b_noubarya;Noubarya;Noubarya;Noubarya;;Noubarya;;;;;;;;;x
+b_noubarya_adj;Noubaryan;;noubarer;;;;;;;;;;;x
+b_olurmuslu;Olurmuslu;Olurmuslu;Olurmuslu;;Olurmuslu;;;;;;;;;x
+b_olurmuslu_adj;Olurmuslian;;olurmusler;;;;;;;;;;;x
+b_omunkum;Omunkum;Omunkum;Omunkum;;Omunkum;;;;;;;;;x
+b_omunkum_adj;Omunkumian;;omunkumer;;;;;;;;;;;x
+b_parastar;Parastar;Parastar;Parastar;;Parastar;;;;;;;;;x
+b_parastar_adj;Parastarian;;parastarer;;;;;;;;;;;x
+b_parsazd;Parsazd;Parsazd;Parsazd;;Parsazd;;;;;;;;;x
+b_parsazd_adj;Parsazdian;;parsazder;;;;;;;;;;;x
+b_pasingazi;Pasingazi;Pasingazi;Pasingazi;;Pasingazi;;;;;;;;;x
+b_pasingazi_adj;Pasingazian;;pasingazer;;;;;;;;;;;x
+b_pinabagi;Pinabagi;Pinabagi;Pinabagi;;Pinabagi;;;;;;;;;x
+b_pinabagi_adj;Pinabagian;;pinabager;;;;;;;;;;;x
+b_qadeimiyya;Qadeimiyya;Qadeimiyya;Qadeimiyya;;Qadeimiyya;;;;;;;;;x
+b_qadeimiyya_adj;Qadeimiyyan;;qadeimer;;;;;;;;;;;x
+b_qaharis;Qaharis;Qaharis;Qaharis;;Qaharis;;;;;;;;;x
+b_qaharis_adj;Qaharisian;;qahariser;;;;;;;;;;;x
+b_qamihnaya;Qamihnaya;Qamihnaya;Qamihnaya;;Qamihnaya;;;;;;;;;x
+b_qamihnaya_adj;Qamihnayan;;qamihnaer;;;;;;;;;;;x
+b_qardalin;Qardalin;Qardalin;Qardalin;;Qardalin;;;;;;;;;x
+b_qardalin_adj;Qardalinian;;qardaliner;;;;;;;;;;;x
+b_qoreda;Qoreda;Qoreda;Qoreda;;Qoreda;;;;;;;;;x
+b_qoreda_adj;Qoredan;;qoreder;;;;;;;;;;;x
+b_raematti;Raematti;Raematti;Raematti;;Raematti;;;;;;;;;x
+b_raematti_adj;Raemattian;;raematter;;;;;;;;;;;x
+b_rameya;Rameya;Rameya;Rameya;;Rameya;;;;;;;;;x
+b_rameya_adj;Rameyan;;rameer;;;;;;;;;;;x
+b_roradra;Roradra;Roradra;Roradra;;Roradra;;;;;;;;;x
+b_roradra_adj;Roradran;;roradrer;;;;;;;;;;;x
+b_saam;Saam;Saam;Saam;;Saam;;;;;;;;;x
+b_saam_adj;Saamian;;saamer;;;;;;;;;;;x
+b_safaseir;Safaseir;Safaseir;Safaseir;;Safaseir;;;;;;;;;x
+b_safaseir_adj;Safaseirian;;safaseirer;;;;;;;;;;;x
+b_safmeir;Safmeir;Safmeir;Safmeir;;Safmeir;;;;;;;;;x
+b_safmeir_adj;Safmeirian;;safmeirer;;;;;;;;;;;x
+b_sahast;Sahast;Sahast;Sahast;;Sahast;;;;;;;;;x
+b_sahast_adj;Sahastian;;sahaster;;;;;;;;;;;x
+b_salmasayr;Salmasayr;Salmasayr;Salmasayr;;Salmasayr;;;;;;;;;x
+b_salmasayr_adj;Salmasayrian;;salmasayrer;;;;;;;;;;;x
+b_saqubin;Saqubin;Saqubin;Saqubin;;Saqubin;;;;;;;;;x
+b_saqubin_adj;Saqubinian;;saqubiner;;;;;;;;;;;x
+b_sardanj;Sardanj;Sardanj;Sardanj;;Sardanj;;;;;;;;;x
+b_sardanj_adj;Sardanjian;;sardanjer;;;;;;;;;;;x
+b_shahiraz;Shahiraz;Shahiraz;Shahiraz;;Shahiraz;;;;;;;;;x
+b_shahiraz_adj;Shahirazian;;shahirazer;;;;;;;;;;;x
+b_shahrihriar;Shahrihriar;Shahrihriar;Shahrihriar;;Shahrihriar;;;;;;;;;x
+b_shahrihriar_adj;Shahrihriarian;;shahrihriarer;;;;;;;;;;;x
+b_shatoorah;Shatoorah;Shatoorah;Shatoorah;;Shatoorah;;;;;;;;;x
+b_shatoorah_adj;Shatoorahian;;shatooraher;;;;;;;;;;;x
+b_sivrinoluk;Sivrinoluk;Sivrinoluk;Sivrinoluk;;Sivrinoluk;;;;;;;;;x
+b_sivrinoluk_adj;Sivrinolukian;;sivrinoluker;;;;;;;;;;;x
+b_sivrisler;Sivrisler;Sivrisler;Sivrisler;;Sivrisler;;;;;;;;;x
+b_sivrisler_adj;Sivrislerian;;sivrislerer;;;;;;;;;;;x
+b_sococha;Sococha;Sococha;Sococha;;Sococha;;;;;;;;;x
+b_sococha_adj;Socochan;;sococher;;;;;;;;;;;x
+b_suladariyah;Suladariyah;Suladariyah;Suladariyah;;Suladariyah;;;;;;;;;x
+b_suladariyah_adj;Suladariyahian;;suladariyaher;;;;;;;;;;;x
+b_sumuqiya;Sumuqiya;Sumuqiya;Sumuqiya;;Sumuqiya;;;;;;;;;x
+b_sumuqiya_adj;Sumuqiyan;;sumuqer;;;;;;;;;;;x
+b_tabazeh;Tabazeh;Tabazeh;Tabazeh;;Tabazeh;;;;;;;;;x
+b_tabazeh_adj;Tabazehian;;tabazeher;;;;;;;;;;;x
+b_tabouwain;Tabouwain;Tabouwain;Tabouwain;;Tabouwain;;;;;;;;;x
+b_tabouwain_adj;Tabouwainian;;tabouwainer;;;;;;;;;;;x
+b_taburaidah;Taburaidah;Taburaidah;Taburaidah;;Taburaidah;;;;;;;;;x
+b_taburaidah_adj;Taburaidahian;;taburaidaher;;;;;;;;;;;x
+b_tahkatti;Tahkatti;Tahkatti;Tahkatti;;Tahkatti;;;;;;;;;x
+b_tahkatti_adj;Tahkattian;;tahkatter;;;;;;;;;;;x
+b_takabra;Takabra;Takabra;Takabra;;Takabra;;;;;;;;;x
+b_takabra_adj;Takabran;;takabrer;;;;;;;;;;;x
+b_takabra_2;Takabra;Takabra;Takabra;;Takabra;;;;;;;;;x
+b_takabra_2_adj;Takabran;;takabrer;;;;;;;;;;;x
+b_tall_kappe;Tall Kappe;Tall Kappe;Tall Kappe;;Tall Kappe;;;;;;;;;x
+b_tall_kappe_adj;Tall Kappean;;Tall Kapper;;;;;;;;;;;x
+b_tandev;Tandev;Tandev;Tandev;;Tandev;;;;;;;;;x
+b_tandev_adj;Tandevian;;tandever;;;;;;;;;;;x
+b_taureya;Taureya;Taureya;Taureya;;Taureya;;;;;;;;;x
+b_taureya_adj;Taureyan;;taureer;;;;;;;;;;;x
+b_tehradaj;Tehradaj;Tehradaj;Tehradaj;;Tehradaj;;;;;;;;;x
+b_tehradaj_adj;Tehradajian;;tehradajer;;;;;;;;;;;x
+b_tehrajarm;Tehrajarm;Tehrajarm;Tehrajarm;;Tehrajarm;;;;;;;;;x
+b_tehrajarm_adj;Tehrajarmian;;tehrajarmer;;;;;;;;;;;x
+b_tel_halaji;Tel Halaji;Tel Halaji;Tel Halaji;;Tel Halaji;;;;;;;;;x
+b_tel_halaji_adj;Tel Halajian;;Tel Halajer;;;;;;;;;;;x
+b_tel_kadhibala;Tel Kadhibala;Tel Kadhibala;Tel Kadhibala;;Tel Kadhibala;;;;;;;;;x
+b_tel_kadhibala_adj;Tel Kadhibalan;;Tel Kadhibaler;;;;;;;;;;;x
+b_tel_kadhillah;Tel Kadhillah;Tel Kadhillah;Tel Kadhillah;;Tel Kadhillah;;;;;;;;;x
+b_tel_kadhillah_adj;Tel Kadhillahian;;Tel Kadhillaher;;;;;;;;;;;x
+b_tel_khahdad;Tel Khahdad;Tel Khahdad;Tel Khahdad;;Tel Khahdad;;;;;;;;;x
+b_tel_khahdad_adj;Tel Khahdadian;;Tel Khahdader;;;;;;;;;;;x
+b_tel_khazi;Tel Khazi;Tel Khazi;Tel Khazi;;Tel Khazi;;;;;;;;;x
+b_tel_khazi_adj;Tel Khazian;;Tel Khazer;;;;;;;;;;;x
+b_telia;Telia;Telia;Telia;;Telia;;;;;;;;;x
+b_telia_adj;Telian;;teler;;;;;;;;;;;x
+b_toradra;Toradra;Toradra;Toradra;;Toradra;;;;;;;;;x
+b_toradra_adj;Toradran;;toradrer;;;;;;;;;;;x
+b_turadiq;Turadiq;Turadiq;Turadiq;;Turadiq;;;;;;;;;x
+b_turadiq_adj;Turadiqian;;turadiqer;;;;;;;;;;;x
+b_wabishah;Wabishah;Wabishah;Wabishah;;Wabishah;;;;;;;;;x
+b_wabishah_adj;Wabishahian;;wabishaher;;;;;;;;;;;x
+b_wemebia;Wemebia;Wemebia;Wemebia;;Wemebia;;;;;;;;;x
+b_wemebia_adj;Wemebian;;wemeber;;;;;;;;;;;x
+b_yaririyah;Yaririyah;Yaririyah;Yaririyah;;Yaririyah;;;;;;;;;x
+b_yaririyah_adj;Yaririyahian;;yaririyaher;;;;;;;;;;;x
+b_zabobad;Zabobad;Zabobad;Zabobad;;Zabobad;;;;;;;;;x
+b_zabobad_adj;Zabobadian;;zabobader;;;;;;;;;;;x

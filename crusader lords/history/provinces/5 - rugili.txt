@@ -1,21 +1,18 @@
-	title = c_rugili
-	max_settlements = 7
-	culture = etirune
-	religion = tonuyu
-	b_kilamur = tribal
-1.1.1 = {
-	b_qewilili = ct_port_1
-}
+# c_rugili
 
-880.4.1 = {
-	b_kilamur = castle
-}
+# County Title
+title = c_rugili
 
-920.4.1 = {
-	b_wugor = temple
-}
+# Settlements
+max_settlements = 4
 
-990.4.1 = {
-	b_qewilili = city
-}
+b_aalkass = temple
+b_tar_noxxos = city
+b_khixnaz = castle
+#b_rugili = castle
 
+# Misc
+culture = kir-ko
+religion = kirian
+
+#History

@@ -1,105 +1,15 @@
-	title = c_qonadi
-	max_settlements = 3
-	culture = tasule
-	religion = telayira
-	b_budtaj = tribal
-1.1.1 = {
-	b_wamule = ct_port_1
-}
+# c_qonadi
 
-202.3.1 = {
-	religion = kusran
-}
+# County Title
+title = c_qonadi
 
-203.3.1 = {
-	religion = telayira
-}
+# Settlements
+max_settlements = 1
 
-205.3.1 = {
-	religion = kusran
-}
+b_qonadi = castle
 
-211.3.1 = {
-	religion = telayira
-}
+# Misc
+culture = swamp_avasian
+religion = terrorian
 
-214.3.1 = {
-	religion = kusran
-}
-
-224.3.1 = {
-	religion = telayira
-}
-
-227.4.1 = {
-	culture = abajule
-}
-
-236.3.1 = {
-	religion = kusran
-}
-
-252.3.1 = {
-	religion = telayira
-}
-
-254.3.1 = {
-	religion = kusran
-}
-
-259.3.1 = {
-	religion = telayira
-}
-
-260.4.1 = {
-	culture = tasule
-}
-
-272.3.1 = {
-	religion = kusran
-}
-
-273.4.1 = {
-	culture = abajule
-}
-
-278.3.1 = {
-	religion = telayira
-}
-
-278.3.1 = {
-	religion = kusran
-}
-
-279.4.1 = {
-	culture = tasule
-}
-
-281.3.1 = {
-	religion = telayira
-}
-
-295.3.1 = {
-	religion = kusran
-}
-
-298.4.1 = {
-	culture = ricqa
-}
-
-307.4.1 = {
-	culture = abajule
-}
-
-640.4.1 = {
-	b_budtaj = castle
-}
-
-735.4.1 = {
-	b_raulule = temple
-}
-
-844.4.1 = {
-	b_wamule = city
-}
-
+#History

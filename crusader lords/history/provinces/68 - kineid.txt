@@ -1,53 +1,18 @@
-	title = c_kineid
-	max_settlements = 3
-	culture = rubiho
-	religion = tonuyu
-	b_sine = tribal
-1.1.1 = {
-	b_neselg = ct_port_1
-}
+# c_kineid
 
-314.4.1 = {
-	culture = lodeid
-}
+# County Title
+title = c_kineid
 
-343.4.1 = {
-	culture = rubiho
-}
+# Settlements
+max_settlements = 4
 
-384.4.1 = {
-	culture = lodeid
-}
+b_teyacotl = temple
+#b_kineid = city
+#b_kineid_2 = temple
+#b_kineid_3 = castle
 
-411.4.1 = {
-	culture = rubiho
-}
+# Misc
+culture = druchi
+religion = kirothian
 
-420.4.1 = {
-	culture = lodeid
-}
-
-467.4.1 = {
-	culture = rubiho
-}
-
-476.4.1 = {
-	culture = lodeid
-}
-
-540.4.1 = {
-	culture = biho
-}
-
-846.4.1 = {
-	b_sine = castle
-}
-
-883.4.1 = {
-	b_nodius = temple
-}
-
-994.4.1 = {
-	b_neselg = city
-}
-
+#History

@@ -1,29 +1,15 @@
-	title = c_ekata
-	max_settlements = 2
-	culture = karibel
-	religion = neharis
-	b_tehouwe = tribal
-248.4.1 = {
-	culture = nitindik
-}
+# c_ekata
 
-540.4.1 = {
-	b_tehouwe = castle
-}
+# County Title
+title = c_ekata
 
-730.4.1 = {
-	b_atijne = city
-}
+# Settlements
+max_settlements = 1
 
-866.4.1 = {
-	culture = syahes
-}
+b_ekata = castle
 
-915.4.1 = {
-	culture = nitindik
-}
+# Misc
+culture = bastia_city
+religion = terrorian
 
-953.4.1 = {
-	culture = syahes
-}
-
+#History

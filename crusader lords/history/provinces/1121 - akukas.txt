@@ -1,29 +1,17 @@
-	title = c_akukas
-	max_settlements = 4
-	culture = babosa
-	religion = tonuyu
-	b_welune = tribal
-1.1.1 = {
-	b_qosira = ct_port_1
-}
+# c_akukas
 
-251.4.1 = {
-	culture = budandev
-}
+# County Title
+title = c_akukas
 
-807.4.1 = {
-	b_welune = castle
-}
+# Settlements
+max_settlements = 3
 
-832.4.1 = {
-	b_qosira = city
-}
+b_akukas = castle
+b_akukas_2 = city
+b_akukas_3 = temple
 
-893.4.1 = {
-	b_sudo = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-967.4.1 = {
-	b_abaxpeke = city
-}
-
+#History

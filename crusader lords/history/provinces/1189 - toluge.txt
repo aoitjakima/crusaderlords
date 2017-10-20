@@ -1,41 +1,17 @@
-	title = c_toluge
-	max_settlements = 7
-	culture = nonayaka
-	religion = tonuyu
-	b_rinuyu = tribal
-202.4.1 = {
-	culture = wabuzhi
-}
+# c_toluge
 
-204.4.1 = {
-	culture = budandev
-}
+# County Title
+title = c_toluge
 
-208.4.1 = {
-	culture = wabuzhi
-}
+# Settlements
+max_settlements = 3
 
-219.4.1 = {
-	culture = budandev
-}
+b_toluge = castle
+b_toluge_2 = city
+b_toluge_3 = temple
 
-817.4.1 = {
-	b_rinuyu = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-853.4.1 = {
-	b_acenoos = temple
-}
-
-927.4.1 = {
-	b_talala = city
-}
-
-988.4.1 = {
-	b_kaladra = city
-}
-
-1033.4.1 = {
-	b_ralayaka = castle
-}
-
+#History

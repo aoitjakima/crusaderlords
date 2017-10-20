@@ -1,81 +1,15 @@
-	title = c_latalt
-	max_settlements = 5
-	culture = disinos
-	religion = kusran
-	b_niyason = tribal
-201.3.1 = {
-	religion = wedwig
-}
+# c_latalt
 
-205.4.1 = {
-	culture = ryanopti
-}
+# County Title
+title = c_latalt
 
-208.3.1 = {
-	religion = kusran
-}
+# Settlements
+max_settlements = 1
 
-245.3.1 = {
-	religion = wedwig
-}
+b_latalt = castle
 
-266.3.1 = {
-	religion = kusran
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-267.3.1 = {
-	religion = wedwig
-}
-
-269.3.1 = {
-	religion = kusran
-}
-
-270.3.1 = {
-	religion = wedwig
-}
-
-272.3.1 = {
-	religion = kusran
-}
-
-277.3.1 = {
-	religion = wedwig
-}
-
-289.3.1 = {
-	religion = kusran
-}
-
-291.3.1 = {
-	religion = wedwig
-}
-
-297.3.1 = {
-	religion = kusran
-}
-
-343.3.1 = {
-	religion = wedwig
-}
-
-615.4.1 = {
-	b_niyason = castle
-}
-
-755.4.1 = {
-	b_luyason = temple
-}
-
-873.4.1 = {
-	b_kurada = city
-}
-
-949.4.1 = {
-	b_liwaila = castle
-}
-
-1035.4.1 = {
-	b_sobephen = temple
-}
-
+#History

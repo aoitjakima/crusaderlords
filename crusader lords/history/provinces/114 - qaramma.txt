@@ -1,17 +1,15 @@
-	title = c_qaramma
-	max_settlements = 4
-	culture = ketamma
-	religion = kusran
-	b_sarnyoka = tribal
-827.4.1 = {
-	b_sarnyoka = castle
-}
+# c_qaramma
 
-867.4.1 = {
-	b_ectopti = city
-}
+# County Title
+title = c_qaramma
 
-961.4.1 = {
-	b_rarilen = temple
-}
+# Settlements
+max_settlements = 1
 
+b_qaramma = castle
+
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
+
+#History

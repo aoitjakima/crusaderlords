@@ -1,45 +1,21 @@
-	title = c_sinulay
-	max_settlements = 5
-	culture = selalya
-	religion = aratihr
-	b_waicyako = tribal
-253.4.1 = {
-	culture = laris
-}
+# c_sinulay
 
-255.4.1 = {
-	culture = wubihr
-}
+# County Title
+title = c_sinulay
 
-302.4.1 = {
-	culture = laris
-}
+# Settlements
+max_settlements = 7
 
-311.4.1 = {
-	culture = wubihr
-}
+b_maceras = city
+b_pavelas = city
+b_portanico = temple
+#b_sinulay = castle
+#b_sinulay_2 = city
+#b_sinulay_3 = temple
+#b_sinulay_4 = castle
 
-452.4.1 = {
-	culture = selalya
-}
+# Misc
+culture = estazi_culture1
+religion = estazi_faith
 
-675.4.1 = {
-	b_waicyako = castle
-}
-
-804.4.1 = {
-	b_kamsouz = city
-}
-
-875.4.1 = {
-	b_aniraz = temple
-}
-
-953.4.1 = {
-	b_epatyako = temple
-}
-
-1011.4.1 = {
-	b_denihr = city
-}
-
+#History

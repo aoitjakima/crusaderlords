@@ -1,25 +1,15 @@
-	title = c_reropolk
-	max_settlements = 2
-	culture = daimeig
-	religion = wedwig
-	b_ryaheria = tribal
-322.4.1 = {
-	culture = waynald
-}
+# c_reropolk
 
-323.4.1 = {
-	culture = daimeig
-}
+# County Title
+title = c_reropolk
 
-382.4.1 = {
-	culture = waynald
-}
+# Settlements
+max_settlements = 1
 
-710.4.1 = {
-	b_ryaheria = castle
-}
+b_reropolk = castle
 
-802.4.1 = {
-	b_qibel = temple
-}
+# Misc
+culture = niefhiem_forrest
+religion = terrorian
 
+#History

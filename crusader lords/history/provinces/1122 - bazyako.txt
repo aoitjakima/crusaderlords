@@ -1,13 +1,17 @@
-	title = c_bazyako
-	max_settlements = 2
-	culture = takukork
-	religion = tonuyu
-	b_tosune = tribal
-244.4.1 = {
-	culture = wabuzhi
-}
+# c_bazyako
 
-507.4.1 = {
-	culture = budandev
-}
+# County Title
+title = c_bazyako
 
+# Settlements
+max_settlements = 3
+
+b_bazyako = castle
+b_bazyako_2 = city
+b_bazyako_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

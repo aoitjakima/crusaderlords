@@ -1,29 +1,17 @@
-	title = c_laluga
-	max_settlements = 2
-	culture = radabor
-	religion = tonuyu
-	b_neduga = tribal
-206.4.1 = {
-	culture = kadalen
-}
+# c_laluga
 
-238.4.1 = {
-	culture = radabor
-}
+# County Title
+title = c_laluga
 
-257.4.1 = {
-	culture = wenira
-}
+# Settlements
+max_settlements = 3
 
-264.4.1 = {
-	culture = radabor
-}
+b_laluga = castle
+b_laluga_2 = city
+b_laluga_3 = temple
 
-809.4.1 = {
-	b_neduga = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-859.4.1 = {
-	b_saemoran = city
-}
-
+#History

@@ -1,21 +1,15 @@
-	title = c_naunda
-	max_settlements = 2
-	culture = saimes
-	religion = qiteka
-	b_totiam = tribal
-206.4.1 = {
-	culture = esunadir
-}
+# c_naunda
 
-207.3.1 = {
-	religion = begeka
-}
+# County Title
+title = c_naunda
 
-800.4.1 = {
-	b_totiam = castle
-}
+# Settlements
+max_settlements = 1
 
-839.4.1 = {
-	b_regeodat = temple
-}
+b_naunda = castle
 
+# Misc
+culture = bastian_noble
+religion = terrorian
+
+#History

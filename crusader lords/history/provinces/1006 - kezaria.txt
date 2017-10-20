@@ -1,57 +1,15 @@
-	title = c_kezaria
-	max_settlements = 2
-	culture = koumas
-	religion = kusran
-	b_kugita = tribal
-1.1.1 = {
-	b_ticezo = ct_port_1
-}
+# c_kezaria
 
-200.3.1 = {
-	religion = telayira
-}
+# County Title
+title = c_kezaria
 
-206.3.1 = {
-	religion = kusran
-}
+# Settlements
+max_settlements = 1
 
-209.3.1 = {
-	religion = telayira
-}
+b_kezaria = castle
 
-210.3.1 = {
-	religion = kusran
-}
+# Misc
+culture = swamp_avasian
+religion = terrorian
 
-213.3.1 = {
-	religion = telayira
-}
-
-466.4.1 = {
-	culture = lopher
-}
-
-600.4.1 = {
-	b_kugita = castle
-}
-
-618.4.1 = {
-	culture = koumas
-}
-
-695.4.1 = {
-	b_ticezo = city
-}
-
-772.4.1 = {
-	culture = lopher
-}
-
-845.4.1 = {
-	culture = koumas
-}
-
-946.4.1 = {
-	culture = lopher
-}
-
+#History

@@ -1,45 +1,15 @@
-	title = c_kalong
-	max_settlements = 6
-	culture = taetoza
-	religion = naneka
-	b_qanasmig = tribal
-1.1.1 = {
-	b_weneter = ct_port_1
-}
+# c_kalong
 
-238.4.1 = {
-	culture = lerelin
-}
+# County Title
+title = c_kalong
 
-271.4.1 = {
-	culture = wates
-}
+# Settlements
+max_settlements = 1
 
-373.3.1 = {
-	religion = qiteka
-}
+b_kalong = castle
 
-615.4.1 = {
-	b_qanasmig = castle
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-705.4.1 = {
-	b_weneter = city
-}
-
-835.4.1 = {
-	b_kepeki = temple
-}
-
-897.4.1 = {
-	b_qeneki = city
-}
-
-940.4.1 = {
-	b_atohn = temple
-}
-
-982.4.1 = {
-	b_tanassak = temple
-}
-
+#History

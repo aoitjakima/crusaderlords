@@ -1,21 +1,21 @@
-	title = c_kiartas
-	max_settlements = 2
-	culture = selalya
-	religion = aratihr
-	b_tyuku = tribal
-327.4.1 = {
-	culture = wubihr
-}
+# c_kiartas
 
-424.4.1 = {
-	culture = selalya
-}
+# County Title
+title = c_kiartas
 
-670.4.1 = {
-	b_tyuku = castle
-}
+# Settlements
+max_settlements = 7
 
-780.4.1 = {
-	b_qeryako = temple
-}
+b_kifika = city
+b_metassia = city
+b_iliourmi = temple
+#b_kiartas = castle
+#b_kiartas_2 = city
+#b_kiartas_3 = temple
+#b_kiartas_4 = castle
 
+# Misc
+culture = estazi_culture1
+religion = estazi_faith
+
+#History

@@ -1,33 +1,15 @@
-	title = c_karisaqvi
-	max_settlements = 4
-	culture = ebeina
-	religion = qiteka
-	b_nerid = tribal
-1.1.1 = {
-	b_tedipp = ct_port_1
-}
+# c_karisaqvi
 
-523.4.1 = {
-	culture = risutlu
-}
+# County Title
+title = c_karisaqvi
 
-580.4.1 = {
-	b_nerid = castle
-}
+# Settlements
+max_settlements = 1
 
-790.4.1 = {
-	b_nyeviby = temple
-}
+b_karisaqvi = castle
 
-879.4.1 = {
-	b_tedipp = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-887.4.1 = {
-	culture = saimes
-}
-
-970.4.1 = {
-	b_kilows = temple
-}
-
+#History

@@ -1,25 +1,15 @@
-	title = c_lonong
-	max_settlements = 2
-	culture = lopher
-	religion = kusran
-	b_tudayya = tribal
-276.3.1 = {
-	religion = telayira
-}
+# c_lonong
 
-278.4.1 = {
-	culture = ritiatou
-}
+# County Title
+title = c_lonong
 
-378.4.1 = {
-	culture = koumas
-}
+# Settlements
+max_settlements = 1
 
-937.4.1 = {
-	culture = lopher
-}
+b_lonong = castle
 
-1060.4.1 = {
-	b_tudayya = castle
-}
+# Misc
+culture = swamp_avasian
+religion = terrorian
 
+#History

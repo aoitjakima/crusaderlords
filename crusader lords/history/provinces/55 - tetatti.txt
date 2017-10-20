@@ -1,73 +1,18 @@
-	title = c_tetatti
-	max_settlements = 2
-	culture = biho
-	religion = tonuyu
-	b_keveraam = tribal
-1.1.1 = {
-	b_rabra = ct_port_1
-}
+# c_tetatti
 
-207.4.1 = {
-	culture = rubiho
-}
+# County Title
+title = c_tetatti
 
-218.4.1 = {
-	culture = biho
-}
+# Settlements
+max_settlements = 4
 
-313.4.1 = {
-	culture = rubiho
-}
+b_moyolehuani = temple
+#b_tetatti = city
+#b_tetatti_2 = temple
+#b_tetatti_3 = castle
 
-315.3.1 = {
-	religion = kodine
-}
+# Misc
+culture = druchi
+religion = kirothian
 
-319.3.1 = {
-	religion = tonuyu
-}
-
-320.4.1 = {
-	culture = lodeid
-}
-
-321.3.1 = {
-	religion = kodine
-}
-
-324.3.1 = {
-	religion = tonuyu
-}
-
-325.3.1 = {
-	religion = kodine
-}
-
-325.3.1 = {
-	religion = tonuyu
-}
-
-330.3.1 = {
-	religion = kodine
-}
-
-337.4.1 = {
-	culture = rubiho
-}
-
-337.3.1 = {
-	religion = tonuyu
-}
-
-373.4.1 = {
-	culture = biho
-}
-
-961.4.1 = {
-	b_keveraam = castle
-}
-
-1006.4.1 = {
-	b_rabra = city
-}
-
+#History

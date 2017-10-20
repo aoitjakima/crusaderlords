@@ -1,33 +1,17 @@
-	title = c_deduga
-	max_settlements = 3
-	culture = wenira
-	religion = tonuyu
-	b_lalatti = tribal
-1.1.1 = {
-	b_takina = ct_port_1
-}
+# c_deduga
 
-204.4.1 = {
-	culture = budandev
-}
+# County Title
+title = c_deduga
 
-253.4.1 = {
-	culture = wenira
-}
+# Settlements
+max_settlements = 3
 
-282.4.1 = {
-	culture = radabor
-}
+b_deduga = castle
+b_deduga_2 = city
+b_deduga_3 = temple
 
-715.4.1 = {
-	b_lalatti = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-818.4.1 = {
-	b_letibor = temple
-}
-
-914.4.1 = {
-	b_takina = city
-}
-
+#History

@@ -1,21 +1,15 @@
-	title = c_arosouwe
-	max_settlements = 2
-	culture = syahes
-	religion = neharis
-	b_wakrelatlqatl = tribal
-218.4.1 = {
-	culture = nitindik
-}
+# c_arosouwe
 
-350.4.1 = {
-	culture = talentiy
-}
+# County Title
+title = c_arosouwe
 
-515.4.1 = {
-	b_wakrelatlqatl = castle
-}
+# Settlements
+max_settlements = 1
 
-675.4.1 = {
-	b_dasijne = temple
-}
+b_arosouwe = castle
 
+# Misc
+culture = bastian_rural
+religion = terrorian
+
+#History

@@ -1,21 +1,15 @@
-	title = c_diosarda
-	max_settlements = 2
-	culture = tularda
-	religion = wedwig
-	b_efuliyah = tribal
-200.3.1 = {
-	religion = qigiyah
-}
+# c_diosarda
 
-271.4.1 = {
-	culture = alaurine
-}
+# County Title
+title = c_diosarda
 
-957.4.1 = {
-	b_efuliyah = castle
-}
+# Settlements
+max_settlements = 1
 
-1010.4.1 = {
-	b_karewin = city
-}
+b_diosarda = castle
 
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
+
+#History

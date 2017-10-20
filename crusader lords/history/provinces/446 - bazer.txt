@@ -1,25 +1,15 @@
-	title = c_bazer
-	max_settlements = 2
-	culture = syahes
-	religion = neharis
-	b_lyaneven = tribal
-207.4.1 = {
-	culture = karibel
-}
+# c_bazer
 
-248.4.1 = {
-	culture = nitindik
-}
+# County Title
+title = c_bazer
 
-540.4.1 = {
-	b_lyaneven = castle
-}
+# Settlements
+max_settlements = 1
 
-685.4.1 = {
-	b_satith = temple
-}
+b_bazer = castle
 
-859.4.1 = {
-	culture = syahes
-}
+# Misc
+culture = bastia_city
+religion = terrorian
 
+#History

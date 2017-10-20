@@ -1,17 +1,15 @@
-	title = c_aregiana
-	max_settlements = 7
-	culture = nuteria
-	religion = wedwig
-	b_ebateja = tribal
-322.4.1 = {
-	culture = waynald
-}
+# c_aregiana
 
-327.4.1 = {
-	culture = nuteria
-}
+# County Title
+title = c_aregiana
 
-398.4.1 = {
-	culture = waynald
-}
+# Settlements
+max_settlements = 1
 
+b_aregiana = castle
+
+# Misc
+culture = niefhiem_lake
+religion = terrorian
+
+#History

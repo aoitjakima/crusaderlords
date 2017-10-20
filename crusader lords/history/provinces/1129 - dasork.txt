@@ -1,61 +1,17 @@
-	title = c_dasork
-	max_settlements = 3
-	culture = ranahim
-	religion = tonuyu
-	b_winayaka = tribal
-204.4.1 = {
-	culture = wabuzhi
-}
+# c_dasork
 
-297.4.1 = {
-	culture = ranahim
-}
+# County Title
+title = c_dasork
 
-442.4.1 = {
-	culture = qenoos
-}
+# Settlements
+max_settlements = 3
 
-444.4.1 = {
-	culture = ranahim
-}
+b_dasork = castle
+b_dasork_2 = city
+b_dasork_3 = temple
 
-547.4.1 = {
-	culture = qenoos
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-627.4.1 = {
-	culture = ranahim
-}
-
-633.4.1 = {
-	culture = qenoos
-}
-
-688.4.1 = {
-	culture = ranahim
-}
-
-741.4.1 = {
-	culture = qenoos
-}
-
-748.4.1 = {
-	culture = ranahim
-}
-
-811.4.1 = {
-	culture = qenoos
-}
-
-924.4.1 = {
-	b_winayaka = castle
-}
-
-976.4.1 = {
-	b_laming = temple
-}
-
-1055.4.1 = {
-	culture = ranahim
-}
-
+#History

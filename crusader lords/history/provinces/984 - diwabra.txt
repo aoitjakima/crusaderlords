@@ -1,33 +1,15 @@
-	title = c_diwabra
-	max_settlements = 7
-	culture = banaila
-	religion = qiteka
-	b_ataura = tribal
-570.4.1 = {
-	b_ataura = castle
-}
+# c_diwabra
 
-675.4.1 = {
-	b_dereina = city
-}
+# County Title
+title = c_diwabra
 
-830.4.1 = {
-	b_wule = temple
-}
+# Settlements
+max_settlements = 1
 
-880.4.1 = {
-	b_wucutlu = temple
-}
+b_diwabra = castle
 
-922.4.1 = {
-	b_resiwlrerl = temple
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-961.4.1 = {
-	b_arasunl = castle
-}
-
-1001.4.1 = {
-	b_ravaura = temple
-}
-
+#History

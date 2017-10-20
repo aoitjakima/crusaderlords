@@ -1,45 +1,15 @@
-	title = c_qasata
-	max_settlements = 6
-	culture = syahes
-	religion = neharis
-	b_waver = tribal
-1.1.1 = {
-	b_dopouwe = ct_port_1
-}
+# c_qasata
 
-211.4.1 = {
-	culture = karibel
-}
+# County Title
+title = c_qasata
 
-334.4.1 = {
-	culture = nitindik
-}
+# Settlements
+max_settlements = 1
 
-540.4.1 = {
-	b_waver = castle
-}
+b_qasata = castle
 
-625.4.1 = {
-	b_dopouwe = city
-}
+# Misc
+culture = bastia_city
+religion = terrorian
 
-814.4.1 = {
-	b_kicitus = temple
-}
-
-851.4.1 = {
-	culture = syahes
-}
-
-855.4.1 = {
-	b_kinitus = temple
-}
-
-899.4.1 = {
-	b_seylrinl = castle
-}
-
-987.4.1 = {
-	b_kazitus = city
-}
-
+#History

@@ -1,17 +1,15 @@
-	title = c_ribadam
-	max_settlements = 2
-	culture = amuhopti
-	religion = neharis
-	b_tutaboi = tribal
-207.4.1 = {
-	culture = syahes
-}
+# c_ribadam
 
-530.4.1 = {
-	b_tutaboi = castle
-}
+# County Title
+title = c_ribadam
 
-685.4.1 = {
-	b_lyahuda = city
-}
+# Settlements
+max_settlements = 1
 
+b_ribadam = castle
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

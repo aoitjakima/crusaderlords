@@ -1,57 +1,15 @@
-	title = c_sabaham
-	max_settlements = 3
-	culture = ketamma
-	religion = kusran
-	b_erabinan = tribal
-200.3.1 = {
-	religion = raipi
-}
+# c_sabaham
 
-213.3.1 = {
-	religion = kusran
-}
+# County Title
+title = c_sabaham
 
-214.3.1 = {
-	religion = raipi
-}
+# Settlements
+max_settlements = 1
 
-219.4.1 = {
-	culture = sutidoka
-}
+b_sabaham = castle
 
-219.4.1 = {
-	culture = kaureid
-}
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
 
-297.4.1 = {
-	culture = kapti
-}
-
-348.4.1 = {
-	culture = taodha
-}
-
-385.4.1 = {
-	culture = kapti
-}
-
-436.4.1 = {
-	culture = taodha
-}
-
-438.4.1 = {
-	culture = kapti
-}
-
-803.4.1 = {
-	b_erabinan = castle
-}
-
-840.4.1 = {
-	b_kosimii = temple
-}
-
-946.4.1 = {
-	b_kalopti = city
-}
-
+#History

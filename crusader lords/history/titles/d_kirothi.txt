@@ -1,0 +1,9 @@
+# e_kiroth
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+500.1.1={
+	liege=k_kiroth
+	holder=1061264
+}

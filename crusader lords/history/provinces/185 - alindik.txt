@@ -1,45 +1,15 @@
-	title = c_alindik
-	max_settlements = 5
-	culture = sodinia
-	religion = neharis
-	b_kuhibel = tribal
-232.4.1 = {
-	culture = syahes
-}
+# c_alindik
 
-238.4.1 = {
-	culture = sodinia
-}
+# County Title
+title = c_alindik
 
-354.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 1
 
-370.4.1 = {
-	culture = sodinia
-}
+b_alindik = castle
 
-391.4.1 = {
-	culture = syahes
-}
+# Misc
+culture = bastian_rural
+religion = terrorian
 
-511.4.1 = {
-	b_kuhibel = castle
-}
-
-660.4.1 = {
-	b_kitayan = city
-}
-
-836.4.1 = {
-	b_bahayan = temple
-}
-
-907.4.1 = {
-	b_qodens = temple
-}
-
-979.4.1 = {
-	b_woden = castle
-}
-
+#History

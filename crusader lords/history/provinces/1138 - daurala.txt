@@ -1,89 +1,17 @@
-	title = c_daurala
-	max_settlements = 2
-	culture = keraam
-	religion = tonuyu
-	b_keusabra = tribal
-1.1.1 = {
-	b_tematti = ct_port_1
-}
+# c_daurala
 
-208.3.1 = {
-	religion = worelen
-}
+# County Title
+title = c_daurala
 
-208.4.1 = {
-	culture = nalaam
-}
+# Settlements
+max_settlements = 3
 
-209.3.1 = {
-	religion = tonuyu
-}
+b_baqumadi = temple
+#b_suladariyah = city
+#b_al_fallufar = temple
 
-211.3.1 = {
-	religion = worelen
-}
+# Misc
+culture = kir-ko
+religion = kirian
 
-213.3.1 = {
-	religion = tonuyu
-}
-
-214.3.1 = {
-	religion = worelen
-}
-
-217.3.1 = {
-	religion = tonuyu
-}
-
-230.3.1 = {
-	religion = worelen
-}
-
-231.3.1 = {
-	religion = tonuyu
-}
-
-232.3.1 = {
-	religion = worelen
-}
-
-243.3.1 = {
-	religion = tonuyu
-}
-
-332.4.1 = {
-	culture = tiwics
-}
-
-347.4.1 = {
-	culture = nalaam
-}
-
-412.4.1 = {
-	culture = tiwics
-}
-
-417.4.1 = {
-	culture = nalaam
-}
-
-419.4.1 = {
-	culture = tiwics
-}
-
-426.4.1 = {
-	culture = nalaam
-}
-
-665.4.1 = {
-	culture = tiwics
-}
-
-780.4.1 = {
-	b_keusabra = castle
-}
-
-830.4.1 = {
-	b_tematti = city
-}
-
+#History

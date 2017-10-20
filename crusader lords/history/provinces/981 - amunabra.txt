@@ -1,29 +1,15 @@
-	title = c_amunabra
-	max_settlements = 2
-	culture = waetutlu
-	religion = qiteka
-	b_edurilip = tribal
-308.4.1 = {
-	culture = risutlu
-}
+# c_amunabra
 
-560.4.1 = {
-	b_edurilip = castle
-}
+# County Title
+title = c_amunabra
 
-660.4.1 = {
-	b_rurolas = temple
-}
+# Settlements
+max_settlements = 1
 
-727.4.1 = {
-	culture = saimes
-}
+b_amunabra = castle
 
-733.4.1 = {
-	culture = risutlu
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-893.4.1 = {
-	culture = saimes
-}
-
+#History

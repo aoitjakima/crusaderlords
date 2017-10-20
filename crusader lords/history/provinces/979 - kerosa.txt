@@ -1,89 +1,15 @@
-	title = c_kerosa
-	max_settlements = 2
-	culture = banaila
-	religion = qiteka
-	b_ravabra = tribal
-203.3.1 = {
-	religion = terenat
-}
+# c_kerosa
 
-205.4.1 = {
-	culture = kitule
-}
+# County Title
+title = c_kerosa
 
-208.3.1 = {
-	religion = qiteka
-}
+# Settlements
+max_settlements = 1
 
-208.3.1 = {
-	religion = terenat
-}
+b_kerosa = castle
 
-212.4.1 = {
-	culture = qerosa
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-217.3.1 = {
-	religion = qiteka
-}
-
-222.3.1 = {
-	religion = terenat
-}
-
-231.3.1 = {
-	religion = qiteka
-}
-
-236.3.1 = {
-	religion = begeka
-}
-
-241.4.1 = {
-	culture = banaila
-}
-
-242.3.1 = {
-	religion = qiteka
-}
-
-244.3.1 = {
-	religion = begeka
-}
-
-245.3.1 = {
-	religion = qiteka
-}
-
-250.3.1 = {
-	religion = begeka
-}
-
-271.3.1 = {
-	religion = qiteka
-}
-
-273.3.1 = {
-	religion = begeka
-}
-
-282.3.1 = {
-	religion = qiteka
-}
-
-284.3.1 = {
-	religion = begeka
-}
-
-475.4.1 = {
-	culture = kitule
-}
-
-605.4.1 = {
-	b_ravabra = castle
-}
-
-765.4.1 = {
-	b_adreina = city
-}
-
+#History

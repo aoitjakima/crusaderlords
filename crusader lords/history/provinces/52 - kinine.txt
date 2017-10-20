@@ -1,17 +1,18 @@
-	title = c_kinine
-	max_settlements = 2
-	culture = biho
-	religion = tonuyu
-	b_buziho = tribal
-1.1.1 = {
-	b_resahus = ct_port_1
-}
+# c_kinine
 
-847.4.1 = {
-	b_buziho = castle
-}
+# County Title
+title = c_kinine
 
-883.4.1 = {
-	b_resahus = city
-}
+# Settlements
+max_settlements = 4
 
+b_quiauhxochitl = temple
+#b_kinine = city
+#b_kinine_2 = temple
+#b_kinine_3 = castle
+
+# Misc
+culture = druchi
+religion = kirothian
+
+#History

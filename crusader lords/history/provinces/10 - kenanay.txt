@@ -1,25 +1,21 @@
-	title = c_kenanay
-	max_settlements = 3
-	culture = selalya
-	religion = aratihr
-	b_ragujku = tribal
-327.4.1 = {
-	culture = wubihr
-}
+# c_kenanay
 
-424.4.1 = {
-	culture = selalya
-}
+# County Title
+title = c_kenanay
 
-670.4.1 = {
-	b_ragujku = castle
-}
+# Settlements
+max_settlements = 7
 
-780.4.1 = {
-	b_ledihr = temple
-}
+b_giurbo = city
+b_versisi = city
+b_remini = temple
+#b_kenanay = castle
+#b_kenanay_2 = city
+#b_kenanay_3 = temple
+#b_kenanay_4 = castle
 
-869.4.1 = {
-	b_dinulay = city
-}
+# Misc
+culture = estazi_culture1
+religion = estazi_faith
 
+#History

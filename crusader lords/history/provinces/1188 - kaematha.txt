@@ -1,37 +1,17 @@
-	title = c_kaematha
-	max_settlements = 6
-	culture = radabor
-	religion = tonuyu
-	b_sakabra = tribal
-257.4.1 = {
-	culture = wenira
-}
+# c_kaematha
 
-263.4.1 = {
-	culture = radabor
-}
+# County Title
+title = c_kaematha
 
-730.4.1 = {
-	b_sakabra = castle
-}
+# Settlements
+max_settlements = 3
 
-809.4.1 = {
-	b_kudony = temple
-}
+b_kaematha = castle
+b_kaematha_2 = city
+b_kaematha_3 = temple
 
-872.4.1 = {
-	b_kuareda = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-923.4.1 = {
-	b_wudira = castle
-}
-
-978.4.1 = {
-	b_baysony = temple
-}
-
-1022.4.1 = {
-	b_agilira = castle
-}
-
+#History

@@ -1,45 +1,20 @@
-	title = c_koraam
-	max_settlements = 3
-	culture = tudatha
-	religion = worelen
-	b_eflaam = tribal
-1.1.1 = {
-	b_keteya = ct_port_1
-}
+# c_koraam
 
-203.3.1 = {
-	religion = tonuyu
-}
+# County Title
+title = c_koraam
 
-212.3.1 = {
-	religion = worelen
-}
+# Settlements
+max_settlements = 6
 
-213.3.1 = {
-	religion = tonuyu
-}
+b_tel_khahdad = temple
+b_al_diwatbah = city
+b_dihojaf = temple
+#b_koraam = castle
+#b_koraam_2 = city
+#b_koraam_3 = temple
 
-244.4.1 = {
-	culture = tiwics
-}
+# Misc
+culture = kiroth
+religion = kirothian
 
-546.4.1 = {
-	culture = keraam
-}
-
-553.4.1 = {
-	culture = tiwics
-}
-
-670.4.1 = {
-	b_eflaam = castle
-}
-
-805.4.1 = {
-	b_tasaam = temple
-}
-
-892.4.1 = {
-	b_keteya = city
-}
-
+#History

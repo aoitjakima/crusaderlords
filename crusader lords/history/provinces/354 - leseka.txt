@@ -1,29 +1,15 @@
-	title = c_leseka
-	max_settlements = 3
-	culture = syahes
-	religion = neharis
-	b_taimily = tribal
-283.4.1 = {
-	culture = amuhopti
-}
+# c_leseka
 
-320.4.1 = {
-	culture = syahes
-}
+# County Title
+title = c_leseka
 
-322.4.1 = {
-	culture = amuhopti
-}
+# Settlements
+max_settlements = 1
 
-451.4.1 = {
-	culture = syahes
-}
+b_leseka = castle
 
-575.4.1 = {
-	b_taimily = castle
-}
+# Misc
+culture = bastian_rural
+religion = terrorian
 
-740.4.1 = {
-	b_kicadir = city
-}
-
+#History

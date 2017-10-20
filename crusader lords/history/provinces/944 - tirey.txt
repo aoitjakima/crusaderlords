@@ -1,45 +1,15 @@
-	title = c_tirey
-	max_settlements = 4
-	culture = waetutlu
-	religion = qiteka
-	b_teleyo = tribal
-201.3.1 = {
-	religion = terenat
-}
+# c_tirey
 
-203.4.1 = {
-	culture = durga
-}
+# County Title
+title = c_tirey
 
-203.3.1 = {
-	religion = qiteka
-}
+# Settlements
+max_settlements = 1
 
-210.4.1 = {
-	culture = waetutlu
-}
+b_tirey = castle
 
-335.4.1 = {
-	culture = risutlu
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-500.4.1 = {
-	b_teleyo = castle
-}
-
-620.4.1 = {
-	b_akirada = city
-}
-
-734.4.1 = {
-	culture = saimes
-}
-
-830.4.1 = {
-	b_tyevery = temple
-}
-
-892.4.1 = {
-	b_kyevacob = castle
-}
-
+#History

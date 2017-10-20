@@ -1,13 +1,15 @@
-	title = c_bosan
-	max_settlements = 2
-	culture = taroman
-	religion = nukaye
-	b_qurimii = tribal
-236.4.1 = {
-	culture = qariyah
-}
+# c_bosan
 
-1012.4.1 = {
-	b_qurimii = castle
-}
+# County Title
+title = c_bosan
 
+# Settlements
+max_settlements = 1
+
+b_bosan = castle
+
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
+
+#History

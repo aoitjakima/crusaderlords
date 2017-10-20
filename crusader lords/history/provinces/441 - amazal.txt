@@ -1,29 +1,15 @@
-	title = c_amazal
-	max_settlements = 4
-	culture = karibel
-	religion = neharis
-	b_savre = tribal
-248.4.1 = {
-	culture = nitindik
-}
+# c_amazal
 
-540.4.1 = {
-	b_savre = castle
-}
+# County Title
+title = c_amazal
 
-690.4.1 = {
-	b_rasijne = city
-}
+# Settlements
+max_settlements = 1
 
-835.4.1 = {
-	b_tazata = temple
-}
+b_amazal = castle
 
-859.4.1 = {
-	culture = syahes
-}
+# Misc
+culture = bastia_city
+religion = terrorian
 
-881.4.1 = {
-	b_wyeker = temple
-}
-
+#History

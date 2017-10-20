@@ -1,0 +1,17 @@
+#KIR-KO
+technology = {
+	titles = {
+		d_wepevag
+		d_lecase
+	}
+	501 = {
+		military = 1.3
+		economy = 1.3
+		culture = 1.3
+	}
+	1426 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

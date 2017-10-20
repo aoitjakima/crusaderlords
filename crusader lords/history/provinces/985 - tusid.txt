@@ -1,41 +1,15 @@
-	title = c_tusid
-	max_settlements = 7
-	culture = waetutlu
-	religion = qiteka
-	b_latohcobob = tribal
-1.1.1 = {
-	b_toveroe = ct_port_1
-}
+# c_tusid
 
-317.4.1 = {
-	culture = risutlu
-}
+# County Title
+title = c_tusid
 
-505.4.1 = {
-	b_latohcobob = castle
-}
+# Settlements
+max_settlements = 1
 
-620.4.1 = {
-	b_toveroe = city
-}
+b_tusid = castle
 
-787.4.1 = {
-	culture = saimes
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-836.4.1 = {
-	b_qilivi = temple
-}
-
-909.4.1 = {
-	b_qohodar = castle
-}
-
-976.4.1 = {
-	b_lenows = temple
-}
-
-1022.4.1 = {
-	b_qilows = castle
-}
-
+#History

@@ -1,33 +1,15 @@
-	title = c_ramayya
-	max_settlements = 3
-	culture = namyan
-	religion = telayira
-	b_rahule = tribal
-266.4.1 = {
-	culture = koumas
-}
+# c_ramayya
 
-510.4.1 = {
-	culture = lopher
-}
+# County Title
+title = c_ramayya
 
-523.4.1 = {
-	culture = koumas
-}
+# Settlements
+max_settlements = 1
 
-595.4.1 = {
-	b_rahule = castle
-}
+b_ramayya = castle
 
-760.4.1 = {
-	b_kishule = temple
-}
+# Misc
+culture = swamp_avasian
+religion = terrorian
 
-876.4.1 = {
-	b_nicong = city
-}
-
-931.4.1 = {
-	culture = lopher
-}
-
+#History

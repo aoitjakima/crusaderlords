@@ -1,9 +1,15 @@
-	title = c_dusyan
-	max_settlements = 3
-	culture = tasule
-	religion = kusran
-	b_weva = tribal
-345.4.1 = {
-	culture = abajule
-}
+# c_dusyan
 
+# County Title
+title = c_dusyan
+
+# Settlements
+max_settlements = 1
+
+b_dusyan = castle
+
+# Misc
+culture = swamp_avasian
+religion = terrorian
+
+#History

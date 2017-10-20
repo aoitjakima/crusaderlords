@@ -1,9 +1,15 @@
-	title = c_bahens
-	max_settlements = 3
-	culture = waynald
-	religion = wedwig
-	b_nahava = tribal
-932.4.1 = {
-	b_nahava = castle
-}
+# c_bahens
 
+# County Title
+title = c_bahens
+
+# Settlements
+max_settlements = 1
+
+b_kwidzyn = castle
+
+# Misc
+culture = niefhiem_lake
+religion = terrorian
+
+#History

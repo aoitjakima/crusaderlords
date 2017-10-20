@@ -1,25 +1,15 @@
-	title = c_savmii
-	max_settlements = 2
-	culture = sigivkah
-	religion = kusran
-	b_dahiacik = tribal
-214.4.1 = {
-	culture = ketamma
-}
+# c_savmii
 
-248.4.1 = {
-	culture = sigivkah
-}
+# County Title
+title = c_savmii
 
-256.4.1 = {
-	culture = ketamma
-}
+# Settlements
+max_settlements = 1
 
-880.4.1 = {
-	b_dahiacik = castle
-}
+b_savmii = castle
 
-926.4.1 = {
-	b_layigul = temple
-}
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
 
+#History

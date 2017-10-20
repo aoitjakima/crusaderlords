@@ -1,33 +1,15 @@
-	title = c_ropher
-	max_settlements = 2
-	culture = laaug
-	religion = telayira
-	b_nobita = tribal
-216.4.1 = {
-	culture = ritiatou
-}
+# c_ropher
 
-300.4.1 = {
-	culture = koumas
-}
+# County Title
+title = c_ropher
 
-531.4.1 = {
-	culture = lopher
-}
+# Settlements
+max_settlements = 1
 
-539.4.1 = {
-	culture = koumas
-}
+b_ropher = castle
 
-710.4.1 = {
-	b_nobita = castle
-}
+# Misc
+culture = swamp_avasian
+religion = terrorian
 
-816.4.1 = {
-	b_sitore = city
-}
-
-867.4.1 = {
-	culture = lopher
-}
-
+#History

@@ -1,29 +1,21 @@
-	title = c_koka
-	max_settlements = 5
-	culture = eshunpal
-	religion = neharis
-	b_karata = tribal
-1.1.1 = {
-	b_ludeya = ct_port_1
-}
+# c_koka
 
-822.4.1 = {
-	b_karata = castle
-}
+# County Title
+title = c_koka
 
-851.4.1 = {
-	b_eshunpal = temple
-}
+# Settlements
+max_settlements = 7
 
-925.4.1 = {
-	b_ludeya = city
-}
+b_caguna = city
+b_badagrono = city
+b_vires = temple
+#b_koka = castle
+#b_koka_2 = city
+#b_koka_3 = temple
+#b_koka_4 = castle
 
-1000.4.1 = {
-	b_sareya = temple
-}
+# Misc
+culture = estazi_culture2
+religion = estazi_faith
 
-1059.4.1 = {
-	b_napala = temple
-}
-
+#History

@@ -1,57 +1,15 @@
-	title = c_egadron
-	max_settlements = 2
-	culture = qindik
-	religion = neharis
-	b_tisaila = tribal
-205.4.1 = {
-	culture = daimeig
-}
+# c_egadron
 
-214.3.1 = {
-	religion = wedwig
-}
+# County Title
+title = c_egadron
 
-215.3.1 = {
-	religion = neharis
-}
+# Settlements
+max_settlements = 1
 
-239.4.1 = {
-	culture = qindik
-}
+b_egadron = castle
 
-286.4.1 = {
-	culture = syahes
-}
+# Misc
+culture = niefhiem_forrest
+religion = terrorian
 
-290.4.1 = {
-	culture = qindik
-}
-
-318.4.1 = {
-	culture = amuhopti
-}
-
-320.4.1 = {
-	culture = syahes
-}
-
-362.4.1 = {
-	culture = qindik
-}
-
-404.4.1 = {
-	culture = amuhopti
-}
-
-428.4.1 = {
-	culture = syahes
-}
-
-615.4.1 = {
-	b_tisaila = castle
-}
-
-710.4.1 = {
-	b_tatoto = city
-}
-
+#History

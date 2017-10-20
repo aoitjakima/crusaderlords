@@ -1,33 +1,15 @@
-	title = c_kusidia
-	max_settlements = 4
-	culture = ebeina
-	religion = qiteka
-	b_lelacob = tribal
-1.1.1 = {
-	b_solrrensalussa = ct_port_1
-}
+# c_kusidia
 
-339.4.1 = {
-	culture = risutlu
-}
+# County Title
+title = c_kusidia
 
-500.4.1 = {
-	b_lelacob = castle
-}
+# Settlements
+max_settlements = 1
 
-650.4.1 = {
-	b_solrrensalussa = city
-}
+b_kusidia = castle
 
-729.4.1 = {
-	culture = saimes
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-832.4.1 = {
-	b_qiatuscobule = temple
-}
-
-889.4.1 = {
-	b_weusid = castle
-}
-
+#History

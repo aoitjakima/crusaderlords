@@ -1,125 +1,15 @@
-	title = c_raulrus
-	max_settlements = 5
-	culture = koumas
-	religion = telayira
-	b_riclic = tribal
-205.3.1 = {
-	religion = kusran
-}
+# c_raulrus
 
-209.3.1 = {
-	religion = telayira
-}
+# County Title
+title = c_raulrus
 
-214.3.1 = {
-	religion = kusran
-}
+# Settlements
+max_settlements = 1
 
-217.4.1 = {
-	culture = lopher
-}
+b_raulrus = castle
 
-217.3.1 = {
-	religion = telayira
-}
+# Misc
+culture = swamp_avasian
+religion = terrorian
 
-223.3.1 = {
-	religion = kusran
-}
-
-224.3.1 = {
-	religion = telayira
-}
-
-228.4.1 = {
-	culture = disinos
-}
-
-242.3.1 = {
-	religion = kusran
-}
-
-245.3.1 = {
-	religion = telayira
-}
-
-246.4.1 = {
-	culture = lopher
-}
-
-253.3.1 = {
-	religion = kusran
-}
-
-254.3.1 = {
-	religion = telayira
-}
-
-256.3.1 = {
-	religion = kusran
-}
-
-257.3.1 = {
-	religion = telayira
-}
-
-265.3.1 = {
-	religion = kusran
-}
-
-265.3.1 = {
-	religion = telayira
-}
-
-266.3.1 = {
-	religion = kusran
-}
-
-275.3.1 = {
-	religion = telayira
-}
-
-282.3.1 = {
-	religion = kusran
-}
-
-284.3.1 = {
-	religion = telayira
-}
-
-285.3.1 = {
-	religion = kusran
-}
-
-292.3.1 = {
-	religion = telayira
-}
-
-595.4.1 = {
-	b_riclic = castle
-}
-
-635.4.1 = {
-	culture = koumas
-}
-
-730.4.1 = {
-	b_apusayya = city
-}
-
-850.4.1 = {
-	b_loumas = temple
-}
-
-915.4.1 = {
-	b_epusule = castle
-}
-
-982.4.1 = {
-	b_esuden = castle
-}
-
-993.4.1 = {
-	culture = lopher
-}
-
+#History

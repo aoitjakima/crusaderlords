@@ -1,21 +1,18 @@
-	title = c_netadra
-	max_settlements = 3
-	culture = reusadra
-	religion = tonuyu
-	b_araurabra = tribal
-267.4.1 = {
-	culture = tiwics
-}
+# c_netadra
 
-898.4.1 = {
-	b_araurabra = castle
-}
+# County Title
+title = c_netadra
 
-932.4.1 = {
-	b_epetabra = city
-}
+# Settlements
+max_settlements = 4
 
-995.4.1 = {
-	b_berabra = temple
-}
+b_safmeir = temple
+#b_al_annardah = city
+#b_al_bahludiyah = temple
+#b_netadra = castle
 
+# Misc
+culture = kiroth
+religion = kirothian
+
+#History

@@ -1,37 +1,17 @@
-	title = c_qinappa
-	max_settlements = 7
-	culture = wabuzhi
-	religion = tonuyu
-	b_ecenala = tribal
-1.1.1 = {
-	b_tasappa = ct_port_1
-}
+# c_qinappa
 
-204.4.1 = {
-	culture = budandev
-}
+# County Title
+title = c_qinappa
 
-230.4.1 = {
-	culture = wabuzhi
-}
+# Settlements
+max_settlements = 3
 
-477.4.1 = {
-	culture = budandev
-}
+b_qinappa = castle
+b_qinappa_2 = city
+b_qinappa_3 = temple
 
-840.4.1 = {
-	b_ecenala = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-871.4.1 = {
-	b_biacia = temple
-}
-
-971.4.1 = {
-	b_tasappa = city
-}
-
-1046.4.1 = {
-	b_liacala = city
-}
-
+#History

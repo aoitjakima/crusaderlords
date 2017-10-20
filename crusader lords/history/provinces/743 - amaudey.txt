@@ -1,37 +1,15 @@
-	title = c_amaudey
-	max_settlements = 6
-	culture = disinos
-	religion = kusran
-	b_dusipp = tribal
-632.3.1 = {
-	religion = qiteka
-}
+# c_amaudey
 
-640.4.1 = {
-	culture = risutlu
-}
+# County Title
+title = c_amaudey
 
-667.4.1 = {
-	culture = disinos
-}
+# Settlements
+max_settlements = 1
 
-873.4.1 = {
-	culture = risutlu
-}
+b_amaudey = castle
 
-883.4.1 = {
-	culture = saimes
-}
+# Misc
+culture = swamp_avasian
+religion = terrorian
 
-902.4.1 = {
-	culture = risutlu
-}
-
-958.4.1 = {
-	b_dusipp = castle
-}
-
-1002.4.1 = {
-	b_wavacob = temple
-}
-
+#History

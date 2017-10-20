@@ -1,49 +1,18 @@
-	title = c_lesine
-	max_settlements = 2
-	culture = rubiho
-	religion = tonuyu
-	b_bergia = tribal
-1.1.1 = {
-	b_apuline = ct_port_1
-}
+# c_lesine
 
-314.4.1 = {
-	culture = lodeid
-}
+# County Title
+title = c_lesine
 
-343.4.1 = {
-	culture = rubiho
-}
+# Settlements
+max_settlements = 4
 
-384.4.1 = {
-	culture = lodeid
-}
+b_itotia = castle
+b_momozliztli = city
+#b_lesine = temple
+#b_lesine_2 = castle
 
-411.4.1 = {
-	culture = rubiho
-}
+# Misc
+culture = druchi
+religion = kirothian
 
-420.4.1 = {
-	culture = lodeid
-}
-
-467.4.1 = {
-	culture = rubiho
-}
-
-476.4.1 = {
-	culture = lodeid
-}
-
-540.4.1 = {
-	culture = biho
-}
-
-846.4.1 = {
-	b_bergia = castle
-}
-
-882.4.1 = {
-	b_apuline = city
-}
-
+#History

@@ -1,17 +1,15 @@
-	title = c_kaipine
-	max_settlements = 2
-	culture = sigivkah
-	religion = kusran
-	b_ruleid = tribal
-303.3.1 = {
-	religion = qigiyah
-}
+# c_kaipine
 
-324.4.1 = {
-	culture = alaurine
-}
+# County Title
+title = c_kaipine
 
-982.4.1 = {
-	b_ruleid = castle
-}
+# Settlements
+max_settlements = 1
 
+b_kaipine = castle
+
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
+
+#History

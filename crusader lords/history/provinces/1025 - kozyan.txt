@@ -1,49 +1,15 @@
-	title = c_kozyan
-	max_settlements = 6
-	culture = taroman
-	religion = neharis
-	b_eqalilen = tribal
-201.3.1 = {
-	religion = raipi
-}
+# c_kozyan
 
-207.3.1 = {
-	religion = neharis
-}
+# County Title
+title = c_kozyan
 
-220.3.1 = {
-	religion = raipi
-}
+# Settlements
+max_settlements = 1
 
-235.3.1 = {
-	religion = neharis
-}
+b_kozyan = castle
 
-239.3.1 = {
-	religion = raipi
-}
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
 
-246.3.1 = {
-	religion = neharis
-}
-
-251.3.1 = {
-	religion = raipi
-}
-
-320.4.1 = {
-	culture = eluedsalh
-}
-
-340.4.1 = {
-	culture = sigivkah
-}
-
-880.4.1 = {
-	b_eqalilen = castle
-}
-
-927.4.1 = {
-	b_qabnae = temple
-}
-
+#History

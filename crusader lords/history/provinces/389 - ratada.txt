@@ -1,29 +1,15 @@
-	title = c_ratada
-	max_settlements = 3
-	culture = eluedsalh
-	religion = raipi
-	b_kolya = tribal
-406.4.1 = {
-	culture = sigivkah
-}
+# c_ratada
 
-574.4.1 = {
-	culture = eluedsalh
-}
+# County Title
+title = c_ratada
 
-642.4.1 = {
-	culture = sigivkah
-}
+# Settlements
+max_settlements = 1
 
-690.4.1 = {
-	b_kolya = castle
-}
+b_ratada = castle
 
-801.4.1 = {
-	b_aqoslatina = city
-}
+# Misc
+culture = niefhiem_forrest
+religion = terrorian
 
-853.4.1 = {
-	b_dina = temple
-}
-
+#History

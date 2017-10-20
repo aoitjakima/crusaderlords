@@ -1,25 +1,15 @@
-	title = c_qakaria
-	max_settlements = 2
-	culture = syahes
-	religion = neharis
-	b_navith = tribal
-285.4.1 = {
-	culture = sodinia
-}
+# c_qakaria
 
-298.4.1 = {
-	culture = syahes
-}
+# County Title
+title = c_qakaria
 
-331.4.1 = {
-	culture = sodinia
-}
+# Settlements
+max_settlements = 1
 
-580.4.1 = {
-	b_navith = castle
-}
+b_qakaria = castle
 
-700.4.1 = {
-	b_lyugouwe = city
-}
+# Misc
+culture = bastia_city
+religion = terrorian
 
+#History

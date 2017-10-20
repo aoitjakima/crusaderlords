@@ -1,41 +1,15 @@
-	title = c_namarilip
-	max_settlements = 2
-	culture = ruraura
-	religion = qiteka
-	b_adavurga = tribal
-203.3.1 = {
-	religion = terenat
-}
+# c_namarilip
 
-236.3.1 = {
-	religion = begeka
-}
+# County Title
+title = c_namarilip
 
-273.4.1 = {
-	culture = banaila
-}
+# Settlements
+max_settlements = 1
 
-285.4.1 = {
-	culture = ruraura
-}
+b_namarilip = castle
 
-293.4.1 = {
-	culture = kitule
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-357.4.1 = {
-	culture = banaila
-}
-
-405.4.1 = {
-	culture = kitule
-}
-
-520.4.1 = {
-	b_adavurga = castle
-}
-
-640.4.1 = {
-	b_boanuel = temple
-}
-
+#History

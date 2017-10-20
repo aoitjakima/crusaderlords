@@ -1,53 +1,15 @@
-	title = c_teses
-	max_settlements = 3
-	culture = narentiy
-	religion = neharis
-	b_bitlakeges = tribal
-263.4.1 = {
-	culture = syahes
-}
+# c_teses
 
-286.4.1 = {
-	culture = amuhopti
-}
+# County Title
+title = c_teses
 
-291.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 1
 
-296.4.1 = {
-	culture = amuhopti
-}
+b_teses = castle
 
-320.4.1 = {
-	culture = syahes
-}
+# Misc
+culture = bastian_rural
+religion = terrorian
 
-323.4.1 = {
-	culture = amuhopti
-}
-
-370.4.1 = {
-	culture = syahes
-}
-
-415.4.1 = {
-	culture = amuhopti
-}
-
-450.4.1 = {
-	culture = syahes
-}
-
-555.4.1 = {
-	b_bitlakeges = castle
-}
-
-680.4.1 = {
-	b_disando = temple
-}
-
-851.4.1 = {
-	b_neglares = city
-}
-
+#History

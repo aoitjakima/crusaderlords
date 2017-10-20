@@ -1,21 +1,15 @@
-	title = c_nateorn
-	max_settlements = 2
-	culture = nuteria
-	religion = raipi
-	b_diana = tribal
-228.4.1 = {
-	culture = eluedsalh
-}
+# c_nateorn
 
-565.4.1 = {
-	culture = sigivkah
-}
+# County Title
+title = c_nateorn
 
-645.4.1 = {
-	b_diana = castle
-}
+# Settlements
+max_settlements = 1
 
-801.4.1 = {
-	b_kii = city
-}
+b_nateorn = castle
 
+# Misc
+culture = niefhiem_lake
+religion = terrorian
+
+#History

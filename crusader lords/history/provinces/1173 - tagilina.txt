@@ -1,21 +1,18 @@
-	title = c_tagilina
-	max_settlements = 2
-	culture = ahenatha
-	religion = tonuyu
-	b_senira = tribal
-203.3.1 = {
-	religion = worelen
-}
+# c_tagilina
 
-205.4.1 = {
-	culture = nalaam
-}
+# County Title
+title = c_tagilina
 
-650.4.1 = {
-	b_senira = castle
-}
+# Settlements
+max_settlements = 4
 
-745.4.1 = {
-	b_taysodonra = temple
-}
+b_shellthorn = castle
+b_forgerest = city
+#b_ghosford = temple
+#b_boonton = castle
 
+# Misc
+culture = kiroth
+religion = kirothian
+
+#History

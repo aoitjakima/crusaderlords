@@ -1,61 +1,15 @@
-	title = c_ebaila
-	max_settlements = 2
-	culture = remis
-	religion = raipi
-	b_niyaed = tribal
-201.4.1 = {
-	culture = eluedsalh
-}
+# c_ebaila
 
-232.4.1 = {
-	culture = sigivkah
-}
+# County Title
+title = c_ebaila
 
-233.3.1 = {
-	religion = kusran
-}
+# Settlements
+max_settlements = 1
 
-239.3.1 = {
-	religion = raipi
-}
+b_ebaila = castle
 
-241.3.1 = {
-	religion = kusran
-}
+# Misc
+culture = niefhiem_lake
+religion = terrorian
 
-251.3.1 = {
-	religion = raipi
-}
-
-252.3.1 = {
-	religion = kusran
-}
-
-254.3.1 = {
-	religion = raipi
-}
-
-291.4.1 = {
-	culture = eluedsalh
-}
-
-325.4.1 = {
-	culture = sigivkah
-}
-
-585.4.1 = {
-	culture = eluedsalh
-}
-
-593.4.1 = {
-	culture = sigivkah
-}
-
-645.4.1 = {
-	b_niyaed = castle
-}
-
-800.4.1 = {
-	b_tatey = city
-}
-
+#History

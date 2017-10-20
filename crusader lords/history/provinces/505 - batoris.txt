@@ -1,61 +1,15 @@
-	title = c_batoris
-	max_settlements = 2
-	culture = kapti
-	religion = kusran
-	b_telreldad = tribal
-200.3.1 = {
-	religion = raipi
-}
+# c_batoris
 
-208.3.1 = {
-	religion = wedwig
-}
+# County Title
+title = c_batoris
 
-214.3.1 = {
-	religion = raipi
-}
+# Settlements
+max_settlements = 1
 
-218.4.1 = {
-	culture = kaureid
-}
+b_batoris = castle
 
-219.3.1 = {
-	religion = wedwig
-}
+# Misc
+culture = niefhiem_forrest
+religion = terrorian
 
-222.3.1 = {
-	religion = kusran
-}
-
-230.3.1 = {
-	religion = raipi
-}
-
-234.3.1 = {
-	religion = kusran
-}
-
-242.3.1 = {
-	religion = raipi
-}
-
-244.3.1 = {
-	religion = kusran
-}
-
-254.3.1 = {
-	religion = raipi
-}
-
-259.4.1 = {
-	culture = kapti
-}
-
-725.4.1 = {
-	b_telreldad = castle
-}
-
-817.4.1 = {
-	b_repaila = city
-}
-
+#History

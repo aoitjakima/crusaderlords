@@ -1,25 +1,15 @@
-	title = c_egisolas
-	max_settlements = 7
-	culture = syahes
-	religion = neharis
-	b_tanolas = tribal
-421.4.1 = {
-	culture = amuhopti
-}
+# c_egisolas
 
-451.4.1 = {
-	culture = syahes
-}
+# County Title
+title = c_egisolas
 
-555.4.1 = {
-	b_tanolas = castle
-}
+# Settlements
+max_settlements = 1
 
-675.4.1 = {
-	b_taimeka = temple
-}
+b_egisolas = castle
 
-940.4.1 = {
-	b_laimes = city
-}
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
 
+#History

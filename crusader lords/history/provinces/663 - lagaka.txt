@@ -1,9 +1,15 @@
-	title = c_lagaka
-	max_settlements = 3
-	culture = disinos
-	religion = kusran
-	b_baoike = tribal
-242.4.1 = {
-	culture = abajule
-}
+# c_lagaka
 
+# County Title
+title = c_lagaka
+
+# Settlements
+max_settlements = 1
+
+b_lagaka = castle
+
+# Misc
+culture = niefhiem_lake
+religion = terrorian
+
+#History

@@ -1,33 +1,17 @@
-	title = c_quarira
-	max_settlements = 2
-	culture = budandev
-	religion = tonuyu
-	b_ejakatti = tribal
-257.4.1 = {
-	culture = wenira
-}
+# c_quarira
 
-262.4.1 = {
-	culture = budandev
-}
+# County Title
+title = c_quarira
 
-282.4.1 = {
-	culture = wenira
-}
+# Settlements
+max_settlements = 3
 
-311.4.1 = {
-	culture = budandev
-}
+b_quarira = castle
+b_quarira_2 = city
+b_quarira_3 = temple
 
-348.4.1 = {
-	culture = radabor
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-730.4.1 = {
-	b_ejakatti = castle
-}
-
-841.4.1 = {
-	b_naloran = city
-}
-
+#History

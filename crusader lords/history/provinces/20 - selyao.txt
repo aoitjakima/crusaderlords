@@ -1,37 +1,21 @@
-	title = c_selyao
-	max_settlements = 6
-	culture = laris
-	religion = aratihr
-	b_waiktas = tribal
-1.1.1 = {
-	b_satihar = ct_port_1
-}
+# c_selyao
 
-356.4.1 = {
-	culture = wubihr
-}
+# County Title
+title = c_selyao
 
-365.4.1 = {
-	culture = selalya
-}
+# Settlements
+max_settlements = 7
 
-680.4.1 = {
-	b_waiktas = castle
-}
+b_pabes = city
+b_ieradri = city
+b_preverni = temple
+#b_selyao = castle
+#b_selyao_2 = city
+#b_selyao_3 = temple
+#b_selyao_4 = castle
 
-806.4.1 = {
-	b_satihar = city
-}
+# Misc
+culture = estazi_culture3
+religion = estazi_faith
 
-897.4.1 = {
-	b_qinalya = temple
-}
-
-979.4.1 = {
-	b_kyouz = city
-}
-
-1054.4.1 = {
-	b_satujku = temple
-}
-
+#History

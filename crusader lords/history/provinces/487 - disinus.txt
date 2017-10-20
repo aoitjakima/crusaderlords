@@ -1,41 +1,15 @@
-	title = c_disinus
-	max_settlements = 5
-	culture = karibel
-	religion = neharis
-	b_kaimily = tribal
-248.4.1 = {
-	culture = nitindik
-}
+# c_disinus
 
-540.4.1 = {
-	b_kaimily = castle
-}
+# County Title
+title = c_disinus
 
-635.4.1 = {
-	b_asicando = temple
-}
+# Settlements
+max_settlements = 1
 
-836.4.1 = {
-	b_anotafu = city
-}
+b_hochstaden = castle
 
-866.4.1 = {
-	culture = syahes
-}
+# Misc
+culture = bastia_city
+religion = terrorian
 
-905.4.1 = {
-	b_negadir = city
-}
-
-915.4.1 = {
-	culture = nitindik
-}
-
-953.4.1 = {
-	culture = syahes
-}
-
-966.4.1 = {
-	b_apeses = city
-}
-
+#History

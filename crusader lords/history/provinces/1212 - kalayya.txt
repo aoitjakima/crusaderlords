@@ -1,41 +1,17 @@
-	title = c_kalayya
-	max_settlements = 2
-	culture = qenoos
-	religion = binuyu
-	b_sonayya = tribal
-201.3.1 = {
-	religion = tonuyu
-}
+# c_kalayya
 
-212.3.1 = {
-	religion = binuyu
-}
+# County Title
+title = c_kalayya
 
-217.3.1 = {
-	religion = tonuyu
-}
+# Settlements
+max_settlements = 3
 
-278.4.1 = {
-	culture = ranahim
-}
+b_kalayya = castle
+b_kalayya_2 = city
+b_kalayya_3 = temple
 
-303.4.1 = {
-	culture = qenoos
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-549.4.1 = {
-	culture = ranahim
-}
-
-807.4.1 = {
-	culture = qenoos
-}
-
-868.4.1 = {
-	b_sonayya = castle
-}
-
-912.4.1 = {
-	b_arala = temple
-}
-
+#History

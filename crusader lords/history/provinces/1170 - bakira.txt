@@ -1,25 +1,17 @@
-	title = c_bakira
-	max_settlements = 7
-	culture = wenira
-	religion = tonuyu
-	b_ehenoran = tribal
-1.1.1 = {
-	b_silina = ct_port_1
-}
+# c_bakira
 
-337.4.1 = {
-	culture = radabor
-}
+# County Title
+title = c_bakira
 
-802.4.1 = {
-	b_ehenoran = castle
-}
+# Settlements
+max_settlements = 3
 
-841.4.1 = {
-	b_dicrandayrasicbor = temple
-}
+b_bakira = castle
+b_bakira_2 = city
+b_bakira_3 = temple
 
-951.4.1 = {
-	b_silina = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

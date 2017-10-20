@@ -1,37 +1,18 @@
-	title = c_kutine
-	max_settlements = 4
-	culture = keusaam
-	religion = tonuyu
-	b_sikimur = tribal
-266.4.1 = {
-	culture = nalaam
-}
+# c_kutine
 
-284.4.1 = {
-	culture = tiwics
-}
+# County Title
+title = c_kutine
 
-293.4.1 = {
-	culture = nalaam
-}
+# Settlements
+max_settlements = 4
 
-300.4.1 = {
-	culture = tiwics
-}
+b_el_gamasna = temple
+#b_al_kanaghada = city
+#b_sumuqiya = temple
+#b_kutine = castle
 
-391.4.1 = {
-	culture = nalaam
-}
+# Misc
+culture = kir-ko
+religion = kirian
 
-437.4.1 = {
-	culture = tiwics
-}
-
-444.4.1 = {
-	culture = nalaam
-}
-
-538.4.1 = {
-	culture = tiwics
-}
-
+#History

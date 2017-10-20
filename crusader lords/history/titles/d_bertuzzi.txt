@@ -1,0 +1,7 @@
+# d_bertuzzi
+500.1.1={
+ holder = 1057216
+
+	law = agnatic_succession
+	law = succ_gavelkind
+}

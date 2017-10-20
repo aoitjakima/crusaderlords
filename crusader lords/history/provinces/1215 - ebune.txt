@@ -1,29 +1,17 @@
-	title = c_ebune
-	max_settlements = 5
-	culture = lyarala
-	religion = tonuyu
-	b_waziks = tribal
-221.4.1 = {
-	culture = budandev
-}
+# c_ebune
 
-822.4.1 = {
-	b_waziks = castle
-}
+# County Title
+title = c_ebune
 
-853.4.1 = {
-	b_tegya = temple
-}
+# Settlements
+max_settlements = 3
 
-916.4.1 = {
-	b_naxae = city
-}
+b_ebune = castle
+b_ebune_2 = city
+b_ebune_3 = temple
 
-963.4.1 = {
-	b_tosae = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-1009.4.1 = {
-	b_telya = temple
-}
-
+#History

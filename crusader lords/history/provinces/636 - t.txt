@@ -1,33 +1,15 @@
-	title = c_t
-	max_settlements = 2
-	culture = ricqa
-	religion = kusran
-	b_bahenus = tribal
-200.3.1 = {
-	religion = raipi
-}
+# c_t
 
-209.3.1 = {
-	religion = kusran
-}
+# County Title
+title = c_t
 
-214.3.1 = {
-	religion = raipi
-}
+# Settlements
+max_settlements = 1
 
-240.4.1 = {
-	culture = kaureid
-}
+b_t = castle
 
-516.4.1 = {
-	culture = kapti
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-655.4.1 = {
-	b_bahenus = castle
-}
-
-800.4.1 = {
-	b_kidey = city
-}
-
+#History

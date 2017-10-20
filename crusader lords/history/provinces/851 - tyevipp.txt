@@ -1,33 +1,15 @@
-	title = c_tyevipp
-	max_settlements = 4
-	culture = risutlu
-	religion = qiteka
-	b_direy = tribal
-246.4.1 = {
-	culture = waetutlu
-}
+# c_tyevipp
 
-401.4.1 = {
-	culture = risutlu
-}
+# County Title
+title = c_tyevipp
 
-505.4.1 = {
-	b_direy = castle
-}
+# Settlements
+max_settlements = 1
 
-645.4.1 = {
-	b_edyos = city
-}
+b_tyevipp = castle
 
-834.4.1 = {
-	b_tirodar = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-898.4.1 = {
-	b_raudid = temple
-}
-
-999.4.1 = {
-	culture = saimes
-}
-
+#History

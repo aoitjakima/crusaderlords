@@ -1,33 +1,17 @@
-	title = c_deladai
-	max_settlements = 4
-	culture = lyarala
-	religion = tonuyu
-	b_ataxpenazko = tribal
-201.4.1 = {
-	culture = radabor
-}
+# c_deladai
 
-257.4.1 = {
-	culture = wenira
-}
+# County Title
+title = c_deladai
 
-263.4.1 = {
-	culture = radabor
-}
+# Settlements
+max_settlements = 3
 
-811.4.1 = {
-	b_ataxpenazko = castle
-}
+b_deladai = castle
+b_deladai_2 = city
+b_deladai_3 = temple
 
-833.4.1 = {
-	b_razabae = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-894.4.1 = {
-	b_bira = city
-}
-
-942.4.1 = {
-	b_regudo = castle
-}
-
+#History

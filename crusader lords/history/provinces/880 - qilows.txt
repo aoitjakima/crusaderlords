@@ -1,33 +1,15 @@
-	title = c_qilows
-	max_settlements = 3
-	culture = risutlu
-	religion = qiteka
-	b_kyevivi = tribal
-1.1.1 = {
-	b_arusiby = ct_port_1
-}
+# c_qilows
 
-246.4.1 = {
-	culture = waetutlu
-}
+# County Title
+title = c_qilows
 
-401.4.1 = {
-	culture = risutlu
-}
+# Settlements
+max_settlements = 1
 
-505.4.1 = {
-	b_kyevivi = castle
-}
+b_qilows = castle
 
-675.4.1 = {
-	b_arusiby = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-841.4.1 = {
-	b_neusid = temple
-}
-
-999.4.1 = {
-	culture = saimes
-}
-
+#History

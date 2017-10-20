@@ -1,13 +1,15 @@
-	title = c_qunes
-	max_settlements = 3
-	culture = syahes
-	religion = neharis
-	b_ticolas = tribal
-575.4.1 = {
-	b_ticolas = castle
-}
+# c_qunes
 
-745.4.1 = {
-	b_elanily = city
-}
+# County Title
+title = c_qunes
 
+# Settlements
+max_settlements = 1
+
+b_qunes = castle
+
+# Misc
+culture = niefhiem_forrest
+religion = terrorian
+
+#History

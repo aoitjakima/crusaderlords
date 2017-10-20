@@ -1,9 +1,15 @@
-	title = c_ruhens
-	max_settlements = 5
-	culture = waynald
-	religion = wedwig
-	b_barestahs = tribal
-1048.4.1 = {
-	b_barestahs = castle
-}
+# c_ruhens
 
+# County Title
+title = c_ruhens
+
+# Settlements
+max_settlements = 1
+
+b_ruhens = castle
+
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
+
+#History

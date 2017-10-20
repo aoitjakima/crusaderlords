@@ -1,29 +1,17 @@
-	title = c_keduga
-	max_settlements = 2
-	culture = radabor
-	religion = tonuyu
-	b_dededa = tribal
-217.4.1 = {
-	culture = wenira
-}
+# c_keduga
 
-265.4.1 = {
-	culture = radabor
-}
+# County Title
+title = c_keduga
 
-270.4.1 = {
-	culture = wenira
-}
+# Settlements
+max_settlements = 3
 
-336.4.1 = {
-	culture = radabor
-}
+b_keduga = castle
+b_keduga_2 = city
+b_keduga_3 = temple
 
-715.4.1 = {
-	b_dededa = castle
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-824.4.1 = {
-	b_ruduga = city
-}
-
+#History

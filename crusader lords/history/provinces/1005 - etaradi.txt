@@ -1,37 +1,15 @@
-	title = c_etaradi
-	max_settlements = 4
-	culture = durga
-	religion = qiteka
-	b_kerilip = tribal
-1.1.1 = {
-	b_kuroza = ct_port_1
-}
+# c_etaradi
 
-215.4.1 = {
-	culture = waetutlu
-}
+# County Title
+title = c_etaradi
 
-317.4.1 = {
-	culture = risutlu
-}
+# Settlements
+max_settlements = 1
 
-575.4.1 = {
-	b_kerilip = castle
-}
+b_etaradi = castle
 
-710.4.1 = {
-	b_amarabra = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-787.4.1 = {
-	culture = saimes
-}
-
-861.4.1 = {
-	b_kuroza = city
-}
-
-934.4.1 = {
-	b_kirrakiwl = temple
-}
-
+#History

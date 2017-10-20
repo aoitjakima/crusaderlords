@@ -1,33 +1,17 @@
-	title = c_liks
-	max_settlements = 6
-	culture = babosa
-	religion = tonuyu
-	b_wosudo = tribal
-1.1.1 = {
-	b_sukyako = ct_port_1
-}
+# c_liks
 
-251.4.1 = {
-	culture = budandev
-}
+# County Title
+title = c_liks
 
-730.4.1 = {
-	b_wosudo = castle
-}
+# Settlements
+max_settlements = 3
 
-816.4.1 = {
-	b_sukyako = city
-}
+b_liks = castle
+b_liks_2 = city
+b_liks_3 = temple
 
-868.4.1 = {
-	b_qudo = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-914.4.1 = {
-	b_tulya = castle
-}
-
-989.4.1 = {
-	b_bonaxpe = castle
-}
-
+#History

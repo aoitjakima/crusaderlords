@@ -1,33 +1,15 @@
-	title = c_neliby
-	max_settlements = 4
-	culture = risutlu
-	religion = qiteka
-	b_beriby = tribal
-270.4.1 = {
-	culture = waetutlu
-}
+# c_neliby
 
-274.4.1 = {
-	culture = risutlu
-}
+# County Title
+title = c_neliby
 
-505.4.1 = {
-	b_beriby = castle
-}
+# Settlements
+max_settlements = 1
 
-650.4.1 = {
-	b_werer = temple
-}
+b_neliby = castle
 
-828.4.1 = {
-	culture = saimes
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-838.4.1 = {
-	b_dohada = city
-}
-
-901.4.1 = {
-	b_satid = castle
-}
-
+#History

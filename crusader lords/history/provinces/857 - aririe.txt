@@ -1,21 +1,15 @@
-	title = c_aririe
-	max_settlements = 3
-	culture = namyan
-	religion = kusran
-	b_laysule = tribal
-262.4.1 = {
-	culture = abajule
-}
+# c_aririe
 
-585.4.1 = {
-	b_laysule = castle
-}
+# County Title
+title = c_aririe
 
-735.4.1 = {
-	b_balougu = temple
-}
+# Settlements
+max_settlements = 1
 
-891.4.1 = {
-	b_kihuge = city
-}
+b_aririe = castle
 
+# Misc
+culture = swamp_avasian
+religion = terrorian
+
+#History

@@ -1,21 +1,19 @@
-	title = c_emadalen
-	max_settlements = 3
-	culture = ahenatha
-	religion = tonuyu
-	b_ludoumas = tribal
-313.3.1 = {
-	religion = worelen
-}
+# c_emadalen
 
-322.4.1 = {
-	culture = nalaam
-}
+# County Title
+title = c_emadalen
 
-348.4.1 = {
-	culture = ahenatha
-}
+# Settlements
+max_settlements = 5
 
-507.4.1 = {
-	culture = nalaam
-}
+b_lowburgh = castle
+b_shellbrooke = city
+b_spiridge = temple
+#b_charringburg = castle
+#b_malifall = city
 
+# Misc
+culture = kir-ko
+religion = kirian
+
+#History

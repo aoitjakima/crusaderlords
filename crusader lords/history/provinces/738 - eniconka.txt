@@ -1,33 +1,15 @@
-	title = c_eniconka
-	max_settlements = 3
-	culture = retose
-	religion = qiteka
-	b_lenadir = tribal
-207.3.1 = {
-	religion = neharis
-}
+# c_eniconka
 
-213.3.1 = {
-	religion = qiteka
-}
+# County Title
+title = c_eniconka
 
-216.3.1 = {
-	religion = neharis
-}
+# Settlements
+max_settlements = 1
 
-320.4.1 = {
-	culture = karibel
-}
+b_eniconka = castle
 
-645.4.1 = {
-	b_lenadir = castle
-}
+# Misc
+culture = bastia_city
+religion = terrorian
 
-745.4.1 = {
-	b_waudando = city
-}
-
-834.4.1 = {
-	b_leates = temple
-}
-
+#History

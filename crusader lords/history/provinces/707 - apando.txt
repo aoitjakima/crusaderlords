@@ -1,57 +1,15 @@
-	title = c_apando
-	max_settlements = 7
-	culture = esunadir
-	religion = qiteka
-	b_kisarma = tribal
-201.3.1 = {
-	religion = naneka
-}
+# c_apando
 
-210.4.1 = {
-	culture = retose
-}
+# County Title
+title = c_apando
 
-258.4.1 = {
-	culture = sereka
-}
+# Settlements
+max_settlements = 1
 
-317.4.1 = {
-	culture = esunadir
-}
+b_mira = castle
 
-504.4.1 = {
-	culture = sereka
-}
+# Misc
+culture = bastian_rural
+religion = terrorian
 
-508.4.1 = {
-	culture = esunadir
-}
-
-517.4.1 = {
-	culture = sereka
-}
-
-580.4.1 = {
-	b_kisarma = castle
-}
-
-649.4.1 = {
-	culture = esunadir
-}
-
-715.4.1 = {
-	b_qegule = temple
-}
-
-717.4.1 = {
-	culture = sereka
-}
-
-896.4.1 = {
-	b_nenando = city
-}
-
-967.4.1 = {
-	b_litlanes = temple
-}
-
+#History

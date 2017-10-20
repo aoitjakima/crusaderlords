@@ -1,113 +1,15 @@
-	title = c_ataline
-	max_settlements = 2
-	culture = wates
-	religion = naneka
-	b_sameter = tribal
-272.3.1 = {
-	religion = qiteka
-}
+# c_ataline
 
-274.3.1 = {
-	religion = naneka
-}
+# County Title
+title = c_ataline
 
-280.3.1 = {
-	religion = qiteka
-}
+# Settlements
+max_settlements = 1
 
-287.3.1 = {
-	religion = naneka
-}
+b_ataline = castle
 
-291.3.1 = {
-	religion = qiteka
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-292.3.1 = {
-	religion = naneka
-}
-
-297.3.1 = {
-	religion = qiteka
-}
-
-298.3.1 = {
-	religion = naneka
-}
-
-302.3.1 = {
-	religion = qiteka
-}
-
-307.3.1 = {
-	religion = naneka
-}
-
-308.3.1 = {
-	religion = qiteka
-}
-
-314.3.1 = {
-	religion = naneka
-}
-
-320.3.1 = {
-	religion = qiteka
-}
-
-330.3.1 = {
-	religion = naneka
-}
-
-342.3.1 = {
-	religion = qiteka
-}
-
-348.3.1 = {
-	religion = naneka
-}
-
-350.3.1 = {
-	religion = qiteka
-}
-
-356.3.1 = {
-	religion = naneka
-}
-
-373.3.1 = {
-	religion = qiteka
-}
-
-402.3.1 = {
-	religion = naneka
-}
-
-406.3.1 = {
-	religion = qiteka
-}
-
-410.3.1 = {
-	religion = naneka
-}
-
-416.3.1 = {
-	religion = qiteka
-}
-
-417.3.1 = {
-	religion = naneka
-}
-
-423.3.1 = {
-	religion = qiteka
-}
-
-695.4.1 = {
-	b_sameter = castle
-}
-
-836.4.1 = {
-	b_senah = city
-}
-
+#History

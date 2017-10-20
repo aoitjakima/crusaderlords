@@ -1,29 +1,17 @@
-	title = c_wicina
-	max_settlements = 5
-	culture = wenira
-	religion = tonuyu
-	b_nakatti = tribal
-1.1.1 = {
-	b_wededa = ct_port_1
-}
+# c_wicina
 
-337.4.1 = {
-	culture = radabor
-}
+# County Title
+title = c_wicina
 
-710.4.1 = {
-	b_nakatti = castle
-}
+# Settlements
+max_settlements = 3
 
-816.4.1 = {
-	b_wededa = city
-}
+b_wicina = castle
+b_wicina_2 = city
+b_wicina_3 = temple
 
-901.4.1 = {
-	b_enicelen = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-987.4.1 = {
-	b_rorina = temple
-}
-
+#History

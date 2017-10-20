@@ -1,5 +1,15 @@
-	title = c_ametii
-	max_settlements = 2
-	culture = waynald
-	religion = wedwig
-	b_wawyof = tribal
+# c_ametii
+
+# County Title
+title = c_ametii
+
+# Settlements
+max_settlements = 1
+
+b_ametii = castle
+
+# Misc
+culture = niefhiem_lake
+religion = terrorian
+
+#History

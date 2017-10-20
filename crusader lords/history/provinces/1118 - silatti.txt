@@ -1,13 +1,17 @@
-	title = c_silatti
-	max_settlements = 2
-	culture = budandev
-	religion = tonuyu
-	b_reopina = tribal
-730.4.1 = {
-	b_reopina = castle
-}
+# c_silatti
 
-813.4.1 = {
-	b_alalrawayniga = city
-}
+# County Title
+title = c_silatti
 
+# Settlements
+max_settlements = 3
+
+b_silatti = castle
+b_silatti_2 = city
+b_silatti_3 = temple
+
+# Misc
+culture = bastian_avas
+religion = terrorian
+
+#History

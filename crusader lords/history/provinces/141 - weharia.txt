@@ -1,29 +1,15 @@
-	title = c_weharia
-	max_settlements = 3
-	culture = nitindik
-	religion = neharis
-	b_qeilohn = tribal
-204.4.1 = {
-	culture = syahes
-}
+# c_weharia
 
-240.4.1 = {
-	culture = nitindik
-}
+# County Title
+title = c_weharia
 
-263.4.1 = {
-	culture = sodinia
-}
+# Settlements
+max_settlements = 1
 
-515.4.1 = {
-	b_qeilohn = castle
-}
+b_weharia = castle
 
-650.4.1 = {
-	b_akohn = city
-}
+# Misc
+culture = bastia_city
+religion = terrorian
 
-843.4.1 = {
-	b_koosre = temple
-}
-
+#History

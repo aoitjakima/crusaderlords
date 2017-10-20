@@ -1,25 +1,15 @@
-	title = c_salindik
-	max_settlements = 2
-	culture = nitindik
-	religion = neharis
-	b_kopti = tribal
-260.4.1 = {
-	culture = syahes
-}
+# c_salindik
 
-271.4.1 = {
-	culture = amuhopti
-}
+# County Title
+title = c_salindik
 
-316.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 1
 
-515.4.1 = {
-	b_kopti = castle
-}
+b_salindik = castle
 
-631.4.1 = {
-	b_kenibel = city
-}
+# Misc
+culture = bastian_rural
+religion = terrorian
 
+#History

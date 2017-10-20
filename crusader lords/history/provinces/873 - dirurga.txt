@@ -1,65 +1,15 @@
-	title = c_dirurga
-	max_settlements = 4
-	culture = banaila
-	religion = begeka
-	b_wururga = tribal
-203.3.1 = {
-	religion = terenat
-}
+# c_dirurga
 
-204.3.1 = {
-	religion = begeka
-}
+# County Title
+title = c_dirurga
 
-208.3.1 = {
-	religion = terenat
-}
+# Settlements
+max_settlements = 1
 
-210.4.1 = {
-	culture = runafu
-}
+b_dirurga = castle
 
-222.4.1 = {
-	culture = banaila
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-227.3.1 = {
-	religion = begeka
-}
-
-228.3.1 = {
-	religion = terenat
-}
-
-230.3.1 = {
-	religion = begeka
-}
-
-230.3.1 = {
-	religion = terenat
-}
-
-233.3.1 = {
-	religion = begeka
-}
-
-532.4.1 = {
-	culture = kitule
-}
-
-575.4.1 = {
-	b_wururga = castle
-}
-
-705.4.1 = {
-	b_turuel = temple
-}
-
-859.4.1 = {
-	b_biwlnerka = city
-}
-
-929.4.1 = {
-	b_asiwilip = city
-}
-
+#History

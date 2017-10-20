@@ -1,29 +1,15 @@
-	title = c_taulohn
-	max_settlements = 2
-	culture = syahes
-	religion = neharis
-	b_kyekenna = tribal
-1.1.1 = {
-	b_daulata = ct_port_1
-}
+# c_taulohn
 
-285.4.1 = {
-	culture = sodinia
-}
+# County Title
+title = c_taulohn
 
-297.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 1
 
-300.4.1 = {
-	culture = sodinia
-}
+b_taulohn = castle
 
-610.4.1 = {
-	b_kyekenna = castle
-}
+# Misc
+culture = bastia_city
+religion = terrorian
 
-760.4.1 = {
-	b_daulata = city
-}
-
+#History

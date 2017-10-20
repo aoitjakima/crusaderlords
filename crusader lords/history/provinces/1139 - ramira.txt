@@ -1,33 +1,17 @@
-	title = c_ramira
-	max_settlements = 4
-	culture = wenira
-	religion = tonuyu
-	b_diluga = tribal
-265.4.1 = {
-	culture = radabor
-}
+# c_ramira
 
-270.4.1 = {
-	culture = wenira
-}
+# County Title
+title = c_ramira
 
-336.4.1 = {
-	culture = radabor
-}
+# Settlements
+max_settlements = 3
 
-715.4.1 = {
-	b_diluga = castle
-}
+b_ramira = castle
+b_ramira_2 = city
+b_ramira_3 = temple
 
-823.4.1 = {
-	b_silony = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-956.4.1 = {
-	b_sevronn = city
-}
-
-1054.4.1 = {
-	b_bedoran = temple
-}
-
+#History

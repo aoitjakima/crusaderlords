@@ -1,0 +1,5 @@
+# k_jaashad
+500.1.1 =
+{holder=1060064
+liege=e_kiroth
+}

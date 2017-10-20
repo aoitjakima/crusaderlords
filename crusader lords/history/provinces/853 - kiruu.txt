@@ -1,17 +1,15 @@
-	title = c_kiruu
-	max_settlements = 2
-	culture = namyan
-	religion = kusran
-	b_qirue = tribal
-248.4.1 = {
-	culture = abajule
-}
+# c_kiruu
 
-675.4.1 = {
-	b_qirue = castle
-}
+# County Title
+title = c_kiruu
 
-808.4.1 = {
-	b_walougu = temple
-}
+# Settlements
+max_settlements = 1
 
+b_kiruu = castle
+
+# Misc
+culture = swamp_avasian
+religion = terrorian
+
+#History

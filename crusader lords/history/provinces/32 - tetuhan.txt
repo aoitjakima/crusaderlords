@@ -1,33 +1,21 @@
-	title = c_tetuhan
-	max_settlements = 5
-	culture = setako
-	religion = aguninya
-	b_qaikako = tribal
-1.1.1 = {
-	b_taneven = ct_port_1
-}
+# c_tetuhan
 
-251.4.1 = {
-	culture = rerinya
-}
+# County Title
+title = c_tetuhan
 
-740.4.1 = {
-	b_qaikako = castle
-}
+# Settlements
+max_settlements = 7
 
-811.4.1 = {
-	b_taneven = city
-}
+b_psyvros = city
+b_marissa = city
+b_giafka = temple
+#b_tetuhan = castle
+#b_tetuhan_2 = city
+#b_tetuhan_3 = temple
+#b_tetuhan_4 = castle
 
-875.4.1 = {
-	b_tiafata = temple
-}
+# Misc
+culture = estazi_culture5
+religion = estazi_faith
 
-943.4.1 = {
-	b_rucaqant = city
-}
-
-1011.4.1 = {
-	b_nucata = castle
-}
-
+#History

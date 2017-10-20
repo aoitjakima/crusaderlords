@@ -1,65 +1,15 @@
-	title = c_ravics
-	max_settlements = 2
-	culture = banaila
-	religion = begeka
-	b_tolas = tribal
-203.3.1 = {
-	religion = terenat
-}
+# c_ravics
 
-206.3.1 = {
-	religion = begeka
-}
+# County Title
+title = c_ravics
 
-208.3.1 = {
-	religion = terenat
-}
+# Settlements
+max_settlements = 1
 
-219.3.1 = {
-	religion = begeka
-}
+b_ravics = castle
 
-222.3.1 = {
-	religion = terenat
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-236.3.1 = {
-	religion = begeka
-}
-
-245.3.1 = {
-	religion = qiteka
-}
-
-250.3.1 = {
-	religion = begeka
-}
-
-255.3.1 = {
-	religion = qiteka
-}
-
-263.3.1 = {
-	religion = begeka
-}
-
-268.3.1 = {
-	religion = qiteka
-}
-
-269.3.1 = {
-	religion = begeka
-}
-
-481.4.1 = {
-	culture = kitule
-}
-
-570.4.1 = {
-	b_tolas = castle
-}
-
-750.4.1 = {
-	b_lavutlu = temple
-}
-
+#History

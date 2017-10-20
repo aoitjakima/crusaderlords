@@ -1,37 +1,15 @@
-	title = c_kurine
-	max_settlements = 2
-	culture = retose
-	religion = naneka
-	b_taijong = tribal
-201.3.1 = {
-	religion = qiteka
-}
+# c_kurine
 
-204.3.1 = {
-	religion = naneka
-}
+# County Title
+title = c_kurine
 
-215.3.1 = {
-	religion = qiteka
-}
+# Settlements
+max_settlements = 1
 
-229.3.1 = {
-	religion = naneka
-}
+b_kurine = castle
 
-239.3.1 = {
-	religion = qiteka
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-259.4.1 = {
-	culture = banaila
-}
-
-615.4.1 = {
-	b_taijong = castle
-}
-
-715.4.1 = {
-	b_sanantay = temple
-}
-
+#History

@@ -1,53 +1,15 @@
-	title = c_senohn
-	max_settlements = 2
-	culture = sereka
-	religion = naneka
-	b_tarahw = tribal
-326.4.1 = {
-	culture = esunadir
-}
+# c_senohn
 
-341.4.1 = {
-	culture = sereka
-}
+# County Title
+title = c_senohn
 
-398.4.1 = {
-	culture = esunadir
-}
+# Settlements
+max_settlements = 1
 
-447.4.1 = {
-	culture = sereka
-}
+b_senohn = castle
 
-528.4.1 = {
-	culture = esunadir
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-609.4.1 = {
-	culture = sereka
-}
-
-625.4.1 = {
-	b_tarahw = castle
-}
-
-648.4.1 = {
-	culture = esunadir
-}
-
-696.4.1 = {
-	culture = sereka
-}
-
-721.4.1 = {
-	culture = esunadir
-}
-
-770.4.1 = {
-	b_nacong = temple
-}
-
-884.4.1 = {
-	culture = sereka
-}
-
+#History

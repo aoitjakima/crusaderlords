@@ -1,29 +1,17 @@
-	title = c_ruagada
-	max_settlements = 3
-	culture = radabor
-	religion = tonuyu
-	b_ralaspal = tribal
-204.4.1 = {
-	culture = budandev
-}
+# c_ruagada
 
-253.4.1 = {
-	culture = wenira
-}
+# County Title
+title = c_ruagada
 
-282.4.1 = {
-	culture = radabor
-}
+# Settlements
+max_settlements = 3
 
-810.4.1 = {
-	b_ralaspal = castle
-}
+b_ruagada = castle
+b_ruagada_2 = city
+b_ruagada_3 = temple
 
-853.4.1 = {
-	b_daysuga = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
-977.4.1 = {
-	b_agilibor = city
-}
-
+#History

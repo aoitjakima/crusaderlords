@@ -1,21 +1,15 @@
-	title = c_ajaipaka
-	max_settlements = 7
-	culture = tularda
-	religion = qigiyah
-	b_saludha = tribal
-271.4.1 = {
-	culture = alaurine
-}
+# c_ajaipaka
 
-827.4.1 = {
-	b_saludha = castle
-}
+# County Title
+title = c_ajaipaka
 
-894.4.1 = {
-	b_bigupo = temple
-}
+# Settlements
+max_settlements = 1
 
-1005.4.1 = {
-	b_ligine = city
-}
+b_ajaipaka = castle
 
+# Misc
+culture = niefhiem_mountain
+religion = terrorian
+
+#History

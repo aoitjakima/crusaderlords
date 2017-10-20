@@ -1,105 +1,15 @@
-	title = c_emunelin
-	max_settlements = 7
-	culture = kitule
-	religion = wedwig
-	b_wureina = tribal
-203.3.1 = {
-	religion = terenat
-}
+# c_emunelin
 
-204.3.1 = {
-	religion = wedwig
-}
+# County Title
+title = c_emunelin
 
-206.4.1 = {
-	culture = negasseh
-}
+# Settlements
+max_settlements = 1
 
-208.3.1 = {
-	religion = terenat
-}
+b_emunelin = castle
 
-210.3.1 = {
-	religion = wedwig
-}
+# Misc
+culture = bastian_noble
+religion = terrorian
 
-211.3.1 = {
-	religion = terenat
-}
-
-224.4.1 = {
-	culture = kitule
-}
-
-236.3.1 = {
-	religion = begeka
-}
-
-239.4.1 = {
-	culture = banaila
-}
-
-282.3.1 = {
-	religion = qiteka
-}
-
-284.3.1 = {
-	religion = begeka
-}
-
-286.3.1 = {
-	religion = qiteka
-}
-
-297.3.1 = {
-	religion = begeka
-}
-
-300.3.1 = {
-	religion = qiteka
-}
-
-304.3.1 = {
-	religion = begeka
-}
-
-331.4.1 = {
-	culture = kitule
-}
-
-358.4.1 = {
-	culture = banaila
-}
-
-360.4.1 = {
-	culture = kitule
-}
-
-449.4.1 = {
-	culture = banaila
-}
-
-480.4.1 = {
-	culture = kitule
-}
-
-595.4.1 = {
-	b_wureina = castle
-}
-
-735.4.1 = {
-	b_rucelin = temple
-}
-
-860.4.1 = {
-	b_arolas = city
-}
-
-934.4.1 = {
-	b_terabra = temple
-}
-
-1017.4.1 = {
-	b_qerurga = castle
-}
-
+#History

@@ -1,25 +1,17 @@
-	title = c_qorelen
-	max_settlements = 2
-	culture = budandev
-	religion = tonuyu
-	b_roribor = tribal
-1.1.1 = {
-	b_kaloran = ct_port_1
-}
+# c_qorelen
 
-208.4.1 = {
-	culture = babosa
-}
+# County Title
+title = c_qorelen
 
-251.4.1 = {
-	culture = budandev
-}
+# Settlements
+max_settlements = 3
 
-735.4.1 = {
-	b_roribor = castle
-}
+b_qorelen = castle
+b_qorelen_2 = city
+b_qorelen_3 = temple
 
-848.4.1 = {
-	b_kaloran = city
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

@@ -1,25 +1,15 @@
-	title = c_emella
-	max_settlements = 2
-	culture = nitindik
-	religion = neharis
-	b_dibel = tribal
-214.4.1 = {
-	culture = syahes
-}
+# c_emella
 
-422.4.1 = {
-	culture = amuhopti
-}
+# County Title
+title = c_emella
 
-451.4.1 = {
-	culture = syahes
-}
+# Settlements
+max_settlements = 1
 
-520.4.1 = {
-	b_dibel = castle
-}
+b_emella = castle
 
-655.4.1 = {
-	b_tahella = temple
-}
+# Misc
+culture = bastian_avas
+religion = terrorian
 
+#History

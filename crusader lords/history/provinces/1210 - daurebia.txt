@@ -1,33 +1,18 @@
-	title = c_daurebia
-	max_settlements = 4
-	culture = keraam
-	religion = tonuyu
-	b_semaam = tribal
-1.1.1 = {
-	b_qoraura = ct_port_1
-}
+# c_daurebia
 
-291.4.1 = {
-	culture = tiwics
-}
+# County Title
+title = c_daurebia
 
-445.4.1 = {
-	culture = nalaam
-}
+# Settlements
+max_settlements = 4
 
-505.4.1 = {
-	culture = tiwics
-}
+b_muqdalad = castle
+#b_at_tadin = city
+#b_tall_kappe = temple
+#b_daurebia = castle
 
-821.4.1 = {
-	b_semaam = castle
-}
+# Misc
+culture = kiroth
+religion = kirothian
 
-855.4.1 = {
-	b_baselia = temple
-}
-
-993.4.1 = {
-	b_qoraura = city
-}
-
+#History

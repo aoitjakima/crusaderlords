@@ -4,9 +4,11 @@
 title = c_soladwig
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_soladwig = castle
+#b_soladwig_2 = city
+#b_soladwig_3 = temple
 
 # Misc
 culture = bastian_avas

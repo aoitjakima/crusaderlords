@@ -4,9 +4,11 @@
 title = c_baines
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_binz = castle
+#b_baines = city
+#b_baines_2 = temple
 
 # Misc
 culture = bastian_rural

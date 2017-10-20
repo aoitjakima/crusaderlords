@@ -4,9 +4,11 @@
 title = c_aregiana
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_aregiana = castle
+#b_aregiana_2 = city
+#b_aregiana_3 = temple
 
 # Misc
 culture = niefhiem_lake

@@ -4,9 +4,11 @@
 title = c_kanafu
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_kanafu = castle
+#b_kanafu_2 = city
+#b_kanafu_3 = temple
 
 # Misc
 culture = bastian_rural

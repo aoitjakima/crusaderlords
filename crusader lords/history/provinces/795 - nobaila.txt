@@ -4,9 +4,11 @@
 title = c_nobaila
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_nobaila = castle
+#b_nobaila_2 = city
+#b_nobaila_3 = temple
 
 # Misc
 culture = bastian_avas

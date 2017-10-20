@@ -4,9 +4,11 @@
 title = c_alartin
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_alartin = castle
+#b_alartin_2 = city
+#b_alartin_3 = temple
 
 # Misc
 culture = northern_avasian

@@ -4,9 +4,11 @@
 title = c_tulqen
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_tulqen = castle
+#b_tulqen_2 = city
+#b_tulqen_3 = temple
 
 # Misc
 culture = bastian_rural

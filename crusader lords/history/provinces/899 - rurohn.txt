@@ -4,9 +4,11 @@
 title = c_rurohn
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_rurohn = castle
+#b_rurohn_2 = city
+#b_rurohn_3 = temple
 
 # Misc
 culture = bastian_noble

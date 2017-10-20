@@ -4,9 +4,11 @@
 title = c_raulrus
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_raulrus = castle
+#b_raulrus_2 = city
+#b_raulrus_3 = temple
 
 # Misc
 culture = swamp_avasian

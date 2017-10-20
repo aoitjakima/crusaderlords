@@ -4,9 +4,11 @@
 title = c_kohows
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_kohows = castle
+#b_kohows_2 = city
+#b_kohows_3 = temple
 
 # Misc
 culture = bastian_avas

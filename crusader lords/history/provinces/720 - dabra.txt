@@ -4,9 +4,11 @@
 title = c_dabra
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_dabra = castle
+#b_dabra_2 = city
+#b_dabra_3 = temple
 
 # Misc
 culture = bastian_noble

@@ -330,7 +330,7 @@ avasian_culture_group = {
 	swamp_avasian = {
 		graphical_cultures = { saxongfx }
 		
-		color = { 0.8 0.3 0.3 }
+		color = { 0.7 0.3 0.3 }
 		
 		male_names = {
 			Arncytel Balthere Beorhtfrith Beorhthelm Beorhtmær Beorhtnoth Beorhtric Beorhtsige Beorhtwine_Beorhtwine Beorn_Beorn Beornræd Beornwulf
@@ -382,7 +382,7 @@ avasian_culture_group = {
 	northern_avasian = {
 			graphical_cultures = { saxongfx }
 		
-		color = { 0.8 0.1 0.1 }
+		color = { 0.9 0.1 0.1 }
 		
 		male_names = {
 			Abo Adalbero_Adalbero Adalbert_Albert Adalbrand_Alebrand Adaldag Adalgar Adalgod Adolf_Adolf Aelle_Alwin Albrecht_Albert Alebrand_Alebrand
@@ -441,7 +441,7 @@ bastian_culture_group = {
 	bastia_city = {
 		graphical_cultures = { frankishgfx }
 		
-		color = { 0.8 0.8 0.2 }
+		color = { 0.9 0.8 0.2 }
 		male_names = {
 			Édouard_Edward Érrard Étienne_Stephen Adalbert_Albert Adémar Adrien Aimery_Aymeric Alain_Alan Aldebert_Albert Aldéric Alphonse_Alphonse Amaury_Amalric
 			Amédée Ancel André_Andrew Angelbert Antoine_Antoninus Archambaud_Archibald Arnaud_Arnold Arnault_Arnold Arnoul_Arnulf Aubry Aymar Barthélémi_Bartolomeus
@@ -482,7 +482,7 @@ bastian_culture_group = {
 	bastian_noble = {
 		graphical_cultures = { normangfx }
 
-		color = { 0.8 0.7 0.1 }
+		color = { 0.8 0.5 0.1 }
 		
 		male_names = {
 			 Abelard Adam_Adam Adelard Ademar Alexander_Alexander Alfons_Alphonse Amaury_Amalric Anfroi Anquetil Anselm Armand Arnald_Arnold Asclettin Aubrey Baldwin_Baldwin

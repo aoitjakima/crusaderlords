@@ -4,12 +4,14 @@
 title = c_eberule
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_eberule = castle
+#b_eberule_2 = city
+#b_eberule_3 = temple
 
 # Misc
-culture = bastian_avas
+culture = bastian_rural
 religion = terrorian
 
 #History

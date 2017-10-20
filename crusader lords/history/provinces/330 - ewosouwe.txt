@@ -4,9 +4,11 @@
 title = c_ewosouwe
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_ewosouwe = castle
+#b_ewosouwe_2 = city
+#b_ewosouwe_3 = temple
 
 # Misc
 culture = bastian_rural

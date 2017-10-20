@@ -4,9 +4,11 @@
 title = c_sotarma
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
-b_sotarma = castle
+b_agnone = castle
+#b_sotarma = city
+#b_sotarma_2 = temple
 
 # Misc
 culture = bastian_rural

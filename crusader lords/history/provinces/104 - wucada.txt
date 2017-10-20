@@ -4,9 +4,11 @@
 title = c_wucada
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_wucada = castle
+#b_wucada_2 = city
+#b_wucada_3 = temple
 
 # Misc
 culture = niefhiem_mountain

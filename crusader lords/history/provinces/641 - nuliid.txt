@@ -4,12 +4,14 @@
 title = c_nuliid
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_nuliid = castle
+#b_nuliid_2 = city
+#b_nuliid_3 = temple
 
 # Misc
-culture = niefhiem_mountain
+culture = northern_avasian
 religion = terrorian
 
 #History

@@ -4,9 +4,11 @@
 title = c_waetutlu
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_waetutlu = castle
+#b_waetutlu_2 = city
+#b_waetutlu_3 = temple
 
 # Misc
 culture = bastian_noble

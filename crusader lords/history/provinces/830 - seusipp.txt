@@ -4,9 +4,11 @@
 title = c_seusipp
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_seusipp = castle
+#b_seusipp_2 = city
+#b_seusipp_3 = temple
 
 # Misc
 culture = bastian_avas

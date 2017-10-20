@@ -4,9 +4,11 @@
 title = c_kiwaura
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
-b_kiwaura = castle
+b_brauwiler = temple
+#b_kiwaura = city
+#b_kiwaura_2 = temple
 
 # Misc
 culture = bastian_noble

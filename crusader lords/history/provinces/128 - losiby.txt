@@ -4,12 +4,14 @@
 title = c_losiby
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_losiby = castle
+#b_losiby_2 = city
+#b_losiby_3 = temple
 
 # Misc
-culture = bastian_avas
+culture = niefhiem_mountain
 religion = terrorian
 
 #History

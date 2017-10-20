@@ -4,9 +4,11 @@
 title = c_tegeid
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_tegeid = castle
+#b_tegeid_2 = city
+#b_tegeid_3 = temple
 
 # Misc
 culture = niefhiem_lake

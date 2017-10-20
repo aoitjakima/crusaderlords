@@ -4,9 +4,11 @@
 title = c_radolf
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_radolf = castle
+#b_radolf_2 = city
+#b_radolf_3 = temple
 
 # Misc
 culture = niefhiem_lake

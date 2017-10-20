@@ -4,9 +4,11 @@
 title = c_wallith
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_wallith = castle
+#b_wallith_2 = city
+#b_wallith_3 = temple
 
 # Misc
 culture = bastian_noble

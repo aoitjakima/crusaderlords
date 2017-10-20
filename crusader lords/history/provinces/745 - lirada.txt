@@ -4,9 +4,11 @@
 title = c_lirada
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_lirada = castle
+#b_lirada_2 = city
+#b_lirada_3 = temple
 
 # Misc
 culture = northern_avasian

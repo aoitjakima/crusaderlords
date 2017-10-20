@@ -4,12 +4,14 @@
 title = c_syokatyare
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_syokatyare = castle
+#b_syokatyare_2 = city
+#b_syokatyare_3 = temple
 
 # Misc
-culture = bastian_avas
+culture = niefhiem_mountain
 religion = terrorian
 
 #History

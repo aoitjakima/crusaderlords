@@ -4,9 +4,11 @@
 title = c_keradi
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_keradi = castle
+#b_keradi_2 = city
+#b_keradi_3 = temple
 
 # Misc
 culture = bastian_noble

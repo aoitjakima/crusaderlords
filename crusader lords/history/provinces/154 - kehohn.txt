@@ -4,9 +4,11 @@
 title = c_kehohn
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_kehohn = castle
+#b_kehohn_2 = city
+#b_kehohn_3 = temple
 
 # Misc
 culture = bastia_city

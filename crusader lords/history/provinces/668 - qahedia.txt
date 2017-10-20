@@ -4,9 +4,11 @@
 title = c_qahedia
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_qahedia = castle
+#b_qahedia_2 = city
+#b_qahedia_3 = temple
 
 # Misc
 culture = northern_avasian

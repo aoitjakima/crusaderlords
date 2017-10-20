@@ -4,9 +4,11 @@
 title = c_ebaila
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_ebaila = castle
+#b_ebaila_2 = city
+#b_ebaila_3 = temple
 
 # Misc
 culture = niefhiem_lake

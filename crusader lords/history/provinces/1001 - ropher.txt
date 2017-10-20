@@ -4,9 +4,11 @@
 title = c_ropher
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_ropher = castle
+#b_ropher_2 = city
+#b_ropher_3 = temple
 
 # Misc
 culture = swamp_avasian

@@ -4,9 +4,11 @@
 title = c_kenarma
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_kenarma = castle
+#b_kenarma_2 = city
+#b_kenarma_3 = temple
 
 # Misc
 culture = bastian_rural

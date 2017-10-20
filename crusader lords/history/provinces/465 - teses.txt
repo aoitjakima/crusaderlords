@@ -4,9 +4,11 @@
 title = c_teses
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_teses = castle
+#b_teses_2 = city
+#b_teses_3 = temple
 
 # Misc
 culture = bastian_rural

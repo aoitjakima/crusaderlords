@@ -24,12 +24,13 @@ load and debug
 
 4. Create logical dutchies roughly 3.5 counties in size (Make one duchy 3 and another one 4)
 	Decide the borders of the dutchy based on the counties in the game
-	copy the name of the dutchy into column J
+		Create names your self or do what I do and use a generator, http://www.fantasynamegenerators.com/
+	Copy the name of the dutchy into column J
 
 5. Create holding names
-	fill in columns P-V with the holding names
-	in column P suffix the name of the holding with (U)
+	Fill in columns P-V with the holding names
+	In column P suffix the name of the holding with (U)
 		example: bortford(U)
 		
 6. Save off changes as 'provenceDef - <3 letter culture abriviation>'
-	for example 'provinceDef - VIL'
+	For example 'provinceDef - VIL'

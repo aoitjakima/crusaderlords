@@ -22,7 +22,7 @@ load and debug
 
 3. Take a sub-culture, open the provincesDef.xls in map and remove all the lines except the ones with your selected culture column 'k'
 
-4. Create logical dutchies roughly 3.5 counties in size (Make one duchy 3 and another one 4)
+4. Create logical dutchies roughly 3.5 counties in size (Make one duchy 3 and another one 4, general constraints are don't go larger than 5 counties or smaller than 2)
 	Decide the borders of the dutchy based on the counties in the game
 		Create names your self or do what I do and use a generator, http://www.fantasynamegenerators.com/
 	Copy the name of the dutchy into column J

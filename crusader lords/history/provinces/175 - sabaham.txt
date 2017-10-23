@@ -6,9 +6,9 @@ title = c_sabaham
 # Settlements
 max_settlements = 3
 
-b_sabaham = castle
-#b_sabaham_2 = city
-#b_sabaham_3 = temple
+b_hollowholt = tribal
+#b_sabaham = city
+#b_sabaham_2 = temple
 
 # Misc
 culture = niefhiem_mountain

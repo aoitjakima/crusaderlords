@@ -6,9 +6,9 @@ title = c_rilacob
 # Settlements
 max_settlements = 3
 
-b_rilacob = castle
-#b_rilacob_2 = city
-#b_rilacob_3 = temple
+b_marshwall = tribal
+#b_rilacob = city
+#b_rilacob_2 = temple
 
 # Misc
 culture = bastian_avas

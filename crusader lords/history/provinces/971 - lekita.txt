@@ -6,9 +6,9 @@ title = c_lekita
 # Settlements
 max_settlements = 3
 
-b_lekita = castle
-#b_lekita_2 = city
-#b_lekita_3 = temple
+b_summerlake = tribal
+#b_lekita = city
+#b_lekita_2 = temple
 
 # Misc
 culture = swamp_avasian

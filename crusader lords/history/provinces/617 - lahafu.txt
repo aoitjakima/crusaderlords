@@ -6,9 +6,9 @@ title = c_lahafu
 # Settlements
 max_settlements = 3
 
-b_lahafu = castle
-#b_lahafu_2 = city
-#b_lahafu_3 = temple
+b_edgecoast = tribal
+#b_lahafu = city
+#b_lahafu_2 = temple
 
 # Misc
 culture = northern_avasian

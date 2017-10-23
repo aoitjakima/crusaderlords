@@ -6,9 +6,9 @@ title = c_apando
 # Settlements
 max_settlements = 3
 
-b_mira = castle
-#b_apando = city
-#b_apando_2 = temple
+b_icegriffin = tribal
+#b_mira = city
+#b_apando = temple
 
 # Misc
 culture = bastian_rural

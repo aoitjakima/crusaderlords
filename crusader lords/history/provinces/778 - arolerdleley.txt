@@ -6,9 +6,9 @@ title = c_arolerdleley
 # Settlements
 max_settlements = 3
 
-b_arolerdleley = castle
-#b_arolerdleley_2 = city
-#b_arolerdleley_3 = temple
+b_fallshore = tribal
+#b_arolerdleley = city
+#b_arolerdleley_2 = temple
 
 # Misc
 culture = northern_avasian

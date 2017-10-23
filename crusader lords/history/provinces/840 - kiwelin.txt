@@ -6,9 +6,9 @@ title = c_kiwelin
 # Settlements
 max_settlements = 3
 
-b_kiwelin = castle
-#b_kiwelin_2 = city
-#b_kiwelin_3 = temple
+b_ostmoor = tribal
+#b_kiwelin = city
+#b_kiwelin_2 = temple
 
 # Misc
 culture = bastian_noble

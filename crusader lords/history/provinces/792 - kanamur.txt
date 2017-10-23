@@ -6,9 +6,9 @@ title = c_kanamur
 # Settlements
 max_settlements = 3
 
-b_kanamur = castle
-#b_kanamur_2 = city
-#b_kanamur_3 = temple
+b_goldport = tribal
+#b_kanamur = city
+#b_kanamur_2 = temple
 
 # Misc
 culture = bastian_noble

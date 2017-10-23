@@ -6,9 +6,9 @@ title = c_daetaura
 # Settlements
 max_settlements = 3
 
-b_daetaura = castle
-#b_daetaura_2 = city
-#b_daetaura_3 = temple
+b_wintermarsh = tribal
+#b_daetaura = city
+#b_daetaura_2 = temple
 
 # Misc
 culture = bastian_noble

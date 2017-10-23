@@ -6,9 +6,9 @@ title = c_qatoris
 # Settlements
 max_settlements = 3
 
-b_qatoris = castle
-#b_qatoris_2 = city
-#b_qatoris_3 = temple
+b_rosemarble = tribal
+#b_qatoris = city
+#b_qatoris_2 = temple
 
 # Misc
 culture = northern_avasian

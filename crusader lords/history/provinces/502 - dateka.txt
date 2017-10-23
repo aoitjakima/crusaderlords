@@ -6,9 +6,9 @@ title = c_dateka
 # Settlements
 max_settlements = 3
 
-b_dateka = castle
-#b_dateka_2 = city
-#b_dateka_3 = temple
+b_shadowcrest = tribal
+#b_dateka = city
+#b_dateka_2 = temple
 
 # Misc
 culture = bastian_rural

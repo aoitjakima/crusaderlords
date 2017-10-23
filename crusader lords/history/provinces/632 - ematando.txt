@@ -6,9 +6,9 @@ title = c_ematando
 # Settlements
 max_settlements = 3
 
-b_ematando = castle
-#b_ematando_2 = city
-#b_ematando_3 = temple
+b_lochwynne = tribal
+#b_ematando = city
+#b_ematando_2 = temple
 
 # Misc
 culture = bastian_rural

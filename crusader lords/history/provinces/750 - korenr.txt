@@ -6,9 +6,9 @@ title = c_korenr
 # Settlements
 max_settlements = 3
 
-b_korenr = castle
-#b_korenr_2 = city
-#b_korenr_3 = temple
+b_butterrock = tribal
+#b_korenr = city
+#b_korenr_2 = temple
 
 # Misc
 culture = bastian_noble

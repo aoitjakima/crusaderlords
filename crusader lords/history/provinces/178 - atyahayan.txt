@@ -6,9 +6,9 @@ title = c_atyahayan
 # Settlements
 max_settlements = 3
 
-b_atyahayan = castle
-#b_atyahayan_2 = city
-#b_atyahayan_3 = temple
+b_wellwood = tribal
+#b_atyahayan = city
+#b_atyahayan_2 = temple
 
 # Misc
 culture = niefhiem_forrest

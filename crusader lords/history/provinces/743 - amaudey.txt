@@ -6,9 +6,9 @@ title = c_amaudey
 # Settlements
 max_settlements = 3
 
-b_amaudey = castle
-#b_amaudey_2 = city
-#b_amaudey_3 = temple
+b_janville = tribal
+#b_amaudey = city
+#b_amaudey_2 = temple
 
 # Misc
 culture = swamp_avasian

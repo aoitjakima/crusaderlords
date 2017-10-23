@@ -6,9 +6,9 @@ title = c_ewesong
 # Settlements
 max_settlements = 3
 
-b_ewesong = castle
-#b_ewesong_2 = city
-#b_ewesong_3 = temple
+b_meadowedge = tribal
+#b_ewesong = city
+#b_ewesong_2 = temple
 
 # Misc
 culture = swamp_avasian

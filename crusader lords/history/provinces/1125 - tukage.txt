@@ -6,12 +6,12 @@ title = c_tukage
 # Settlements
 max_settlements = 3
 
-b_tukage = castle
-b_tukage_2 = city
-b_tukage_3 = temple
+b_manni = temple
+#b_tukage = city
+#b_tukage_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirothian
 
 #History

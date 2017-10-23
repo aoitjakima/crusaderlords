@@ -6,7 +6,7 @@ title = c_kiwaura
 # Settlements
 max_settlements = 3
 
-b_brauwiler = temple
+b_coldville = tribal
 #b_kiwaura = city
 #b_kiwaura_2 = temple
 

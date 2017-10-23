@@ -6,9 +6,9 @@ title = c_qepissa
 # Settlements
 max_settlements = 3
 
-b_qepissa = castle
-#b_qepissa_2 = city
-#b_qepissa_3 = temple
+b_shadowlake = tribal
+#b_qepissa = city
+#b_qepissa_2 = temple
 
 # Misc
 culture = niefhiem_lake

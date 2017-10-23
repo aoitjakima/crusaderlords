@@ -6,9 +6,9 @@ title = c_ruroza
 # Settlements
 max_settlements = 3
 
-b_zabki = castle
-#b_ruroza = city
-#b_ruroza_2 = temple
+b_mistden = tribal
+#b_zabki = city
+#b_ruroza = temple
 
 # Misc
 culture = bastian_noble

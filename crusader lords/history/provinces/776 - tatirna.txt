@@ -6,9 +6,9 @@ title = c_tatirna
 # Settlements
 max_settlements = 3
 
-b_dender_monde = castle
-#b_tatirna = city
-#b_tatirna_2 = temple
+b_greenlyn = tribal
+#b_dender_monde = city
+#b_tatirna = temple
 
 # Misc
 culture = bastian_noble

@@ -6,9 +6,9 @@ title = c_namayya
 # Settlements
 max_settlements = 3
 
-b_namayya = castle
-#b_namayya_2 = city
-#b_namayya_3 = temple
+b_morkeep = tribal
+#b_namayya = city
+#b_namayya_2 = temple
 
 # Misc
 culture = swamp_avasian

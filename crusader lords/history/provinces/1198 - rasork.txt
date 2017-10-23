@@ -6,12 +6,12 @@ title = c_rasork
 # Settlements
 max_settlements = 3
 
-b_rasork = castle
-b_rasork_2 = city
-b_rasork_3 = temple
+b_agerlu = temple
+#b_rasork = city
+#b_rasork_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirothian
 
 #History

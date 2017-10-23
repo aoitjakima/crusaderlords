@@ -6,9 +6,9 @@ title = c_renihal
 # Settlements
 max_settlements = 3
 
-b_renihal = castle
-#b_renihal_2 = city
-#b_renihal_3 = temple
+b_dracwyn = tribal
+#b_renihal = city
+#b_renihal_2 = temple
 
 # Misc
 culture = bastian_avas

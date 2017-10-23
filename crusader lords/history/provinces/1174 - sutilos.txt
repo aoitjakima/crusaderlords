@@ -6,9 +6,9 @@ title = c_sutilos
 # Settlements
 max_settlements = 3
 
-b_sutilos = castle
-#b_sutilos_2 = city
-#b_sutilos_3 = temple
+b_byflower = tribal
+#b_sutilos = city
+#b_sutilos_2 = temple
 
 # Misc
 culture = bastian_avas

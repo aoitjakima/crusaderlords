@@ -6,9 +6,9 @@ title = c_nitnow
 # Settlements
 max_settlements = 3
 
-b_nitnow = castle
-#b_nitnow_2 = city
-#b_nitnow_3 = temple
+b_whitemarsh = tribal
+#b_nitnow = city
+#b_nitnow_2 = temple
 
 # Misc
 culture = northern_avasian

@@ -6,12 +6,12 @@ title = c_liks
 # Settlements
 max_settlements = 3
 
-b_liks = castle
-b_liks_2 = city
-b_liks_3 = temple
+b_famey = castle
+#b_liks = city
+#b_liks_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirothian
 
 #History

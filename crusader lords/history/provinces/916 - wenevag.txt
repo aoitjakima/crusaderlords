@@ -6,9 +6,9 @@ title = c_wenevag
 # Settlements
 max_settlements = 3
 
-b_wenevag = castle
-#b_wenevag_2 = city
-#b_wenevag_3 = temple
+b_pinebridge = tribal
+#b_wenevag = city
+#b_wenevag_2 = temple
 
 # Misc
 culture = bastian_noble

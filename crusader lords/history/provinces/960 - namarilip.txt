@@ -6,9 +6,9 @@ title = c_namarilip
 # Settlements
 max_settlements = 3
 
-b_namarilip = castle
-#b_namarilip_2 = city
-#b_namarilip_3 = temple
+b_havenhedge = tribal
+#b_namarilip = city
+#b_namarilip_2 = temple
 
 # Misc
 culture = bastian_avas

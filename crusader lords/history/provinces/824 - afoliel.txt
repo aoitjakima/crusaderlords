@@ -6,9 +6,9 @@ title = c_afoliel
 # Settlements
 max_settlements = 3
 
-b_afoliel = castle
-#b_afoliel_2 = city
-#b_afoliel_3 = temple
+b_marshbarrow = tribal
+#b_afoliel = city
+#b_afoliel_2 = temple
 
 # Misc
 culture = swamp_avasian

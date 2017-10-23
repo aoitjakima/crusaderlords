@@ -6,12 +6,12 @@ title = c_quarira
 # Settlements
 max_settlements = 3
 
-b_quarira = castle
-b_quarira_2 = city
-b_quarira_3 = temple
+b_qawadmi = temple
+#b_quarira = city
+#b_quarira_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

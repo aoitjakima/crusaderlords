@@ -6,9 +6,9 @@ title = c_terelin
 # Settlements
 max_settlements = 3
 
-b_terelin = castle
-#b_terelin_2 = city
-#b_terelin_3 = temple
+b_cliffdell = tribal
+#b_terelin = city
+#b_terelin_2 = temple
 
 # Misc
 culture = bastian_noble

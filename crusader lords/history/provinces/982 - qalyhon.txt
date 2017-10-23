@@ -6,9 +6,9 @@ title = c_qalyhon
 # Settlements
 max_settlements = 3
 
-b_qalyhon = castle
-#b_qalyhon_2 = city
-#b_qalyhon_3 = temple
+b_silverdragon = tribal
+#b_qalyhon = city
+#b_qalyhon_2 = temple
 
 # Misc
 culture = swamp_avasian

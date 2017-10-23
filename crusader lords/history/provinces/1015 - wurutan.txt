@@ -6,9 +6,9 @@ title = c_wurutan
 # Settlements
 max_settlements = 3
 
-b_wurutan = castle
-#b_wurutan_2 = city
-#b_wurutan_3 = temple
+b_shadepond = tribal
+#b_wurutan = city
+#b_wurutan_2 = temple
 
 # Misc
 culture = niefhiem_mountain

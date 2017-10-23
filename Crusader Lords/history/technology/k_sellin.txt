@@ -1,0 +1,23 @@
+#SELLIN
+technology = {
+	titles = {
+		d_tboutam
+		d_bang_krudaeng
+		d_cimakerto
+		d_muching
+		d_quang_ha
+		d_salagarong
+		d_selakei
+		d_siepenh
+	}
+	501 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+	1426 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

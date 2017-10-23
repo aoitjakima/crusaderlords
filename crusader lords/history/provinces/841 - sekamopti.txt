@@ -6,9 +6,9 @@ title = c_sekamopti
 # Settlements
 max_settlements = 3
 
-b_sekamopti = castle
-#b_sekamopti_2 = city
-#b_sekamopti_3 = temple
+b_blackcliff = tribal
+#b_sekamopti = city
+#b_sekamopti_2 = temple
 
 # Misc
 culture = swamp_avasian

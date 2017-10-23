@@ -6,9 +6,9 @@ title = c_eniconka
 # Settlements
 max_settlements = 3
 
-b_eniconka = castle
-#b_eniconka_2 = city
-#b_eniconka_3 = temple
+b_esterview = tribal
+#b_eniconka = city
+#b_eniconka_2 = temple
 
 # Misc
 culture = bastia_city

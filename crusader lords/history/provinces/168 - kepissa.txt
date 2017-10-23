@@ -6,9 +6,9 @@ title = c_kepissa
 # Settlements
 max_settlements = 3
 
-b_kepissa = castle
-#b_kepissa_2 = city
-#b_kepissa_3 = temple
+b_redshore = tribal
+#b_kepissa = city
+#b_kepissa_2 = temple
 
 # Misc
 culture = niefhiem_mountain

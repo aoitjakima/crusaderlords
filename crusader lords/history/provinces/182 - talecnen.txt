@@ -6,9 +6,9 @@ title = c_talecnen
 # Settlements
 max_settlements = 3
 
-b_talecnen = castle
-#b_talecnen_2 = city
-#b_talecnen_3 = temple
+b_bypond = tribal
+#b_talecnen = city
+#b_talecnen_2 = temple
 
 # Misc
 culture = niefhiem_mountain

@@ -6,9 +6,9 @@ title = c_etolas
 # Settlements
 max_settlements = 3
 
-b_etolas = castle
-#b_etolas_2 = city
-#b_etolas_3 = temple
+b_aldley = tribal
+#b_etolas = city
+#b_etolas_2 = temple
 
 # Misc
 culture = bastian_rural

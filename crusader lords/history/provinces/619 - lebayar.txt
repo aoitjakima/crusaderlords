@@ -6,9 +6,9 @@ title = c_lebayar
 # Settlements
 max_settlements = 3
 
-b_lebayar = castle
-#b_lebayar_2 = city
-#b_lebayar_3 = temple
+b_ironvale = tribal
+#b_lebayar = city
+#b_lebayar_2 = temple
 
 # Misc
 culture = northern_avasian

@@ -6,9 +6,9 @@ title = c_wadureina
 # Settlements
 max_settlements = 3
 
-b_wadureina = castle
-#b_wadureina_2 = city
-#b_wadureina_3 = temple
+b_foxfield = tribal
+#b_wadureina = city
+#b_wadureina_2 = temple
 
 # Misc
 culture = bastian_noble

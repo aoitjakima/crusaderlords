@@ -6,9 +6,9 @@ title = c_neusiby
 # Settlements
 max_settlements = 3
 
-b_neusiby = castle
-#b_neusiby_2 = city
-#b_neusiby_3 = temple
+b_stonemill = tribal
+#b_neusiby = city
+#b_neusiby_2 = temple
 
 # Misc
 culture = northern_avasian

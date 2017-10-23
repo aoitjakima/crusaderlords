@@ -6,9 +6,9 @@ title = c_sauduel
 # Settlements
 max_settlements = 3
 
-b_sauduel = castle
-#b_sauduel_2 = city
-#b_sauduel_3 = temple
+b_deepwall = tribal
+#b_sauduel = city
+#b_sauduel_2 = temple
 
 # Misc
 culture = bastian_rural

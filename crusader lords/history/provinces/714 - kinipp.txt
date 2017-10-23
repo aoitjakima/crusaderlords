@@ -6,9 +6,9 @@ title = c_kinipp
 # Settlements
 max_settlements = 3
 
-b_kinipp = castle
-#b_kinipp_2 = city
-#b_kinipp_3 = temple
+b_southland = tribal
+#b_kinipp = city
+#b_kinipp_2 = temple
 
 # Misc
 culture = northern_avasian

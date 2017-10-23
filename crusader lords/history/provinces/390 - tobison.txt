@@ -6,9 +6,9 @@ title = c_tobison
 # Settlements
 max_settlements = 3
 
-b_tobison = castle
-#b_tobison_2 = city
-#b_tobison_3 = temple
+b_northham = tribal
+#b_tobison = city
+#b_tobison_2 = temple
 
 # Misc
 culture = niefhiem_forrest

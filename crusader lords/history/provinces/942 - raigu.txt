@@ -6,9 +6,9 @@ title = c_raigu
 # Settlements
 max_settlements = 3
 
-b_raigu = castle
-#b_raigu_2 = city
-#b_raigu_3 = temple
+b_swynhollow = tribal
+#b_raigu = city
+#b_raigu_2 = temple
 
 # Misc
 culture = swamp_avasian

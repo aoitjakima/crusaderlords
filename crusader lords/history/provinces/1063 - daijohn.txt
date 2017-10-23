@@ -6,9 +6,9 @@ title = c_daijohn
 # Settlements
 max_settlements = 3
 
-b_daijohn = castle
-#b_daijohn_2 = city
-#b_daijohn_3 = temple
+b_aldsea = tribal
+#b_daijohn = city
+#b_daijohn_2 = temple
 
 # Misc
 culture = bastia_city

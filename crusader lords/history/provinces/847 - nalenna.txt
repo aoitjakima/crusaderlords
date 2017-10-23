@@ -6,9 +6,9 @@ title = c_nalenna
 # Settlements
 max_settlements = 3
 
-b_nalenna = castle
-#b_nalenna_2 = city
-#b_nalenna_3 = temple
+b_summerfair = tribal
+#b_nalenna = city
+#b_nalenna_2 = temple
 
 # Misc
 culture = bastian_noble

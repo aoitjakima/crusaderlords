@@ -6,12 +6,12 @@ title = c_noling
 # Settlements
 max_settlements = 3
 
-b_noling = castle
-b_noling_2 = city
-b_noling_3 = temple
+b_khyarnuur = temple
+#b_noling = city
+#b_noling_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirothian
 
 #History

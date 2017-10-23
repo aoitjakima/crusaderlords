@@ -6,12 +6,12 @@ title = c_reopmas
 # Settlements
 max_settlements = 3
 
-b_reopmas = castle
-b_reopmas_2 = city
-b_reopmas_3 = temple
+b_amash = temple
+#b_reopmas = city
+#b_reopmas_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

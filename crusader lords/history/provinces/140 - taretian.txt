@@ -6,9 +6,9 @@ title = c_taretian
 # Settlements
 max_settlements = 3
 
-b_taretian = castle
-#b_taretian_2 = city
-#b_taretian_3 = temple
+b_whiteriver = tribal
+#b_taretian = city
+#b_taretian_2 = temple
 
 # Misc
 culture = bastian_rural

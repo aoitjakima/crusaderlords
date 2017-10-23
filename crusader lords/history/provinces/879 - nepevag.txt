@@ -6,9 +6,9 @@ title = c_nepevag
 # Settlements
 max_settlements = 3
 
-b_nepevag = castle
-#b_nepevag_2 = city
-#b_nepevag_3 = temple
+b_verthall = tribal
+#b_nepevag = city
+#b_nepevag_2 = temple
 
 # Misc
 culture = bastian_noble

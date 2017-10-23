@@ -1,0 +1,215 @@
+k_neharis = {
+	color = { 66 236 215 }
+	color2 = { 66 236 215 }
+	capital = 187
+	title = cynos
+	foa = POPE_FOA
+	short_name = yes
+	location_ruler_title = yes
+	landless = yes
+	controls_religion = neharis
+	religion = neharis
+	primary = yes
+	dynasty_title_names = no
+	male_names = {
+			Tavel	}
+	culture = norse
+}
+
+d_kusran = {
+	color = { 68 147 191 }
+	color2 = { 68 147 191 }
+	capital = 1048
+	title = sydyreain
+	foa = POPE_FOA
+	short_name = yes
+	location_ruler_title = no
+	landless = yes
+	controls_religion = kusran
+	religion = kusran
+	primary = yes
+	dynasty_title_names = no
+	male_names = {
+			Saetilip	}
+	culture = norse
+}
+
+k_tonuyu = {
+	color = { 173 107 83 }
+	color2 = { 173 107 83 }
+	capital = 62
+	title = raenair
+	foa = POPE_FOA
+	short_name = yes
+	location_ruler_title = yes
+	landless = yes
+	controls_religion = tonuyu
+	religion = tonuyu
+	primary = yes
+	dynasty_title_names = no
+	male_names = {
+			Arein	}
+	culture = norse
+}
+
+e_aratihr = {
+	color = { 158 78 220 }
+	color2 = { 158 78 220 }
+	capital = 16
+	title = prueslon
+	foa = POPE_FOA
+	short_name = yes
+	location_ruler_title = no
+	landless = yes
+	controls_religion = aratihr
+	religion = aratihr
+	primary = yes
+	dynasty_title_names = no
+	male_names = {
+			Wiwenat	}
+	culture = norse
+}
+
+k_nukaye = {
+	color = { 90 237 237 }
+	color2 = { 90 237 237 }
+	capital = 345
+	title = donos
+	foa = POPE_FOA
+	short_name = yes
+	location_ruler_title = no
+	landless = yes
+	controls_religion = nukaye
+	religion = nukaye
+	primary = yes
+	dynasty_title_names = no
+	male_names = {
+			Ril	}
+	culture = norse
+}
+
+k_aguninya = {
+	color = { 90 127 105 }
+	color2 = { 90 127 105 }
+	capital = 32
+	title = panpesious
+	foa = POPE_FOA
+	short_name = no
+	location_ruler_title = yes
+	landless = yes
+	controls_religion = aguninya
+	religion = aguninya
+	primary = yes
+	dynasty_title_names = no
+	male_names = {
+			Rein	}
+	culture = norse
+}
+
+k_qigiyah = {
+	color = { 126 159 151 }
+	color2 = { 126 159 151 }
+	capital = 548
+	title = cirtia
+	foa = POPE_FOA
+	short_name = no
+	location_ruler_title = yes
+	landless = yes
+	controls_religion = qigiyah
+	religion = qigiyah
+	primary = yes
+	dynasty_title_names = no
+	male_names = {
+			Rol	}
+	culture = norse
+}
+
+k_bobena = {
+	color = { 234 228 156 }
+	color2 = { 234 228 156 }
+	capital = 754
+	title = punlon
+	foa = POPE_FOA
+	short_name = yes
+	location_ruler_title = yes
+	landless = yes
+	controls_religion = bobena
+	religion = bobena
+	primary = yes
+	dynasty_title_names = no
+	male_names = {
+			Turg	}
+	culture = norse
+}
+
+k_telayira = {
+	color = { 148 142 231 }
+	color2 = { 148 142 231 }
+	capital = 915
+	title = aergpartlas
+	foa = POPE_FOA
+	short_name = yes
+	location_ruler_title = no
+	landless = yes
+	controls_religion = telayira
+	religion = telayira
+	primary = yes
+	dynasty_title_names = no
+	male_names = {
+			Doanm	}
+	culture = norse
+}
+
+d_worelen = {
+	color = { 235 61 97 }
+	color2 = { 235 61 97 }
+	capital = 1166
+	title = rindurlas
+	foa = POPE_FOA
+	short_name = yes
+	location_ruler_title = no
+	landless = yes
+	controls_religion = worelen
+	religion = worelen
+	primary = yes
+	dynasty_title_names = no
+	male_names = {
+			Nutl	}
+	culture = norse
+}
+
+k_kodine = {
+	color = { 82 138 73 }
+	color2 = { 82 138 73 }
+	capital = 58
+	title = byrerdkat
+	foa = POPE_FOA
+	short_name = yes
+	location_ruler_title = yes
+	landless = yes
+	controls_religion = kodine
+	religion = kodine
+	primary = yes
+	dynasty_title_names = no
+	male_names = {
+			Tunaur	}
+	culture = norse
+}
+
+k_binuyu = {
+	color = { 124 205 208 }
+	color2 = { 124 205 208 }
+	capital = 1132
+	title = pydrius
+	foa = POPE_FOA
+	short_name = yes
+	location_ruler_title = yes
+	landless = yes
+	controls_religion = binuyu
+	religion = binuyu
+	primary = yes
+	dynasty_title_names = no
+	male_names = {
+			Delin	}
+	culture = norse
+}

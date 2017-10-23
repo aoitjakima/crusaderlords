@@ -6,9 +6,9 @@ title = c_teripp
 # Settlements
 max_settlements = 3
 
-b_teripp = castle
-#b_teripp_2 = city
-#b_teripp_3 = temple
+b_falconmeadow = tribal
+#b_teripp = city
+#b_teripp_2 = temple
 
 # Misc
 culture = bastian_avas

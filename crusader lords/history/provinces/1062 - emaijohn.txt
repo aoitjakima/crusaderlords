@@ -6,9 +6,9 @@ title = c_emaijohn
 # Settlements
 max_settlements = 3
 
-b_emaijohn = castle
-#b_emaijohn_2 = city
-#b_emaijohn_3 = temple
+b_mallowsnow = tribal
+#b_emaijohn = city
+#b_emaijohn_2 = temple
 
 # Misc
 culture = bastia_city

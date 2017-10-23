@@ -6,9 +6,9 @@ title = c_turenes
 # Settlements
 max_settlements = 3
 
-b_turenes = castle
-#b_turenes_2 = city
-#b_turenes_3 = temple
+b_orport = tribal
+#b_turenes = city
+#b_turenes_2 = temple
 
 # Misc
 culture = niefhiem_forrest

@@ -6,7 +6,7 @@ title = c_sotarma
 # Settlements
 max_settlements = 3
 
-b_agnone = castle
+b_faywyvern = tribal
 #b_sotarma = city
 #b_sotarma_2 = temple
 

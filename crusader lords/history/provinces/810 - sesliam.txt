@@ -6,9 +6,9 @@ title = c_sesliam
 # Settlements
 max_settlements = 3
 
-b_sesliam = castle
-#b_sesliam_2 = city
-#b_sesliam_3 = temple
+b_wildeland = tribal
+#b_sesliam = city
+#b_sesliam_2 = temple
 
 # Misc
 culture = bastian_avas

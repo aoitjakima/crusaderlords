@@ -6,9 +6,9 @@ title = c_sirutlu
 # Settlements
 max_settlements = 3
 
-b_sirutlu = castle
-#b_sirutlu_2 = city
-#b_sirutlu_3 = temple
+b_bylight = tribal
+#b_sirutlu = city
+#b_sirutlu_2 = temple
 
 # Misc
 culture = bastian_noble

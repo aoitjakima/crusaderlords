@@ -6,9 +6,9 @@ title = c_navows
 # Settlements
 max_settlements = 3
 
-b_navows = castle
-#b_navows_2 = city
-#b_navows_3 = temple
+b_linhollow = tribal
+#b_navows = city
+#b_navows_2 = temple
 
 # Misc
 culture = bastian_avas

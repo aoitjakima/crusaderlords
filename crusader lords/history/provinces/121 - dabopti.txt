@@ -6,9 +6,9 @@ title = c_dabopti
 # Settlements
 max_settlements = 3
 
-b_dabopti = castle
-#b_dabopti_2 = city
-#b_dabopti_3 = temple
+b_crystalcliff = tribal
+#b_dabopti = city
+#b_dabopti_2 = temple
 
 # Misc
 culture = niefhiem_mountain

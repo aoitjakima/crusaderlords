@@ -6,9 +6,9 @@ title = c_taher
 # Settlements
 max_settlements = 3
 
-b_taher = castle
-#b_taher_2 = city
-#b_taher_3 = temple
+b_courtmoor = tribal
+#b_taher = city
+#b_taher_2 = temple
 
 # Misc
 culture = niefhiem_lake

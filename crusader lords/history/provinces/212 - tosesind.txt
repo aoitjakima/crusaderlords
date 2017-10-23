@@ -6,9 +6,9 @@ title = c_tosesind
 # Settlements
 max_settlements = 3
 
-b_tosesind = castle
-#b_tosesind_2 = city
-#b_tosesind_3 = temple
+b_highhedge = tribal
+#b_tosesind = city
+#b_tosesind_2 = temple
 
 # Misc
 culture = niefhiem_forrest

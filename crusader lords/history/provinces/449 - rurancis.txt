@@ -6,9 +6,9 @@ title = c_rurancis
 # Settlements
 max_settlements = 3
 
-b_rurancis = castle
-#b_rurancis_2 = city
-#b_rurancis_3 = temple
+b_pryacre = tribal
+#b_rurancis = city
+#b_rurancis_2 = temple
 
 # Misc
 culture = niefhiem_mountain

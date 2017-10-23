@@ -6,9 +6,9 @@ title = c_lopeed
 # Settlements
 max_settlements = 3
 
-b_lopeed = castle
-#b_lopeed_2 = city
-#b_lopeed_3 = temple
+b_starrybell = tribal
+#b_lopeed = city
+#b_lopeed_2 = temple
 
 # Misc
 culture = niefhiem_mountain

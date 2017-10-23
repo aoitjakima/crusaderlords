@@ -6,9 +6,9 @@ title = c_kururga
 # Settlements
 max_settlements = 3
 
-b_kururga = castle
-#b_kururga_2 = city
-#b_kururga_3 = temple
+b_stonewater = tribal
+#b_kururga = city
+#b_kururga_2 = temple
 
 # Misc
 culture = bastian_noble

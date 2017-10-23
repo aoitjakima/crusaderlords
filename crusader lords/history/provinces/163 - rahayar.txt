@@ -6,9 +6,9 @@ title = c_rahayar
 # Settlements
 max_settlements = 3
 
-b_rahayar = castle
-#b_rahayar_2 = city
-#b_rahayar_3 = temple
+b_lighttown = tribal
+#b_rahayar = city
+#b_rahayar_2 = temple
 
 # Misc
 culture = niefhiem_mountain

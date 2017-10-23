@@ -6,9 +6,9 @@ title = c_betenr
 # Settlements
 max_settlements = 3
 
-b_larino = castle
-#b_betenr = city
-#b_betenr_2 = temple
+b_bushmarsh = tribal
+#b_larino = city
+#b_betenr = temple
 
 # Misc
 culture = bastian_noble

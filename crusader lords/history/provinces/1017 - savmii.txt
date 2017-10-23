@@ -6,9 +6,9 @@ title = c_savmii
 # Settlements
 max_settlements = 3
 
-b_savmii = castle
-#b_savmii_2 = city
-#b_savmii_3 = temple
+b_corville = tribal
+#b_savmii = city
+#b_savmii_2 = temple
 
 # Misc
 culture = niefhiem_mountain

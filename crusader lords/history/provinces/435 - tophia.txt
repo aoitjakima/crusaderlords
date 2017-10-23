@@ -6,9 +6,9 @@ title = c_tophia
 # Settlements
 max_settlements = 3
 
-b_tophia = castle
-#b_tophia_2 = city
-#b_tophia_3 = temple
+b_merriston = tribal
+#b_tophia = city
+#b_tophia_2 = temple
 
 # Misc
 culture = niefhiem_lake

@@ -6,9 +6,9 @@ title = c_avenith
 # Settlements
 max_settlements = 3
 
-b_avenith = castle
-#b_avenith_2 = city
-#b_avenith_3 = temple
+b_easthedge = tribal
+#b_avenith = city
+#b_avenith_2 = temple
 
 # Misc
 culture = bastian_noble

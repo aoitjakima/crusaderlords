@@ -6,9 +6,9 @@ title = c_ninia
 # Settlements
 max_settlements = 3
 
-b_ninia = castle
-#b_ninia_2 = city
-#b_ninia_3 = temple
+b_jannesse = tribal
+#b_ninia = city
+#b_ninia_2 = temple
 
 # Misc
 culture = bastian_rural

@@ -6,9 +6,9 @@ title = c_datadir
 # Settlements
 max_settlements = 3
 
-b_datadir = castle
-#b_datadir_2 = city
-#b_datadir_3 = temple
+b_eribourne = tribal
+#b_datadir = city
+#b_datadir_2 = temple
 
 # Misc
 culture = niefhiem_mountain

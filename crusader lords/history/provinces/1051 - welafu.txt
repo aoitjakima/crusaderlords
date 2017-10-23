@@ -6,9 +6,9 @@ title = c_welafu
 # Settlements
 max_settlements = 3
 
-b_welafu = castle
-#b_welafu_2 = city
-#b_welafu_3 = temple
+b_glassacre = tribal
+#b_welafu = city
+#b_welafu_2 = temple
 
 # Misc
 culture = niefhiem_lake

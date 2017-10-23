@@ -6,9 +6,9 @@ title = c_ronica
 # Settlements
 max_settlements = 3
 
-b_ronica = castle
-#b_ronica_2 = city
-#b_ronica_3 = temple
+b_wolfbourne = tribal
+#b_ronica = city
+#b_ronica_2 = temple
 
 # Misc
 culture = swamp_avasian

@@ -6,9 +6,9 @@ title = c_tyevipp
 # Settlements
 max_settlements = 3
 
-b_tyevipp = castle
-#b_tyevipp_2 = city
-#b_tyevipp_3 = temple
+b_coldhill = tribal
+#b_tyevipp = city
+#b_tyevipp_2 = temple
 
 # Misc
 culture = bastian_avas

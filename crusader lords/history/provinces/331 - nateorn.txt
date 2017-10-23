@@ -6,9 +6,9 @@ title = c_nateorn
 # Settlements
 max_settlements = 3
 
-b_nateorn = castle
-#b_nateorn_2 = city
-#b_nateorn_3 = temple
+b_orbarrow = tribal
+#b_nateorn = city
+#b_nateorn_2 = temple
 
 # Misc
 culture = niefhiem_lake

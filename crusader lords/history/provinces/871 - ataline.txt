@@ -6,9 +6,9 @@ title = c_ataline
 # Settlements
 max_settlements = 3
 
-b_ataline = castle
-#b_ataline_2 = city
-#b_ataline_3 = temple
+b_westwitch = tribal
+#b_ataline = city
+#b_ataline_2 = temple
 
 # Misc
 culture = bastian_noble

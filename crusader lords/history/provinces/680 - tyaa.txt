@@ -6,9 +6,9 @@ title = c_tyaa
 # Settlements
 max_settlements = 3
 
-b_tyaa = castle
-#b_tyaa_2 = city
-#b_tyaa_3 = temple
+b_ostley = tribal
+#b_tyaa = city
+#b_tyaa_2 = temple
 
 # Misc
 culture = northern_avasian

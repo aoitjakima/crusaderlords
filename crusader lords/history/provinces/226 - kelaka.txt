@@ -6,9 +6,9 @@ title = c_kelaka
 # Settlements
 max_settlements = 3
 
-b_st_priest = castle
-#b_kelaka = city
-#b_kelaka_2 = temple
+b_eastice = tribal
+#b_st_priest = city
+#b_kelaka = temple
 
 # Misc
 culture = niefhiem_mountain

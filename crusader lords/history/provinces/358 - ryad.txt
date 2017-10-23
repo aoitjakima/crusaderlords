@@ -6,9 +6,9 @@ title = c_ryad
 # Settlements
 max_settlements = 3
 
-b_ryad = castle
-#b_ryad_2 = city
-#b_ryad_3 = temple
+b_sagebarrow = tribal
+#b_ryad = city
+#b_ryad_2 = temple
 
 # Misc
 culture = niefhiem_forrest

@@ -6,9 +6,9 @@ title = c_alyaniya
 # Settlements
 max_settlements = 3
 
-b_nanterre = castle
-#b_alyaniya = city
-#b_alyaniya_2 = temple
+b_bridgedell = tribal
+#b_nanterre = city
+#b_alyaniya = temple
 
 # Misc
 culture = bastian_rural

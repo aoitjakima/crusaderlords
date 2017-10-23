@@ -6,12 +6,12 @@ title = c_deladai
 # Settlements
 max_settlements = 3
 
-b_deladai = castle
-b_deladai_2 = city
-b_deladai_3 = temple
+b_marmarasta = temple
+#b_deladai = city
+#b_deladai_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = Kir-ko
 
 #History

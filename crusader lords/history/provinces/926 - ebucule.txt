@@ -6,9 +6,9 @@ title = c_ebucule
 # Settlements
 max_settlements = 3
 
-b_ebucule = castle
-#b_ebucule_2 = city
-#b_ebucule_3 = temple
+b_janland = tribal
+#b_ebucule = city
+#b_ebucule_2 = temple
 
 # Misc
 culture = bastian_noble

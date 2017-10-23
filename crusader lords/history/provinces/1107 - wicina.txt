@@ -6,12 +6,12 @@ title = c_wicina
 # Settlements
 max_settlements = 3
 
-b_wicina = castle
-b_wicina_2 = city
-b_wicina_3 = temple
+b_shahigheh = castle
+#b_wicina = city
+#b_wicina_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

@@ -6,9 +6,9 @@ title = c_seina
 # Settlements
 max_settlements = 3
 
-b_seina = castle
-#b_seina_2 = city
-#b_seina_3 = temple
+b_riverfield = tribal
+#b_seina = city
+#b_seina_2 = temple
 
 # Misc
 culture = bastian_noble

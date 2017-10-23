@@ -6,9 +6,9 @@ title = c_keuser
 # Settlements
 max_settlements = 3
 
-b_keuser = castle
-#b_keuser_2 = city
-#b_keuser_3 = temple
+b_witchville = tribal
+#b_keuser = city
+#b_keuser_2 = temple
 
 # Misc
 culture = bastian_avas

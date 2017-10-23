@@ -6,9 +6,9 @@ title = c_datily
 # Settlements
 max_settlements = 3
 
-b_datily = castle
-#b_datily_2 = city
-#b_datily_3 = temple
+b_newwolf = tribal
+#b_datily = city
+#b_datily_2 = temple
 
 # Misc
 culture = bastian_rural

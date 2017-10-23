@@ -6,9 +6,9 @@ title = c_deliinow
 # Settlements
 max_settlements = 3
 
-b_deliinow = castle
-#b_deliinow_2 = city
-#b_deliinow_3 = temple
+b_aelmead = tribal
+#b_deliinow = city
+#b_deliinow_2 = temple
 
 # Misc
 culture = northern_avasian

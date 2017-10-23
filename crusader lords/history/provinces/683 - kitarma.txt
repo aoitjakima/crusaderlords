@@ -6,9 +6,9 @@ title = c_kitarma
 # Settlements
 max_settlements = 3
 
-b_kitarma = castle
-#b_kitarma_2 = city
-#b_kitarma_3 = temple
+b_summerbutter = tribal
+#b_kitarma = city
+#b_kitarma_2 = temple
 
 # Misc
 culture = bastian_rural

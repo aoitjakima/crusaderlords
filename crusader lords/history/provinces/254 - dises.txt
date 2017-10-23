@@ -6,9 +6,9 @@ title = c_dises
 # Settlements
 max_settlements = 3
 
-b_dises = castle
-#b_dises_2 = city
-#b_dises_3 = temple
+b_blueglass = tribal
+#b_dises = city
+#b_dises_2 = temple
 
 # Misc
 culture = niefhiem_forrest

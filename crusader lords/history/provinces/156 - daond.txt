@@ -6,9 +6,9 @@ title = c_daond
 # Settlements
 max_settlements = 3
 
-b_daond = castle
-#b_daond_2 = city
-#b_daond_3 = temple
+b_eribush = tribal
+#b_daond = city
+#b_daond_2 = temple
 
 # Misc
 culture = niefhiem_mountain

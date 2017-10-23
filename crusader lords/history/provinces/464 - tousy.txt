@@ -6,9 +6,9 @@ title = c_tousy
 # Settlements
 max_settlements = 3
 
-b_remscheild = castle
-#b_tousy = city
-#b_tousy_2 = temple
+b_marblesilver = tribal
+#b_remscheild = city
+#b_tousy = temple
 
 # Misc
 culture = niefhiem_forrest

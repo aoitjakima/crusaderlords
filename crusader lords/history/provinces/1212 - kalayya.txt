@@ -6,12 +6,12 @@ title = c_kalayya
 # Settlements
 max_settlements = 3
 
-b_kalayya = castle
-b_kalayya_2 = city
-b_kalayya_3 = temple
+b_qinramay = temple
+#b_kalayya = city
+#b_kalayya_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirian
 
 #History

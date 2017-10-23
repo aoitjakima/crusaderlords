@@ -6,9 +6,9 @@ title = c_byahibel
 # Settlements
 max_settlements = 3
 
-b_byahibel = castle
-#b_byahibel_2 = city
-#b_byahibel_3 = temple
+b_swynden = tribal
+#b_byahibel = city
+#b_byahibel_2 = temple
 
 # Misc
 culture = niefhiem_mountain

@@ -6,12 +6,12 @@ title = c_tatala
 # Settlements
 max_settlements = 3
 
-b_tatala = castle
-b_tatala_2 = city
-b_tatala_3 = temple
+b_nasai = temple
+#b_tatala = city
+#b_tatala_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirothian
 
 #History

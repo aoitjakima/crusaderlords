@@ -6,9 +6,9 @@ title = c_ruliyah
 # Settlements
 max_settlements = 3
 
-b_ruliyah = castle
-#b_ruliyah_2 = city
-#b_ruliyah_3 = temple
+b_snowfield = tribal
+#b_ruliyah = city
+#b_ruliyah_2 = temple
 
 # Misc
 culture = niefhiem_mountain

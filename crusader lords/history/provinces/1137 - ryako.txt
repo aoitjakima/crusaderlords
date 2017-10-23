@@ -6,12 +6,12 @@ title = c_ryako
 # Settlements
 max_settlements = 3
 
-b_ryako = castle
-b_ryako_2 = city
-b_ryako_3 = temple
+b_gata = temple
+#b_ryako = city
+#b_ryako_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirothian
 
 #History

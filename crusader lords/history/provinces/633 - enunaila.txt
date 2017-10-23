@@ -6,9 +6,9 @@ title = c_enunaila
 # Settlements
 max_settlements = 3
 
-b_enunaila = castle
-#b_enunaila_2 = city
-#b_enunaila_3 = temple
+b_highwinter = tribal
+#b_enunaila = city
+#b_enunaila_2 = temple
 
 # Misc
 culture = bastian_rural

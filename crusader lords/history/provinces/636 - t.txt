@@ -6,12 +6,12 @@ title = c_t
 # Settlements
 max_settlements = 3
 
-b_t = castle
-#b_t_2 = city
-#b_t_3 = temple
+b_vertway = tribal
+#b_t = city
+#b_t_2 = temple
 
 # Misc
-culture = bastian_avas
+culture = northern_avasian
 religion = terrorian
 
 #History

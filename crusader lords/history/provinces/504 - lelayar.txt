@@ -6,9 +6,9 @@ title = c_lelayar
 # Settlements
 max_settlements = 3
 
-b_lelayar = castle
-#b_lelayar_2 = city
-#b_lelayar_3 = temple
+b_newdell = tribal
+#b_lelayar = city
+#b_lelayar_2 = temple
 
 # Misc
 culture = niefhiem_lake

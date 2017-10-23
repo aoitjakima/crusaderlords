@@ -6,9 +6,9 @@ title = c_dalige
 # Settlements
 max_settlements = 3
 
-b_dalige = castle
-#b_dalige_2 = city
-#b_dalige_3 = temple
+b_janmead = tribal
+#b_dalige = city
+#b_dalige_2 = temple
 
 # Misc
 culture = swamp_avasian

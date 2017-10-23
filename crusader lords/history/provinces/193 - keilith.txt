@@ -6,9 +6,9 @@ title = c_keilith
 # Settlements
 max_settlements = 3
 
-b_keilith = castle
-#b_keilith_2 = city
-#b_keilith_3 = temple
+b_butterholt = tribal
+#b_keilith = city
+#b_keilith_2 = temple
 
 # Misc
 culture = bastian_rural

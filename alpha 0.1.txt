@@ -1,0 +1,41 @@
+Crusader lords V0.1 alpha release
+
+Features
+	New cultures
+		Estazi (with 5 seperate Estazi Cultures representing the major differences in the Estazi republics
+		Avasian
+		Bastian
+		Niefhiemen
+		Kirothi (and their 5 sub cultures, including older Kir-ko necromancer cultures and the other component races in the empire)
+		Eastern-raiders
+		Kahet
+		Old Casian
+		
+	New Faiths
+		Terrorian and 5 herasies
+		Estazi Small gods
+		Kirothian and Kirian
+		Eastern Hankism
+		Kahet
+		Old Casian
+		
+	Completely redone map
+		New map with manawaste visuals as well as over 500 Avasian counties and hundred of Kirothian counties and 5 Estazi republics
+		
+	Still to do
+		Create logical dutchies in Avas
+		Create events that introduce Kahet and Eastern raider Courtiers 
+		Add Lords related traits (wizards, raider blood, etc)
+		add societies
+			Public and Secret wizard cults for Avas and Kiroth
+			Avasian Knightly orders
+			Avasian Conspiring daemons
+			Estazi inventors
+			Estazi Pirates
+		add artifacts
+			Raider steel artifacts
+			an array of magic items from the wastes
+			Estazi inventions
+			Kirothi necromantic artifacts
+			
+		Shit loads of events

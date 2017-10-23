@@ -6,9 +6,9 @@ title = c_revenovat
 # Settlements
 max_settlements = 3
 
-b_revenovat = castle
-#b_revenovat_2 = city
-#b_revenovat_3 = temple
+b_silverbush = tribal
+#b_revenovat = city
+#b_revenovat_2 = temple
 
 # Misc
 culture = bastian_noble

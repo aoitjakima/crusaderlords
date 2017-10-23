@@ -6,9 +6,9 @@ title = c_resamur
 # Settlements
 max_settlements = 3
 
-b_resamur = castle
-#b_resamur_2 = city
-#b_resamur_3 = temple
+b_merriville = tribal
+#b_resamur = city
+#b_resamur_2 = temple
 
 # Misc
 culture = bastian_noble

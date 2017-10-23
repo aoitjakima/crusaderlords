@@ -6,9 +6,9 @@ title = c_ryevacob
 # Settlements
 max_settlements = 3
 
-b_ryevacob = castle
-#b_ryevacob_2 = city
-#b_ryevacob_3 = temple
+b_goldwyvern = tribal
+#b_ryevacob = city
+#b_ryevacob_2 = temple
 
 # Misc
 culture = bastian_avas

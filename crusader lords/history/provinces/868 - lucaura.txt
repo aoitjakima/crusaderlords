@@ -6,9 +6,9 @@ title = c_lucaura
 # Settlements
 max_settlements = 3
 
-b_lucaura = castle
-#b_lucaura_2 = city
-#b_lucaura_3 = temple
+b_janpond = tribal
+#b_lucaura = city
+#b_lucaura_2 = temple
 
 # Misc
 culture = bastian_noble

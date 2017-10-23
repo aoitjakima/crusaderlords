@@ -6,9 +6,9 @@ title = c_bovacob
 # Settlements
 max_settlements = 3
 
-b_bovacob = castle
-#b_bovacob_2 = city
-#b_bovacob_3 = temple
+b_lochcoast = tribal
+#b_bovacob = city
+#b_bovacob_2 = temple
 
 # Misc
 culture = bastian_avas

@@ -6,9 +6,9 @@ title = c_sewnis
 # Settlements
 max_settlements = 3
 
-b_sewnis = castle
-#b_sewnis_2 = city
-#b_sewnis_3 = temple
+b_greenbutter = tribal
+#b_sewnis = city
+#b_sewnis_2 = temple
 
 # Misc
 culture = niefhiem_mountain

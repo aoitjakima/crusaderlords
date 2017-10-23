@@ -6,9 +6,9 @@ title = c_afabyan
 # Settlements
 max_settlements = 3
 
-b_afabyan = castle
-#b_afabyan_2 = city
-#b_afabyan_3 = temple
+b_greyton = tribal
+#b_afabyan = city
+#b_afabyan_2 = temple
 
 # Misc
 culture = niefhiem_mountain

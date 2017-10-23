@@ -6,9 +6,9 @@ title = c_tarirra
 # Settlements
 max_settlements = 3
 
-b_barnevelde = castle
-#b_tarirra = city
-#b_tarirra_2 = temple
+b_wyvernshore = tribal
+#b_barnevelde = city
+#b_tarirra = temple
 
 # Misc
 culture = bastian_avas

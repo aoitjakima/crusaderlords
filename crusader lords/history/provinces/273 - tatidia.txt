@@ -6,9 +6,9 @@ title = c_tatidia
 # Settlements
 max_settlements = 3
 
-b_tatidia = castle
-#b_tatidia_2 = city
-#b_tatidia_3 = temple
+b_stonepine = tribal
+#b_tatidia = city
+#b_tatidia_2 = temple
 
 # Misc
 culture = niefhiem_forrest

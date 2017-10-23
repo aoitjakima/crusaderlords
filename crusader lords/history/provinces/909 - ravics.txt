@@ -6,9 +6,9 @@ title = c_ravics
 # Settlements
 max_settlements = 3
 
-b_ravics = castle
-#b_ravics_2 = city
-#b_ravics_3 = temple
+b_lakeland = tribal
+#b_ravics = city
+#b_ravics_2 = temple
 
 # Misc
 culture = bastian_noble

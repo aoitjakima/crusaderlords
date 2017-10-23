@@ -6,9 +6,9 @@ title = c_saleyee
 # Settlements
 max_settlements = 3
 
-b_saleyee = castle
-#b_saleyee_2 = city
-#b_saleyee_3 = temple
+b_southfair = tribal
+#b_saleyee = city
+#b_saleyee_2 = temple
 
 # Misc
 culture = bastian_avas

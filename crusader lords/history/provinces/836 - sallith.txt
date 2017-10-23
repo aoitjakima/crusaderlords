@@ -6,9 +6,9 @@ title = c_sallith
 # Settlements
 max_settlements = 3
 
-b_sallith = castle
-#b_sallith_2 = city
-#b_sallith_3 = temple
+b_violetkeep = tribal
+#b_sallith = city
+#b_sallith_2 = temple
 
 # Misc
 culture = bastia_city

@@ -6,9 +6,9 @@ title = c_reropolk
 # Settlements
 max_settlements = 3
 
-b_reropolk = castle
-#b_reropolk_2 = city
-#b_reropolk_3 = temple
+b_mormont = tribal
+#b_reropolk = city
+#b_reropolk_2 = temple
 
 # Misc
 culture = niefhiem_forrest

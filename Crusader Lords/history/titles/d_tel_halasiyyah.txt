@@ -1,0 +1,5 @@
+# e_kiroth
+500.1.1={
+	liege=k_oshzus_kur
+	holder=1062664
+}

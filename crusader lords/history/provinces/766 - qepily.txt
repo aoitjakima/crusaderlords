@@ -6,9 +6,9 @@ title = c_qepily
 # Settlements
 max_settlements = 3
 
-b_qepily = castle
-#b_qepily_2 = city
-#b_qepily_3 = temple
+b_whitevale = tribal
+#b_qepily = city
+#b_qepily_2 = temple
 
 # Misc
 culture = bastian_rural

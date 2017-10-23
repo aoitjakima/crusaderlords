@@ -6,9 +6,9 @@ title = c_kusina
 # Settlements
 max_settlements = 3
 
-b_kusina = castle
-#b_kusina_2 = city
-#b_kusina_3 = temple
+b_strongland = tribal
+#b_kusina = city
+#b_kusina_2 = temple
 
 # Misc
 culture = niefhiem_mountain

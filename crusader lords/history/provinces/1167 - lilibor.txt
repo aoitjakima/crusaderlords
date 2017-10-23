@@ -6,12 +6,12 @@ title = c_lilibor
 # Settlements
 max_settlements = 3
 
-b_lilibor = castle
-b_lilibor_2 = city
-b_lilibor_3 = temple
+b_malahnuj = temple
+#b_lilibor = city
+#b_lilibor_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

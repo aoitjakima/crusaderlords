@@ -6,12 +6,12 @@ title = c_tetony
 # Settlements
 max_settlements = 3
 
-b_tetony = castle
-b_tetony_2 = city
-b_tetony_3 = temple
+b_meyabeh = temple
+#b_tetony = city
+#b_tetony_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

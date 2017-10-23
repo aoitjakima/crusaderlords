@@ -6,9 +6,9 @@ title = c_waher
 # Settlements
 max_settlements = 3
 
-b_waher = castle
-#b_waher_2 = city
-#b_waher_3 = temple
+b_fallloch = tribal
+#b_waher = city
+#b_waher_2 = temple
 
 # Misc
 culture = swamp_avasian

@@ -6,9 +6,9 @@ title = c_tudacob
 # Settlements
 max_settlements = 3
 
-b_tudacob = castle
-#b_tudacob_2 = city
-#b_tudacob_3 = temple
+b_faygold = tribal
+#b_tudacob = city
+#b_tudacob_2 = temple
 
 # Misc
 culture = swamp_avasian

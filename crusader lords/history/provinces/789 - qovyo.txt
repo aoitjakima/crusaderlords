@@ -6,9 +6,9 @@ title = c_qovyo
 # Settlements
 max_settlements = 3
 
-b_delft = castle
-#b_qovyo = city
-#b_qovyo_2 = temple
+b_coldwick = tribal
+#b_delft = city
+#b_qovyo = temple
 
 # Misc
 culture = bastian_avas

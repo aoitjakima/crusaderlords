@@ -6,12 +6,12 @@ title = c_elanhad
 # Settlements
 max_settlements = 3
 
-b_elanhad = castle
-b_elanhad_2 = city
-b_elanhad_3 = temple
+b_kocanekin = castle
+#b_elanhad = city
+#b_elanhad_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = Kir-ko
 
 #History

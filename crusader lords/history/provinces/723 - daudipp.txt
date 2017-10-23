@@ -6,9 +6,9 @@ title = c_daudipp
 # Settlements
 max_settlements = 3
 
-b_daudipp = castle
-#b_daudipp_2 = city
-#b_daudipp_3 = temple
+b_westpond = tribal
+#b_daudipp = city
+#b_daudipp_2 = temple
 
 # Misc
 culture = northern_avasian

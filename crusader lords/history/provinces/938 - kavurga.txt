@@ -6,9 +6,9 @@ title = c_kavurga
 # Settlements
 max_settlements = 3
 
-b_kavurga = castle
-#b_kavurga_2 = city
-#b_kavurga_3 = temple
+b_greyacre = tribal
+#b_kavurga = city
+#b_kavurga_2 = temple
 
 # Misc
 culture = bastian_avas

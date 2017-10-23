@@ -6,9 +6,9 @@ title = c_wareed
 # Settlements
 max_settlements = 3
 
-b_wareed = castle
-#b_wareed_2 = city
-#b_wareed_3 = temple
+b_lochley = tribal
+#b_wareed = city
+#b_wareed_2 = temple
 
 # Misc
 culture = niefhiem_mountain

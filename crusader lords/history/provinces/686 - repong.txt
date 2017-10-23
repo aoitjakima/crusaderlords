@@ -6,9 +6,9 @@ title = c_repong
 # Settlements
 max_settlements = 3
 
-b_repong = castle
-#b_repong_2 = city
-#b_repong_3 = temple
+b_grasswall = tribal
+#b_repong = city
+#b_repong_2 = temple
 
 # Misc
 culture = bastian_rural

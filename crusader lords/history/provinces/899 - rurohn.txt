@@ -6,9 +6,9 @@ title = c_rurohn
 # Settlements
 max_settlements = 3
 
-b_rurohn = castle
-#b_rurohn_2 = city
-#b_rurohn_3 = temple
+b_stoneiron = tribal
+#b_rurohn = city
+#b_rurohn_2 = temple
 
 # Misc
 culture = bastian_noble

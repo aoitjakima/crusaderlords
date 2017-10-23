@@ -6,9 +6,9 @@ title = c_daigu
 # Settlements
 max_settlements = 3
 
-b_daigu = castle
-#b_daigu_2 = city
-#b_daigu_3 = temple
+b_bluebourne = tribal
+#b_daigu = city
+#b_daigu_2 = temple
 
 # Misc
 culture = swamp_avasian

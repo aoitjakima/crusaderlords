@@ -6,9 +6,9 @@ title = c_tamidhin
 # Settlements
 max_settlements = 3
 
-b_tamidhin = castle
-#b_tamidhin_2 = city
-#b_tamidhin_3 = temple
+b_shoreburn = tribal
+#b_tamidhin = city
+#b_tamidhin_2 = temple
 
 # Misc
 culture = northern_avasian

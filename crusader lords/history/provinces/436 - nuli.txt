@@ -6,9 +6,9 @@ title = c_nuli
 # Settlements
 max_settlements = 3
 
-b_nuli = castle
-#b_nuli_2 = city
-#b_nuli_3 = temple
+b_courtbridge = tribal
+#b_nuli = city
+#b_nuli_2 = temple
 
 # Misc
 culture = niefhiem_mountain

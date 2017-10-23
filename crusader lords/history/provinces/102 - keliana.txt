@@ -6,9 +6,9 @@ title = c_keliana
 # Settlements
 max_settlements = 3
 
-b_keliana = castle
-#b_keliana_2 = city
-#b_keliana_3 = temple
+b_goldflower = tribal
+#b_keliana = city
+#b_keliana_2 = temple
 
 # Misc
 culture = niefhiem_mountain

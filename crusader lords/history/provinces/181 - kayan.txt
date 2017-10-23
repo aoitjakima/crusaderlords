@@ -6,9 +6,9 @@ title = c_kayan
 # Settlements
 max_settlements = 3
 
-b_kayan = castle
-#b_kayan_2 = city
-#b_kayan_3 = temple
+b_westerrose = tribal
+#b_kayan = city
+#b_kayan_2 = temple
 
 # Misc
 culture = niefhiem_forrest

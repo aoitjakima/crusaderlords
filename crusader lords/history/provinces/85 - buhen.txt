@@ -6,9 +6,9 @@ title = c_buhen
 # Settlements
 max_settlements = 3
 
-b_buhen = castle
-#b_buhen_2 = city
-#b_buhen_3 = temple
+b_greymill = tribal
+#b_buhen = city
+#b_buhen_2 = temple
 
 # Misc
 culture = bastian_rural

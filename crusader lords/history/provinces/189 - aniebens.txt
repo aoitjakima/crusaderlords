@@ -6,9 +6,9 @@ title = c_aniebens
 # Settlements
 max_settlements = 3
 
-b_aniebens = castle
-#b_aniebens_2 = city
-#b_aniebens_3 = temple
+b_prybridge = tribal
+#b_aniebens = city
+#b_aniebens_2 = temple
 
 # Misc
 culture = niefhiem_lake

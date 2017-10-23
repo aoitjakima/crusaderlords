@@ -6,9 +6,9 @@ title = c_kumeodat
 # Settlements
 max_settlements = 3
 
-b_kumeodat = castle
-#b_kumeodat_2 = city
-#b_kumeodat_3 = temple
+b_aellyn = tribal
+#b_kumeodat = city
+#b_kumeodat_2 = temple
 
 # Misc
 culture = bastian_rural

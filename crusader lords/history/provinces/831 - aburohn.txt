@@ -6,9 +6,9 @@ title = c_aburohn
 # Settlements
 max_settlements = 3
 
-b_aburohn = castle
-#b_aburohn_2 = city
-#b_aburohn_3 = temple
+b_grassacre = tribal
+#b_aburohn = city
+#b_aburohn_2 = temple
 
 # Misc
 culture = bastian_noble

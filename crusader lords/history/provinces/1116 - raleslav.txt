@@ -6,12 +6,12 @@ title = c_raleslav
 # Settlements
 max_settlements = 3
 
-b_raleslav = castle
-b_raleslav_2 = city
-b_raleslav_3 = temple
+b_shubranieh = temple
+#b_raleslav = city
+#b_raleslav_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

@@ -6,9 +6,9 @@ title = c_eryio
 # Settlements
 max_settlements = 3
 
-b_eryio = castle
-#b_eryio_2 = city
-#b_eryio_3 = temple
+b_wellmount = tribal
+#b_eryio = city
+#b_eryio_2 = temple
 
 # Misc
 culture = niefhiem_forrest

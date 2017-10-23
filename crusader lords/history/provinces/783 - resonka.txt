@@ -6,9 +6,9 @@ title = c_resonka
 # Settlements
 max_settlements = 3
 
-b_resonka = castle
-#b_resonka_2 = city
-#b_resonka_3 = temple
+b_starrymill = tribal
+#b_resonka = city
+#b_resonka_2 = temple
 
 # Misc
 culture = bastian_noble

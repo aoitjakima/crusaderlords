@@ -6,9 +6,9 @@ title = c_tusala
 # Settlements
 max_settlements = 3
 
-b_tusala = castle
-#b_tusala_2 = city
-#b_tusala_3 = temple
+b_glasshurst = tribal
+#b_tusala = city
+#b_tusala_2 = temple
 
 # Misc
 culture = swamp_avasian

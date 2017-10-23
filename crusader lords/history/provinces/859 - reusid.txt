@@ -6,9 +6,9 @@ title = c_reusid
 # Settlements
 max_settlements = 3
 
-b_reusid = castle
-#b_reusid_2 = city
-#b_reusid_3 = temple
+b_eastbush = tribal
+#b_reusid = city
+#b_reusid_2 = temple
 
 # Misc
 culture = bastian_avas

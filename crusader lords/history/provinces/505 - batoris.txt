@@ -6,9 +6,9 @@ title = c_batoris
 # Settlements
 max_settlements = 3
 
-b_batoris = castle
-#b_batoris_2 = city
-#b_batoris_3 = temple
+b_marblenesse = tribal
+#b_batoris = city
+#b_batoris_2 = temple
 
 # Misc
 culture = niefhiem_forrest

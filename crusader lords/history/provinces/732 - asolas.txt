@@ -6,9 +6,9 @@ title = c_asolas
 # Settlements
 max_settlements = 3
 
-b_asolas = castle
-#b_asolas_2 = city
-#b_asolas_3 = temple
+b_summerwitch = tribal
+#b_asolas = city
+#b_asolas_2 = temple
 
 # Misc
 culture = bastian_noble

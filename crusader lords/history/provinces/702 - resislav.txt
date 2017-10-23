@@ -6,9 +6,9 @@ title = c_resislav
 # Settlements
 max_settlements = 3
 
-b_resislav = castle
-#b_resislav_2 = city
-#b_resislav_3 = temple
+b_byvale = tribal
+#b_resislav = city
+#b_resislav_2 = temple
 
 # Misc
 culture = bastia_city

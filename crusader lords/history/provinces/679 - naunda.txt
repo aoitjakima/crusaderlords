@@ -6,9 +6,9 @@ title = c_naunda
 # Settlements
 max_settlements = 3
 
-b_naunda = castle
-#b_naunda_2 = city
-#b_naunda_3 = temple
+b_hollowwynne = tribal
+#b_naunda = city
+#b_naunda_2 = temple
 
 # Misc
 culture = bastian_noble

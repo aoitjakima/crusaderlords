@@ -6,9 +6,9 @@ title = c_etyey
 # Settlements
 max_settlements = 3
 
-b_etyey = castle
-#b_etyey_2 = city
-#b_etyey_3 = temple
+b_brightcoast = tribal
+#b_etyey = city
+#b_etyey_2 = temple
 
 # Misc
 culture = niefhiem_lake

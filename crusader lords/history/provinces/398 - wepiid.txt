@@ -6,9 +6,9 @@ title = c_wepiid
 # Settlements
 max_settlements = 3
 
-b_wepiid = castle
-#b_wepiid_2 = city
-#b_wepiid_3 = temple
+b_deepbank = tribal
+#b_wepiid = city
+#b_wepiid_2 = temple
 
 # Misc
 culture = niefhiem_forrest

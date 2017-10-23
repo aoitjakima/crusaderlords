@@ -6,9 +6,9 @@ title = c_qonadi
 # Settlements
 max_settlements = 3
 
-b_qonadi = castle
-#b_qonadi_2 = city
-#b_qonadi_3 = temple
+b_wheatdell = tribal
+#b_qonadi = city
+#b_qonadi_2 = temple
 
 # Misc
 culture = swamp_avasian

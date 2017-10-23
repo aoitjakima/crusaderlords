@@ -6,9 +6,9 @@ title = c_runuel
 # Settlements
 max_settlements = 3
 
-b_runuel = castle
-#b_runuel_2 = city
-#b_runuel_3 = temple
+b_wildecoast = tribal
+#b_runuel = city
+#b_runuel_2 = temple
 
 # Misc
 culture = bastian_avas

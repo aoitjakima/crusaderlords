@@ -6,9 +6,9 @@ title = c_data
 # Settlements
 max_settlements = 3
 
-b_data = castle
-#b_data_2 = city
-#b_data_3 = temple
+b_aelcastle = tribal
+#b_data = city
+#b_data_2 = temple
 
 # Misc
 culture = swamp_avasian

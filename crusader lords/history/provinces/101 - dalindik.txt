@@ -6,9 +6,9 @@ title = c_dalindik
 # Settlements
 max_settlements = 3
 
-b_dalindik = castle
-#b_dalindik_2 = city
-#b_dalindik_3 = temple
+b_millville = tribal
+#b_dalindik = city
+#b_dalindik_2 = temple
 
 # Misc
 culture = niefhiem_mountain

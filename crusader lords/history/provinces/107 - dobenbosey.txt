@@ -6,9 +6,9 @@ title = c_dobenbosey
 # Settlements
 max_settlements = 3
 
-b_dobenbosey = castle
-#b_dobenbosey_2 = city
-#b_dobenbosey_3 = temple
+b_bellbeach = tribal
+#b_dobenbosey = city
+#b_dobenbosey_2 = temple
 
 # Misc
 culture = niefhiem_mountain

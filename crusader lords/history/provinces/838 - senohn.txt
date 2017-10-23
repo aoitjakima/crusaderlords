@@ -6,9 +6,9 @@ title = c_senohn
 # Settlements
 max_settlements = 3
 
-b_senohn = castle
-#b_senohn_2 = city
-#b_senohn_3 = temple
+b_hedgemarsh = tribal
+#b_senohn = city
+#b_senohn_2 = temple
 
 # Misc
 culture = bastian_noble

@@ -6,9 +6,9 @@ title = c_degiana
 # Settlements
 max_settlements = 3
 
-b_degiana = castle
-#b_degiana_2 = city
-#b_degiana_3 = temple
+b_snowcrystal = tribal
+#b_degiana = city
+#b_degiana_2 = temple
 
 # Misc
 culture = niefhiem_lake

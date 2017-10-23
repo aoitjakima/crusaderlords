@@ -6,9 +6,9 @@ title = c_diwabra
 # Settlements
 max_settlements = 3
 
-b_diwabra = castle
-#b_diwabra_2 = city
-#b_diwabra_3 = temple
+b_merrilake = tribal
+#b_diwabra = city
+#b_diwabra_2 = temple
 
 # Misc
 culture = bastian_noble

@@ -6,9 +6,9 @@ title = c_sitada
 # Settlements
 max_settlements = 3
 
-b_sitada = castle
-#b_sitada_2 = city
-#b_sitada_3 = temple
+b_westermont = tribal
+#b_sitada = city
+#b_sitada_2 = temple
 
 # Misc
 culture = northern_avasian

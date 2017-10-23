@@ -6,9 +6,9 @@ title = c_avlule
 # Settlements
 max_settlements = 3
 
-b_avlule = castle
-#b_avlule_2 = city
-#b_avlule_3 = temple
+b_newsilver = tribal
+#b_avlule = city
+#b_avlule_2 = temple
 
 # Misc
 culture = swamp_avasian

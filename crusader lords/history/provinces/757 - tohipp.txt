@@ -6,9 +6,9 @@ title = c_tohipp
 # Settlements
 max_settlements = 3
 
-b_tohipp = castle
-#b_tohipp_2 = city
-#b_tohipp_3 = temple
+b_ironmerrow = tribal
+#b_tohipp = city
+#b_tohipp_2 = temple
 
 # Misc
 culture = swamp_avasian

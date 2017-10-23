@@ -6,9 +6,9 @@ title = c_nucics
 # Settlements
 max_settlements = 3
 
-b_nucics = castle
-#b_nucics_2 = city
-#b_nucics_3 = temple
+b_fallgold = tribal
+#b_nucics = city
+#b_nucics_2 = temple
 
 # Misc
 culture = bastian_avas

@@ -6,9 +6,9 @@ title = c_wuloris
 # Settlements
 max_settlements = 3
 
-b_wuloris = castle
-#b_wuloris_2 = city
-#b_wuloris_3 = temple
+b_castlebush = tribal
+#b_wuloris = city
+#b_wuloris_2 = temple
 
 # Misc
 culture = northern_avasian

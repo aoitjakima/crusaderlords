@@ -6,12 +6,12 @@ title = c_detpalamadaran
 # Settlements
 max_settlements = 3
 
-b_detpalamadaran = castle
-b_detpalamadaran_2 = city
-b_detpalamadaran_3 = temple
+b_founab = castle
+#b_detpalamadaran = city
+#b_detpalamadaran_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = Kir-ko
 
 #History

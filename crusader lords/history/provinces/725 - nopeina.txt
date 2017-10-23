@@ -6,7 +6,7 @@ title = c_nopeina
 # Settlements
 max_settlements = 3
 
-b_saronno = castle
+b_ostdale = tribal
 #b_nopeina = city
 #b_nopeina_2 = temple
 

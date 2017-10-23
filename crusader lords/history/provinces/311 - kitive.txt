@@ -6,9 +6,9 @@ title = c_kitive
 # Settlements
 max_settlements = 3
 
-b_kitive = castle
-#b_kitive_2 = city
-#b_kitive_3 = temple
+b_lincastle = tribal
+#b_kitive = city
+#b_kitive_2 = temple
 
 # Misc
 culture = niefhiem_forrest

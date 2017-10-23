@@ -6,12 +6,12 @@ title = c_lorabra
 # Settlements
 max_settlements = 3
 
-b_lorabra = castle
-b_lorabra_2 = city
-b_lorabra_3 = temple
+b_balenout = temple
+#b_lorabra = city
+#b_lorabra_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirian
 
 #History

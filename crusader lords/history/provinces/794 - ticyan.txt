@@ -6,9 +6,9 @@ title = c_ticyan
 # Settlements
 max_settlements = 3
 
-b_ticyan = castle
-#b_ticyan_2 = city
-#b_ticyan_3 = temple
+b_marblegrass = tribal
+#b_ticyan = city
+#b_ticyan_2 = temple
 
 # Misc
 culture = swamp_avasian

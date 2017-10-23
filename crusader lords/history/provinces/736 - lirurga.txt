@@ -6,9 +6,9 @@ title = c_lirurga
 # Settlements
 max_settlements = 3
 
-b_lirurga = castle
-#b_lirurga_2 = city
-#b_lirurga_3 = temple
+b_buttermarble = tribal
+#b_lirurga = city
+#b_lirurga_2 = temple
 
 # Misc
 culture = bastian_noble

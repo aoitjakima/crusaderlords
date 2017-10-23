@@ -6,9 +6,9 @@ title = c_ratarma
 # Settlements
 max_settlements = 3
 
-b_ratarma = castle
-#b_ratarma_2 = city
-#b_ratarma_3 = temple
+b_edgeport = tribal
+#b_ratarma = city
+#b_ratarma_2 = temple
 
 # Misc
 culture = bastia_city

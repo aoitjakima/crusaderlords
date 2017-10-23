@@ -6,9 +6,9 @@ title = c_soladwig
 # Settlements
 max_settlements = 3
 
-b_soladwig = castle
-#b_soladwig_2 = city
-#b_soladwig_3 = temple
+b_summerbeach = tribal
+#b_soladwig = city
+#b_soladwig_2 = temple
 
 # Misc
 culture = bastian_avas

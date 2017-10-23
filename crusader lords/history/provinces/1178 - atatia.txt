@@ -6,12 +6,12 @@ title = c_atatia
 # Settlements
 max_settlements = 3
 
-b_atatia = castle
-b_atatia_2 = city
-b_atatia_3 = temple
+b_cheochaek = temple
+#b_atatia = city
+#b_atatia_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirothian
 
 #History

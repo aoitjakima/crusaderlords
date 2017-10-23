@@ -6,9 +6,9 @@ title = c_barule
 # Settlements
 max_settlements = 3
 
-b_barule = castle
-#b_barule_2 = city
-#b_barule_3 = temple
+b_redmeadow = tribal
+#b_barule = city
+#b_barule_2 = temple
 
 # Misc
 culture = bastian_avas

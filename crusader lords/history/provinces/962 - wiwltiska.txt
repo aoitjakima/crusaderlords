@@ -6,9 +6,9 @@ title = c_wiwltiska
 # Settlements
 max_settlements = 3
 
-b_wiwltiska = castle
-#b_wiwltiska_2 = city
-#b_wiwltiska_3 = temple
+b_stonemarble = tribal
+#b_wiwltiska = city
+#b_wiwltiska_2 = temple
 
 # Misc
 culture = bastian_avas

@@ -6,12 +6,12 @@ title = c_adrae
 # Settlements
 max_settlements = 3
 
-b_adrae = castle
-b_adrae_2 = city
-b_adrae_3 = temple
+b_manchaek = temple
+#b_adrae = city
+#b_adrae_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirian
 
 #History

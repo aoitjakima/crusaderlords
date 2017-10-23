@@ -6,9 +6,9 @@ title = c_lucabra
 # Settlements
 max_settlements = 3
 
-b_lucabra = castle
-#b_lucabra_2 = city
-#b_lucabra_3 = temple
+b_crystalglass = tribal
+#b_lucabra = city
+#b_lucabra_2 = temple
 
 # Misc
 culture = bastian_noble

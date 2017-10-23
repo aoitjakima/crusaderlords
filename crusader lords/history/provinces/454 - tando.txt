@@ -6,9 +6,9 @@ title = c_tando
 # Settlements
 max_settlements = 3
 
-b_tando = castle
-#b_tando_2 = city
-#b_tando_3 = temple
+b_rosewheat = tribal
+#b_tando = city
+#b_tando_2 = temple
 
 # Misc
 culture = bastian_rural

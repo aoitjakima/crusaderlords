@@ -6,12 +6,12 @@ title = c_taloumas
 # Settlements
 max_settlements = 3
 
-b_taloumas = castle
-b_taloumas_2 = city
-b_taloumas_3 = temple
+b_babyppur = temple
+#b_taloumas = city
+#b_taloumas_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

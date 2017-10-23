@@ -6,12 +6,12 @@ title = c_tabayya
 # Settlements
 max_settlements = 3
 
-b_tabayya = castle
-b_tabayya_2 = city
-b_tabayya_3 = temple
+b_taishu = temple
+#b_tabayya = city
+#b_tabayya_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirothian
 
 #History

@@ -6,9 +6,9 @@ title = c_turoza
 # Settlements
 max_settlements = 3
 
-b_turoza = castle
-#b_turoza_2 = city
-#b_turoza_3 = temple
+b_dracport = tribal
+#b_turoza = city
+#b_turoza_2 = temple
 
 # Misc
 culture = bastian_noble

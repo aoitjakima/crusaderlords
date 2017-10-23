@@ -6,9 +6,9 @@ title = c_qenat
 # Settlements
 max_settlements = 3
 
-b_qenat = castle
-#b_qenat_2 = city
-#b_qenat_3 = temple
+b_shadowden = tribal
+#b_qenat = city
+#b_qenat_2 = temple
 
 # Misc
 culture = bastian_noble

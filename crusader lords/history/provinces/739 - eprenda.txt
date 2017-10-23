@@ -6,9 +6,9 @@ title = c_eprenda
 # Settlements
 max_settlements = 3
 
-b_eprenda = castle
-#b_eprenda_2 = city
-#b_eprenda_3 = temple
+b_osthill = tribal
+#b_eprenda = city
+#b_eprenda_2 = temple
 
 # Misc
 culture = swamp_avasian

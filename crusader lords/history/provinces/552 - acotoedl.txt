@@ -6,9 +6,9 @@ title = c_acotoedl
 # Settlements
 max_settlements = 3
 
-b_acotoedl = castle
-#b_acotoedl_2 = city
-#b_acotoedl_3 = temple
+b_bridgewald = tribal
+#b_acotoedl = city
+#b_acotoedl_2 = temple
 
 # Misc
 culture = northern_avasian

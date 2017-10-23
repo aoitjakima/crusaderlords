@@ -6,9 +6,9 @@ title = c_qilows
 # Settlements
 max_settlements = 3
 
-b_qilows = castle
-#b_qilows_2 = city
-#b_qilows_3 = temple
+b_shadowbrook = tribal
+#b_qilows = city
+#b_qilows_2 = temple
 
 # Misc
 culture = bastian_avas

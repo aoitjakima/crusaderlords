@@ -6,12 +6,12 @@ title = c_kya
 # Settlements
 max_settlements = 3
 
-b_kya = castle
-b_kya_2 = city
-b_kya_3 = temple
+b_mane = temple
+#b_kya = city
+#b_kya_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirothian
 
 #History

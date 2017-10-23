@@ -6,9 +6,9 @@ title = c_ewopolk
 # Settlements
 max_settlements = 3
 
-b_ewopolk = castle
-#b_ewopolk_2 = city
-#b_ewopolk_3 = temple
+b_violetborough = tribal
+#b_ewopolk = city
+#b_ewopolk_2 = temple
 
 # Misc
 culture = niefhiem_forrest

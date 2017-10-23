@@ -6,9 +6,9 @@ title = c_kaladanina
 # Settlements
 max_settlements = 3
 
-b_kaladanina = castle
-#b_kaladanina_2 = city
-#b_kaladanina_3 = temple
+b_orville = tribal
+#b_kaladanina = city
+#b_kaladanina_2 = temple
 
 # Misc
 culture = northern_avasian

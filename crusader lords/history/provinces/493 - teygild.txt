@@ -6,9 +6,9 @@ title = c_teygild
 # Settlements
 max_settlements = 3
 
-b_teygild = castle
-#b_teygild_2 = city
-#b_teygild_3 = temple
+b_swynford = tribal
+#b_teygild = city
+#b_teygild_2 = temple
 
 # Misc
 culture = niefhiem_lake

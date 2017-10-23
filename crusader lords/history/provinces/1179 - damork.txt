@@ -6,12 +6,12 @@ title = c_damork
 # Settlements
 max_settlements = 3
 
-b_damork = castle
-b_damork_2 = city
-b_damork_3 = temple
+b_sariyeong = temple
+#b_damork = city
+#b_damork_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirothian
 
 #History

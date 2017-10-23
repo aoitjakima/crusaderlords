@@ -6,9 +6,9 @@ title = c_waudduld
 # Settlements
 max_settlements = 3
 
-b_waudduld = castle
-#b_waudduld_2 = city
-#b_waudduld_3 = temple
+b_dorbush = tribal
+#b_waudduld = city
+#b_waudduld_2 = temple
 
 # Misc
 culture = niefhiem_lake

@@ -6,12 +6,12 @@ title = c_rabia
 # Settlements
 max_settlements = 3
 
-b_rabia = castle
-b_rabia_2 = city
-b_rabia_3 = temple
+b_panxing = temple
+#b_rabia = city
+#b_rabia_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirothian
 
 #History

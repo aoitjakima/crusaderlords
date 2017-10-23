@@ -6,9 +6,9 @@ title = c_nunelin
 # Settlements
 max_settlements = 3
 
-b_nunelin = castle
-#b_nunelin_2 = city
-#b_nunelin_3 = temple
+b_strongpond = tribal
+#b_nunelin = city
+#b_nunelin_2 = temple
 
 # Misc
 culture = bastian_noble

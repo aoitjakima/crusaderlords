@@ -6,12 +6,12 @@ title = c_qorelen
 # Settlements
 max_settlements = 3
 
-b_qorelen = castle
-b_qorelen_2 = city
-b_qorelen_3 = temple
+b_sediolo = castle
+#b_qorelen = city
+#b_qorelen_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirothian
 
 #History

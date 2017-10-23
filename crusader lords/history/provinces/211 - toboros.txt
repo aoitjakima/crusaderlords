@@ -6,9 +6,9 @@ title = c_toboros
 # Settlements
 max_settlements = 3
 
-b_toboros = castle
-#b_toboros_2 = city
-#b_toboros_3 = temple
+b_vallake = tribal
+#b_toboros = city
+#b_toboros_2 = temple
 
 # Misc
 culture = niefhiem_lake

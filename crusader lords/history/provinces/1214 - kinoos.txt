@@ -6,12 +6,12 @@ title = c_kinoos
 # Settlements
 max_settlements = 3
 
-b_kinoos = castle
-b_kinoos_2 = city
-b_kinoos_3 = temple
+b_khotlan = castle
+#b_kinoos = city
+#b_kinoos_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirothian
 
 #History

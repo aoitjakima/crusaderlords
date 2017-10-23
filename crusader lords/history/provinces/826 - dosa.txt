@@ -6,9 +6,9 @@ title = c_dosa
 # Settlements
 max_settlements = 3
 
-b_dosa = castle
-#b_dosa_2 = city
-#b_dosa_3 = temple
+b_summerhill = tribal
+#b_dosa = city
+#b_dosa_2 = temple
 
 # Misc
 culture = bastian_noble

@@ -6,9 +6,9 @@ title = c_tics
 # Settlements
 max_settlements = 3
 
-b_tics = castle
-#b_tics_2 = city
-#b_tics_3 = temple
+b_westmage = tribal
+#b_tics = city
+#b_tics_2 = temple
 
 # Misc
 culture = bastian_noble

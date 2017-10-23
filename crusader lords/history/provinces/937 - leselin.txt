@@ -6,9 +6,9 @@ title = c_leselin
 # Settlements
 max_settlements = 3
 
-b_leselin = castle
-#b_leselin_2 = city
-#b_leselin_3 = temple
+b_dragonview = tribal
+#b_leselin = city
+#b_leselin_2 = temple
 
 # Misc
 culture = bastian_noble

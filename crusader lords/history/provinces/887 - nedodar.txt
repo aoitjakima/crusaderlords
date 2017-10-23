@@ -6,9 +6,9 @@ title = c_nedodar
 # Settlements
 max_settlements = 3
 
-b_wolbrom = castle
-#b_nedodar = city
-#b_nedodar_2 = temple
+b_lochcrystal = tribal
+#b_wolbrom = city
+#b_nedodar = temple
 
 # Misc
 culture = bastian_avas

@@ -6,12 +6,12 @@ title = c_biacka
 # Settlements
 max_settlements = 3
 
-b_biacka = castle
-b_biacka_2 = city
-b_biacka_3 = temple
+b_bignokho = temple
+#b_biacka = city
+#b_biacka_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirothian
 
 #History

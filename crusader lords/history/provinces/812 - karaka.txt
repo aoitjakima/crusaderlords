@@ -6,9 +6,9 @@ title = c_karaka
 # Settlements
 max_settlements = 3
 
-b_karaka = castle
-#b_karaka_2 = city
-#b_karaka_3 = temple
+b_mallowcliff = tribal
+#b_karaka = city
+#b_karaka_2 = temple
 
 # Misc
 culture = swamp_avasian

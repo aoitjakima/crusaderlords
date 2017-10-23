@@ -6,9 +6,9 @@ title = c_kovidoi
 # Settlements
 max_settlements = 3
 
-b_kovidoi = castle
-#b_kovidoi_2 = city
-#b_kovidoi_3 = temple
+b_westercliff = tribal
+#b_kovidoi = city
+#b_kovidoi_2 = temple
 
 # Misc
 culture = northern_avasian

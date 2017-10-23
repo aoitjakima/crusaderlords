@@ -6,12 +6,12 @@ title = c_kutanos
 # Settlements
 max_settlements = 3
 
-b_kutanos = castle
-b_kutanos_2 = city
-b_kutanos_3 = temple
+b_yueshan = castle
+#b_kutanos = city
+#b_kutanos_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirothian
 
 #History

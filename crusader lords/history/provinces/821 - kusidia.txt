@@ -6,9 +6,9 @@ title = c_kusidia
 # Settlements
 max_settlements = 3
 
-b_kusidia = castle
-#b_kusidia_2 = city
-#b_kusidia_3 = temple
+b_valmoor = tribal
+#b_kusidia = city
+#b_kusidia_2 = temple
 
 # Misc
 culture = bastian_avas

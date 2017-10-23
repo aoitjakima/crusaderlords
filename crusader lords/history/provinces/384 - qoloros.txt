@@ -6,9 +6,9 @@ title = c_qoloros
 # Settlements
 max_settlements = 3
 
-b_qoloros = castle
-#b_qoloros_2 = city
-#b_qoloros_3 = temple
+b_cliffhall = tribal
+#b_qoloros = city
+#b_qoloros_2 = temple
 
 # Misc
 culture = niefhiem_forrest

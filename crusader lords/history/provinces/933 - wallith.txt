@@ -6,9 +6,9 @@ title = c_wallith
 # Settlements
 max_settlements = 3
 
-b_wallith = castle
-#b_wallith_2 = city
-#b_wallith_3 = temple
+b_fieldport = tribal
+#b_wallith = city
+#b_wallith_2 = temple
 
 # Misc
 culture = bastian_noble

@@ -6,12 +6,12 @@ title = c_latae
 # Settlements
 max_settlements = 3
 
-b_latae = castle
-b_latae_2 = city
-b_latae_3 = temple
+b_hashishihoro = temple
+#b_latae = city
+#b_latae_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirian
 
 #History

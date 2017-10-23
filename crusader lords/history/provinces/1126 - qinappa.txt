@@ -6,12 +6,12 @@ title = c_qinappa
 # Settlements
 max_settlements = 3
 
-b_qinappa = castle
-b_qinappa_2 = city
-b_qinappa_3 = temple
+b_sekonya = temple
+#b_qinappa = city
+#b_qinappa_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirothian
 
 #History

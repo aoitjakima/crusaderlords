@@ -6,12 +6,12 @@ title = c_tosyape
 # Settlements
 max_settlements = 3
 
-b_tosyape = castle
-b_tosyape_2 = city
-b_tosyape_3 = temple
+b_gouka = temple
+#b_tosyape = city
+#b_tosyape_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirian
 
 #History

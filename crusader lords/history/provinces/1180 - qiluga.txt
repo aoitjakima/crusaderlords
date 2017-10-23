@@ -6,12 +6,12 @@ title = c_qiluga
 # Settlements
 max_settlements = 3
 
-b_qiluga = castle
-b_qiluga_2 = city
-b_qiluga_3 = temple
+b_socorib = temple
+#b_qiluga = city
+#b_qiluga_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

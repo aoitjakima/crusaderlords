@@ -6,9 +6,9 @@ title = c_suuline
 # Settlements
 max_settlements = 3
 
-b_suuline = castle
-#b_suuline_2 = city
-#b_suuline_3 = temple
+b_bellview = tribal
+#b_suuline = city
+#b_suuline_2 = temple
 
 # Misc
 culture = bastian_noble

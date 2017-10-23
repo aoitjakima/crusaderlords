@@ -6,9 +6,9 @@ title = c_syokatyare
 # Settlements
 max_settlements = 3
 
-b_syokatyare = castle
-#b_syokatyare_2 = city
-#b_syokatyare_3 = temple
+b_morcastle = tribal
+#b_syokatyare = city
+#b_syokatyare_2 = temple
 
 # Misc
 culture = niefhiem_mountain

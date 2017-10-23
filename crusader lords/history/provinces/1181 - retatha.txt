@@ -6,12 +6,12 @@ title = c_retatha
 # Settlements
 max_settlements = 3
 
-b_vordingborg = castle
-b_ringsted = city
-b_lejre = temple
+b_alazd = temple
+#b_vordingborg = city
+#b_retatha = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

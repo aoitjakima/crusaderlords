@@ -6,9 +6,9 @@ title = c_qunilip
 # Settlements
 max_settlements = 3
 
-b_qunilip = castle
-#b_qunilip_2 = city
-#b_qunilip_3 = temple
+b_lochwald = tribal
+#b_qunilip = city
+#b_qunilip_2 = temple
 
 # Misc
 culture = bastian_noble

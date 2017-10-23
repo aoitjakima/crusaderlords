@@ -6,9 +6,9 @@ title = c_kaviby
 # Settlements
 max_settlements = 3
 
-b_kaviby = castle
-#b_kaviby_2 = city
-#b_kaviby_3 = temple
+b_icebutter = tribal
+#b_kaviby = city
+#b_kaviby_2 = temple
 
 # Misc
 culture = bastian_avas

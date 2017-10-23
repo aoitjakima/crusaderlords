@@ -6,9 +6,9 @@ title = c_nedarerahka
 # Settlements
 max_settlements = 3
 
-b_nedarerahka = castle
-#b_nedarerahka_2 = city
-#b_nedarerahka_3 = temple
+b_mistlyn = tribal
+#b_nedarerahka = city
+#b_nedarerahka_2 = temple
 
 # Misc
 culture = niefhiem_mountain

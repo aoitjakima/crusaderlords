@@ -6,9 +6,9 @@ title = c_weharia
 # Settlements
 max_settlements = 3
 
-b_weharia = castle
-#b_weharia_2 = city
-#b_weharia_3 = temple
+b_greenmont = tribal
+#b_weharia = city
+#b_weharia_2 = temple
 
 # Misc
 culture = bastia_city

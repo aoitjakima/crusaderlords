@@ -6,9 +6,9 @@ title = c_qidia
 # Settlements
 max_settlements = 3
 
-b_qidia = castle
-#b_qidia_2 = city
-#b_qidia_3 = temple
+b_westerelf = tribal
+#b_qidia = city
+#b_qidia_2 = temple
 
 # Misc
 culture = niefhiem_forrest

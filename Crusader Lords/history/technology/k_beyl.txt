@@ -1,0 +1,25 @@
+#BEYL
+technology = {
+	titles = {
+		d_bempong
+		d_abarouane
+		d_kadioniaka
+		d_kido
+		d_odyali
+		d_oketo
+		d_poumo
+		d_salakim
+		d_siama
+		d_tora
+	}
+	501 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+	1426 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

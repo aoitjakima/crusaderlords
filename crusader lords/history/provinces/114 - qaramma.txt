@@ -6,9 +6,9 @@ title = c_qaramma
 # Settlements
 max_settlements = 3
 
-b_qaramma = castle
-#b_qaramma_2 = city
-#b_qaramma_3 = temple
+b_bluefair = tribal
+#b_qaramma = city
+#b_qaramma_2 = temple
 
 # Misc
 culture = niefhiem_mountain

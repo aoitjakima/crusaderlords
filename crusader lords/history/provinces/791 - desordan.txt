@@ -6,9 +6,9 @@ title = c_desordan
 # Settlements
 max_settlements = 3
 
-b_desordan = castle
-#b_desordan_2 = city
-#b_desordan_3 = temple
+b_freyburn = tribal
+#b_desordan = city
+#b_desordan_2 = temple
 
 # Misc
 culture = bastian_avas

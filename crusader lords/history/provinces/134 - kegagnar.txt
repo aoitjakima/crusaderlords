@@ -6,9 +6,9 @@ title = c_kegagnar
 # Settlements
 max_settlements = 3
 
-b_kegagnar = castle
-#b_kegagnar_2 = city
-#b_kegagnar_3 = temple
+b_shadowfair = tribal
+#b_kegagnar = city
+#b_kegagnar_2 = temple
 
 # Misc
 culture = niefhiem_lake

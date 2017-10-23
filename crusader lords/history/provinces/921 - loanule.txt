@@ -6,9 +6,9 @@ title = c_loanule
 # Settlements
 max_settlements = 3
 
-b_loanule = castle
-#b_loanule_2 = city
-#b_loanule_3 = temple
+b_icewell = tribal
+#b_loanule = city
+#b_loanule_2 = temple
 
 # Misc
 culture = bastian_noble

@@ -6,12 +6,12 @@ title = c_saleslav
 # Settlements
 max_settlements = 3
 
-b_saleslav = castle
-b_saleslav_2 = city
-b_saleslav_3 = temple
+b_hofuzan = temple
+#b_saleslav = city
+#b_saleslav_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

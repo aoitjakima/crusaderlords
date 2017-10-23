@@ -6,9 +6,9 @@ title = c_ribadam
 # Settlements
 max_settlements = 3
 
-b_ribadam = castle
-#b_ribadam_2 = city
-#b_ribadam_3 = temple
+b_wolfholt = tribal
+#b_ribadam = city
+#b_ribadam_2 = temple
 
 # Misc
 culture = bastian_rural

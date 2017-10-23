@@ -1,0 +1,6 @@
+# k_sellin
+500.1.1={
+liege=e_kiroth
+holder=1065564
+}
+

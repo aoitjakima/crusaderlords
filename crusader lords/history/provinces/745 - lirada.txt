@@ -6,9 +6,9 @@ title = c_lirada
 # Settlements
 max_settlements = 3
 
-b_lirada = castle
-#b_lirada_2 = city
-#b_lirada_3 = temple
+b_erimarsh = tribal
+#b_lirada = city
+#b_lirada_2 = temple
 
 # Misc
 culture = northern_avasian

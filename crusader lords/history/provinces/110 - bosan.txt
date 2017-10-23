@@ -6,9 +6,9 @@ title = c_bosan
 # Settlements
 max_settlements = 3
 
-b_bosan = castle
-#b_bosan_2 = city
-#b_bosan_3 = temple
+b_lochmount = tribal
+#b_bosan = city
+#b_bosan_2 = temple
 
 # Misc
 culture = niefhiem_mountain

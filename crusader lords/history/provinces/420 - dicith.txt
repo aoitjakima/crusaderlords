@@ -6,9 +6,9 @@ title = c_dicith
 # Settlements
 max_settlements = 3
 
-b_dicith = castle
-#b_dicith_2 = city
-#b_dicith_3 = temple
+b_vertmage = tribal
+#b_dicith = city
+#b_dicith_2 = temple
 
 # Misc
 culture = bastia_city

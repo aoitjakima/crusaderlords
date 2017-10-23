@@ -6,9 +6,9 @@ title = c_nuliid
 # Settlements
 max_settlements = 3
 
-b_nuliid = castle
-#b_nuliid_2 = city
-#b_nuliid_3 = temple
+b_windlyn = tribal
+#b_nuliid = city
+#b_nuliid_2 = temple
 
 # Misc
 culture = northern_avasian

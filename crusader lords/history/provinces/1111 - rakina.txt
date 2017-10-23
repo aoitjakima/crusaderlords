@@ -6,12 +6,12 @@ title = c_rakina
 # Settlements
 max_settlements = 3
 
-b_rakina = castle
-b_rakina_2 = city
-b_rakina_3 = temple
+b_ahvatian = castle
+#b_rakina = city
+#b_rakina_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

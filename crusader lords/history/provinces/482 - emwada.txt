@@ -6,9 +6,9 @@ title = c_emwada
 # Settlements
 max_settlements = 3
 
-b_langen = castle
-#b_emwada = city
-#b_emwada_2 = temple
+b_vertbeach = tribal
+#b_langen = city
+#b_emwada = temple
 
 # Misc
 culture = niefhiem_forrest

@@ -6,7 +6,7 @@ title = c_teilre
 # Settlements
 max_settlements = 3
 
-b_kifissia = castle
+b_linkeep = tribal
 #b_teilre = city
 #b_teilre_2 = temple
 

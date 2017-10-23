@@ -6,9 +6,9 @@ title = c_qahayan
 # Settlements
 max_settlements = 3
 
-b_qahayan = castle
-#b_qahayan_2 = city
-#b_qahayan_3 = temple
+b_goldlight = tribal
+#b_qahayan = city
+#b_qahayan_2 = temple
 
 # Misc
 culture = niefhiem_forrest

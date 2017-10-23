@@ -6,9 +6,9 @@ title = c_ametii
 # Settlements
 max_settlements = 3
 
-b_ametii = castle
-#b_ametii_2 = city
-#b_ametii_3 = temple
+b_byport = tribal
+#b_ametii = city
+#b_ametii_2 = temple
 
 # Misc
 culture = niefhiem_lake

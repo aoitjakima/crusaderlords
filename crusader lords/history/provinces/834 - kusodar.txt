@@ -6,9 +6,9 @@ title = c_kusodar
 # Settlements
 max_settlements = 3
 
-b_kusodar = castle
-#b_kusodar_2 = city
-#b_kusodar_3 = temple
+b_woodhollow = tribal
+#b_kusodar = city
+#b_kusodar_2 = temple
 
 # Misc
 culture = bastian_avas

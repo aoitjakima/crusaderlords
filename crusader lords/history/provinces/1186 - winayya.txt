@@ -6,12 +6,12 @@ title = c_winayya
 # Settlements
 max_settlements = 3
 
-b_winayya = castle
-b_winayya_2 = city
-b_winayya_3 = temple
+b_miliki = temple
+#b_winayya = city
+#b_winayya_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirothian
 
 #History

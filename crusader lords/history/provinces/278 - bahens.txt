@@ -6,9 +6,9 @@ title = c_bahens
 # Settlements
 max_settlements = 3
 
-b_kwidzyn = castle
-#b_bahens = city
-#b_bahens_2 = temple
+b_wheatmeadow = tribal
+#b_kwidzyn = city
+#b_bahens = temple
 
 # Misc
 culture = niefhiem_lake

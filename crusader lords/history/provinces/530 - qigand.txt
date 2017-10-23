@@ -6,9 +6,9 @@ title = c_qigand
 # Settlements
 max_settlements = 3
 
-b_qigand = castle
-#b_qigand_2 = city
-#b_qigand_3 = temple
+b_deepness = tribal
+#b_qigand = city
+#b_qigand_2 = temple
 
 # Misc
 culture = niefhiem_mountain

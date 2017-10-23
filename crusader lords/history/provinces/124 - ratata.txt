@@ -6,9 +6,9 @@ title = c_ratata
 # Settlements
 max_settlements = 3
 
-b_ratata = castle
-#b_ratata_2 = city
-#b_ratata_3 = temple
+b_eastholt = tribal
+#b_ratata = city
+#b_ratata_2 = temple
 
 # Misc
 culture = bastian_rural

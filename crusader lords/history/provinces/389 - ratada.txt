@@ -6,9 +6,9 @@ title = c_ratada
 # Settlements
 max_settlements = 3
 
-b_ratada = castle
-#b_ratada_2 = city
-#b_ratada_3 = temple
+b_buttercoast = tribal
+#b_ratada = city
+#b_ratada_2 = temple
 
 # Misc
 culture = niefhiem_forrest

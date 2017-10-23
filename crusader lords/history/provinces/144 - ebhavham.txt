@@ -6,9 +6,9 @@ title = c_ebhavham
 # Settlements
 max_settlements = 3
 
-b_ebhavham = castle
-#b_ebhavham_2 = city
-#b_ebhavham_3 = temple
+b_bluegate = tribal
+#b_ebhavham = city
+#b_ebhavham_2 = temple
 
 # Misc
 culture = niefhiem_mountain

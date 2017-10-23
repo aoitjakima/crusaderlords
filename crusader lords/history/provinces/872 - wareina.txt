@@ -6,9 +6,9 @@ title = c_wareina
 # Settlements
 max_settlements = 3
 
-b_wareina = castle
-#b_wareina_2 = city
-#b_wareina_3 = temple
+b_greenfalcon = tribal
+#b_wareina = city
+#b_wareina_2 = temple
 
 # Misc
 culture = bastian_noble

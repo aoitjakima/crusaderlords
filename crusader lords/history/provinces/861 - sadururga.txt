@@ -6,9 +6,9 @@ title = c_sadururga
 # Settlements
 max_settlements = 3
 
-b_sadururga = castle
-#b_sadururga_2 = city
-#b_sadururga_3 = temple
+b_springdale = tribal
+#b_sadururga = city
+#b_sadururga_2 = temple
 
 # Misc
 culture = bastian_noble

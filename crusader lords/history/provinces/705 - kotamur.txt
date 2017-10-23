@@ -6,9 +6,9 @@ title = c_kotamur
 # Settlements
 max_settlements = 3
 
-b_kotamur = castle
-#b_kotamur_2 = city
-#b_kotamur_3 = temple
+b_westbay = tribal
+#b_kotamur = city
+#b_kotamur_2 = temple
 
 # Misc
 culture = bastian_noble

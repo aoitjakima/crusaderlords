@@ -6,9 +6,9 @@ title = c_rahen
 # Settlements
 max_settlements = 3
 
-b_rahen = castle
-#b_rahen_2 = city
-#b_rahen_3 = temple
+b_falldragon = tribal
+#b_rahen = city
+#b_rahen_2 = temple
 
 # Misc
 culture = niefhiem_lake

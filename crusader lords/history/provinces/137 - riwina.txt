@@ -6,9 +6,9 @@ title = c_riwina
 # Settlements
 max_settlements = 3
 
-b_riwina = castle
-#b_riwina_2 = city
-#b_riwina_3 = temple
+b_redfox = tribal
+#b_riwina = city
+#b_riwina_2 = temple
 
 # Misc
 culture = niefhiem_mountain

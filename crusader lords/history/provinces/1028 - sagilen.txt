@@ -6,9 +6,9 @@ title = c_sagilen
 # Settlements
 max_settlements = 3
 
-b_sagilen = castle
-#b_sagilen_2 = city
-#b_sagilen_3 = temple
+b_icebeech = tribal
+#b_sagilen = city
+#b_sagilen_2 = temple
 
 # Misc
 culture = niefhiem_mountain

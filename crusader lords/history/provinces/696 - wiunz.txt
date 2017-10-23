@@ -6,9 +6,9 @@ title = c_wiunz
 # Settlements
 max_settlements = 3
 
-b_wiunz = castle
-#b_wiunz_2 = city
-#b_wiunz_3 = temple
+b_freykeep = tribal
+#b_wiunz = city
+#b_wiunz_2 = temple
 
 # Misc
 culture = bastian_noble

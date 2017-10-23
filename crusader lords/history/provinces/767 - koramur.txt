@@ -6,9 +6,9 @@ title = c_koramur
 # Settlements
 max_settlements = 3
 
-b_koramur = castle
-#b_koramur_2 = city
-#b_koramur_3 = temple
+b_rosebridge = tribal
+#b_koramur = city
+#b_koramur_2 = temple
 
 # Misc
 culture = bastian_avas

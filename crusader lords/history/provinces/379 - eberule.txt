@@ -6,9 +6,9 @@ title = c_eberule
 # Settlements
 max_settlements = 3
 
-b_eberule = castle
-#b_eberule_2 = city
-#b_eberule_3 = temple
+b_westdell = tribal
+#b_eberule = city
+#b_eberule_2 = temple
 
 # Misc
 culture = bastian_rural

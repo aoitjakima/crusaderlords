@@ -6,9 +6,9 @@ title = c_wuzinia
 # Settlements
 max_settlements = 3
 
-b_wuzinia = castle
-#b_wuzinia_2 = city
-#b_wuzinia_3 = temple
+b_waterwick = tribal
+#b_wuzinia = city
+#b_wuzinia_2 = temple
 
 # Misc
 culture = swamp_avasian

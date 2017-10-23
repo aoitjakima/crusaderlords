@@ -1,0 +1,5 @@
+# k_sellin
+500.1.1={
+	liege=k_sellin
+		holder=1065164
+}

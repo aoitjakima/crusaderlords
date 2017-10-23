@@ -6,9 +6,9 @@ title = c_kozyan
 # Settlements
 max_settlements = 3
 
-b_kozyan = castle
-#b_kozyan_2 = city
-#b_kozyan_3 = temple
+b_eastgate = tribal
+#b_kozyan = city
+#b_kozyan_2 = temple
 
 # Misc
 culture = niefhiem_mountain

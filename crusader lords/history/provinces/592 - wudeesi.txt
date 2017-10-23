@@ -6,9 +6,9 @@ title = c_wudeesi
 # Settlements
 max_settlements = 3
 
-b_faiakes = castle
-#b_wudeesi = city
-#b_wudeesi_2 = temple
+b_lochiron = tribal
+#b_faiakes = city
+#b_wudeesi = temple
 
 # Misc
 culture = northern_avasian

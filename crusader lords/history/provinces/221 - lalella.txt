@@ -6,9 +6,9 @@ title = c_lalella
 # Settlements
 max_settlements = 3
 
-b_lalella = castle
-#b_lalella_2 = city
-#b_lalella_3 = temple
+b_goldlake = tribal
+#b_lalella = city
+#b_lalella_2 = temple
 
 # Misc
 culture = bastian_rural

@@ -6,9 +6,9 @@ title = c_talan
 # Settlements
 max_settlements = 3
 
-b_talan = castle
-#b_talan_2 = city
-#b_talan_3 = temple
+b_eastwall = tribal
+#b_talan = city
+#b_talan_2 = temple
 
 # Misc
 culture = niefhiem_mountain

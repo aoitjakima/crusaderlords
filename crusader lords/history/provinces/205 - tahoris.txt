@@ -6,9 +6,9 @@ title = c_tahoris
 # Settlements
 max_settlements = 3
 
-b_tahoris = castle
-#b_tahoris_2 = city
-#b_tahoris_3 = temple
+b_falledge = tribal
+#b_tahoris = city
+#b_tahoris_2 = temple
 
 # Misc
 culture = niefhiem_mountain

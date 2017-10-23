@@ -6,9 +6,9 @@ title = c_ajaipaka
 # Settlements
 max_settlements = 3
 
-b_ajaipaka = castle
-#b_ajaipaka_2 = city
-#b_ajaipaka_3 = temple
+b_woodmeadow = tribal
+#b_ajaipaka = city
+#b_ajaipaka_2 = temple
 
 # Misc
 culture = niefhiem_mountain

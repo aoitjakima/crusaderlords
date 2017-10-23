@@ -6,9 +6,9 @@ title = c_kereka
 # Settlements
 max_settlements = 3
 
-b_strasburg = castle
-#b_kereka = city
-#b_kereka_2 = temple
+b_witchdell = tribal
+#b_strasburg = city
+#b_kereka = temple
 
 # Misc
 culture = bastian_rural

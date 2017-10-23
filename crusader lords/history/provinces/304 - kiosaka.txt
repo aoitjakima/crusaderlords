@@ -6,9 +6,9 @@ title = c_kiosaka
 # Settlements
 max_settlements = 3
 
-b_kiosaka = castle
-#b_kiosaka_2 = city
-#b_kiosaka_3 = temple
+b_loracre = tribal
+#b_kiosaka = city
+#b_kiosaka_2 = temple
 
 # Misc
 culture = niefhiem_lake

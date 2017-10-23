@@ -6,9 +6,9 @@ title = c_alishan
 # Settlements
 max_settlements = 3
 
-b_alishan = castle
-#b_alishan_2 = city
-#b_alishan_3 = temple
+b_springston = tribal
+#b_alishan = city
+#b_alishan_2 = temple
 
 # Misc
 culture = bastian_avas

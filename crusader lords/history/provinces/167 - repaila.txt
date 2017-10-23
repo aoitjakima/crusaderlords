@@ -6,9 +6,9 @@ title = c_repaila
 # Settlements
 max_settlements = 3
 
-b_repaila = castle
-#b_repaila_2 = city
-#b_repaila_3 = temple
+b_dellmead = tribal
+#b_repaila = city
+#b_repaila_2 = temple
 
 # Misc
 culture = niefhiem_mountain

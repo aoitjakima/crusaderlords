@@ -6,9 +6,9 @@ title = c_naves
 # Settlements
 max_settlements = 3
 
-b_naves = castle
-#b_naves_2 = city
-#b_naves_3 = temple
+b_fayfall = tribal
+#b_naves = city
+#b_naves_2 = temple
 
 # Misc
 culture = niefhiem_forrest

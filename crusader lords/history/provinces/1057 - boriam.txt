@@ -6,9 +6,9 @@ title = c_boriam
 # Settlements
 max_settlements = 3
 
-b_boriam = castle
-#b_boriam_2 = city
-#b_boriam_3 = temple
+b_aldapple = tribal
+#b_boriam = city
+#b_boriam_2 = temple
 
 # Misc
 culture = bastian_rural

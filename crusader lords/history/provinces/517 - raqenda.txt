@@ -6,9 +6,9 @@ title = c_raqenda
 # Settlements
 max_settlements = 3
 
-b_barmstedt = castle
-#b_raqenda = city
-#b_raqenda_2 = temple
+b_goldcoast = tribal
+#b_barmstedt = city
+#b_raqenda = temple
 
 # Misc
 culture = niefhiem_forrest

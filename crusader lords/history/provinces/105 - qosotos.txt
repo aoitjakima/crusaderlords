@@ -6,9 +6,9 @@ title = c_qosotos
 # Settlements
 max_settlements = 3
 
-b_qosotos = castle
-#b_qosotos_2 = city
-#b_qosotos_3 = temple
+b_greyhurst = tribal
+#b_qosotos = city
+#b_qosotos_2 = temple
 
 # Misc
 culture = niefhiem_mountain

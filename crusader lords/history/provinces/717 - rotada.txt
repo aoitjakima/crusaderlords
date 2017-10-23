@@ -6,9 +6,9 @@ title = c_rotada
 # Settlements
 max_settlements = 3
 
-b_rotada = castle
-#b_rotada_2 = city
-#b_rotada_3 = temple
+b_lorham = tribal
+#b_rotada = city
+#b_rotada_2 = temple
 
 # Misc
 culture = northern_avasian

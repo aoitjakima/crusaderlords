@@ -6,9 +6,9 @@ title = c_deser
 # Settlements
 max_settlements = 3
 
-b_castricum = castle
-#b_deser = city
-#b_deser_2 = temple
+b_seabarrow = tribal
+#b_castricum = city
+#b_deser = temple
 
 # Misc
 culture = bastian_avas

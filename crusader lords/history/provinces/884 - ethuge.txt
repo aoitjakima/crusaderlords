@@ -6,9 +6,9 @@ title = c_ethuge
 # Settlements
 max_settlements = 3
 
-b_ethuge = castle
-#b_ethuge_2 = city
-#b_ethuge_3 = temple
+b_aldbourne = tribal
+#b_ethuge = city
+#b_ethuge_2 = temple
 
 # Misc
 culture = swamp_avasian

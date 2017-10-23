@@ -6,12 +6,12 @@ title = c_lekudo
 # Settlements
 max_settlements = 3
 
-b_lekudo = castle
-#b_lekudo_2 = city
-#b_lekudo_3 = temple
+b_todara = temple
+#b_lekudo = city
+#b_lekudo_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirothian
 
 #History

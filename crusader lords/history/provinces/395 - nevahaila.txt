@@ -6,9 +6,9 @@ title = c_nevahaila
 # Settlements
 max_settlements = 3
 
-b_nevahaila = castle
-#b_nevahaila_2 = city
-#b_nevahaila_3 = temple
+b_aldmeadow = tribal
+#b_nevahaila = city
+#b_nevahaila_2 = temple
 
 # Misc
 culture = niefhiem_lake

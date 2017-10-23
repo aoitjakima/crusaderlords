@@ -6,9 +6,9 @@ title = c_qahild
 # Settlements
 max_settlements = 3
 
-b_qahild = castle
-#b_qahild_2 = city
-#b_qahild_3 = temple
+b_dellshore = tribal
+#b_qahild = city
+#b_qahild_2 = temple
 
 # Misc
 culture = niefhiem_forrest

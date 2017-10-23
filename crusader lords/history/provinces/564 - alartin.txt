@@ -6,9 +6,9 @@ title = c_alartin
 # Settlements
 max_settlements = 3
 
-b_alartin = castle
-#b_alartin_2 = city
-#b_alartin_3 = temple
+b_crystaliron = tribal
+#b_alartin = city
+#b_alartin_2 = temple
 
 # Misc
 culture = northern_avasian

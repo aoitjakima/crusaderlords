@@ -6,12 +6,12 @@ title = c_lesperaxpe
 # Settlements
 max_settlements = 3
 
-b_lesperaxpe = castle
-b_lesperaxpe_2 = city
-b_lesperaxpe_3 = temple
+b_doradoukou = temple
+#b_lesperaxpe = city
+#b_lesperaxpe_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirothian
 
 #History

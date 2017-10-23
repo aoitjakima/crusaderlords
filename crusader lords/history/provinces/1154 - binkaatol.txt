@@ -6,12 +6,12 @@ title = c_binkaatol
 # Settlements
 max_settlements = 3
 
-b_binkaatol = castle
-b_binkaatol_2 = city
-b_binkaatol_3 = temple
+b_minanagawa = temple
+#b_binkaatol = city
+#b_binkaatol_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirothian
 
 #History

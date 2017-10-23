@@ -6,9 +6,9 @@ title = c_depenna
 # Settlements
 max_settlements = 3
 
-b_depenna = castle
-#b_depenna_2 = city
-#b_depenna_3 = temple
+b_northhedge = tribal
+#b_depenna = city
+#b_depenna_2 = temple
 
 # Misc
 culture = bastia_city

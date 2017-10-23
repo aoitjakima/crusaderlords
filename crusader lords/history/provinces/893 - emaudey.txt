@@ -6,9 +6,9 @@ title = c_emaudey
 # Settlements
 max_settlements = 3
 
-b_sintra = castle
-#b_emaudey = city
-#b_emaudey_2 = temple
+b_southfog = tribal
+#b_sintra = city
+#b_emaudey = temple
 
 # Misc
 culture = bastian_avas

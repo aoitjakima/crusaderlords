@@ -6,9 +6,9 @@ title = c_amarolas
 # Settlements
 max_settlements = 3
 
-b_amarolas = castle
-#b_amarolas_2 = city
-#b_amarolas_3 = temple
+b_fairvale = tribal
+#b_amarolas = city
+#b_amarolas_2 = temple
 
 # Misc
 culture = bastian_noble

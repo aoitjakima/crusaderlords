@@ -6,9 +6,9 @@ title = c_nopuvdi
 # Settlements
 max_settlements = 3
 
-b_montecelio = castle
-#b_nopuvdi = city
-#b_nopuvdi_2 = temple
+b_greengriffin = tribal
+#b_montecelio = city
+#b_nopuvdi = temple
 
 # Misc
 culture = bastian_noble

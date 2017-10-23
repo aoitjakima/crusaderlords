@@ -6,9 +6,9 @@ title = c_aririe
 # Settlements
 max_settlements = 3
 
-b_aririe = castle
-#b_aririe_2 = city
-#b_aririe_3 = temple
+b_deepborough = tribal
+#b_aririe = city
+#b_aririe_2 = temple
 
 # Misc
 culture = swamp_avasian

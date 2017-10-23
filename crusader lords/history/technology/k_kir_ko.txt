@@ -3,6 +3,8 @@ technology = {
 	titles = {
 		d_wepevag
 		d_lecase
+		d_kedaveina
+
 	}
 	501 = {
 		military = 1.3

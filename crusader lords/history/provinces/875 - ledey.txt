@@ -6,9 +6,9 @@ title = c_ledey
 # Settlements
 max_settlements = 3
 
-b_ledey = castle
-#b_ledey_2 = city
-#b_ledey_3 = temple
+b_reddragon = tribal
+#b_ledey = city
+#b_ledey_2 = temple
 
 # Misc
 culture = bastian_avas

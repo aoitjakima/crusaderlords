@@ -6,9 +6,9 @@ title = c_agilihal
 # Settlements
 max_settlements = 3
 
-b_agilihal = castle
-#b_agilihal_2 = city
-#b_agilihal_3 = temple
+b_rivergate = tribal
+#b_agilihal = city
+#b_agilihal_2 = temple
 
 # Misc
 culture = northern_avasian

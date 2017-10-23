@@ -6,9 +6,9 @@ title = c_tibelbar
 # Settlements
 max_settlements = 3
 
-b_tibelbar = castle
-#b_tibelbar_2 = city
-#b_tibelbar_3 = temple
+b_greenmeadow = tribal
+#b_tibelbar = city
+#b_tibelbar_2 = temple
 
 # Misc
 culture = niefhiem_forrest

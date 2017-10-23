@@ -1,0 +1,121 @@
+#BASTIA
+technology = {
+	titles = {
+		d_abhordan
+		d_adarea
+		d_adyekohn
+		d_ahlenda
+		d_amazal
+		d_amrisnier
+		d_anskreis
+		d_arnekerk
+		d_arnlo
+		d_ayiomar
+		d_babagne
+		d_baijong
+		d_bazer
+		d_benkastel
+		d_blaezialyn
+		d_blesiorus
+		d_blokfort
+		d_boizenhude
+		d_bornnois
+		d_brimaryon
+		d_bruszen
+		d_buerstein
+		d_ciogarynn
+		d_daijohn
+		d_damringen
+		d_dechets_de_mana
+		d_depenna
+		d_dicith
+		d_disinus
+		d_donehill
+		d_eaccelyn
+		d_ekata
+		d_emaijohn
+		d_eniconka
+		d_eominica
+		d_eotirynn
+		d_erothis
+		d_eshigana
+		d_felddeck
+		d_ferrathan
+		d_forhout
+		d_freimotier
+		d_gennellac
+		d_glittiorus
+		d_goetnitz
+		d_gupanata
+		d_halburg
+		d_herberge
+		d_hollaheim
+		d_idreation
+		d_ikeven
+		d_istiamelan
+		d_jessolyn
+		d_jiagreanem
+		d_kehohn
+		d_knittelweil
+		d_kumance
+		d_laecceven
+		d_laettionata
+		d_lauhausen
+		d_leheven
+		d_lisnon
+		d_nangnane
+		d_neuberg
+		d_niciel
+		d_nopeina
+		d_nyekeven
+		d_oniathra
+		d_oosterhout
+		d_perpissis
+		d_phanixath
+		d_phupomelan
+		d_plioledolon
+		d_prussiation
+		d_qakaria
+		d_qasata
+		d_rankhofen
+		d_ranulad
+		d_ratarma
+		d_resislav
+		d_richtenhan
+		d_roacon
+		d_saennocia
+		d_sallith
+		d_schmalbruck
+		d_slaeyaque
+		d_southrary
+		d_stoqurial
+		d_streazozan
+		d_stucunia
+		d_tangerschau
+		d_tapurim
+		d_taulohn
+		d_taver
+		d_tinohn
+		d_traford
+		d_trarary
+		d_visiarim
+		d_walevag
+		d_wareter
+		d_weharia
+		d_westven
+		d_wicohn
+		d_woulvie
+		d_wriasecion
+		d_yettothas
+	}
+	501 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	1426 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

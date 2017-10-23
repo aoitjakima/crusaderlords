@@ -6,9 +6,9 @@ title = c_qices
 # Settlements
 max_settlements = 3
 
-b_qices = castle
-#b_qices_2 = city
-#b_qices_3 = temple
+b_wildewheat = tribal
+#b_qices = city
+#b_qices_2 = temple
 
 # Misc
 culture = bastian_rural

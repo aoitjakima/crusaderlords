@@ -6,9 +6,9 @@ title = c_qotoedl
 # Settlements
 max_settlements = 3
 
-b_qotoedl = castle
-#b_qotoedl_2 = city
-#b_qotoedl_3 = temple
+b_maplelake = tribal
+#b_qotoedl = city
+#b_qotoedl_2 = temple
 
 # Misc
 culture = bastian_avas

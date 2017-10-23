@@ -6,9 +6,9 @@ title = c_toka
 # Settlements
 max_settlements = 3
 
-b_toka = castle
-#b_toka_2 = city
-#b_toka_3 = temple
+b_wellmead = tribal
+#b_toka = city
+#b_toka_2 = temple
 
 # Misc
 culture = bastian_noble

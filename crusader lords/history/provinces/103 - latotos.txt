@@ -6,9 +6,9 @@ title = c_latotos
 # Settlements
 max_settlements = 3
 
-b_latotos = castle
-#b_latotos_2 = city
-#b_latotos_3 = temple
+b_ostbank = tribal
+#b_latotos = city
+#b_latotos_2 = temple
 
 # Misc
 culture = niefhiem_lake

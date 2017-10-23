@@ -6,9 +6,9 @@ title = c_kitata
 # Settlements
 max_settlements = 3
 
-b_kitata = castle
-#b_kitata_2 = city
-#b_kitata_3 = temple
+b_blackspring = tribal
+#b_kitata = city
+#b_kitata_2 = temple
 
 # Misc
 culture = swamp_avasian

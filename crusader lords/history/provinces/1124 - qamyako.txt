@@ -6,12 +6,12 @@ title = c_qamyako
 # Settlements
 max_settlements = 3
 
-b_qamyako = castle
-b_qamyako_2 = city
-b_qamyako_3 = temple
+b_gaore = castle
+#b_qamyako = city
+#b_qamyako_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirothian
 
 #History

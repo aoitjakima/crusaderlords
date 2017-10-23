@@ -6,12 +6,12 @@ title = c_wilage
 # Settlements
 max_settlements = 3
 
-b_wilage = castle
-b_wilage_2 = city
-b_wilage_3 = temple
+b_bese = temple
+#b_wilage = city
+#b_wilage_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirian
 
 #History

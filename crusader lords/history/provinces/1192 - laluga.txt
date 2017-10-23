@@ -6,12 +6,12 @@ title = c_laluga
 # Settlements
 max_settlements = 3
 
-b_laluga = castle
-b_laluga_2 = city
-b_laluga_3 = temple
+b_nawarouz = temple
+#b_laluga = city
+#b_laluga_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

@@ -6,12 +6,12 @@ title = c_taemoran
 # Settlements
 max_settlements = 3
 
-b_taemoran = castle
-b_taemoran_2 = city
-b_taemoran_3 = temple
+b_mishediyah = castle
+#b_taemoran = city
+#b_taemoran_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

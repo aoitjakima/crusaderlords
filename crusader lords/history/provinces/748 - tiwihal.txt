@@ -6,9 +6,9 @@ title = c_tiwihal
 # Settlements
 max_settlements = 3
 
-b_tiwihal = castle
-#b_tiwihal_2 = city
-#b_tiwihal_3 = temple
+b_lorport = tribal
+#b_tiwihal = city
+#b_tiwihal_2 = temple
 
 # Misc
 culture = swamp_avasian

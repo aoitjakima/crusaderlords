@@ -6,9 +6,9 @@ title = c_wamohn
 # Settlements
 max_settlements = 3
 
-b_wamohn = castle
-#b_wamohn_2 = city
-#b_wamohn_3 = temple
+b_coldtown = tribal
+#b_wamohn = city
+#b_wamohn_2 = temple
 
 # Misc
 culture = bastian_noble

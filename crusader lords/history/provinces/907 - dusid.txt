@@ -6,9 +6,9 @@ title = c_dusid
 # Settlements
 max_settlements = 3
 
-b_dusid = castle
-#b_dusid_2 = city
-#b_dusid_3 = temple
+b_crystalfield = tribal
+#b_dusid = city
+#b_dusid_2 = temple
 
 # Misc
 culture = bastian_avas

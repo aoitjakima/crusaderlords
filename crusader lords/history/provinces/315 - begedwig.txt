@@ -6,9 +6,9 @@ title = c_begedwig
 # Settlements
 max_settlements = 3
 
-b_begedwig = castle
-#b_begedwig_2 = city
-#b_begedwig_3 = temple
+b_southgate = tribal
+#b_begedwig = city
+#b_begedwig_2 = temple
 
 # Misc
 culture = niefhiem_lake

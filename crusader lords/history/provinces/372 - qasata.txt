@@ -6,9 +6,9 @@ title = c_qasata
 # Settlements
 max_settlements = 3
 
-b_qasata = castle
-#b_qasata_2 = city
-#b_qasata_3 = temple
+b_barrowmill = tribal
+#b_qasata = city
+#b_qasata_2 = temple
 
 # Misc
 culture = bastia_city

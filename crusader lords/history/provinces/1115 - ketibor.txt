@@ -6,12 +6,12 @@ title = c_ketibor
 # Settlements
 max_settlements = 3
 
-b_ketibor = castle
-b_ketibor_2 = city
-b_ketibor_3 = temple
+b_beni_marbin = castle
+#b_ketibor = city
+#b_ketibor_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = Kir-ko
 
 #History

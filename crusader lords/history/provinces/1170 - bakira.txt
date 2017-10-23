@@ -6,12 +6,12 @@ title = c_bakira
 # Settlements
 max_settlements = 3
 
-b_bakira = castle
-b_bakira_2 = city
-b_bakira_3 = temple
+b_tel_halasiyyah = temple
+#b_bakira = city
+#b_bakira_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = Kir-ko
 
 #History

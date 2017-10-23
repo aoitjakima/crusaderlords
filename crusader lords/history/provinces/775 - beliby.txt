@@ -6,9 +6,9 @@ title = c_beliby
 # Settlements
 max_settlements = 3
 
-b_beliby = castle
-#b_beliby_2 = city
-#b_beliby_3 = temple
+b_wheatmead = tribal
+#b_beliby = city
+#b_beliby_2 = temple
 
 # Misc
 culture = bastian_avas

@@ -6,7 +6,7 @@ title = c_salindik
 # Settlements
 max_settlements = 3
 
-b_drama = castle
+b_greenmere = tribal
 #b_salindik = city
 #b_salindik_2 = temple
 

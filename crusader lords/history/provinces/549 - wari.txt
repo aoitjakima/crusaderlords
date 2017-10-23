@@ -6,9 +6,9 @@ title = c_wari
 # Settlements
 max_settlements = 3
 
-b_wari = castle
-#b_wari_2 = city
-#b_wari_3 = temple
+b_bushmere = tribal
+#b_wari = city
+#b_wari_2 = temple
 
 # Misc
 culture = niefhiem_lake

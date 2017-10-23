@@ -6,9 +6,9 @@ title = c_baijong
 # Settlements
 max_settlements = 3
 
-b_baijong = castle
-#b_baijong_2 = city
-#b_baijong_3 = temple
+b_landbarrow = tribal
+#b_baijong = city
+#b_baijong_2 = temple
 
 # Misc
 culture = bastia_city

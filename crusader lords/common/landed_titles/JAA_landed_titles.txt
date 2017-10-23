@@ -8,6 +8,2117 @@ e_kiroth = {
 	capital = 1092 # c_koraam
 	culture = kir-ko
 	
+k_sellin = {
+	color={ 73 105 83 }
+	color2={ 255 255 255 }
+	
+	capital = 1127 # c_latae
+	culture = selli
+	
+	d_tboutam = {
+		color={ 53 125 73 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 1127 province_id = 1128 province_id = 1142 province_id = 1178 } }
+			}
+		}
+		capital = 1127 # c_latae
+		
+		c_latae = { # 1127
+			color={ 43 135 68 }
+			color2={ 255 255 255 }
+			
+			b_hashishihoro = {
+			}
+			b_latae = {
+			}
+			b_latae_2 = {
+			}
+		}
+		c_adruge = { # 1128
+			color={ 1 24 85 }
+			color2={ 255 255 255 }
+			
+			b_tawarabuchi = {
+			}
+			b_adruge = {
+			}
+			b_adruge_2 = {
+			}
+		}
+		c_atatia = { # 1178
+			color={ 85 150 6 }
+			color2={ 255 255 255 }
+			
+			b_cheochaek = {
+			}
+			b_atatia = {
+			}
+			b_atatia_2 = {
+			}
+		}
+		c_noling = { # 1142
+			color={ 127 162 79 }
+			color2={ 255 255 255 }
+			
+			b_khyarnuur = {
+			}
+			b_noling = {
+			}
+			b_noling_2 = {
+			}
+		}
+	}
+	d_bang_krudaeng = {
+		color={ 95 170 16 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 1148 province_id = 1212 province_id = 1223 } }
+			}
+		}
+		capital = 1148 # c_ratappa
+		
+		c_ratappa = { # 1148
+			color={ 85 180 11 }
+			color2={ 255 255 255 }
+			
+			b_sokcho = {
+			}
+			b_ratappa = {
+			}
+			b_ratappa_2 = {
+			}
+		}
+		c_kalayya = { # 1212
+			color={ 127 99 4 }
+			color2={ 255 255 255 }
+			
+			b_qinramay = {
+			}
+			b_kalayya = {
+			}
+			b_kalayya_2 = {
+			}
+		}
+		c_kolafiy = { # 1223
+			color={ 86 189 61 }
+			color2={ 255 255 255 }
+			
+			b_xianqihar = {
+			}
+			b_kolafiy = {
+			}
+			b_kolafiy_2 = {
+			}
+		}
+	}
+	d_cimakerto = {
+		color={ 53 119 43 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 1147 province_id = 1165 province_id = 1179 } }
+			}
+		}
+		capital = 1147 # c_atyarayya
+		
+		c_atyarayya = { # 1147
+			color={ 43 129 38 }
+			color2={ 255 255 255 }
+			
+			b_gwayeong = {
+			}
+			b_atyarayya = {
+			}
+			b_atyarayya_2 = {
+			}
+		}
+		c_damork = { # 1179
+			color={ 169 90 67 }
+			color2={ 255 255 255 }
+			
+			b_sariyeong = {
+			}
+			b_damork = {
+			}
+			b_damork_2 = {
+			}
+		}
+		c_tabayya = { # 1165
+			color={ 169 150 77 }
+			color2={ 255 255 255 }
+			
+			b_taishu = {
+			}
+			b_tabayya = {
+			}
+			b_tabayya_2 = {
+			}
+		}
+	}
+	d_muching = {
+		color={ 53 56 68 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 1154 province_id = 1196 province_id = 1214 } }
+			}
+		}
+		capital = 1154 # c_binkaatol
+		
+		c_binkaatol = { # 1154
+			color={ 43 66 63 }
+			color2={ 255 255 255 }
+			
+			b_minanagawa = {
+			}
+			b_binkaatol = {
+			}
+			b_binkaatol_2 = {
+			}
+		}
+		c_kinoos = { # 1214
+			color={ 85 111 6 }
+			color2={ 255 255 255 }
+			
+			b_khotlan = {
+			}
+			b_kinoos = {
+			}
+			b_kinoos_2 = {
+			}
+		}
+		c_wabappa = { # 1196
+			color={ 127 138 4 }
+			color2={ 255 255 255 }
+			
+			b_tatefurano = {
+			}
+			b_wabappa = {
+			}
+			b_wabappa_2 = {
+			}
+		}
+	}
+	d_quang_ha = {
+		color={ 137 62 69 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 1153 province_id = 1164 province_id = 1222 } }
+			}
+		}
+		capital = 1153 # c_besilia
+		
+		c_besilia = { # 1153
+			color={ 127 72 64 }
+			color2={ 255 255 255 }
+			
+			b_honraha = {
+			}
+			b_besilia = {
+			}
+			b_besilia_2 = {
+			}
+		}
+		c_byudata = { # 1164
+			color={ 85 207 51 }
+			color2={ 255 255 255 }
+			
+			b_nakatari = {
+			}
+			b_byudata = {
+			}
+			b_byudata_2 = {
+			}
+		}
+		c_kutanos = { # 1222
+			color={ 128 147 54 }
+			color2={ 255 255 255 }
+			
+			b_yueshan = {
+			}
+			b_kutanos = {
+			}
+			b_kutanos_2 = {
+			}
+		}
+	}
+	d_salagarong = {
+		color={ 53 26 63 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 1151 province_id = 1175 } }
+			}
+		}
+		capital = 1151 # c_adrae
+		
+		c_adrae = { # 1151
+			color={ 43 36 58 }
+			color2={ 255 255 255 }
+			
+			b_manchaek = {
+			}
+			b_adrae = {
+			}
+			b_adrae_2 = {
+			}
+		}
+		c_tatala = { # 1175
+			color={ 1 27 50 }
+			color2={ 255 255 255 }
+			
+			b_nasai = {
+			}
+			b_tatala = {
+			}
+			b_tatala_2 = {
+			}
+		}
+	}
+	d_selakei = {
+		color={ 137 5 24 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 1129 province_id = 1130 province_id = 1131 province_id = 1132 } }
+			}
+		}
+		capital = 1129 # c_dasork
+		
+		c_dasork = { # 1129
+			color={ 127 15 19 }
+			color2={ 255 255 255 }
+			
+			b_shibiro = {
+			}
+			b_dasork = {
+			}
+			b_dasork_2 = {
+			}
+		}
+		c_enabappa = { # 1131
+			color={ 85 33 51 }
+			color2={ 255 255 255 }
+			
+			b_yueying = {
+			}
+			b_enabappa = {
+			}
+			b_enabappa_2 = {
+			}
+		}
+		c_kinia = { # 1132
+			color={ 85 27 21 }
+			color2={ 255 255 255 }
+			
+			b_jarshir = {
+			}
+			b_kinia = {
+			}
+			b_kinia_2 = {
+			}
+		}
+		c_rabia = { # 1130
+			color={ 169 57 97 }
+			color2={ 255 255 255 }
+			
+			b_panxing = {
+			}
+			b_rabia = {
+			}
+			b_rabia_2 = {
+			}
+		}
+	}
+	d_siepenh = {
+		color={ 53 116 78 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 1193 province_id = 1201 province_id = 1203 } }
+			}
+		}
+		capital = 1193 # c_ryaruyu
+		
+		c_ryaruyu = { # 1193
+			color={ 43 126 73 }
+			color2={ 255 255 255 }
+			
+			b_kuchaek = {
+			}
+			b_ryaruyu = {
+			}
+			b_ryaruyu_2 = {
+			}
+		}
+		c_dabappa = { # 1203
+			color={ 1 51 25 }
+			color2={ 255 255 255 }
+			
+			b_tawanobe = {
+			}
+			b_dabappa = {
+			}
+			b_dabappa_2 = {
+			}
+		}
+		c_tonae = { # 1201
+			color={ 127 195 49 }
+			color2={ 255 255 255 }
+			
+			b_kurinouchi = {
+			}
+			b_tonae = {
+			}
+			b_tonae_2 = {
+			}
+		}
+	}
+}
+
+k_beyl = {
+	color={ 157 247 64 }
+	color2={ 255 255 255 }
+	
+	capital = 1118 # c_silatti
+	culture = baylin
+	
+	c_silatti = { # 1118
+		color={ 127 21 49 }
+		color2={ 255 255 255 }
+		
+		b_tenetiala = {
+		}
+		b_silatti = {
+		}
+		b_silatti_2 = {
+		}
+	}
+	c_akukas = { # 1121
+		color={ 1 57 55 }
+		color2={ 255 255 255 }
+		
+		b_gombey = {
+		}
+		b_akukas = {
+		}
+		b_akukas_2 = {
+		}
+	}
+	c_bazae = { # 1185
+		color={ 169 180 82 }
+		color2={ 255 255 255 }
+		
+		b_abinne = {
+		}
+		b_bazae = {
+		}
+		b_bazae_2 = {
+		}
+	}
+	c_bazyako = { # 1122
+		color={ 169 99 62 }
+		color2={ 255 255 255 }
+		
+		b_duawe = {
+		}
+		b_bazyako = {
+		}
+		b_bazyako_2 = {
+		}
+	}
+	c_benelen = { # 1159
+		color={ 43 75 58 }
+		color2={ 255 255 255 }
+		
+		b_akwahum = {
+		}
+		b_benelen = {
+		}
+		b_benelen_2 = {
+		}
+	}
+	c_besiks = { # 1150
+		color={ 127 165 44 }
+		color2={ 255 255 255 }
+		
+		b_godo = {
+		}
+		b_besiks = {
+		}
+		b_besiks_2 = {
+		}
+	}
+	c_biacka = { # 1206
+		color={ 1 18 55 }
+		color2={ 255 255 255 }
+		
+		b_bignokho = {
+		}
+		b_biacka = {
+		}
+		b_biacka_2 = {
+		}
+	}
+	c_donayaka = { # 1197
+		color={ 43 63 98 }
+		color2={ 255 255 255 }
+		
+		b_gumeta = {
+		}
+		b_donayaka = {
+		}
+		b_donayaka_2 = {
+		}
+	}
+	c_ebune = { # 1215
+		color={ 169 117 7 }
+		color2={ 255 255 255 }
+		
+		b_homankese = {
+		}
+		b_ebune = {
+		}
+		b_ebune_2 = {
+		}
+	}
+	c_kya = { # 1199
+		color={ 1 174 10 }
+		color2={ 255 255 255 }
+		
+		b_mane = {
+		}
+		b_kya = {
+		}
+		b_kya_2 = {
+		}
+	}
+	c_lekudo = { # 1207
+		color={ 127 42 59 }
+		color2={ 255 255 255 }
+		
+		b_todara = {
+		}
+		b_lekudo = {
+		}
+		b_lekudo_2 = {
+		}
+	}
+	c_lesperaxpe = { # 1172
+		color={ 85 153 71 }
+		color2={ 255 255 255 }
+		
+		b_doradoukou = {
+		}
+		b_lesperaxpe = {
+		}
+		b_lesperaxpe_2 = {
+		}
+	}
+	c_liks = { # 1120
+		color={ 85 63 56 }
+		color2={ 255 255 255 }
+		
+		holy_site = kirothian
+		
+		b_famey = {
+		}
+		b_liks = {
+		}
+		b_liks_2 = {
+		}
+	}
+	c_lorabra = { # 1135
+		color={ 127 9 89 }
+		color2={ 255 255 255 }
+		
+		b_balenout = {
+		}
+		b_lorabra = {
+		}
+		b_lorabra_2 = {
+		}
+	}
+	c_nosiks = { # 1143
+		color={ 85 144 76 }
+		color2={ 255 255 255 }
+		
+		b_ferketala = {
+		}
+		b_nosiks = {
+		}
+		b_nosiks_2 = {
+		}
+	}
+	c_qamyako = { # 1124
+		color={ 85 114 71 }
+		color2={ 255 255 255 }
+		
+		b_gaore = {
+		}
+		b_qamyako = {
+		}
+		b_qamyako_2 = {
+		}
+	}
+	c_qinappa = { # 1126
+		color={ 85 204 86 }
+		color2={ 255 255 255 }
+		
+		b_sekonya = {
+		}
+		b_qinappa = {
+		}
+		b_qinappa_2 = {
+		}
+	}
+	c_qorelen = { # 1119
+		color={ 1 114 0 }
+		color2={ 255 255 255 }
+		
+		b_sediolo = {
+		}
+		b_qorelen = {
+		}
+		b_qorelen_2 = {
+		}
+	}
+	c_qyehala = { # 1160
+		color={ 85 0 81 }
+		color2={ 255 255 255 }
+		
+		b_oyokuta = {
+		}
+		b_qyehala = {
+		}
+		b_qyehala_2 = {
+		}
+	}
+	c_rasork = { # 1198
+		color={ 1 84 95 }
+		color2={ 255 255 255 }
+		
+		b_agerlu = {
+		}
+		b_rasork = {
+		}
+		b_rasork_2 = {
+		}
+	}
+	c_riks = { # 1157
+		color={ 85 177 46 }
+		color2={ 255 255 255 }
+		
+		b_ifetchi = {
+		}
+		b_riks = {
+		}
+		b_riks_2 = {
+		}
+	}
+	c_rudo = { # 1163
+		color={ 85 84 66 }
+		color2={ 255 255 255 }
+		
+		b_mardie = {
+		}
+		b_rudo = {
+		}
+		b_rudo_2 = {
+		}
+	}
+	c_ryako = { # 1137
+		color={ 1 108 70 }
+		color2={ 255 255 255 }
+		
+		b_gata = {
+		}
+		b_ryako = {
+		}
+		b_ryako_2 = {
+		}
+	}
+	c_tazae = { # 1123
+		color={ 127 48 89 }
+		color2={ 255 255 255 }
+		
+		b_odiassiam = {
+		}
+		b_tazae = {
+		}
+		b_tazae_2 = {
+		}
+	}
+	c_toluge = { # 1189
+		color={ 1 81 30 }
+		color2={ 255 255 255 }
+		
+		b_dakalda = {
+		}
+		b_toluge = {
+		}
+		b_toluge_2 = {
+		}
+	}
+	c_tosyape = { # 1200
+		color={ 1 204 15 }
+		color2={ 255 255 255 }
+		
+		b_gouka = {
+		}
+		b_tosyape = {
+		}
+		b_tosyape_2 = {
+		}
+	}
+	c_tukage = { # 1125
+		color={ 1 177 75 }
+		color2={ 255 255 255 }
+		
+		b_manni = {
+		}
+		b_tukage = {
+		}
+		b_tukage_2 = {
+		}
+	}
+	c_wilage = { # 1168
+		color={ 127 51 54 }
+		color2={ 255 255 255 }
+		
+		b_bese = {
+		}
+		b_wilage = {
+		}
+		b_wilage_2 = {
+		}
+	}
+	c_winayya = { # 1186
+		color={ 127 18 84 }
+		color2={ 255 255 255 }
+		
+		b_miliki = {
+		}
+		b_winayya = {
+		}
+		b_winayya_2 = {
+		}
+	}
+	c_wyarappa = { # 1183
+		color={ 169 66 92 }
+		color2={ 255 255 255 }
+		
+		b_kpandae = {
+		}
+		b_wyarappa = {
+		}
+		b_wyarappa_2 = {
+		}
+	}
+	d_bempong = {
+		color={ 137 11 54 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 1118 province_id = 1119 province_id = 1120 province_id = 1135 } }
+			}
+		}
+		capital = 1118 # c_silatti
+		
+		c_silatti = { # 1118
+			color={ 127 21 49 }
+			color2={ 255 255 255 }
+			
+			b_tenetiala = {
+			}
+			b_silatti = {
+			}
+			b_silatti_2 = {
+			}
+		}
+		c_liks = { # 1120
+			color={ 85 63 56 }
+			color2={ 255 255 255 }
+			
+			b_famey = {
+			}
+			b_liks = {
+			}
+			b_liks_2 = {
+			}
+		}
+		c_lorabra = { # 1135
+			color={ 127 9 89 }
+			color2={ 255 255 255 }
+			
+			b_balenout = {
+			}
+			b_lorabra = {
+			}
+			b_lorabra_2 = {
+			}
+		}
+		c_qorelen = { # 1119
+			color={ 1 114 0 }
+			color2={ 255 255 255 }
+			
+			b_sediolo = {
+			}
+			b_qorelen = {
+			}
+			b_qorelen_2 = {
+			}
+		}
+	}
+	d_abarouane = {
+		color={ 137 8 89 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 1186 province_id = 1189 province_id = 1206 } }
+			}
+		}
+		capital = 1186 # c_winayya
+		
+		c_winayya = { # 1186
+			color={ 127 18 84 }
+			color2={ 255 255 255 }
+			
+			b_miliki = {
+			}
+			b_winayya = {
+			}
+			b_winayya_2 = {
+			}
+		}
+		c_biacka = { # 1206
+			color={ 1 18 55 }
+			color2={ 255 255 255 }
+			
+			b_bignokho = {
+			}
+			b_biacka = {
+			}
+			b_biacka_2 = {
+			}
+		}
+		c_toluge = { # 1189
+			color={ 1 81 30 }
+			color2={ 255 255 255 }
+			
+			b_dakalda = {
+			}
+			b_toluge = {
+			}
+			b_toluge_2 = {
+			}
+		}
+	}
+	d_kadioniaka = {
+		color={ 137 38 94 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 1123 province_id = 1124 province_id = 1137 } }
+			}
+		}
+		capital = 1123 # c_tazae
+		
+		c_tazae = { # 1123
+			color={ 127 48 89 }
+			color2={ 255 255 255 }
+			
+			b_odiassiam = {
+			}
+			b_tazae = {
+			}
+			b_tazae_2 = {
+			}
+		}
+		c_qamyako = { # 1124
+			color={ 85 114 71 }
+			color2={ 255 255 255 }
+			
+			b_gaore = {
+			}
+			b_qamyako = {
+			}
+			b_qamyako_2 = {
+			}
+		}
+		c_ryako = { # 1137
+			color={ 1 108 70 }
+			color2={ 255 255 255 }
+			
+			b_gata = {
+			}
+			b_ryako = {
+			}
+			b_ryako_2 = {
+			}
+		}
+	}
+	d_kido = {
+		color={ 11 194 20 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 1200 province_id = 1207 province_id = 1215 } }
+			}
+		}
+		capital = 1200 # c_tosyape
+		
+		c_tosyape = { # 1200
+			color={ 1 204 15 }
+			color2={ 255 255 255 }
+			
+			b_gouka = {
+			}
+			b_tosyape = {
+			}
+			b_tosyape_2 = {
+			}
+		}
+		c_ebune = { # 1215
+			color={ 169 117 7 }
+			color2={ 255 255 255 }
+			
+			b_homankese = {
+			}
+			b_ebune = {
+			}
+			b_ebune_2 = {
+			}
+		}
+		c_lekudo = { # 1207
+			color={ 127 42 59 }
+			color2={ 255 255 255 }
+			
+			b_todara = {
+			}
+			b_lekudo = {
+			}
+			b_lekudo_2 = {
+			}
+		}
+	}
+	d_odyali = {
+		color={ 179 89 67 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 1122 province_id = 1143 } }
+			}
+		}
+		capital = 1122 # c_bazyako
+		
+		c_bazyako = { # 1122
+			color={ 169 99 62 }
+			color2={ 255 255 255 }
+			
+			b_duawe = {
+			}
+			b_bazyako = {
+			}
+			b_bazyako_2 = {
+			}
+		}
+		c_nosiks = { # 1143
+			color={ 85 144 76 }
+			color2={ 255 255 255 }
+			
+			b_ferketala = {
+			}
+			b_nosiks = {
+			}
+			b_nosiks_2 = {
+			}
+		}
+	}
+	d_oketo = {
+		color={ 95 194 91 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 1126 province_id = 1183 } }
+			}
+		}
+		capital = 1126 # c_qinappa
+		
+		c_qinappa = { # 1126
+			color={ 85 204 86 }
+			color2={ 255 255 255 }
+			
+			b_sekonya = {
+			}
+			b_qinappa = {
+			}
+			b_qinappa_2 = {
+			}
+		}
+		c_wyarappa = { # 1183
+			color={ 169 66 92 }
+			color2={ 255 255 255 }
+			
+			b_kpandae = {
+			}
+			b_wyarappa = {
+			}
+			b_wyarappa_2 = {
+			}
+		}
+	}
+	d_poumo = {
+		color={ 53 65 63 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 1159 province_id = 1172 province_id = 1185 } }
+			}
+		}
+		capital = 1159 # c_benelen
+		
+		c_benelen = { # 1159
+			color={ 43 75 58 }
+			color2={ 255 255 255 }
+			
+			b_akwahum = {
+			}
+			b_benelen = {
+			}
+			b_benelen_2 = {
+			}
+		}
+		c_bazae = { # 1185
+			color={ 169 180 82 }
+			color2={ 255 255 255 }
+			
+			b_abinne = {
+			}
+			b_bazae = {
+			}
+			b_bazae_2 = {
+			}
+		}
+		c_lesperaxpe = { # 1172
+			color={ 85 153 71 }
+			color2={ 255 255 255 }
+			
+			b_doradoukou = {
+			}
+			b_lesperaxpe = {
+			}
+			b_lesperaxpe_2 = {
+			}
+		}
+	}
+	d_salakim = {
+		color={ 53 53 103 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 1197 province_id = 1198 province_id = 1199 } }
+			}
+		}
+		capital = 1197 # c_donayaka
+		
+		c_donayaka = { # 1197
+			color={ 43 63 98 }
+			color2={ 255 255 255 }
+			
+			b_gumeta = {
+			}
+			b_donayaka = {
+			}
+			b_donayaka_2 = {
+			}
+		}
+		c_kya = { # 1199
+			color={ 1 174 10 }
+			color2={ 255 255 255 }
+			
+			b_mane = {
+			}
+			b_kya = {
+			}
+			b_kya_2 = {
+			}
+		}
+		c_rasork = { # 1198
+			color={ 1 84 95 }
+			color2={ 255 255 255 }
+			
+			b_agerlu = {
+			}
+			b_rasork = {
+			}
+			b_rasork_2 = {
+			}
+		}
+	}
+	d_siama = {
+		color={ 11 47 60 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 1121 province_id = 1150 province_id = 1163 province_id = 1168 } }
+			}
+		}
+		capital = 1121 # c_akukas
+		
+		c_akukas = { # 1121
+			color={ 1 57 55 }
+			color2={ 255 255 255 }
+			
+			b_gombey = {
+			}
+			b_akukas = {
+			}
+			b_akukas_2 = {
+			}
+		}
+		c_besiks = { # 1150
+			color={ 127 165 44 }
+			color2={ 255 255 255 }
+			
+			b_godo = {
+			}
+			b_besiks = {
+			}
+			b_besiks_2 = {
+			}
+		}
+		c_rudo = { # 1163
+			color={ 85 84 66 }
+			color2={ 255 255 255 }
+			
+			b_mardie = {
+			}
+			b_rudo = {
+			}
+			b_rudo_2 = {
+			}
+		}
+		c_wilage = { # 1168
+			color={ 127 51 54 }
+			color2={ 255 255 255 }
+			
+			b_bese = {
+			}
+			b_wilage = {
+			}
+			b_wilage_2 = {
+			}
+		}
+	}
+	d_tora = {
+		color={ 11 167 80 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 1125 province_id = 1157 province_id = 1160 } }
+			}
+		}
+		capital = 1125 # c_tukage
+		
+		c_tukage = { # 1125
+			color={ 1 177 75 }
+			color2={ 255 255 255 }
+			
+			b_manni = {
+			}
+			b_tukage = {
+			}
+			b_tukage_2 = {
+			}
+		}
+		c_qyehala = { # 1160
+			color={ 85 0 81 }
+			color2={ 255 255 255 }
+			
+			b_oyokuta = {
+			}
+			b_qyehala = {
+			}
+			b_qyehala_2 = {
+			}
+		}
+		c_riks = { # 1157
+			color={ 85 177 46 }
+			color2={ 255 255 255 }
+			
+			b_ifetchi = {
+			}
+			b_riks = {
+			}
+			b_riks_2 = {
+			}
+		}
+	}
+}
+	
+k_oshzus_kur = {
+		color={ 157 39 114 }
+		color2={ 255 255 255 }
+		
+		capital = 1105 # c_nadanpalawadanmas
+		culture = kiroth
+		
+		c_nadanpalawadanmas = { # 1105
+			color={ 127 69 99 }
+			color2={ 255 255 255 }
+			
+			b_sivrigac = {
+			}
+			b_nadanpalawadanmas = {
+			}
+			b_nadanpalawadanmas_2 = {
+			}
+		}
+		c_bakira = { # 1170
+			color={ 43 195 78 }
+			color2={ 255 255 255 }
+			
+			b_tel_halasiyyah = {
+			}
+			b_bakira = {
+			}
+			b_bakira_2 = {
+			}
+		}
+		c_deduga = { # 1177
+			color={ 1 45 95 }
+			color2={ 255 255 255 }
+			
+			b_al_marm = {
+			}
+			b_deduga = {
+			}
+			b_deduga_2 = {
+			}
+		}
+		c_deladai = { # 1194
+			color={ 169 186 12 }
+			color2={ 255 255 255 }
+			
+			b_marmarasta = {
+			}
+			b_deladai = {
+			}
+			b_deladai_2 = {
+			}
+		}
+		c_detpalamadaran = { # 1112
+			color={ 85 24 56 }
+			color2={ 255 255 255 }
+			
+			b_founab = {
+			}
+			b_detpalamadaran = {
+			}
+			b_detpalamadaran_2 = {
+			}
+		}
+		c_dudony = { # 1190
+			color={ 169 96 97 }
+			color2={ 255 255 255 }
+			
+			b_lahishtun = {
+			}
+			b_dudony = {
+			}
+			b_dudony_2 = {
+			}
+		}
+		c_elanhad = { # 1110
+			color={ 127 171 74 }
+			color2={ 255 255 255 }
+			
+			b_kocanekin = {
+			}
+			b_elanhad = {
+			}
+			b_elanhad_2 = {
+			}
+		}
+		c_kaematha = { # 1188
+			color={ 127 198 14 }
+			color2={ 255 255 255 }
+			
+			b_jarawrat = {
+			}
+			b_kaematha = {
+			}
+			b_kaematha_2 = {
+			}
+		}
+		c_kalibor = { # 1114
+			color={ 1 198 85 }
+			color2={ 255 255 255 }
+			
+			b_nasihdad = {
+			}
+			b_kalibor = {
+			}
+			b_kalibor_2 = {
+			}
+		}
+		c_keduga = { # 1171
+			color={ 127 192 84 }
+			color2={ 255 255 255 }
+			
+			b_dhadameih = {
+			}
+			b_keduga = {
+			}
+			b_keduga_2 = {
+			}
+		}
+		c_ketibor = { # 1115
+			color={ 43 39 23 }
+			color2={ 255 255 255 }
+			
+			b_beni_marbin = {
+			}
+			b_ketibor = {
+			}
+			b_ketibor_2 = {
+			}
+		}
+		c_koratha = { # 1113
+			color={ 127 111 64 }
+			color2={ 255 255 255 }
+			
+			b_ctesirkuk = {
+			}
+			b_koratha = {
+			}
+			b_koratha_2 = {
+			}
+		}
+		c_laluga = { # 1192
+			color={ 169 210 87 }
+			color2={ 255 255 255 }
+			
+			b_nawarouz = {
+			}
+			b_laluga = {
+			}
+			b_laluga_2 = {
+			}
+		}
+		c_lilelen = { # 1162
+			color={ 85 90 96 }
+			color2={ 255 255 255 }
+			
+			b_malkacalar = {
+			}
+			b_lilelen = {
+			}
+			b_lilelen_2 = {
+			}
+		}
+		c_lilibor = { # 1167
+			color={ 1 75 0 }
+			color2={ 255 255 255 }
+			
+			b_malahnuj = {
+			}
+			b_lilibor = {
+			}
+			b_lilibor_2 = {
+			}
+		}
+		c_nonabra = { # 1106
+			color={ 85 30 86 }
+			color2={ 255 255 255 }
+			
+			b_goekokoyunlu = {
+			}
+			b_nonabra = {
+			}
+			b_nonabra_2 = {
+			}
+		}
+		c_qedatti = { # 1156
+			color={ 43 33 93 }
+			color2={ 255 255 255 }
+			
+			b_wazinah = {
+			}
+			b_ringsted = {
+			}
+			b_lejre = {
+			}
+		}
+		c_qiluga = { # 1180
+			color={ 1 201 50 }
+			color2={ 255 255 255 }
+			
+			b_socorib = {
+			}
+			b_qiluga = {
+			}
+			b_qiluga_2 = {
+			}
+		}
+		c_quarira = { # 1155
+			color={ 127 201 79 }
+			color2={ 255 255 255 }
+			
+			b_qawadmi = {
+			}
+			b_quarira = {
+			}
+			b_quarira_2 = {
+			}
+		}
+		c_rakina = { # 1111
+			color={ 127 75 29 }
+			color2={ 255 255 255 }
+			
+			b_ahvatian = {
+			}
+			b_rakina = {
+			}
+			b_rakina_2 = {
+			}
+		}
+		c_raleslav = { # 1116
+			color={ 127 81 59 }
+			color2={ 255 255 255 }
+			
+			b_shubranieh = {
+			}
+			b_raleslav = {
+			}
+			b_raleslav_2 = {
+			}
+		}
+		c_ramira = { # 1139
+			color={ 127 168 9 }
+			color2={ 255 255 255 }
+			
+			b_bahcedere = {
+			}
+			b_ramira = {
+			}
+			b_ramira_2 = {
+			}
+		}
+		c_raysira = { # 1140
+			color={ 127 102 69 }
+			color2={ 255 255 255 }
+			
+			b_ad_diwafar = {
+			}
+			b_raysira = {
+			}
+			b_raysira_2 = {
+			}
+		}
+		c_reopmas = { # 1195
+			color={ 85 21 91 }
+			color2={ 255 255 255 }
+			
+			b_amash = {
+			}
+			b_reopmas = {
+			}
+			b_reopmas_2 = {
+			}
+		}
+		c_retatha = { # 1181
+			color={ 85 117 36 }
+			color2={ 255 255 255 }
+			
+			b_alazd = {
+			}
+			b_vordingborg = {
+			}
+			b_retatha = {
+			}
+		}
+		c_rilelen = { # 1152
+			color={ 169 120 72 }
+			color2={ 255 255 255 }
+			
+			b_selikoyun = {
+			}
+			b_rilelen = {
+			}
+			b_rilelen_2 = {
+			}
+		}
+		c_roreda = { # 1141
+			color={ 1 147 70 }
+			color2={ 255 255 255 }
+			
+			b_harmajh = {
+			}
+			b_roreda = {
+			}
+			b_roreda_2 = {
+			}
+		}
+		c_ruagada = { # 1205
+			color={ 169 87 2 }
+			color2={ 255 255 255 }
+			
+			b_el_mahareya = {
+			}
+			b_ruagada = {
+			}
+			b_ruagada_2 = {
+			}
+		}
+		c_saleslav = { # 1117
+			color={ 169 6 82 }
+			color2={ 255 255 255 }
+			
+			b_hofuzan = {
+			}
+			b_saleslav = {
+			}
+			b_saleslav_2 = {
+			}
+		}
+		c_syape = { # 1182
+			color={ 43 6 53 }
+			color2={ 255 255 255 }
+			
+			b_ridashah = {
+			}
+			b_syape = {
+			}
+			b_syape_2 = {
+			}
+		}
+		c_taemoran = { # 1109
+			color={ 85 147 41 }
+			color2={ 255 255 255 }
+			
+			b_mishediyah = {
+			}
+			b_taemoran = {
+			}
+			b_taemoran_2 = {
+			}
+		}
+		c_taloumas = { # 1184
+			color={ 43 156 78 }
+			color2={ 255 255 255 }
+			
+			b_babyppur = {
+			}
+			b_taloumas = {
+			}
+			b_taloumas_2 = {
+			}
+		}
+		c_tetony = { # 1149
+			color={ 127 141 69 }
+			color2={ 255 255 255 }
+			
+			b_meyabeh = {
+			}
+			b_tetony = {
+			}
+			b_tetony_2 = {
+			}
+		}
+		c_toratha = { # 1108
+			color={ 85 174 81 }
+			color2={ 255 255 255 }
+			
+			b_fainyet = {
+			}
+			b_toratha = {
+			}
+			b_toratha_2 = {
+			}
+		}
+		c_wicina = { # 1107
+			color={ 169 159 72 }
+			color2={ 255 255 255 }
+			
+			b_shahigheh = {
+			}
+			b_wicina = {
+			}
+			b_wicina_2 = {
+			}
+		}
+		d_beni_suyoum = {
+			color={ 137 59 104 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 1105 province_id = 1106 province_id = 1149 } }
+				}
+			}
+			capital = 1105 # c_nadanpalawadanmas
+			
+			c_nadanpalawadanmas = { # 1105
+				color={ 127 69 99 }
+				color2={ 255 255 255 }
+				
+				b_sivrigac = {
+				}
+				b_nadanpalawadanmas = {
+				}
+				b_nadanpalawadanmas_2 = {
+				}
+			}
+			c_nonabra = { # 1106
+				color={ 85 30 86 }
+				color2={ 255 255 255 }
+				
+				b_goekokoyunlu = {
+				}
+				b_nonabra = {
+				}
+				b_nonabra_2 = {
+				}
+			}
+			c_tetony = { # 1149
+				color={ 127 141 69 }
+				color2={ 255 255 255 }
+				
+				b_meyabeh = {
+				}
+				b_tetony = {
+				}
+				b_tetony_2 = {
+				}
+			}
+		}
+		d_ahvadsar = {
+			color={ 137 101 69 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 1113 province_id = 1114 province_id = 1115 province_id = 1116 province_id = 1117 } }
+				}
+			}
+			capital = 1113 # c_koratha
+			
+			c_koratha = { # 1113
+				color={ 127 111 64 }
+				color2={ 255 255 255 }
+				
+				b_ctesirkuk = {
+				}
+				b_koratha = {
+				}
+				b_koratha_2 = {
+				}
+			}
+			c_kalibor = { # 1114
+				color={ 1 198 85 }
+				color2={ 255 255 255 }
+				
+				b_nasihdad = {
+				}
+				b_kalibor = {
+				}
+				b_kalibor_2 = {
+				}
+			}
+			c_ketibor = { # 1115
+				color={ 43 39 23 }
+				color2={ 255 255 255 }
+				
+				b_beni_marbin = {
+				}
+				b_ketibor = {
+				}
+				b_ketibor_2 = {
+				}
+			}
+			c_raleslav = { # 1116
+				color={ 127 81 59 }
+				color2={ 255 255 255 }
+				
+				b_shubranieh = {
+				}
+				b_raleslav = {
+				}
+				b_raleslav_2 = {
+				}
+			}
+			c_saleslav = { # 1117
+				color={ 169 6 82 }
+				color2={ 255 255 255 }
+				
+				b_hofuzan = {
+				}
+				b_saleslav = {
+				}
+				b_saleslav_2 = {
+				}
+			}
+		}
+		d_al_kirakh = {
+			color={ 53 185 83 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 1170 province_id = 1177 } }
+				}
+			}
+			capital = 1170 # c_bakira
+			
+			c_bakira = { # 1170
+				color={ 43 195 78 }
+				color2={ 255 255 255 }
+				
+				b_tel_halasiyyah = {
+				}
+				b_bakira = {
+				}
+				b_bakira_2 = {
+				}
+			}
+			c_deduga = { # 1177
+				color={ 1 45 95 }
+				color2={ 255 255 255 }
+				
+				b_al_marm = {
+				}
+				b_deduga = {
+				}
+				b_deduga_2 = {
+				}
+			}
+		}
+		d_al_marm = {
+			color={ 179 110 77 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 1152 province_id = 1162 province_id = 1167 province_id = 1181 province_id = 1184 } }
+				}
+			}
+			capital = 1152 # c_rilelen
+			
+			c_rilelen = { # 1152
+				color={ 169 120 72 }
+				color2={ 255 255 255 }
+				
+				b_selikoyun = {
+				}
+				b_rilelen = {
+				}
+				b_rilelen_2 = {
+				}
+			}
+			c_lilelen = { # 1162
+				color={ 85 90 96 }
+				color2={ 255 255 255 }
+				
+				b_malkacalar = {
+				}
+				b_lilelen = {
+				}
+				b_lilelen_2 = {
+				}
+			}
+			c_lilibor = { # 1167
+				color={ 1 75 0 }
+				color2={ 255 255 255 }
+				
+				b_malahnuj = {
+				}
+				b_lilibor = {
+				}
+				b_lilibor_2 = {
+				}
+			}
+			c_retatha = { # 1181
+				color={ 85 117 36 }
+				color2={ 255 255 255 }
+				
+				b_alazd = {
+				}
+				b_vordingborg = {
+				}
+				b_retatha = {
+				}
+			}
+			c_taloumas = { # 1184
+				color={ 43 156 78 }
+				color2={ 255 255 255 }
+				
+				b_babyppur = {
+				}
+				b_taloumas = {
+				}
+				b_taloumas_2 = {
+				}
+			}
+		}
+		d_al_quwi = {
+			color={ 137 161 79 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 1110 province_id = 1111 province_id = 1112 } }
+				}
+			}
+			capital = 1110 # c_elanhad
+			
+			c_elanhad = { # 1110
+				color={ 127 171 74 }
+				color2={ 255 255 255 }
+				
+				b_kocanekin = {
+				}
+				b_elanhad = {
+				}
+				b_elanhad_2 = {
+				}
+			}
+			c_detpalamadaran = { # 1112
+				color={ 85 24 56 }
+				color2={ 255 255 255 }
+				
+				b_founab = {
+				}
+				b_detpalamadaran = {
+				}
+				b_detpalamadaran_2 = {
+				}
+			}
+			c_rakina = { # 1111
+				color={ 127 75 29 }
+				color2={ 255 255 255 }
+				
+				b_ahvatian = {
+				}
+				b_rakina = {
+				}
+				b_rakina_2 = {
+				}
+			}
+		}
+		d_amanayat = {
+			color={ 159 169 67 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 1107 province_id = 1140 } }
+				}
+			}
+			capital = 1107 # c_wicina
+			
+			c_wicina = { # 1107
+				color={ 169 159 72 }
+				color2={ 255 255 255 }
+				
+				b_shahigheh = {
+				}
+				b_wicina = {
+				}
+				b_wicina_2 = {
+				}
+			}
+			c_raysira = { # 1140
+				color={ 127 102 69 }
+				color2={ 255 255 255 }
+				
+				b_ad_diwafar = {
+				}
+				b_raysira = {
+				}
+				b_raysira_2 = {
+				}
+			}
+		}
+		d_binninawat = {
+			color={ 95 164 86 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 1108 province_id = 1141 } }
+				}
+			}
+			capital = 1108 # c_toratha
+			
+			c_toratha = { # 1108
+				color={ 85 174 81 }
+				color2={ 255 255 255 }
+				
+				b_fainyet = {
+				}
+				b_toratha = {
+				}
+				b_toratha_2 = {
+				}
+			}
+			c_roreda = { # 1141
+				color={ 1 147 70 }
+				color2={ 255 255 255 }
+				
+				b_harmajh = {
+				}
+				b_roreda = {
+				}
+				b_roreda_2 = {
+				}
+			}
+		}
+		d_buraqaiq = {
+			color={ 95 137 46 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 1109 province_id = 1139 } }
+				}
+			}
+			capital = 1109 # c_taemoran
+			
+			c_taemoran = { # 1109
+				color={ 85 147 41 }
+				color2={ 255 255 255 }
+				
+				b_mishediyah = {
+				}
+				b_taemoran = {
+				}
+				b_taemoran_2 = {
+				}
+			}
+			c_ramira = { # 1139
+				color={ 127 168 9 }
+				color2={ 255 255 255 }
+				
+				b_bahcedere = {
+				}
+				b_ramira = {
+				}
+				b_ramira_2 = {
+				}
+			}
+		}
+		d_dhadameih = {
+			color={ 95 11 96 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 1195 province_id = 1205 } }
+				}
+			}
+			capital = 1195 # c_reopmas
+			
+			c_reopmas = { # 1195
+				color={ 85 21 91 }
+				color2={ 255 255 255 }
+				
+				b_amash = {
+				}
+				b_reopmas = {
+				}
+				b_reopmas_2 = {
+				}
+			}
+			c_ruagada = { # 1205
+				color={ 169 87 2 }
+				color2={ 255 255 255 }
+				
+				b_el_mahareya = {
+				}
+				b_ruagada = {
+				}
+				b_ruagada_2 = {
+				}
+			}
+		}
+		d_safrrah = {
+			color={ 117 202 79 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 1171 province_id = 1180 province_id = 1190 province_id = 1192 } }
+				}
+			}
+			capital = 1171 # c_keduga
+			
+			c_keduga = { # 1171
+				color={ 127 192 84 }
+				color2={ 255 255 255 }
+				
+				b_dhadameih = {
+				}
+				b_keduga = {
+				}
+				b_keduga_2 = {
+				}
+			}
+			c_dudony = { # 1190
+				color={ 169 96 97 }
+				color2={ 255 255 255 }
+				
+				b_lahishtun = {
+				}
+				b_dudony = {
+				}
+				b_dudony_2 = {
+				}
+			}
+			c_laluga = { # 1192
+				color={ 169 210 87 }
+				color2={ 255 255 255 }
+				
+				b_nawarouz = {
+				}
+				b_laluga = {
+				}
+				b_laluga_2 = {
+				}
+			}
+			c_qiluga = { # 1180
+				color={ 1 201 50 }
+				color2={ 255 255 255 }
+				
+				b_socorib = {
+				}
+				b_qiluga = {
+				}
+				b_qiluga_2 = {
+				}
+			}
+		}
+		d_tel_halasiyyah = {
+			color={ 117 211 74 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 1155 province_id = 1156 province_id = 1182 province_id = 1188 province_id = 1194 } }
+				}
+			}
+			capital = 1155 # c_quarira
+			
+			c_quarira = { # 1155
+				color={ 127 201 79 }
+				color2={ 255 255 255 }
+				
+				b_qawadmi = {
+				}
+				b_quarira = {
+				}
+				b_quarira_2 = {
+				}
+			}
+			c_deladai = { # 1194
+				color={ 169 186 12 }
+				color2={ 255 255 255 }
+				
+				b_marmarasta = {
+				}
+				b_deladai = {
+				}
+				b_deladai_2 = {
+				}
+			}
+			c_kaematha = { # 1188
+				color={ 127 198 14 }
+				color2={ 255 255 255 }
+				
+				b_jarawrat = {
+				}
+				b_kaematha = {
+				}
+				b_kaematha_2 = {
+				}
+			}
+			c_qedatti = { # 1156
+				color={ 43 33 93 }
+				color2={ 255 255 255 }
+				
+				b_wazinah = {
+				}
+				b_ringsted = {
+				}
+				b_lejre = {
+				}
+			}
+			c_syape = { # 1182
+				color={ 43 6 53 }
+				color2={ 255 255 255 }
+				
+				b_ridashah = {
+				}
+				b_syape = {
+				}
+				b_syape_2 = {
+				}
+			}
+		}
+	}
+
 k_kir_ko = {
 	color={ 30 141 50 }
 	color2={ 255 255 255 }
@@ -43,6 +2154,8 @@ k_kir_ko = {
 		c_taraslan = { # 8
 			color={ 168 156 97 }
 			color2={ 255 255 255 }
+			
+			holy_site = kirothian
 			
 			b_alzihmouz = {
 			}
@@ -119,8 +2232,60 @@ k_kir_ko = {
 			}
 		}
 	}
+	d_kedaveina = {
+			color={ 95 191 26 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 1216 province_id = 1218 province_id = 1219 } }
+				}
+			}
+			capital = 1216 # c_kedaveina
+			
+			c_kedaveina = { # 1216
+				color={ 85 201 21 }
+				color2={ 255 255 255 }
+				holy_site = kirothian
+				
+				b_pirarsamba = {
+				}
+				b_ashkerand = {
+				}
+				b_shudah = {
+				}
+				b_kedaveina = {
+				}
+			}
+			c_dorabra = { # 1218
+				color={ 127 156 49 }
+				color2={ 255 255 255 }
+				
+				b_mehmezdere = {
+				}
+				b_erbidariyah = {
+				}
+				b_manzanater = {
+				}
+				b_dorabra = {
+				}
+			}
+			c_laysira = { # 1219
+				color={ 85 168 51 }
+				color2={ 255 255 255 }
+				
+				b_firound = {
+				}
+				b_an_rabah = {
+				}
+				b_medimam = {
+				}
+				b_laysira = {
+				}
+			}
+		}
 }
-
 	
 k_jaashad = {
 	color={ 199 123 57 }
@@ -394,6 +2559,8 @@ k_jaashad = {
 		c_koraam = { # 1092
 			color={ 169 189 77 }
 			color2={ 255 255 255 }
+			
+			holy_site = kirothian
 			
 			b_tel_khahdad = {
 			}
@@ -1599,6 +3766,7 @@ k_dru = {
 		}
 	}
 }
+
 k_kiroth = {
 		color={ 199 3 37 }
 		color2={ 255 255 255 }
@@ -1609,6 +3777,7 @@ k_kiroth = {
 		c_ruarmas = { # 1208
 			color={ 169 33 22 }
 			color2={ 255 255 255 }
+			holy_site = kirothian
 			
 			b_ripmourn = {
 			}

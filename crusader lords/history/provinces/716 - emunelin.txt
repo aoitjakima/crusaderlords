@@ -6,9 +6,9 @@ title = c_emunelin
 # Settlements
 max_settlements = 3
 
-b_emunelin = castle
-#b_emunelin_2 = city
-#b_emunelin_3 = temple
+b_watermeadow = tribal
+#b_emunelin = city
+#b_emunelin_2 = temple
 
 # Misc
 culture = bastian_noble

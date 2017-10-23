@@ -6,9 +6,9 @@ title = c_bisive
 # Settlements
 max_settlements = 3
 
-b_bisive = castle
-#b_bisive_2 = city
-#b_bisive_3 = temple
+b_riverbridge = tribal
+#b_bisive = city
+#b_bisive_2 = temple
 
 # Misc
 culture = niefhiem_forrest

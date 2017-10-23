@@ -6,12 +6,12 @@ title = c_bazyako
 # Settlements
 max_settlements = 3
 
-b_bazyako = castle
-b_bazyako_2 = city
-b_bazyako_3 = temple
+b_duawe = castle
+#b_bazyako = city
+#b_bazyako_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirothian
 
 #History

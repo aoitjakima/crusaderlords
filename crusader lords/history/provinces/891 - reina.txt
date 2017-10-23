@@ -6,9 +6,9 @@ title = c_reina
 # Settlements
 max_settlements = 3
 
-b_reina = castle
-#b_reina_2 = city
-#b_reina_3 = temple
+b_greybank = tribal
+#b_reina = city
+#b_reina_2 = temple
 
 # Misc
 culture = bastian_noble

@@ -6,9 +6,9 @@ title = c_lisarses
 # Settlements
 max_settlements = 3
 
-b_lisarses = castle
-#b_lisarses_2 = city
-#b_lisarses_3 = temple
+b_applebridge = tribal
+#b_lisarses = city
+#b_lisarses_2 = temple
 
 # Misc
 culture = swamp_avasian

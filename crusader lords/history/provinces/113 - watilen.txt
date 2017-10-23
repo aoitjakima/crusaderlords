@@ -6,9 +6,9 @@ title = c_watilen
 # Settlements
 max_settlements = 3
 
-b_watilen = castle
-#b_watilen_2 = city
-#b_watilen_3 = temple
+b_blackview = tribal
+#b_watilen = city
+#b_watilen_2 = temple
 
 # Misc
 culture = niefhiem_mountain

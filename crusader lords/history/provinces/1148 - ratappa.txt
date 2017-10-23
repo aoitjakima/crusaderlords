@@ -6,12 +6,12 @@ title = c_ratappa
 # Settlements
 max_settlements = 3
 
-b_ratappa = castle
-b_ratappa_2 = city
-b_ratappa_3 = temple
+b_sokcho = castle
+#b_ratappa = city
+#b_ratappa_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirothian
 
 #History

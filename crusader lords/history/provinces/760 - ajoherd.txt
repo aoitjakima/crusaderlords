@@ -6,9 +6,9 @@ title = c_ajoherd
 # Settlements
 max_settlements = 3
 
-b_ajoherd = castle
-#b_ajoherd_2 = city
-#b_ajoherd_3 = temple
+b_rosefalcon = tribal
+#b_ajoherd = city
+#b_ajoherd_2 = temple
 
 # Misc
 culture = northern_avasian

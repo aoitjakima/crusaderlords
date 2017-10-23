@@ -6,9 +6,9 @@ title = c_keradi
 # Settlements
 max_settlements = 3
 
-b_keradi = castle
-#b_keradi_2 = city
-#b_keradi_3 = temple
+b_greysnow = tribal
+#b_keradi = city
+#b_keradi_2 = temple
 
 # Misc
 culture = bastian_noble

@@ -6,9 +6,9 @@ title = c_achotos
 # Settlements
 max_settlements = 3
 
-b_achotos = castle
-#b_achotos_2 = city
-#b_achotos_3 = temple
+b_shadowgold = tribal
+#b_achotos = city
+#b_achotos_2 = temple
 
 # Misc
 culture = swamp_avasian

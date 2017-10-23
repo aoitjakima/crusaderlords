@@ -6,9 +6,9 @@ title = c_lenotmoa
 # Settlements
 max_settlements = 3
 
-b_lenotmoa = castle
-#b_lenotmoa_2 = city
-#b_lenotmoa_3 = temple
+b_landston = tribal
+#b_lenotmoa = city
+#b_lenotmoa_2 = temple
 
 # Misc
 culture = bastian_noble

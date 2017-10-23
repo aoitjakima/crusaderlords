@@ -6,9 +6,9 @@ title = c_wolappa
 # Settlements
 max_settlements = 3
 
-b_wolappa = castle
-#b_wolappa_2 = city
-#b_wolappa_3 = temple
+b_butterwolf = tribal
+#b_wolappa = city
+#b_wolappa_2 = temple
 
 # Misc
 culture = bastian_avas

@@ -6,9 +6,9 @@ title = c_nunule
 # Settlements
 max_settlements = 3
 
-b_nunule = castle
-#b_nunule_2 = city
-#b_nunule_3 = temple
+b_springhedge = tribal
+#b_nunule = city
+#b_nunule_2 = temple
 
 # Misc
 culture = bastian_noble

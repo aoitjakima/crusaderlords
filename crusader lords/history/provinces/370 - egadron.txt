@@ -6,9 +6,9 @@ title = c_egadron
 # Settlements
 max_settlements = 3
 
-b_egadron = castle
-#b_egadron_2 = city
-#b_egadron_3 = temple
+b_westbeech = tribal
+#b_egadron = city
+#b_egadron_2 = temple
 
 # Misc
 culture = niefhiem_forrest

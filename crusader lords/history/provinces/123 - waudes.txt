@@ -6,9 +6,9 @@ title = c_waudes
 # Settlements
 max_settlements = 3
 
-b_waudes = castle
-#b_waudes_2 = city
-#b_waudes_3 = temple
+b_glasshall = tribal
+#b_waudes = city
+#b_waudes_2 = temple
 
 # Misc
 culture = niefhiem_mountain

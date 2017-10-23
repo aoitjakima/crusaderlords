@@ -1,0 +1,26 @@
+#KIROTH
+technology = {
+	titles = {
+		d_ahvadsar
+		d_al_kirakh
+		d_al_marm
+		d_al_quwi
+		d_amanayat
+		d_beni_suyoum
+		d_binninawat
+		d_buraqaiq
+		d_dhadameih
+		d_safrrah
+		d_tel_halasiyyah
+	}
+	501 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+	1426 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

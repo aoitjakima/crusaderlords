@@ -6,9 +6,9 @@ title = c_niciel
 # Settlements
 max_settlements = 3
 
-b_niciel = castle
-#b_niciel_2 = city
-#b_niciel_3 = temple
+b_deeplea = tribal
+#b_niciel = city
+#b_niciel_2 = temple
 
 # Misc
 culture = bastia_city

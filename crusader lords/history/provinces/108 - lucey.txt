@@ -6,9 +6,9 @@ title = c_lucey
 # Settlements
 max_settlements = 3
 
-b_lucey = castle
-#b_lucey_2 = city
-#b_lucey_3 = temple
+b_bridgelyn = tribal
+#b_lucey = city
+#b_lucey_2 = temple
 
 # Misc
 culture = niefhiem_mountain

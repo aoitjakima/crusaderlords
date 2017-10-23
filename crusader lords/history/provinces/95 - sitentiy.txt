@@ -6,9 +6,9 @@ title = c_sitentiy
 # Settlements
 max_settlements = 3
 
-b_sitentiy = castle
-#b_sitentiy_2 = city
-#b_sitentiy_3 = temple
+b_welllyn = tribal
+#b_sitentiy = city
+#b_sitentiy_2 = temple
 
 # Misc
 culture = niefhiem_forrest

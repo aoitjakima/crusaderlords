@@ -6,9 +6,9 @@ title = c_qegamur
 # Settlements
 max_settlements = 3
 
-b_qegamur = castle
-#b_qegamur_2 = city
-#b_qegamur_3 = temple
+b_maplebeach = tribal
+#b_qegamur = city
+#b_qegamur_2 = temple
 
 # Misc
 culture = bastian_noble

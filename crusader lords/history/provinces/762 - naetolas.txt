@@ -6,9 +6,9 @@ title = c_naetolas
 # Settlements
 max_settlements = 3
 
-b_naetolas = castle
-#b_naetolas_2 = city
-#b_naetolas_3 = temple
+b_springford = tribal
+#b_naetolas = city
+#b_naetolas_2 = temple
 
 # Misc
 culture = bastian_noble

@@ -6,9 +6,9 @@ title = c_kurine
 # Settlements
 max_settlements = 3
 
-b_kurine = castle
-#b_kurine_2 = city
-#b_kurine_3 = temple
+b_hollowbridge = tribal
+#b_kurine = city
+#b_kurine_2 = temple
 
 # Misc
 culture = bastian_noble

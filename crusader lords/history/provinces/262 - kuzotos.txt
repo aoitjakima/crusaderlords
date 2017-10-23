@@ -6,9 +6,9 @@ title = c_kuzotos
 # Settlements
 max_settlements = 3
 
-b_teltow = castle
-#b_kuzotos = city
-#b_kuzotos_2 = temple
+b_iceapple = tribal
+#b_teltow = city
+#b_kuzotos = temple
 
 # Misc
 culture = niefhiem_forrest

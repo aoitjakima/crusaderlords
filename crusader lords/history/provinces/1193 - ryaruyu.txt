@@ -6,12 +6,12 @@ title = c_ryaruyu
 # Settlements
 max_settlements = 3
 
-b_ryaruyu = castle
-b_ryaruyu_2 = city
-b_ryaruyu_3 = temple
+b_kuchaek = castle
+#b_ryaruyu = city
+#b_ryaruyu_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirian
 
 #History

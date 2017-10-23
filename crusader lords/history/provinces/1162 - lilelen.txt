@@ -6,12 +6,12 @@ title = c_lilelen
 # Settlements
 max_settlements = 3
 
-b_lilelen = castle
-b_lilelen_2 = city
-b_lilelen_3 = temple
+b_malkacalar = temple
+#b_lilelen = city
+#b_lilelen_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

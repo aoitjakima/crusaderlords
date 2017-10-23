@@ -6,9 +6,9 @@ title = c_turuel
 # Settlements
 max_settlements = 3
 
-b_turuel = castle
-#b_turuel_2 = city
-#b_turuel_3 = temple
+b_eastloch = tribal
+#b_turuel = city
+#b_turuel_2 = temple
 
 # Misc
 culture = bastian_avas

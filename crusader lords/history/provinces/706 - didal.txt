@@ -6,9 +6,9 @@ title = c_didal
 # Settlements
 max_settlements = 3
 
-b_didal = castle
-#b_didal_2 = city
-#b_didal_3 = temple
+b_greysage = tribal
+#b_didal = city
+#b_didal_2 = temple
 
 # Misc
 culture = northern_avasian

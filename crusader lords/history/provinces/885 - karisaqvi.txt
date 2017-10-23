@@ -6,9 +6,9 @@ title = c_karisaqvi
 # Settlements
 max_settlements = 3
 
-b_karisaqvi = castle
-#b_karisaqvi_2 = city
-#b_karisaqvi_3 = temple
+b_faywheat = tribal
+#b_karisaqvi = city
+#b_karisaqvi_2 = temple
 
 # Misc
 culture = bastian_avas

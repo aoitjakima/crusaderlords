@@ -6,9 +6,9 @@ title = c_katina
 # Settlements
 max_settlements = 3
 
-b_katina = castle
-#b_katina_2 = city
-#b_katina_3 = temple
+b_dorcoast = tribal
+#b_katina = city
+#b_katina_2 = temple
 
 # Misc
 culture = niefhiem_lake

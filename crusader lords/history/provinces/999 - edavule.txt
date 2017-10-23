@@ -6,9 +6,9 @@ title = c_edavule
 # Settlements
 max_settlements = 3
 
-b_edavule = castle
-#b_edavule_2 = city
-#b_edavule_3 = temple
+b_merrowland = tribal
+#b_edavule = city
+#b_edavule_2 = temple
 
 # Misc
 culture = bastian_avas

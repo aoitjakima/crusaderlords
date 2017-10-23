@@ -6,9 +6,9 @@ title = c_asilip
 # Settlements
 max_settlements = 3
 
-b_asilip = castle
-#b_asilip_2 = city
-#b_asilip_3 = temple
+b_stonesage = tribal
+#b_asilip = city
+#b_asilip_2 = temple
 
 # Misc
 culture = bastian_noble

@@ -6,9 +6,9 @@ title = c_larinan
 # Settlements
 max_settlements = 3
 
-b_larinan = castle
-#b_larinan_2 = city
-#b_larinan_3 = temple
+b_prycoast = tribal
+#b_larinan = city
+#b_larinan_2 = temple
 
 # Misc
 culture = niefhiem_mountain

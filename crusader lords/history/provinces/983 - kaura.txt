@@ -6,9 +6,9 @@ title = c_kaura
 # Settlements
 max_settlements = 3
 
-b_kaura = castle
-#b_kaura_2 = city
-#b_kaura_3 = temple
+b_deepholt = tribal
+#b_kaura = city
+#b_kaura_2 = temple
 
 # Misc
 culture = bastian_noble

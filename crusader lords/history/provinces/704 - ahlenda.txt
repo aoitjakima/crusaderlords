@@ -6,9 +6,9 @@ title = c_ahlenda
 # Settlements
 max_settlements = 3
 
-b_ahlenda = castle
-#b_ahlenda_2 = city
-#b_ahlenda_3 = temple
+b_wildebay = tribal
+#b_ahlenda = city
+#b_ahlenda_2 = temple
 
 # Misc
 culture = bastia_city

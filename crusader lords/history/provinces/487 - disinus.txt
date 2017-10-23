@@ -6,7 +6,7 @@ title = c_disinus
 # Settlements
 max_settlements = 3
 
-b_hochstaden = castle
+b_marbledragon = tribal
 #b_disinus = city
 #b_disinus_2 = temple
 

@@ -6,9 +6,9 @@ title = c_wegamur
 # Settlements
 max_settlements = 3
 
-b_wegamur = castle
-#b_wegamur_2 = city
-#b_wegamur_3 = temple
+b_baypond = tribal
+#b_wegamur = city
+#b_wegamur_2 = temple
 
 # Misc
 culture = bastian_noble

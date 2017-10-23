@@ -6,9 +6,9 @@ title = c_tieboto
 # Settlements
 max_settlements = 3
 
-b_tieboto = castle
-#b_tieboto_2 = city
-#b_tieboto_3 = temple
+b_rayholt = tribal
+#b_tieboto = city
+#b_tieboto_2 = temple
 
 # Misc
 culture = bastian_rural

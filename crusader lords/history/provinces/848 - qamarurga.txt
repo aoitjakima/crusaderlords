@@ -6,9 +6,9 @@ title = c_qamarurga
 # Settlements
 max_settlements = 3
 
-b_qamarurga = castle
-#b_qamarurga_2 = city
-#b_qamarurga_3 = temple
+b_highwell = tribal
+#b_qamarurga = city
+#b_qamarurga_2 = temple
 
 # Misc
 culture = bastian_noble

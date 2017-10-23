@@ -6,9 +6,9 @@ title = c_ropher
 # Settlements
 max_settlements = 3
 
-b_ropher = castle
-#b_ropher_2 = city
-#b_ropher_3 = temple
+b_marshmoor = tribal
+#b_ropher = city
+#b_ropher_2 = temple
 
 # Misc
 culture = swamp_avasian

@@ -6,12 +6,12 @@ title = c_besilia
 # Settlements
 max_settlements = 3
 
-b_besilia = castle
-b_besilia_2 = city
-b_besilia_3 = temple
+b_honraha = temple
+#b_besilia = city
+#b_besilia_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirothian
 
 #History

@@ -6,9 +6,9 @@ title = c_lolina
 # Settlements
 max_settlements = 3
 
-b_lolina = castle
-#b_lolina_2 = city
-#b_lolina_3 = temple
+b_bymead = tribal
+#b_lolina = city
+#b_lolina_2 = temple
 
 # Misc
 culture = niefhiem_forrest

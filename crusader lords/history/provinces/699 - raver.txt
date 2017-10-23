@@ -6,9 +6,9 @@ title = c_raver
 # Settlements
 max_settlements = 3
 
-b_raver = castle
-#b_raver_2 = city
-#b_raver_3 = temple
+b_crystalhaven = tribal
+#b_raver = city
+#b_raver_2 = temple
 
 # Misc
 culture = northern_avasian

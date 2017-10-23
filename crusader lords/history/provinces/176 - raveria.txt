@@ -6,9 +6,9 @@ title = c_raveria
 # Settlements
 max_settlements = 3
 
-b_thinali = castle
-#b_raveria = city
-#b_raveria_2 = temple
+b_wayshore = tribal
+#b_drama = city
+#b_raveria = temple
 
 # Misc
 culture = bastian_rural

@@ -6,9 +6,9 @@ title = c_tuhella
 # Settlements
 max_settlements = 3
 
-b_tuhella = castle
-#b_tuhella_2 = city
-#b_tuhella_3 = temple
+b_mallowmerrow = tribal
+#b_tuhella = city
+#b_tuhella_2 = temple
 
 # Misc
 culture = niefhiem_mountain

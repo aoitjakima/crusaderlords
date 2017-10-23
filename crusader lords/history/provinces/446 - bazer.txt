@@ -6,9 +6,9 @@ title = c_bazer
 # Settlements
 max_settlements = 3
 
-b_bazer = castle
-#b_bazer_2 = city
-#b_bazer_3 = temple
+b_griffinmere = tribal
+#b_bazer = city
+#b_bazer_2 = temple
 
 # Misc
 culture = bastia_city

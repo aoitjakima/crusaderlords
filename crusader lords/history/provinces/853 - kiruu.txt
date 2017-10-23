@@ -6,9 +6,9 @@ title = c_kiruu
 # Settlements
 max_settlements = 3
 
-b_kiruu = castle
-#b_kiruu_2 = city
-#b_kiruu_3 = temple
+b_bymoor = tribal
+#b_kiruu = city
+#b_kiruu_2 = temple
 
 # Misc
 culture = swamp_avasian

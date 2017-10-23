@@ -6,9 +6,9 @@ title = c_alindik
 # Settlements
 max_settlements = 3
 
-b_alindik = castle
-#b_alindik_2 = city
-#b_alindik_3 = temple
+b_fallwilde = tribal
+#b_alindik = city
+#b_alindik_2 = temple
 
 # Misc
 culture = bastian_rural

@@ -6,9 +6,9 @@ title = c_regasseh
 # Settlements
 max_settlements = 3
 
-b_regasseh = castle
-#b_regasseh_2 = city
-#b_regasseh_3 = temple
+b_icemallow = tribal
+#b_regasseh = city
+#b_regasseh_2 = temple
 
 # Misc
 culture = niefhiem_lake

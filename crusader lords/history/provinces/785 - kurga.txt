@@ -6,9 +6,9 @@ title = c_kurga
 # Settlements
 max_settlements = 3
 
-b_kurga = castle
-#b_kurga_2 = city
-#b_kurga_3 = temple
+b_woodbeach = tribal
+#b_kurga = city
+#b_kurga_2 = temple
 
 # Misc
 culture = bastian_noble

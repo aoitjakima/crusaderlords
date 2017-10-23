@@ -6,9 +6,9 @@ title = c_remarenat
 # Settlements
 max_settlements = 3
 
-b_remarenat = castle
-#b_remarenat_2 = city
-#b_remarenat_3 = temple
+b_waterdale = tribal
+#b_remarenat = city
+#b_remarenat_2 = temple
 
 # Misc
 culture = bastian_noble

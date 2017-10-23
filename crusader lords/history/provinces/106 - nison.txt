@@ -6,9 +6,9 @@ title = c_nison
 # Settlements
 max_settlements = 3
 
-b_nison = castle
-#b_nison_2 = city
-#b_nison_3 = temple
+b_elfville = tribal
+#b_nison = city
+#b_nison_2 = temple
 
 # Misc
 culture = niefhiem_mountain

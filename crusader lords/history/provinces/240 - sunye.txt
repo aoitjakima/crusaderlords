@@ -6,9 +6,9 @@ title = c_sunye
 # Settlements
 max_settlements = 3
 
-b_sunye = castle
-#b_sunye_2 = city
-#b_sunye_3 = temple
+b_mallowholt = tribal
+#b_sunye = city
+#b_sunye_2 = temple
 
 # Misc
 culture = niefhiem_forrest

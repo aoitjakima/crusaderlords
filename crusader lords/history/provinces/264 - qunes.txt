@@ -6,9 +6,9 @@ title = c_qunes
 # Settlements
 max_settlements = 3
 
-b_qunes = castle
-#b_qunes_2 = city
-#b_qunes_3 = temple
+b_lorwald = tribal
+#b_qunes = city
+#b_qunes_2 = temple
 
 # Misc
 culture = niefhiem_forrest

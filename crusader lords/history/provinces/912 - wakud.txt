@@ -6,9 +6,9 @@ title = c_wakud
 # Settlements
 max_settlements = 3
 
-b_wakud = castle
-#b_wakud_2 = city
-#b_wakud_3 = temple
+b_summerdell = tribal
+#b_wakud = city
+#b_wakud_2 = temple
 
 # Misc
 culture = swamp_avasian

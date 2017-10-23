@@ -6,9 +6,9 @@ title = c_badi
 # Settlements
 max_settlements = 3
 
-b_badi = castle
-#b_badi_2 = city
-#b_badi_3 = temple
+b_elftown = tribal
+#b_badi = city
+#b_badi_2 = temple
 
 # Misc
 culture = bastian_noble

@@ -6,12 +6,12 @@ title = c_nonabra
 # Settlements
 max_settlements = 3
 
-b_nonabra = castle
-b_nonabra_2 = city
-b_nonabra_3 = temple
+b_goekokoyunlu = castle
+#b_nonabra = city
+#b_nonabra_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

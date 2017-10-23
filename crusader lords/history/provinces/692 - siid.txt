@@ -6,9 +6,9 @@ title = c_siid
 # Settlements
 max_settlements = 3
 
-b_siid = castle
-#b_siid_2 = city
-#b_siid_3 = temple
+b_dorport = tribal
+#b_siid = city
+#b_siid_2 = temple
 
 # Misc
 culture = northern_avasian

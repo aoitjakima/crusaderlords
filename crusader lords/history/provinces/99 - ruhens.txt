@@ -6,9 +6,9 @@ title = c_ruhens
 # Settlements
 max_settlements = 3
 
-b_ruhens = castle
-#b_ruhens_2 = city
-#b_ruhens_3 = temple
+b_mallowshadow = tribal
+#b_ruhens = city
+#b_ruhens_2 = temple
 
 # Misc
 culture = niefhiem_forrest

@@ -6,9 +6,9 @@ title = c_kiafen
 # Settlements
 max_settlements = 3
 
-b_kiafen = castle
-#b_kiafen_2 = city
-#b_kiafen_3 = temple
+b_coastmead = tribal
+#b_kiafen = city
+#b_kiafen_2 = temple
 
 # Misc
 culture = niefhiem_lake

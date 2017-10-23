@@ -6,7 +6,7 @@ title = c_tulinia
 # Settlements
 max_settlements = 3
 
-b_servia = castle
+b_summerway = tribal
 #b_tulinia = city
 #b_tulinia_2 = temple
 

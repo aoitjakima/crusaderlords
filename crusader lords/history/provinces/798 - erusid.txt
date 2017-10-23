@@ -6,9 +6,9 @@ title = c_erusid
 # Settlements
 max_settlements = 3
 
-b_erusid = castle
-#b_erusid_2 = city
-#b_erusid_3 = temple
+b_rosemoor = tribal
+#b_erusid = city
+#b_erusid_2 = temple
 
 # Misc
 culture = swamp_avasian

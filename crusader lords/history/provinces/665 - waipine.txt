@@ -6,9 +6,9 @@ title = c_waipine
 # Settlements
 max_settlements = 3
 
-b_waipine = castle
-#b_waipine_2 = city
-#b_waipine_3 = temple
+b_oldwolf = tribal
+#b_waipine = city
+#b_waipine_2 = temple
 
 # Misc
 culture = niefhiem_lake

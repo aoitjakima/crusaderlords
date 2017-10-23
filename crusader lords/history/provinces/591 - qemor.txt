@@ -6,9 +6,9 @@ title = c_qemor
 # Settlements
 max_settlements = 3
 
-b_melnik = castle
-#b_qemor = city
-#b_qemor_2 = temple
+b_springhall = tribal
+#b_melnik = city
+#b_qemor = temple
 
 # Misc
 culture = northern_avasian

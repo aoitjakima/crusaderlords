@@ -6,12 +6,12 @@ title = c_atyarayya
 # Settlements
 max_settlements = 3
 
-b_atyarayya = castle
-b_atyarayya_2 = city
-b_atyarayya_3 = temple
+b_gwayeong = temple
+#b_atyarayya = city
+#b_atyarayya_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirothian
 
 #History

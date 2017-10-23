@@ -6,9 +6,9 @@ title = c_bebalwo
 # Settlements
 max_settlements = 3
 
-b_bebalwo = castle
-#b_bebalwo_2 = city
-#b_bebalwo_3 = temple
+b_deerburn = tribal
+#b_bebalwo = city
+#b_bebalwo_2 = temple
 
 # Misc
 culture = niefhiem_lake

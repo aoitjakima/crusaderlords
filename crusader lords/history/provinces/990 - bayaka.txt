@@ -6,9 +6,9 @@ title = c_bayaka
 # Settlements
 max_settlements = 3
 
-b_bayaka = castle
-#b_bayaka_2 = city
-#b_bayaka_3 = temple
+b_southlake = tribal
+#b_bayaka = city
+#b_bayaka_2 = temple
 
 # Misc
 culture = bastian_avas

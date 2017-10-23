@@ -6,9 +6,9 @@ title = c_raribel
 # Settlements
 max_settlements = 3
 
-b_raribel = castle
-#b_raribel_2 = city
-#b_raribel_3 = temple
+b_sarica = tribal
+#b_karnoth = city
+#b_elburh = temple
 
 # Misc
 culture = niefhiem_mountain

@@ -6,9 +6,9 @@ title = c_wolows
 # Settlements
 max_settlements = 3
 
-b_wolows = castle
-#b_wolows_2 = city
-#b_wolows_3 = temple
+b_lightshade = tribal
+#b_wolows = city
+#b_wolows_2 = temple
 
 # Misc
 culture = bastian_avas

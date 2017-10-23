@@ -6,12 +6,12 @@ title = c_silatti
 # Settlements
 max_settlements = 3
 
-b_silatti = castle
-b_silatti_2 = city
-b_silatti_3 = temple
+b_tenetiala = castle
+#b_silatti = city
+#b_silatti_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirian
 
 #History

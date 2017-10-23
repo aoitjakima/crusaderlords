@@ -6,9 +6,9 @@ title = c_rusarva
 # Settlements
 max_settlements = 3
 
-b_rusarva = castle
-#b_rusarva_2 = city
-#b_rusarva_3 = temple
+b_starrypond = tribal
+#b_rusarva = city
+#b_rusarva_2 = temple
 
 # Misc
 culture = niefhiem_mountain

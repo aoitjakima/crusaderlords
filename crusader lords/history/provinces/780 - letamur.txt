@@ -6,9 +6,9 @@ title = c_letamur
 # Settlements
 max_settlements = 3
 
-b_kasterlee = castle
-#b_letamur = city
-#b_letamur_2 = temple
+b_merrowville = tribal
+#b_kasterlee = city
+#b_letamur = temple
 
 # Misc
 culture = bastian_avas

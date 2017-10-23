@@ -6,9 +6,9 @@ title = c_dusyan
 # Settlements
 max_settlements = 3
 
-b_dusyan = castle
-#b_dusyan_2 = city
-#b_dusyan_3 = temple
+b_springview = tribal
+#b_dusyan = city
+#b_dusyan_2 = temple
 
 # Misc
 culture = swamp_avasian

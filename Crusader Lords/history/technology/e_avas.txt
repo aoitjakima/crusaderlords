@@ -1,0 +1,64 @@
+#AVAS
+technology = {
+	titles = {
+		d_aglitis
+		d_allenlein
+		d_auberbagne
+		d_bagneux
+		d_baumkastel
+		d_beakleosia
+		d_biacciatis
+		d_bonnmold
+		d_braexeosos
+		d_braukreis
+		d_bredestadt
+		d_brugstraten
+		d_chitedell
+		d_clururat
+		d_diessensee
+		d_draguirgues
+		d_emmelter
+		d_etterselt
+		d_ettobis
+		d_garradore
+		d_grannogana
+		d_griarravion
+		d_immenstadt
+		d_ioclirea
+		d_ioshitria
+		d_iveros
+		d_kiophalon
+		d_klaebbinium
+		d_knokstel
+		d_kortven
+		d_landding
+		d_laudris
+		d_limebriggan
+		d_mujiomond
+		d_newlin
+		d_obbalon
+		d_oudgem
+		d_priallituary
+		d_rayiarath
+		d_romaincona
+		d_rorgans
+		d_schaerten
+		d_soigueux
+		d_tippelee
+		d_troweg
+		d_vilben
+		d_vilheuvel
+		d_volkerlach
+		d_zeophother
+	}
+	501 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	1426 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

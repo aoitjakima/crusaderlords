@@ -6,9 +6,9 @@ title = c_amunabra
 # Settlements
 max_settlements = 3
 
-b_amunabra = castle
-#b_amunabra_2 = city
-#b_amunabra_3 = temple
+b_fogland = tribal
+#b_amunabra = city
+#b_amunabra_2 = temple
 
 # Misc
 culture = bastian_avas

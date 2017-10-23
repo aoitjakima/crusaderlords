@@ -6,12 +6,12 @@ title = c_rudo
 # Settlements
 max_settlements = 3
 
-b_rudo = castle
-b_rudo_2 = city
-b_rudo_3 = temple
+b_mardie = temple
+#b_rudo = city
+#b_rudo_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirothian
 
 #History

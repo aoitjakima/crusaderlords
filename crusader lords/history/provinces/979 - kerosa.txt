@@ -6,9 +6,9 @@ title = c_kerosa
 # Settlements
 max_settlements = 3
 
-b_kerosa = castle
-#b_kerosa_2 = city
-#b_kerosa_3 = temple
+b_shadowwyvern = tribal
+#b_kerosa = city
+#b_kerosa_2 = temple
 
 # Misc
 culture = bastian_noble

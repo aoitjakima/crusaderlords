@@ -6,12 +6,12 @@ title = c_tazae
 # Settlements
 max_settlements = 3
 
-b_tazae = castle
-b_tazae_2 = city
-b_tazae_3 = temple
+b_odiassiam = castle
+#b_tazae = city
+#b_tazae_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirothian
 
 #History

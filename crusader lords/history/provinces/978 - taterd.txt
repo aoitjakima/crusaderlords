@@ -6,9 +6,9 @@ title = c_taterd
 # Settlements
 max_settlements = 3
 
-b_taterd = castle
-#b_taterd_2 = city
-#b_taterd_3 = temple
+b_highwyvern = tribal
+#b_taterd = city
+#b_taterd_2 = temple
 
 # Misc
 culture = bastian_avas

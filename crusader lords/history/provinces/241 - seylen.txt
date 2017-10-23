@@ -6,9 +6,9 @@ title = c_seylen
 # Settlements
 max_settlements = 3
 
-b_seylen = castle
-#b_seylen_2 = city
-#b_seylen_3 = temple
+b_stronglake = tribal
+#b_seylen = city
+#b_seylen_2 = temple
 
 # Misc
 culture = niefhiem_mountain

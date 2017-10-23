@@ -6,9 +6,9 @@ title = c_qaysuge
 # Settlements
 max_settlements = 3
 
-b_qaysuge = castle
-#b_qaysuge_2 = city
-#b_qaysuge_3 = temple
+b_coldmount = tribal
+#b_qaysuge = city
+#b_qaysuge_2 = temple
 
 # Misc
 culture = swamp_avasian

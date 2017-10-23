@@ -6,9 +6,9 @@ title = c_seusipp
 # Settlements
 max_settlements = 3
 
-b_seusipp = castle
-#b_seusipp_2 = city
-#b_seusipp_3 = temple
+b_newmoor = tribal
+#b_seusipp = city
+#b_seusipp_2 = temple
 
 # Misc
 culture = bastian_avas

@@ -6,9 +6,9 @@ title = c_rugiyan
 # Settlements
 max_settlements = 3
 
-b_rugiyan = castle
-#b_rugiyan_2 = city
-#b_rugiyan_3 = temple
+b_whitemoor = tribal
+#b_rugiyan = city
+#b_rugiyan_2 = temple
 
 # Misc
 culture = bastian_avas

@@ -6,9 +6,9 @@ title = c_ralentiy
 # Settlements
 max_settlements = 3
 
-b_ralentiy = castle
-#b_ralentiy_2 = city
-#b_ralentiy_3 = temple
+b_snowdeer = tribal
+#b_ralentiy = city
+#b_ralentiy_2 = temple
 
 # Misc
 culture = niefhiem_forrest

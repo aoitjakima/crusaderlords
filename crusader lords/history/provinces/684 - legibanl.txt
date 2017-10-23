@@ -6,9 +6,9 @@ title = c_legibanl
 # Settlements
 max_settlements = 3
 
-b_legibanl = castle
-#b_legibanl_2 = city
-#b_legibanl_3 = temple
+b_ironfort = tribal
+#b_legibanl = city
+#b_legibanl_2 = temple
 
 # Misc
 culture = bastian_noble

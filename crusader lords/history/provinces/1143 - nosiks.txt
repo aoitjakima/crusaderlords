@@ -6,12 +6,12 @@ title = c_nosiks
 # Settlements
 max_settlements = 3
 
-b_nosiks = castle
-b_nosiks_2 = city
-b_nosiks_3 = temple
+b_ferketala = temple
+#b_nosiks = city
+#b_nosiks_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirothian
 
 #History

@@ -6,9 +6,9 @@ title = c_woumas
 # Settlements
 max_settlements = 3
 
-b_woumas = castle
-#b_woumas_2 = city
-#b_woumas_3 = temple
+b_winterbridge = tribal
+#b_woumas = city
+#b_woumas_2 = temple
 
 # Misc
 culture = bastian_noble

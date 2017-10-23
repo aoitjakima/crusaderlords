@@ -6,9 +6,9 @@ title = c_diosarda
 # Settlements
 max_settlements = 3
 
-b_diosarda = castle
-#b_diosarda_2 = city
-#b_diosarda_3 = temple
+b_courtmere = tribal
+#b_diosarda = city
+#b_diosarda_2 = temple
 
 # Misc
 culture = niefhiem_mountain

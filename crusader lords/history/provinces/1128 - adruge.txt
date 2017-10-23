@@ -6,12 +6,12 @@ title = c_adruge
 # Settlements
 max_settlements = 3
 
-b_adruge = castle
-b_adruge_2 = city
-b_adruge_3 = temple
+b_tawarabuchi = temple
+#b_adruge = city
+#b_adruge_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirothian
 
 #History

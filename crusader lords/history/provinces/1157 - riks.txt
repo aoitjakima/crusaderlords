@@ -6,12 +6,12 @@ title = c_riks
 # Settlements
 max_settlements = 3
 
-b_riks = castle
-b_riks_2 = city
-b_riks_3 = temple
+b_ifetchi = temple
+#b_riks = city
+#b_riks_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirothian
 
 #History

@@ -6,9 +6,9 @@ title = c_sarindik
 # Settlements
 max_settlements = 3
 
-b_avrille = castle
-#b_sarindik = city
-#b_sarindik_2 = temple
+b_wyvernburn = tribal
+#b_avrille = city
+#b_sarindik = temple
 
 # Misc
 culture = niefhiem_forrest

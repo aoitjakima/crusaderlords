@@ -6,9 +6,9 @@ title = c_etaradi
 # Settlements
 max_settlements = 3
 
-b_etaradi = castle
-#b_etaradi_2 = city
-#b_etaradi_3 = temple
+b_shadowcoast = tribal
+#b_etaradi = city
+#b_etaradi_2 = temple
 
 # Misc
 culture = bastian_avas

@@ -6,9 +6,9 @@ title = c_roka
 # Settlements
 max_settlements = 3
 
-b_roka = castle
-#b_roka_2 = city
-#b_roka_3 = temple
+b_esterfield = tribal
+#b_roka = city
+#b_roka_2 = temple
 
 # Misc
 culture = niefhiem_mountain

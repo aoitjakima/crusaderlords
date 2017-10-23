@@ -6,9 +6,9 @@ title = c_edavurga
 # Settlements
 max_settlements = 3
 
-b_edavurga = castle
-#b_edavurga_2 = city
-#b_edavurga_3 = temple
+b_crystalwilde = tribal
+#b_edavurga = city
+#b_edavurga_2 = temple
 
 # Misc
 culture = bastian_noble

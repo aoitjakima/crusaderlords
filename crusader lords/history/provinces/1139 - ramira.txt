@@ -6,12 +6,12 @@ title = c_ramira
 # Settlements
 max_settlements = 3
 
-b_ramira = castle
-b_ramira_2 = city
-b_ramira_3 = temple
+b_bahcedere = temple
+#b_ramira = city
+#b_ramira_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

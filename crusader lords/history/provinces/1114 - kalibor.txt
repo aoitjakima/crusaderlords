@@ -6,12 +6,12 @@ title = c_kalibor
 # Settlements
 max_settlements = 3
 
-b_kalibor = castle
-b_kalibor_2 = city
-b_kalibor_3 = temple
+b_nasihdad = castle
+#b_kalibor = city
+#b_kalibor_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = Kir-ko
 
 #History

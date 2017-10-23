@@ -6,9 +6,9 @@ title = c_larudfu
 # Settlements
 max_settlements = 3
 
-b_larudfu = castle
-#b_larudfu_2 = city
-#b_larudfu_3 = temple
+b_vertrock = tribal
+#b_larudfu = city
+#b_larudfu_2 = temple
 
 # Misc
 culture = niefhiem_mountain

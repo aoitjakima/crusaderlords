@@ -6,9 +6,9 @@ title = c_keruel
 # Settlements
 max_settlements = 3
 
-b_keruel = castle
-#b_keruel_2 = city
-#b_keruel_3 = temple
+b_coldoak = tribal
+#b_keruel = city
+#b_keruel_2 = temple
 
 # Misc
 culture = bastian_noble

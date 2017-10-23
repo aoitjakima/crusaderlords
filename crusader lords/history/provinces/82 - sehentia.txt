@@ -6,9 +6,9 @@ title = c_sehentia
 # Settlements
 max_settlements = 3
 
-b_sehentia = castle
-#b_sehentia_2 = city
-#b_sehentia_3 = temple
+b_fallham = tribal
+#b_sehentia = city
+#b_sehentia_2 = temple
 
 # Misc
 culture = bastian_rural

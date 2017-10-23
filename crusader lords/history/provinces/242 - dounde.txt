@@ -6,9 +6,9 @@ title = c_dounde
 # Settlements
 max_settlements = 3
 
-b_dounde = castle
-#b_dounde_2 = city
-#b_dounde_3 = temple
+b_linnesse = tribal
+#b_dounde = city
+#b_dounde_2 = temple
 
 # Misc
 culture = niefhiem_mountain

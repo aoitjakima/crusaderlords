@@ -6,9 +6,9 @@ title = c_dirurga
 # Settlements
 max_settlements = 3
 
-b_dirurga = castle
-#b_dirurga_2 = city
-#b_dirurga_3 = temple
+b_brighthill = tribal
+#b_dirurga = city
+#b_dirurga_2 = temple
 
 # Misc
 culture = bastian_noble

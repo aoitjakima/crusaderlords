@@ -6,9 +6,9 @@ title = c_emella
 # Settlements
 max_settlements = 3
 
-b_emella = castle
-#b_emella_2 = city
-#b_emella_3 = temple
+b_westrock = tribal
+#b_emella = city
+#b_emella_2 = temple
 
 # Misc
 culture = bastian_rural

@@ -6,9 +6,9 @@ title = c_eser
 # Settlements
 max_settlements = 3
 
-b_eser = castle
-#b_eser_2 = city
-#b_eser_3 = temple
+b_grassmeadow = tribal
+#b_eser = city
+#b_eser_2 = temple
 
 # Misc
 culture = bastian_avas

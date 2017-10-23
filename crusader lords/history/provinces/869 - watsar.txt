@@ -6,9 +6,9 @@ title = c_watsar
 # Settlements
 max_settlements = 3
 
-b_watsar = castle
-#b_watsar_2 = city
-#b_watsar_3 = temple
+b_wellwick = tribal
+#b_watsar = city
+#b_watsar_2 = temple
 
 # Misc
 culture = bastian_noble

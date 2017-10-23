@@ -6,9 +6,9 @@ title = c_teherdon
 # Settlements
 max_settlements = 3
 
-b_teherdon = castle
-#b_teherdon_2 = city
-#b_teherdon_3 = temple
+b_brighthall = tribal
+#b_teherdon = city
+#b_teherdon_2 = temple
 
 # Misc
 culture = bastian_noble

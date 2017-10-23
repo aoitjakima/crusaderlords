@@ -6,9 +6,9 @@ title = c_ekata
 # Settlements
 max_settlements = 3
 
-b_ekata = castle
-#b_ekata_2 = city
-#b_ekata_3 = temple
+b_freyedge = tribal
+#b_ekata = city
+#b_ekata_2 = temple
 
 # Misc
 culture = bastia_city

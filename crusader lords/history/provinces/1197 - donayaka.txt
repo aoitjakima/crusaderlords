@@ -6,12 +6,12 @@ title = c_donayaka
 # Settlements
 max_settlements = 3
 
-b_donayaka = castle
-b_donayaka_2 = city
-b_donayaka_3 = temple
+b_gumeta = temple
+#b_donayaka = city
+#b_donayaka_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirothian
 
 #History

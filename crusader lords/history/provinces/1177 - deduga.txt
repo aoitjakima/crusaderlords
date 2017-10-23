@@ -6,12 +6,12 @@ title = c_deduga
 # Settlements
 max_settlements = 3
 
-b_deduga = castle
-b_deduga_2 = city
-b_deduga_3 = temple
+b_al_marm = temple
+#b_deduga = city
+#b_deduga_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = Kir-ko
 
 #History

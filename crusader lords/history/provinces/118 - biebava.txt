@@ -6,9 +6,9 @@ title = c_biebava
 # Settlements
 max_settlements = 3
 
-b_biebava = castle
-#b_biebava_2 = city
-#b_biebava_3 = temple
+b_silverglass = tribal
+#b_biebava = city
+#b_biebava_2 = temple
 
 # Misc
 culture = niefhiem_mountain

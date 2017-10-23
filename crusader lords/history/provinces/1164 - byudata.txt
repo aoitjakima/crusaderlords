@@ -6,12 +6,12 @@ title = c_byudata
 # Settlements
 max_settlements = 3
 
-b_byudata = castle
-b_byudata_2 = city
-b_byudata_3 = temple
+b_nakatari = castle
+#b_byudata = city
+#b_byudata_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirothian
 
 #History

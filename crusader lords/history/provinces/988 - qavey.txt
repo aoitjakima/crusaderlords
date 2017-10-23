@@ -6,9 +6,9 @@ title = c_qavey
 # Settlements
 max_settlements = 3
 
-b_qavey = castle
-#b_qavey_2 = city
-#b_qavey_3 = temple
+b_stronghurst = tribal
+#b_qavey = city
+#b_qavey_2 = temple
 
 # Misc
 culture = bastian_avas

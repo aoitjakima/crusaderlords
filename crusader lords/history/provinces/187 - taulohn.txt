@@ -6,9 +6,9 @@ title = c_taulohn
 # Settlements
 max_settlements = 3
 
-b_taulohn = castle
-#b_taulohn_2 = city
-#b_taulohn_3 = temple
+b_silverfort = tribal
+#b_taulohn = city
+#b_taulohn_2 = temple
 
 # Misc
 culture = bastia_city

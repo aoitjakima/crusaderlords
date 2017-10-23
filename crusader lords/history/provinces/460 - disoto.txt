@@ -6,9 +6,9 @@ title = c_disoto
 # Settlements
 max_settlements = 3
 
-b_disoto = castle
-#b_disoto_2 = city
-#b_disoto_3 = temple
+b_snowbush = tribal
+#b_disoto = city
+#b_disoto_2 = temple
 
 # Misc
 culture = bastian_rural

@@ -6,12 +6,12 @@ title = c_enabappa
 # Settlements
 max_settlements = 3
 
-b_enabappa = castle
-b_enabappa_2 = city
-b_enabappa_3 = temple
+b_yueying = castle
+#b_enabappa = city
+#b_enabappa_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirian
 
 #History

@@ -6,9 +6,9 @@ title = c_wicen
 # Settlements
 max_settlements = 3
 
-b_wicen = castle
-#b_wicen_2 = city
-#b_wicen_3 = temple
+b_valvale = tribal
+#b_wicen = city
+#b_wicen_2 = temple
 
 # Misc
 culture = swamp_avasian

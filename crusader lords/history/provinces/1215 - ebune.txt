@@ -6,12 +6,12 @@ title = c_ebune
 # Settlements
 max_settlements = 3
 
-b_ebune = castle
-b_ebune_2 = city
-b_ebune_3 = temple
+b_homankese = temple
+#b_ebune = city
+#b_ebune_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = baylin
+religion = kirothian
 
 #History

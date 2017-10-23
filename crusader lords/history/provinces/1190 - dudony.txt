@@ -6,12 +6,12 @@ title = c_dudony
 # Settlements
 max_settlements = 3
 
-b_dudony = castle
-b_dudony_2 = city
-b_dudony_3 = temple
+b_lahishtun = temple
+#b_dudony = city
+#b_dudony_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = Kir-ko
 
 #History

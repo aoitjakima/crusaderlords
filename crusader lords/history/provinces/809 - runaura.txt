@@ -6,9 +6,9 @@ title = c_runaura
 # Settlements
 max_settlements = 3
 
-b_runaura = castle
-#b_runaura_2 = city
-#b_runaura_3 = temple
+b_castleborough = tribal
+#b_runaura = city
+#b_runaura_2 = temple
 
 # Misc
 culture = bastian_noble

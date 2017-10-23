@@ -1,0 +1,17 @@
+# c_rugiyan_2
+
+# County Title
+title = c_rugiyan_2
+
+# Settlements
+max_settlements = 3
+
+b_bushpond = tribal
+#b_rugiyan_3 = city
+#b_rugiyan_4 = temple
+
+# Misc
+culture = swamp_avasian
+religion = terrorian
+
+#History

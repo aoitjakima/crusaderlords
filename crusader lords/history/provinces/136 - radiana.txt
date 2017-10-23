@@ -6,9 +6,9 @@ title = c_radiana
 # Settlements
 max_settlements = 3
 
-b_radiana = castle
-#b_radiana_2 = city
-#b_radiana_3 = temple
+b_raycoast = tribal
+#b_radiana = city
+#b_radiana_2 = temple
 
 # Misc
 culture = niefhiem_lake

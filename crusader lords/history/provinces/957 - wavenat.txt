@@ -6,9 +6,9 @@ title = c_wavenat
 # Settlements
 max_settlements = 3
 
-b_wavenat = castle
-#b_wavenat_2 = city
-#b_wavenat_3 = temple
+b_crystalgold = tribal
+#b_wavenat = city
+#b_wavenat_2 = temple
 
 # Misc
 culture = bastian_avas

@@ -6,9 +6,9 @@ title = c_kodens
 # Settlements
 max_settlements = 3
 
-b_kodens = castle
-#b_kodens_2 = city
-#b_kodens_3 = temple
+b_greenelf = tribal
+#b_kodens = city
+#b_kodens_2 = temple
 
 # Misc
 culture = niefhiem_forrest

@@ -6,9 +6,9 @@ title = c_qiwipp
 # Settlements
 max_settlements = 3
 
-b_qiwipp = castle
-#b_qiwipp_2 = city
-#b_qiwipp_3 = temple
+b_glasslea = tribal
+#b_qiwipp = city
+#b_qiwipp_2 = temple
 
 # Misc
 culture = bastian_avas

@@ -6,9 +6,9 @@ title = c_kalayan
 # Settlements
 max_settlements = 3
 
-b_kalayan = castle
-#b_kalayan_2 = city
-#b_kalayan_3 = temple
+b_dragonmoor = tribal
+#b_kalayan = city
+#b_kalayan_2 = temple
 
 # Misc
 culture = niefhiem_mountain

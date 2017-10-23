@@ -6,9 +6,9 @@ title = c_kavey
 # Settlements
 max_settlements = 3
 
-b_kavey = castle
-#b_kavey_2 = city
-#b_kavey_3 = temple
+b_greyflower = tribal
+#b_kavey = city
+#b_kavey_2 = temple
 
 # Misc
 culture = northern_avasian

@@ -6,9 +6,9 @@ title = c_lolidoi
 # Settlements
 max_settlements = 3
 
-b_lolidoi = castle
-#b_lolidoi_2 = city
-#b_lolidoi_3 = temple
+b_goldshade = tribal
+#b_lolidoi = city
+#b_lolidoi_2 = temple
 
 # Misc
 culture = bastian_avas

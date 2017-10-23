@@ -6,9 +6,9 @@ title = c_ralanhad
 # Settlements
 max_settlements = 3
 
-b_ralanhad = castle
-#b_ralanhad_2 = city
-#b_ralanhad_3 = temple
+b_marblemage = tribal
+#b_ralanhad = city
+#b_ralanhad_2 = temple
 
 # Misc
 culture = bastian_avas

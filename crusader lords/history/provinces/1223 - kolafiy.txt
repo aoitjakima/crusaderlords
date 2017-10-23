@@ -6,12 +6,12 @@ title = c_kolafiy
 # Settlements
 max_settlements = 3
 
-b_kolafiy = castle
-b_kolafiy_2 = city
-b_kolafiy_3 = temple
+b_xianqihar = castle
+#b_kolafiy = city
+#b_kolafiy_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirian
 
 #History

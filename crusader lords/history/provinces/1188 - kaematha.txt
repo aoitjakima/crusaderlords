@@ -6,12 +6,12 @@ title = c_kaematha
 # Settlements
 max_settlements = 3
 
-b_kaematha = castle
-b_kaematha_2 = city
-b_kaematha_3 = temple
+b_jarawrat = temple
+#b_kaematha = city
+#b_kaematha_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = Kir-ko
 
 #History

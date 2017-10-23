@@ -6,9 +6,9 @@ title = c_asiyadia
 # Settlements
 max_settlements = 3
 
-b_asiyadia = castle
-#b_asiyadia_2 = city
-#b_asiyadia_3 = temple
+b_havenbridge = tribal
+#b_asiyadia = city
+#b_asiyadia_2 = temple
 
 # Misc
 culture = niefhiem_mountain

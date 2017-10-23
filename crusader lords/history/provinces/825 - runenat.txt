@@ -6,9 +6,9 @@ title = c_runenat
 # Settlements
 max_settlements = 3
 
-b_runenat = castle
-#b_runenat_2 = city
-#b_runenat_3 = temple
+b_greymoor = tribal
+#b_runenat = city
+#b_runenat_2 = temple
 
 # Misc
 culture = bastian_noble

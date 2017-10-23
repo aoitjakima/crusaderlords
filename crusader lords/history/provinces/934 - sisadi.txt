@@ -6,9 +6,9 @@ title = c_sisadi
 # Settlements
 max_settlements = 3
 
-b_sisadi = castle
-#b_sisadi_2 = city
-#b_sisadi_3 = temple
+b_meadowmarsh = tribal
+#b_sisadi = city
+#b_sisadi_2 = temple
 
 # Misc
 culture = bastian_noble

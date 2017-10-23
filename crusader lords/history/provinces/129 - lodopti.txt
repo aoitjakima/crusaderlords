@@ -6,9 +6,9 @@ title = c_lodopti
 # Settlements
 max_settlements = 3
 
-b_lodopti = castle
-#b_lodopti_2 = city
-#b_lodopti_3 = temple
+b_fayiron = tribal
+#b_lodopti = city
+#b_lodopti_2 = temple
 
 # Misc
 culture = niefhiem_mountain

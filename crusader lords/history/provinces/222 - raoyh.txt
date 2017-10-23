@@ -6,9 +6,9 @@ title = c_raoyh
 # Settlements
 max_settlements = 3
 
-b_raoyh = castle
-#b_raoyh_2 = city
-#b_raoyh_3 = temple
+b_merriwick = tribal
+#b_raoyh = city
+#b_raoyh_2 = temple
 
 # Misc
 culture = niefhiem_mountain

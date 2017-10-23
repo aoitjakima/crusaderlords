@@ -6,12 +6,12 @@ title = c_wabappa
 # Settlements
 max_settlements = 3
 
-b_wabappa = castle
-b_wabappa_2 = city
-b_wabappa_3 = temple
+b_tatefurano = temple
+#b_wabappa = city
+#b_wabappa_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = selli
+religion = kirothian
 
 #History

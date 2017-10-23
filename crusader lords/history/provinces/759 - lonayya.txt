@@ -6,9 +6,9 @@ title = c_lonayya
 # Settlements
 max_settlements = 3
 
-b_lonayya = castle
-#b_lonayya_2 = city
-#b_lonayya_3 = temple
+b_glassfay = tribal
+#b_lonayya = city
+#b_lonayya_2 = temple
 
 # Misc
 culture = swamp_avasian

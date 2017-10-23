@@ -6,9 +6,9 @@ title = c_kige
 # Settlements
 max_settlements = 3
 
-b_kige = castle
-#b_kige_2 = city
-#b_kige_3 = temple
+b_snowfox = tribal
+#b_kige = city
+#b_kige_2 = temple
 
 # Misc
 culture = swamp_avasian

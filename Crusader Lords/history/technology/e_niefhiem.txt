@@ -1,0 +1,62 @@
+#NIEFHIEM
+technology = {
+	titles = {
+		d_aarheuvel
+		d_allbeuren
+		d_amstermere
+		d_antivin
+		d_arkroom
+		d_aurilly
+		d_beauppes
+		d_besangny
+		d_bonnwig
+		d_borgues
+		d_darmsloh
+		d_denderbeek
+		d_dubsale
+		d_egkon
+		d_eisenling
+		d_emmelgein
+		d_frauensee
+		d_fridorf
+		d_grandgarten
+		d_greybriggan
+		d_hardtrenk
+		d_heerenchem
+		d_hoogtals
+		d_klagental
+		d_laagelo
+		d_lahnbach
+		d_landnisse
+		d_langeik
+		d_laufenstal
+		d_leondenz
+		d_liesdrisio
+		d_limenes
+		d_midletry
+		d_neton
+		d_oosterhem
+		d_opbon
+		d_oudbergen
+		d_poyshaus
+		d_rheineuve
+		d_roaville
+		d_schramthal
+		d_sieghofen
+		d_trarea
+		d_voelklach
+		d_westerhoven
+		d_winschede
+		d_wolutals
+	}
+	501 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	1426 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

@@ -6,9 +6,9 @@ title = c_dareina
 # Settlements
 max_settlements = 3
 
-b_dareina = castle
-#b_dareina_2 = city
-#b_dareina_3 = temple
+b_dorhall = tribal
+#b_dareina = city
+#b_dareina_2 = temple
 
 # Misc
 culture = bastian_noble

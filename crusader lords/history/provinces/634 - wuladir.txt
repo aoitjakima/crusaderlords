@@ -6,9 +6,9 @@ title = c_wuladir
 # Settlements
 max_settlements = 3
 
-b_servia_2 = castle
-#b_wuladir = city
-#b_wuladir_2 = temple
+b_lintown = tribal
+#b_servia_2 = city
+#b_wuladir = temple
 
 # Misc
 culture = northern_avasian

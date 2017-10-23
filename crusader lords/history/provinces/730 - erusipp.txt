@@ -6,9 +6,9 @@ title = c_erusipp
 # Settlements
 max_settlements = 3
 
-b_erusipp = castle
-#b_erusipp_2 = city
-#b_erusipp_3 = temple
+b_buttermont = tribal
+#b_erusipp = city
+#b_erusipp_2 = temple
 
 # Misc
 culture = northern_avasian

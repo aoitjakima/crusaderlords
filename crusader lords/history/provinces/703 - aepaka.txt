@@ -6,9 +6,9 @@ title = c_aepaka
 # Settlements
 max_settlements = 3
 
-b_aepaka = castle
-#b_aepaka_2 = city
-#b_aepaka_3 = temple
+b_deeppine = tribal
+#b_aepaka = city
+#b_aepaka_2 = temple
 
 # Misc
 culture = northern_avasian

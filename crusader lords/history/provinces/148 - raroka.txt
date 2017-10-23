@@ -6,9 +6,9 @@ title = c_raroka
 # Settlements
 max_settlements = 3
 
-b_raroka = castle
-#b_raroka_2 = city
-#b_raroka_3 = temple
+b_fieldkeep = tribal
+#b_raroka = city
+#b_raroka_2 = temple
 
 # Misc
 culture = swamp_avasian

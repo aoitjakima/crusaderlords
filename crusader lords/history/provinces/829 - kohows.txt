@@ -6,9 +6,9 @@ title = c_kohows
 # Settlements
 max_settlements = 3
 
-b_kohows = castle
-#b_kohows_2 = city
-#b_kohows_3 = temple
+b_crystalwall = tribal
+#b_kohows = city
+#b_kohows_2 = temple
 
 # Misc
 culture = bastian_avas

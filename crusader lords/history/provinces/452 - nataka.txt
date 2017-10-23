@@ -6,9 +6,9 @@ title = c_nataka
 # Settlements
 max_settlements = 3
 
-b_nataka = castle
-#b_nataka_2 = city
-#b_nataka_3 = temple
+b_butterton = tribal
+#b_nataka = city
+#b_nataka_2 = temple
 
 # Misc
 culture = niefhiem_lake

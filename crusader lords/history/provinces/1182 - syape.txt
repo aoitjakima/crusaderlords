@@ -6,12 +6,12 @@ title = c_syape
 # Settlements
 max_settlements = 3
 
-b_syape = castle
-b_syape_2 = city
-b_syape_3 = temple
+b_ridashah = temple
+#b_syape = city
+#b_syape_2 = temple
 
 # Misc
-culture = bastian_avas
-religion = terrorian
+culture = kiroth
+religion = kirothian
 
 #History

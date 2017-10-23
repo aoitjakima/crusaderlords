@@ -6,9 +6,9 @@ title = c_kumance
 # Settlements
 max_settlements = 3
 
-b_kumance = castle
-#b_kumance_2 = city
-#b_kumance_3 = temple
+b_greycrystal = tribal
+#b_kumance = city
+#b_kumance_2 = temple
 
 # Misc
 culture = bastia_city

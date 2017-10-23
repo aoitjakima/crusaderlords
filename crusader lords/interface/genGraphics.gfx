@@ -1,3 +1,18 @@
 spriteTypes = {
+	spriteType = {
+	name = "GFX_trait_eastern_raider_trait"
+	texturefile = "gfx/traits/eastern_raider.tga"
+	noOfFrames = 1
+	norefcount = yes
+	effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+	name = "GFX_trait_wizard_trait"
+	texturefile= "gfx/traits/wizard.tga"
+	noOfFrames = 1
+	norefcount = yes
+	effectFile = "gfx/FX/buttonstate.lua"
+	}
 }
 

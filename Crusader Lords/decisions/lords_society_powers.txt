@@ -1,0 +1,113 @@
+targetted_decisions = { 
+#Power: Tainted touch
+	wizards_charm_target = {
+		is_in_society = yes
+		
+		ai_target_filter = realm
+
+		from_potential = {
+			prisoner = no
+			NOT = { trait = incapable }
+			
+			OR = {
+				has_society_currency_major_trigger = yes
+				ai = no
+			}
+			
+			OR = {
+				war = yes
+				num_of_rivals = 1
+				ai = no
+			}
+			
+			society_member_of = secret_wizard_society
+			society_rank > 0
+			#NOT = { character = FROM }
+		}
+
+		potential = {
+			NOT = { character = FROM }
+			
+			OR = {
+				NOR = {
+					has_character_flag = charmed
+					has_character_flag = curse_cooldown_timer
+				}
+				FROM = {
+					ai = no
+				}
+			}
+
+			
+			OR = {
+				AND = {
+					FROM = { ai = no }
+					is_within_diplo_range = FROM
+				}
+				AND = {
+					FROM = { ai = yes }
+					same_realm = FROM
+				}
+			}
+
+		}
+
+		allow = {
+			FROM = { has_society_currency_major_trigger = yes }
+			
+			custom_tooltip = {
+				text = the_devil_worshipers_tainted_touch_allow_2_tt
+				hidden_tooltip = {
+					NOT = {
+						has_character_modifier = curse_cooldown_timer
+					}
+				}
+			}
+			
+			OR = {
+				same_realm = FROM
+				is_foe = FROM
+				same_society_as = FROM
+				religion_group = FROM
+				
+			}
+			
+		}
+		
+		effect = {
+			FROM = { increase_visibility_effect = yes }
+			set_character_flag = is_charmed
+			hidden_tooltip = {
+				add_character_modifier = {
+					name = curse_cooldown_timer
+					hidden = yes
+					years = 10
+				}
+			}
+			
+			opinion = {
+				modifier = opinion_enchanted
+				who = FROM
+				years = 1
+				}
+
+			
+
+			FROM = {
+				save_event_target_as = curser
+				detract_society_currency_major_effect = yes
+			}
+		}
+
+		revoke_allowed = {
+			always = no
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+
+
+}

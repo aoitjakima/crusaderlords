@@ -862,6 +862,17 @@ kirian = {
 
 		modifier = default_culture_modifier
 	}
+	undead = {
+
+		graphical_cultures = { undeadgfx }
+		color = {1.0 1.0 0.5}
+		
+		male_names = { Bones
+		}
+		female_names = { Boners
+		}
+		
+		modifier = default_culture_modifier
 }
 eastern = {
 	graphical_cultures = { easterngfx }

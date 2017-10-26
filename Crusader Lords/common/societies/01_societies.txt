@@ -1,0 +1,245 @@
+secret_wizard_society = {
+	primary_attribute = learning
+#	is_secret = yes
+	criminal = yes
+	opinion_to_other_members = +5
+	opinion_to_pretenders = -40			#Pretenders is the opinion you have of people perceived/discovered to be in your society.
+	opinion_to_perceived_members = -40	#Perceived is the opinion you have of people perceived/discovered to be of a society you're not part of
+	opinion_per_rank_above = +10
+	sound = devil_worshippers_interface
+	society_ranks_gfx = devil_ranks
+	society_rank_up_decision = request_to_rank_up_within_society
+	
+	active = {
+		has_dlc = "Mystics"
+	}
+	indestructible = yes
+	
+	can_join_society = {
+		hidden_trigger = {
+			NAND = {
+				ai = yes
+				is_society_rank_full = { 
+					society = secret_wizard_society
+					rank = 1
+				}
+			}
+		}
+		age = 16
+		trait = wizard_trait
+		custom_tooltip = {
+			text = did_not_betray_society
+			NOT = { has_character_flag = betrayed_monastic_order_benedictine }
+			}
+		hidden_trigger = {
+			NOT = { has_character_flag = society_join_block }
+		}
+	}
+
+	show_society = {
+		age = 16
+		trait = wizard_trait
+		}
+
+	potential = {
+		trait = wizard_trait
+		} #no rules
+
+	society_rank = {
+		level = 1
+		limit = 100 
+		startup_limit = 10
+		decisions = {
+			wizards_charm_target #Available Decision: charm a target giving a small bonus to opinion
+			#Over time, lose virtues, gain vices. A Soul Corruption-effect is on a yearly pulse (with a chance to do nothing)
+		}
+		modifier = {
+			learning = 1
+			diplomacy = -1
+		}
+		
+		#custom_tooltip = unlockable_DW_powers_at_rank_2;
+	}
+	
+	society_rank = {
+		level = 2
+		limit = 50
+		startup_limit = 6
+		modifier = {
+			monthly_character_piety = 0.05
+			fertility = -0.15
+			learning = 2
+			diplomacy = -1
+		}
+	
+		decisions = {
+			wizards_summon_familiar #Available Power: Summon Familiar
+			wizards_hex_target #Available Power: Curse people with disease
+			wizards_brew_potion #Available Power: Possess someone to make fanatically loyal
+			#Available Power: Abduction plot
+			#unlock new options in Seduction and Spy On?
+		}
+		
+		#custom_tooltip = unlockable_DW_powers_at_rank_3;
+	}
+	
+	society_rank = {
+		level = 3
+		limit = 25 
+		startup_limit = 3
+		modifier = {
+			monthly_character_piety = 0.05
+			fertility = -0.15
+			learning = 3
+			diplomacy = -1
+		}
+		decisions = {
+			wizards_rejuvinate #Available Power: reduce age by 1 year
+			wizards_grant_boon #Available Power: improve trait by 3 for 1 year
+			wizards_strike #Available Power: attack targeted vassel or rival
+			#Available Power: Love Potion
+		}
+		
+		#custom_tooltip = unlockable_DW_powers_at_rank_4;
+	}
+
+	society_rank = {
+		level = 4
+		limit = 1 
+		startup_limit = 1
+		modifier = {
+			monthly_character_piety = 0.05
+			fertility = -0.15
+			learning = 4
+			diplomacy = -1
+		}
+		decisions = {
+			
+			wizards_steal_trait #Available Power: steal a congenital trait from target
+			construct_wizard_tower #Available power: Unholy Impregnation
+		}
+	}
+
+	plots = {
+		plot1_tag
+		plot2_tag
+	}
+    
+	ambitions = {
+		ambition1_tag
+		ambition2_tag
+	}
+
+	monthly_currency_gain = {
+		name = currency_name_wizards
+    
+		per_attribute = {
+    		name = learning
+    		value = 0.5
+    	}
+		has_trait = {
+			value = 2
+			trait = diligent
+		}
+		has_trait = {
+			value = 1
+			trait = scholar
+		}
+		has_trait = {
+			value = 1
+			trait = mystic
+		}
+		has_trait = {
+			value = 1
+			trait = erudite
+		}
+		has_trait = {
+			value = 1
+			trait = stubborn
+		}
+		has_trait = {
+			value = 1
+			trait = patient
+		}
+		has_trait = {
+			value = 1
+			trait = genius
+		}
+		has_trait = {
+			value = 1
+			trait = quick
+		}
+		has_trait = {
+			value = 1
+			trait = shrewd
+		}
+		has_trait = {
+			trait = arbitrary
+			value = 1
+		}
+		society_rank = {
+			rank = 4
+			value = 10
+		}
+	}
+
+	member_score_per_attribute = 3
+	member_score_per_rank = 100
+
+	member_score = {
+		value = 10
+
+		modifier = {
+			trait = ambitious
+			factor = 1.5
+		}
+		modifier = {
+			trait = genius
+			factor = 1.3
+		}
+		modifier = {
+			trait = quick
+			factor = 1.3
+		}
+		modifier = {
+			trait = shrewd
+			factor = 1.3
+		}
+		modifier = {
+			factor = 1.5
+			trait = erudite
+		}
+		modifier = {
+			factor = 1.5
+			trait = stubborn
+		}
+		modifier = {
+			factor = 1.5
+			trait = patient
+		}
+		modifier = {
+			trait = arbitrary
+			factor = 1.1
+		}
+	}
+	
+	startup_populate = {
+		trigger = {
+			NOT = {
+				has_game_rule = {
+					name = devil_worshipers
+					value = none
+				}
+			}
+			ai = yes
+			controls_religion = no
+			age = 16
+			is_in_society = no
+			NOT = { higher_tier_than = DUKE }
+			NOR = {
+				mercenary = yes
+				holy_order = yes
+			}
+		}
+	}
+}

@@ -1,0 +1,20 @@
+#spriteTypes = {
+#  spriteType = {
+#    name = "PORTRAIT_undeadgfx_male"
+#  }
+#    spriteType = {
+#    name = "PORTRAIT_undeadgfx_male1"
+#  }
+#    spriteType = {
+#    name = "PORTRAIT_undeadgfx_male2"
+#  }
+#    spriteType = {
+#    name = "PORTRAIT_undeadgfx_female"
+#  }
+#    spriteType = {
+#    name = "PORTRAIT_undeadgfx_female1"
+#  }
+#    spriteType = {
+#    name = "PORTRAIT_undeadgfx_female2"
+#  }
+#}

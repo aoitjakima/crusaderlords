@@ -1,0 +1,180 @@
+namespace = lords
+
+	character_event = {
+		id = lords.0001
+		desc = EVTDESClords.0001
+		picture = GFX_evt_courtiers_talking
+		trigger = {
+			has_character_flag = invited_raider
+		}
+		option = {
+			name = EVTOPTAlords.0001
+			death = {death_reason = raider_departs}
+		}
+		mean_time_to_happen = {
+			months = 48
+		}
+
+}
+
+character_event = {
+	#Random Raider shows up
+	id = lords.0002
+	desc = EVTDESClords.0002
+	picture = GFX_evt_emissary
+	border = GFX_event_normal_frame_religion
+	
+	min_age = 16
+	prisoner = no
+	only_playable = yes
+	capable_only = yes
+	only_independent = yes
+	
+	trigger = {
+			religion_group = terrorian_group	
+		NOT = { trait = incapable }
+		NOT = { is_inaccessible_trigger = yes }
+	}
+	
+	mean_time_to_happen = {
+		months = 1100
+	}
+	
+	immediate = {
+		create_character = {
+			random_traits = yes
+			culture = eastern_raider
+			dynasty = culture
+			religion = hankism
+			female = no
+			age = 30
+			trait = tough_soldier
+			attributes = {
+				martial = 10
+			}
+			flag = ai_flag_refuse_conversion
+		}
+			new_character = {
+				remove_trait = weak
+				remove_trait = slow
+				remove_trait = imbecile
+				remove_trait = dull
+				
+				add_trait = eastern_raider_trait
+				
+				remove_trait = mystic
+				remove_trait = socializer
+				remove_trait = gamer
+				remove_trait = hedonist
+				remove_trait = duelist
+				remove_trait = hunter
+				remove_trait = strategist
+				remove_trait = administrator
+				remove_trait = architect
+				remove_trait = gardener
+				remove_trait = schemer
+				remove_trait = impaler
+				remove_trait = seducer
+				remove_trait = seductress
+				remove_trait = theologian
+				remove_trait = scholar
+				
+				random_list = { # Flavor Randomization
+					35 = { 
+						# Nothing
+					}
+					15 = {
+						change_martial = 2
+					}
+					10 = {
+						add_trait = robust
+					}
+					10 = {
+						add_trait = duelist
+					}
+					10 = {
+						add_trait = hunter
+					}
+					5 = {
+						add_trait = strategist
+					}
+					5 = {
+						change_martial = 4
+					}
+					5 = {
+						if = {
+							limit = {
+								has_dlc = "Reapers"
+							}
+							add_trait = one_eyed
+						}
+					}
+					5 = { 
+						add_trait = shrewd
+					}
+				}
+				set_character_flag = invited_soldier
+				set_character_flag = invited_raider
+			}
+			save_event_target_as = eastern_courtier
+		}
+	
+	option = {
+		name = EVTOPTA_lords.0002
+		custom_tooltip = {
+			text = jewish_courtier_tooltip
+		}
+	}
+	}
+	
+#From on_character_ask_to_join_society
+character_event = {
+    id = lords.00255
+	hide_window = yes
+    is_triggered_only = yes
+    trigger = {
+    	FROM = {
+			leader = { society_member_of = secret_wizard_society } 
+		}
+    }
+    immediate = {
+    	FROM = { leader = { character_event = { id = lords.00256 } } }
+    }
+}
+
+#Ping event
+character_event = {
+    id = lords.00256
+	hide_window = yes
+    is_triggered_only = yes
+    immediate = {
+    	FROM = { letter_event = { id = lords.00257 } }
+    }
+}
+
+#Welcome letter
+letter_event = {
+    id = lords.00257
+    desc = EVTDESC_ROBMODNORSE_00255
+    border = GFX_event_letter_frame_religion
+
+    is_triggered_only = yes
+	
+	immediate = { set_character_flag = society_join_block }
+	
+    option = { 
+        name = EVTOPTA_ROBMODNORSE_00255
+
+        FROM = { ROOT = { join_society = secret_wizard_society } }
+		
+		scaled_wealth = -0.25
+
+        #FROM = { society = { save_event_target_as = joining_society } }
+        #join_society = event_target:joining_society
+		
+		clr_character_flag = society_join_block
+    }
+}
+	
+}
+

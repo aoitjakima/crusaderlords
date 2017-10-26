@@ -12,7 +12,7 @@ decisions = {
 		}
 		effect = {
 			prestige = -25
-			scaled_wealth = -0.25
+			scaled_wealth = -2
 			create_random_soldier = {
 				random_traits = yes
 				dynasty = random
@@ -86,16 +86,8 @@ decisions = {
 						add_trait = shrewd
 					}
 				}
-				hidden_tooltip = {
-					if = {
-						limit = {
-							religion_group = indian_group
-						}
-						add_trait = kshatriya
-						character_event = { id = RoI.30121 }
-					}
-				}
 				set_character_flag = invited_soldier
+				set_character_flag = invited_raider
 				save_event_target_as = invited_character
 			}
 			character_event = { id = NE.1 }
@@ -107,4 +99,188 @@ decisions = {
 			factor = 0
 		}
 	}
+	
+		raise_undead_host = {
+		only_playable = yes
+		is_high_prio = yes
+		is_mercenary = yes
+		potential = {
+			is_playable = yes
+			is_landed = yes
+			religion_group = kiroth_faith
+			OR = {
+				ai = no
+				any_war = {
+					OR = {
+						any_defender = {
+							character = ROOT
+							is_primary_war_defender = yes
+						}
+						any_attacker = {
+							character = ROOT
+							is_primary_war_attacker = yes
+						}
+					}
+				}
+			}
+		}
+		allow = {
+			war = yes
+			piety = 500
+		}
+		effect = {
+			piety = -500
+			if = {
+				limit = {
+					OR = {
+						religion = tengri_pagan
+						religion = tengri_pagan_reformed
+						culture_group = altaic
+					}
+				}
+				capital_scope = {
+					PREV = {
+						spawn_unit = {
+							owner = ROOT
+							province = PREV
+							home = PREV
+							troops = {
+								archers = { 500 500 }
+								light_infantry = { 1500 1500 }
+								light_cavalry = { 500 500 }
+							}
+							attrition = 1.0
+							disband_on_peace = yes
+							maintenance_multiplier = 0.5
+						}
+					}
+				}
+				break = yes
+			}
+			capital_scope = {
+				PREV = {
+					spawn_unit = {
+						owner = ROOT
+						province = PREV
+						home = PREV
+						troops = {
+							archers = { 500 500 }
+							light_infantry = { 1500 1500 }
+							heavy_infantry = { 300 300 }
+							light_cavalry = { 200 200 }
+						}
+						attrition = 1.0
+						disband_on_peace = yes
+						maintenance_multiplier = 0.5
+					}
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 0 # decisions with the "is_mercenary" will not be calculated from the script
+		}
+	}
+	
+		raise_black_knight = {
+		potential = {
+			ai = no
+			religion_group = kiroth_faith
+		}
+		allow = {
+			prestige = 25
+			scaled_wealth = 0.25
+			NOT = {
+				has_character_modifier = in_seclusion
+			}
+		}
+		effect = {
+			prestige = -25
+			scaled_wealth = -2
+			create_random_soldier = {
+				random_traits = yes
+				dynasty = random
+				culture = undead
+				female = no
+				attributes = {
+					diplomacy = 2
+					learning = 2
+					stewardship = 2
+					intrigue = 2
+					martial = 8
+				}
+			}
+			new_character = {
+				remove_trait = weak
+				remove_trait = slow
+				remove_trait = imbecile
+				remove_trait = dull
+				
+				add_trait = undead_trait
+				
+				remove_trait = mystic
+				remove_trait = socializer
+				remove_trait = gamer
+				remove_trait = hedonist
+				remove_trait = duelist
+				remove_trait = hunter
+				remove_trait = strategist
+				remove_trait = administrator
+				remove_trait = architect
+				remove_trait = gardener
+				remove_trait = schemer
+				remove_trait = impaler
+				remove_trait = seducer
+				remove_trait = seductress
+				remove_trait = theologian
+				remove_trait = scholar
+				
+				random_list = { # Flavor Randomization
+					35 = { 
+						# Nothing
+					}
+					15 = {
+						change_martial = 2
+					}
+					10 = {
+						add_trait = robust
+					}
+					10 = {
+						add_trait = duelist
+					}
+					10 = {
+						add_trait = hunter
+					}
+					5 = {
+						add_trait = strategist
+					}
+					5 = {
+						change_martial = 4
+					}
+					5 = {
+						if = {
+							limit = {
+								has_dlc = "Reapers"
+							}
+							add_trait = one_eyed
+						}
+					}
+					5 = { 
+						add_trait = shrewd
+					}
+				}
+				set_character_flag = invited_soldier
+				set_character_flag = invited_raider
+				save_event_target_as = invited_character
+			}
+			character_event = { id = NE.1 }
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	
 }

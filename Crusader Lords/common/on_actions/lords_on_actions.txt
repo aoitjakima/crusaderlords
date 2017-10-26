@@ -1,0 +1,9 @@
+# A character asks to join a society. Only works on player
+# Root = Character
+# From = Society
+on_character_ask_to_join_society = {
+	events = {
+		lords.00255 #secret wizard society
+		lords.00258 #public wizard society
+	}
+}

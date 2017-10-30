@@ -14,4 +14,4 @@ replace_path="common/bookmarks"
 replace_path="common/dynasties"
 replace_path="common/cultures"
 replace_path="common/religions"
-
+replace_path="gfx/loadingscreens"

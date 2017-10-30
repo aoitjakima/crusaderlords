@@ -7,6 +7,7 @@ e_kiroth = {
 	
 	capital = 1092 # c_koraam
 	culture = kir-ko
+	controls_religion = kirothian
 	
 k_sellin = {
 	color={ 73 105 83 }

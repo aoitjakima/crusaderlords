@@ -88,6 +88,117 @@ undead_trait = {
 	ai_ambition = 20
 	
 	leadership_traits = 2
-	
+}
 
+twisted_by_wrath = {
+
+	birth = 0
+	inherit_chance = 10
+	
+	potential = {
+	true_religion = insidious
+	}
+	
+	same_religion_opinion = 30
+	infidel_opinion = -50
+	sex_appeal_opinion = -20
+	combat_rating = 2
+	intrigue = 4
+	
+	
+}
+
+twisted_by_hunger = {
+
+	birth = 0
+	inherit_chance = 10
+	
+	potential = {
+	true_religion = hunger
+	}
+	
+	same_religion_opinion = 20
+	infidel_opinion = -20
+	sex_appeal_opinion = -15
+	
+	stewardship = 4
+	health -2
+	global_tax_modifier = 0.05
+
+}
+
+twisted_by_curiosity = {
+
+	birth = 0
+	inherit_chance = 10
+	
+	potential = {
+	true_religion = capricious
+	}
+	
+	same_religion_opinion = 30
+	infidel_opinion = -5
+	general_opinion = 25
+	sex_appeal_opinion = 45
+	
+	diplomacy = 4
+	global_tax_modifier = -0.2
+
+}
+
+twisted_by_apathy = {
+
+	birth = 0
+	inherit_chance = 10
+	
+	potential = {
+	true_religion = antipathic
+	}
+	
+	same_religion_opinion = 20
+	infidel_opinion = -20
+	sex_appeal_opinion = -25
+	
+	learning = 4
+	levy_size = -0.1
+
+}
+
+twisted_by_discourse = {
+
+	birth = 0
+	inherit_chance = 10
+	
+	potential = {
+	true_religion = malevolant
+	}
+	
+	same_religion_opinion = 20
+	infidel_opinion = -20
+	sex_appeal_opinion = -15
+	
+	martial = 5
+	levy_size = 0.1
+	stewardship = -1
+	learning = -1
+	intrigue = -1
+	
+}
+
+twisted_by_terror = {
+
+	birth = 50
+	inherit_chance = 10
+	
+	potential = {
+	true_religion = terrorian
+	}
+
+	same_religion_opinion = 20
+	infidel_opinion = -20
+	
+	martial = 2
+	stewardship = 1
+	diplomacy = 1
+	health = 1
 }

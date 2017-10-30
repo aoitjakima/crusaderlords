@@ -29,5 +29,48 @@ spriteTypes = {
 	effectFile = "gfx/FX/buttonstate.lua"
 	}
 	
+	spriteType = {
+	name = "GFX_trait_twisted_by_wrath"
+	texturefile= "gfx/traits/twistedwrath.tga"
+	noOfFrames = 1
+	norefcount = yes
+	effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+	name = "GFX_trait_twisted_by_hunger"
+	texturefile= "gfx/traits/twistedhunger.tga"
+	noOfFrames = 1
+	norefcount = yes
+	effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+	name = "GFX_trait_twisted_by_curiosity"
+	texturefile= "gfx/traits/twistedcuriosity.tga"
+	noOfFrames = 1
+	norefcount = yes
+	effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+	name = "GFX_trait_twisted_by_apathy"
+	texturefile= "gfx/traits/twistedapathy.tga"
+	noOfFrames = 1
+	norefcount = yes
+	effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+	name = "GFX_trait_twisted_by_discourse"
+	texturefile= "gfx/traits/twisteddiscourse.tga"
+	noOfFrames = 1
+	norefcount = yes
+	effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+	name = "GFX_trait_twisted_by_terror"
+	texturefile= "gfx/traits/twistedterror.tga"
+	noOfFrames = 1
+	norefcount = yes
+	effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
 }
 

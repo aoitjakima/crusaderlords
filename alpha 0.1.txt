@@ -1,41 +1,51 @@
-Crusader lords V0.1 alpha release
+Crusader lords V0.1.3 alpha update
 
 Features
-	New cultures
-		Estazi (with 5 seperate Estazi Cultures representing the major differences in the Estazi republics
-		Avasian
-		Bastian
-		Niefhiemen
-		Kirothi (and their 5 sub cultures, including older Kir-ko necromancer cultures and the other component races in the empire)
-		Eastern-raiders
-		Kahet
-		Old Casian
+	Functional CBs for cultures
+	Terrorian heresy corruption event chain
+		- surprise your friends by sprouting tentacle arms, and then killing them
+	Several lords traits with more to come
+		-wizard (Doesn't do anything)
+		-necromancer (ditto)
+		-undead
+		-raider
+		-twisted by heresy
+	Random Eastern raider spawn for Terrorian lords
+	
+	Loads of new art, and some placeholder title screens
+	
+	
+Still to do
+	Create logical dutchies in Avas
+		populate the realm with characters
 		
-	New Faiths
-		Terrorian and 5 herasies
-		Estazi Small gods
-		Kirothian and Kirian
-		Eastern Hankism
-		Kahet
-		Old Casian
+	add Kahet
+	
+	Add cultural buildings
+	
+	specalize Mercs to represent the world
+	
+	Alternate names for religous title holders and for feudal title holders
+	
+	nerative events
+		bloody decade
+		avasian awakening
+		triumphant heresy
+	
+	establish colony in the manawaste as an Estazi republic
+	
+	manawaste diseases
+	
+	add societies
+		Public and Secret wizard cults for Avas and Kiroth
+		Avasian Knightly orders
+		Avasian Conspiring daemons
+		Estazi inventors
+		Estazi Pirates
+	add artifacts
+		Raider steel artifacts
+		an array of magic items from the wastes
+		Estazi inventions
+		Kirothi necromantic artifacts
 		
-	Completely redone map
-		New map with manawaste visuals as well as over 500 Avasian counties and hundred of Kirothian counties and 5 Estazi republics
-		
-	Still to do
-		Create logical dutchies in Avas
-		Create events that introduce Kahet and Eastern raider Courtiers 
-		Add Lords related traits (wizards, raider blood, etc)
-		add societies
-			Public and Secret wizard cults for Avas and Kiroth
-			Avasian Knightly orders
-			Avasian Conspiring daemons
-			Estazi inventors
-			Estazi Pirates
-		add artifacts
-			Raider steel artifacts
-			an array of magic items from the wastes
-			Estazi inventions
-			Kirothi necromantic artifacts
-			
-		Shit loads of events
+	Shit loads of events

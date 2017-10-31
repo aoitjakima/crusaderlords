@@ -334,7 +334,7 @@ character_event = {
 		random_list = {
 			10 = {add_trait = brave
 			}
-			15 = {add_trait = brawny
+			15 = {add_trait = robust
 			}
 			10 = {add_trait = dull
 			}
@@ -553,7 +553,7 @@ character_event = {
 	picture = GFX_evt_lunatic
 	border = GFX_event_normal_frame_religion
 	
-	religion_group = terrorian
+	religion_group = terrorian_group
 	
 	trigger = {
 		is_heretic = yes
@@ -615,7 +615,7 @@ character_event = {
 		calc_true_if = {
 			amount = 3
 			trait = brave
-			trait = brawny
+			trait = robust
 			trait = dull
 			trait = wroth
 			trait = poet

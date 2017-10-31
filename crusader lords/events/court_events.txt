@@ -225,7 +225,7 @@ character_event = {
 		name = {
 			text = EVTOPTC73001
 			trigger = {
-				religion_group = sopher
+				religion_group = terrorian_group
 			}
 		}
 		name = {
@@ -236,7 +236,7 @@ character_event = {
 		}
 		trigger = {
 			OR = {
-				religion_group = sopher
+				religion_group = terrorian_group
 				religion_group = akaepa
 			}
 		}
@@ -322,7 +322,7 @@ character_event = {
 	min_age = 16
 	only_playable = yes
 	prisoner = no
-	religion_group = sopher
+	religion_group = terrorian_group
 	trigger = {
 		in_command = no
 		tier = count
@@ -671,14 +671,14 @@ character_event = {
 		name = EVTOPTD73006
 		trigger = {
 			OR = {
-				religion_group = sopher
+				religion_group = terrorian_group
 				religion_group = akaepa
 			}
 		}
 		event_target:knocked_up_maid = {
 			if = {
 				limit = {
-					religion_group = sopher
+					religion_group = terrorian_group
 				}
 				add_trait = chaste
 			}
@@ -782,7 +782,7 @@ character_event = {
 	option = {
 		name = EVTOPTB73007
 		trigger = {
-			religion_group = sopher
+			religion_group = terrorian_group
 		}
 		if = {
 			limit = {

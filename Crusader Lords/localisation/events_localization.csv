@@ -1,0 +1,59 @@
+"#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x";;;;;;;;;;;;;;
+#CODE;ENGLISH;FRENCH;GERMAN;unused;SPANISH;;;;;;;;;x
+raise_black_knight;Raise Black Knight from death;;;;;;;;;;;;;x
+raise_black_knight_desc;My good standing with the [GetPriestTitle]s allows me to request that they riase a powerful warrior from death to serve me for several years;;;;;;;;;;;;;x
+raise_undead_host;Awaken undead army;;;;;;;;;;;;;x
+raise_undead_host_desc;if I'm to win this war I must ask the [GetPriestTitle]s to give me an army of the undead, my land has plenty of undisturbed bodies that can be used for this purpose;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+wizards_charm_target;Charm target;;;;;;;;;;;;;x
+wizard_charm_target;Cast a confusing charm that will improve the targets relation with you;;;;;;;;;;;;;x
+crusader_lords_desc;;;;;;;;;;;;;;x
+crusader_lords_event;;;;;;;;;;;;;;x
+crusader_kiroth_desc;;;;;;;;;;;;;;x
+crusader_kiroth_event;;;;;;;;;;;;;;x
+EVTDESC_ROBMODNORSE_00255;Welcome brother;;;;;;;;;;;;;x
+EVTOPTA_ROBMODNORSE_00255;I grow in power;;;;;;;;;;;;;x
+raider_departs;Departed for the eastern lands;;;;;;;;;;;;;x
+EVTOPTAlords.0001;It's time for me to leave this western land and small inhabitants;;;;;;;;;;;;;x
+EVTDESClords.0002;A hulking man clad from head to toe in steel armor was brought before me today, he claims to come from Eastern lands beyond the mana wastes;;;;;;;;;;;;;x
+EVTOPTA_lords.0002;That's impossible, isn't it?;;;;;;;;;;;;;x
+it_is_going_to_get_interesting_around_here;If nothing else he'll make a good warrior;;;;;;;;;;;;;x
+add_corruption_flag;I'm now vulnerable to being corrupted by my faith in [GetHighGodName];;;;;;;;;;;;;x
+EVTDESClords.0003;My prayers have been answered, I now hear quiet whispers from [GetHighGodName] inside my mind as I rest;;;;;;;;;;;;;x
+EVTOPTA_lords.0003;If I focus I can hear them in the day too;;;;;;;;;;;;;x
+EVTDESClords.0004;[GetRandomGodName] has been teaching me, and now I feel different, my mind is warping into a reflection of [GetHighGodName]'s will;;;;;;;;;;;;;x
+EVTOPTA_lords.0004;Give me your wisdom O' Unending Hunger!;;;;;;;;;;;;;x
+EVTDESClords.0005;[GetRandomGodName] has been teaching me, and now I feel different, my mind is warping into a reflection of [GetHighGodName]'s will;;;;;;;;;;;;;x
+EVTOPTA_lords.0005;My mind is yours;;;;;;;;;;;;;x
+EVTDESClords.0006;[GetRandomGodName] has been teaching me, and now I feel different, my mind is warping into a reflection of [GetHighGodName]'s will;;;;;;;;;;;;;x
+EVTOPTA_lords.0006;whatever;;;;;;;;;;;;;x
+EVTDESClords.0007;[GetRandomGodName] has been teaching me, and now I feel different, my mind is warping into a reflection of [GetHighGodName]'s will;;;;;;;;;;;;;x
+EVTOPTA_lords.0007;ah hahahaha, tell me another one!;;;;;;;;;;;;;x
+EVTDESClords.0008;[GetRandomGodName] has been teaching me, and now I feel different, my mind is warping into a reflection of [GetHighGodName]'s will;;;;;;;;;;;;;x
+EVTOPTA_lords.0008;I'll kill anyone who halts the Discourse;;;;;;;;;;;;;x
+EVTDESClords.0009;The Terror has choosen me, as all life flows from His will, so to does all knowledge;;;;;;;;;;;;;x
+EVTOPTA_lords.0009;Ave Temores;;;;;;;;;;;;;x
+EVTDESClords.0010;The Wrath has an unbreakable hold on my mind, I'm fully given to his will. Now he wishes to alter my body;;;;;;;;;;;;;x
+EVTOPTA_lords.0010;I'm your obdient tool master;;;;;;;;;;;;;x
+EVTOPTB_lords.0010;I'm your servent, not your slave;;;;;;;;;;;;;x
+EVTOPTC_lords.0010;My body is mine, I cast thee out;;;;;;;;;;;;;x
+EVTDESClords.0011;The Hunger has an unbreakable hold on my mind, I'm fully given to his will. Now he wishes to alter my body;;;;;;;;;;;;;x
+EVTOPTA_lords.0011;I'm your obdient tool master;;;;;;;;;;;;;x
+EVTOPTB_lords.0011;I'm your servent, not your slave;;;;;;;;;;;;;x
+EVTOPTC_lords.0011;My body is mine, I cast thee out;;;;;;;;;;;;;x
+EVTDESClords.0012;The Apathy has an unbreakable hold on my mind, I'm fully given to his will. Now he wishes to alter my body;;;;;;;;;;;;;x
+EVTOPTA_lords.0012;fine;;;;;;;;;;;;;x
+EVTOPTB_lords.0012;I'm good;;;;;;;;;;;;;x
+EVTOPTC_lords.0012;My body is mine, I cast thee out;;;;;;;;;;;;;x
+EVTDESClords.0013;The Curiosity has an unbreakable hold on my mind, I'm fully given to his will. Now he wishes to alter my body;;;;;;;;;;;;;x
+EVTOPTA_lords.0013;I'm your obdient tool master;;;;;;;;;;;;;x
+EVTOPTB_lords.0013;I'm your servent, not your slave;;;;;;;;;;;;;x
+EVTOPTC_lords.0013;My body is mine, I cast thee out;;;;;;;;;;;;;x
+EVTDESClords.0014;The Discourse has an unbreakable hold on my mind, I'm fully given to his will. Now he wishes to alter my body;;;;;;;;;;;;;x
+EVTOPTA_lords.0014;AHHHHHHHHHHHHHHH;;;;;;;;;;;;;x
+EVTOPTB_lords.0014;AHHHHH;;;;;;;;;;;;;x
+EVTOPTC_lords.0014;My body is mine, I cast thee out;;;;;;;;;;;;;x
+EVTDESClords.0015;The Terror has an unbreakable hold on my mind, I'm fully given to his will. Now he wishes to alter my body;;;;;;;;;;;;;x
+EVTOPTA_lords.0015;I'm your obdient tool master;;;;;;;;;;;;;x
+EVTOPTB_lords.0015;I'm your servent, not your slave;;;;;;;;;;;;;x
+EVTOPTC_lords.0015;My body is mine, I cast thee out;;;;;;;;;;;;;x

@@ -974,8 +974,8 @@ character_event = {
 		name = EVTOPTA94053
 		trigger = {
 			OR = {
-				religion_group = sopher
-				religion_group = akaepa
+				religion_group = estazi_religion_group
+				religion_group = terrorian_group
 			}
 		}
 		character_event = {

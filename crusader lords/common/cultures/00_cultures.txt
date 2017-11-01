@@ -873,7 +873,9 @@ kirian = {
 		}
 		
 		modifier = default_culture_modifier
+	}
 }
+
 eastern = {
 	graphical_cultures = { easterngfx }
 

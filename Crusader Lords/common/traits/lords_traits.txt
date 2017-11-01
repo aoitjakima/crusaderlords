@@ -8,7 +8,7 @@ eastern_raider_trait = {
 	random = no
 	
 	potential = {
-		culture = eastern
+		culture = eastern_raider
 	}
 
 	general_opinion = -30
@@ -122,7 +122,7 @@ twisted_by_hunger = {
 	sex_appeal_opinion = -15
 	
 	stewardship = 4
-	health -2
+	health = -2
 	global_tax_modifier = 0.05
 
 }

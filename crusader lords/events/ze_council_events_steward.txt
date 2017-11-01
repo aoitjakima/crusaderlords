@@ -19,7 +19,7 @@ character_event = {
 			prisoner = no
 		}
 		OR = {
-			religion_group = sopher
+			religion_group = terrorian_group
 			religion_group = akaepa
 			religion_group = amahemas
 		}

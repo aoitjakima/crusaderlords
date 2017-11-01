@@ -143,7 +143,7 @@ character_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 600
+		months = 400
 	}
 	option = {
 	name = EVTOPTA_lords.0003
@@ -170,7 +170,7 @@ character_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 300
+		months = 240
 	}
 	
 	option = {
@@ -209,7 +209,7 @@ character_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 300
+		months = 240
 	}
 	
 	option = {
@@ -248,7 +248,7 @@ character_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 300
+		months = 240
 	}
 	
 	option = {
@@ -326,7 +326,7 @@ character_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 300
+		months = 240
 	}
 	
 	option = {
@@ -334,7 +334,7 @@ character_event = {
 		random_list = {
 			10 = {add_trait = brave
 			}
-			15 = {add_trait = brawny
+			15 = {add_trait = robust
 			}
 			10 = {add_trait = dull
 			}
@@ -365,7 +365,7 @@ character_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 300
+		months = 240
 	}
 	
 	option = {
@@ -411,7 +411,7 @@ character_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 1000
+		months = 800
 	}
 	
 	option = {
@@ -464,7 +464,7 @@ character_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 1000
+		months = 800
 	}
 	
 	option = {
@@ -517,7 +517,7 @@ character_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 1000
+		months = 800
 	}
 	
 	option = {
@@ -553,7 +553,7 @@ character_event = {
 	picture = GFX_evt_lunatic
 	border = GFX_event_normal_frame_religion
 	
-	religion_group = terrorian
+	religion_group = terrorian_group
 	
 	trigger = {
 		is_heretic = yes
@@ -570,7 +570,7 @@ character_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 1000
+		months = 800
 	}
 	
 	option = {
@@ -615,7 +615,7 @@ character_event = {
 		calc_true_if = {
 			amount = 3
 			trait = brave
-			trait = brawny
+			trait = robust
 			trait = dull
 			trait = wroth
 			trait = poet
@@ -623,7 +623,7 @@ character_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 1000
+		months = 800
 	}
 	
 	option = {
@@ -676,7 +676,7 @@ character_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 1000
+		months = 800
 	}
 	
 	option = {

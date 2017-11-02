@@ -282,5 +282,47 @@ decisions = {
 		}
 	}
 	
+demand_trial = {
+	is_high_prio = yes
 	
+	potential = {
+		prisoner = yes
+		NOT = {
+			has_character_modifier = demanded_trial
+		}
+	}
+	
+	allow = {
+		prisoner = yes
+		NOR = {
+			trait = wounded
+			trait = maimed
+			trait = severely_injured
+		}
+	}
+	
+	effect = {
+		save_event_target_as = challenger
+		add_character_modifier = {
+			name = demanded_trial
+			years = 5
+			hidden = yes
+		}
+		host = {
+			character_event = { id = lords.0016 } # Notify jailor
+			}
+		
+	}
+	
+	ai_will_do = {
+		{ai_ambition > 30
+		factor = .7}
+	}
+		
 }
+
+
+}
+	
+
+

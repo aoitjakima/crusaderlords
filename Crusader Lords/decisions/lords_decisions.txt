@@ -308,9 +308,7 @@ demand_trial = {
 			years = 5
 			hidden = yes
 		}
-		host = {
-			character_event = { id = lords.0016 } # Notify jailor
-			}
+			character_event = { id = lords.10016 } # Notify jailor
 		
 	}
 	

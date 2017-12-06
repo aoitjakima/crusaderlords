@@ -269,7 +269,7 @@ decisions = {
 					}
 				}
 				set_character_flag = invited_soldier
-				set_character_flag = invited_raider
+				set_character_flag = black_knight
 				save_event_target_as = invited_character
 			}
 			character_event = { id = NE.1 }

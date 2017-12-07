@@ -65,12 +65,12 @@ EVTOPTC_lords.0016;Fetch my Champion.;;;;;;;;;;;;;x
 EVTDESClords.0017;I have found your request to be made without honor and unbecomming your station, so I shall decline.;;;;;;;;;;;;;x
 EVTOPTA_lords.0017;[from.GetSheHeCap]'s scared.;;;;;;;;;;;;;x
 EVTDESClords.0018;Your request has merrit and in the eyes of [From.Religion.GetHighGodName] you shall be judged.;;;;;;;;;;;;;x
-EVTOPTA_lords.0018;may [Root.Religion.GetHighGodName] guide my arm.;;;;;;;;;;;;;x
+EVTOPTA_lords.0018;May [Root.Religion.GetHighGodName] guide my arm.;;;;;;;;;;;;;x
 EVTDESClords.0019;Steel yourself for you will be fighting to defened the honor of your lord.;;;;;;;;;;;;;x
 EVTOPTA_lords.0019;For the lord!;;;;;;;;;;;;;x
 lords.0020;Your request has merrit and in the eyes of [From.Religion.GetHighGodName] you shall be judged.;;;;;;;;;;;;;x
 EVTOPTA_lords.0020;May [Root.Religion.GetHighGodName] guide my arm.;;;;;;;;;;;;;x
-EVTDESClords.0021;[From.GetFirstName] looks pathetic as [from.GetSheHe]'s brought up from the dungeon. The court grows quiet as [from.GetSheHe] is given her blade, I can hear my heartbeat as I size [from.GetHerHim ] up.;;;;;;;;;;;;;x
+EVTDESClords.0021;[From.GetFirstName] looks pathetic as [from.GetSheHe]'s brought up from the dungeon. The court grows quiet as [from.GetSheHe] is given a blade, I can hear my heartbeat as I size [from.GetHerHim ] up.;;;;;;;;;;;;;x
 EVTOPTA_lords.0021;[from.GetSheHeCap]'s unsure, one good flurry should end this quickly.;;;;;;;;;;;;;x
 EVTOPTB_lords.0021;I have the upper hand, this will be over soon.;;;;;;;;;;;;;x
 EVTOPTC_lords.0021;[From.GetFirstName] has some skill, but I'll show them true mettle.;;;;;;;;;;;;;x
@@ -102,10 +102,10 @@ EVTDESClords.0030;I couldn't keep up, suddenly [From.GetFirstName] was next to m
 EVTOPTA_lords.0030;I hope I didn't scream.;;;;;;;;;;;;;x
 EVTDESClords.0031;I've defeated [FromFrom.GetFirstName] in an honorable duel, and so I will now be departing, you [GetFromRootInsult].;;;;;;;;;;;;;x
 EVTOPTA_lords.0031;DAMN YOU!;;;;;;;;;;;;;x
-EVTDESClords.0032;My fingers ached, and my lungs were on fire, as my sword came down [from.getfirstname]'s came up, I remember hearing a metalic clatter and the touch of cold iron on my neck;;;;;;;;;;;;;x
+EVTDESClords.0032;My fingers ached, and my lungs were on fire, as my sword came down [From.GetFirstName]'s came up, I remember hearing a metalic clatter and the touch of cold iron on my neck;;;;;;;;;;;;;x
 EVTOPTA_lords.0032;Well fought;;;;;;;;;;;;;x
-EVTDESClords.0033;I know I got through, seeing [From.GetFirstName] still standing was worring, that I couldn't pull my sword out of them was horrific.;;;;;;;;;;;;;x
-EVTOPTA_lords.0033;A loss, but one purchased in blood;;;;;;;;;;;;;x
+EVTDESClords.0033;I know I got through, and I could see [From.GetFirstName]'s sword land on the floor, but I could also feel blood pouring down my side.;;;;;;;;;;;;;x
+EVTOPTA_lords.0033;A victory, but one purchased in blood;;;;;;;;;;;;;x
 EVTDESClords.0034;may [From.Religion.GetRandomEvilGodName] chase you until your death. You may have defeated me but you haven't broken my spirit;;;;;;;;;;;;;x
 EVTOPTA_lords.0034;Keep talking like that and I'll make sure you never see daylight again;;;;;;;;;;;;;x
 EVTDESClords.0035;The last few seconds of the fight were a blur, I must have been fighting on instinct. But when I came too, [From.GetFirstName] was being taken back to their cell;;;;;;;;;;;;;x

@@ -98,22 +98,22 @@ letter_event = { #host agrees to fights challenger
 	
 
 
-letter_event = {#host agrees to let champion fight challenger
-	id = lords.10019
-	desc = EVTDESClords.10019
-	picture = GFX_event_letter_option
-	border = GFX_event_letter_frame_diplomacy
-	
-	is_triggered_only = yes
-	
-	option = {
-		name = EVTOPTA_lords.10019
-			any_courtier_or_vassal = {
-			has_minor_title = title_court_physician
-			liege =  host
-			} = {letter_event = { id = lords.10020 days = 20 random = 20}}
-		}
-	}
+#letter_event = {#host agrees to let champion fight challenger
+#	id = lords.10019
+#	desc = EVTDESClords.10019
+#	picture = GFX_event_letter_option
+#	border = GFX_event_letter_frame_diplomacy
+#	
+#	is_triggered_only = yes
+#	
+#	option = {
+#		name = EVTOPTA_lords.10019
+#			any_courtier_or_vassal = {
+#			has_minor_title = title_court_physician
+#			liege =  host
+#			} = {letter_event = { id = lords.10020 days = 20 random = 20}}
+#		}
+#	}
 
 letter_event = { #
 #ROOT is challenger

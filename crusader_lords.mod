@@ -1,7 +1,8 @@
-name="crusader lords"
+name="Crusader Lords"
 path="mod/crusader lords"
 dependencies = {  }
-user_dir = "crusader lords"
+user_dir = "crusader_lords"
+
 replace_path="history/titles"
 replace_path="history/characters"
 replace_path="history/wars"
@@ -14,4 +15,5 @@ replace_path="common/bookmarks"
 replace_path="common/dynasties"
 replace_path="common/cultures"
 replace_path="common/religions"
+replace_path="map/statics"
 replace_path="gfx/loadingscreens"

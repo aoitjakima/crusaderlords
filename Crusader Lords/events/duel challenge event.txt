@@ -1,3 +1,4 @@
+namespace = lords
 character_event = { # ping event to prisioner
 	id = lords.10016
 	desc = EVTDESClords.0016
@@ -32,7 +33,6 @@ character_event = { # some prisoner wants to fuck
 		name = EVTOPTB_lords.0016
 		prestige = 50
 		FROM = { letter_event = { id = lords.0018 }}
-		save_event_target_as = champion
 		}
 		
 #	option = { #get my champion

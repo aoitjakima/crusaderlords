@@ -27,13 +27,34 @@ character_event = { # some prisoner wants to fuck
 		name = EVTOPTA_lords.0016
 		prestige = -50
 		FROM = { letter_event = { id = lords.0017 }}
+		ai_chance = {
+			factor = 5
+			modifier = {
+				factor = 20
+				OR = {
+					trait = wounded
+					trait = craven
+				}
+			}
 		}
+	}
 		
 	option = { #I'll kill him myself
 		name = EVTOPTB_lords.0016
 		prestige = 50
 		FROM = { letter_event = { id = lords.0018 }}
+		ai_chance = {
+			factor = 7
+			modifier = {
+				factor = 20
+				OR = {
+					trait = brave
+					trait = strong
+					
+				}
+			}
 		}
+	}
 		
 #	option = { #get my champion
 #		name = EVTOPTC_lords.0016
@@ -368,7 +389,7 @@ character_event = {
 	}
 	
 	option = { #evenly matched
-		name = EVTOPTA_lords.0023
+		name = EVTOPTB_lords.0023
 		trigger = {
 		combat_rating_diff = {
 				character = FROM
@@ -390,7 +411,7 @@ character_event = {
 	}
 	
 	option = { #champion better than challenger
-		name = EVTOPTA_lords.0023
+		name = EVTOPTC_lords.0023
 		trigger = {
 		combat_rating_diff = {
 				character = FROM

@@ -1,7 +1,7 @@
 namespace = lords
 character_event = { # ping event to prisioner
-	id = lords.10016
-	desc = EVTDESClords.10016
+	id = lords.10011
+	desc = EVTDESClords.10011
 	picture = GFX_evt_judged_by_ruler
 	border = GFX_event_normal_frame_religion
 	
@@ -9,7 +9,7 @@ character_event = { # ping event to prisioner
 	
 	option = {
 		name = EVTOPTA_lords.10016
-		host = {character_event = {id = lords.0016}}
+		host = {character_event = {id = lords.10016}}
 	}
 	option = {
 		name = EVTOPTB_lords.10016
@@ -19,17 +19,17 @@ character_event = { # ping event to prisioner
 
 
 character_event = { # some prisoner wants to fuck
-	id = lords.0016
-	desc = EVTDESClords.0016
+	id = lords.10016
+	desc = EVTDESClords.10016
 	picture = GFX_evt_judged_by_ruler
 	border = GFX_event_normal_frame_religion
 	
 	is_triggered_only = yes
 	
 	option = { #tell them to fuck off
-		name = EVTOPTA_lords.0016
+		name = EVTOPTA_lords.10016
 		prestige = -50
-		FROM = { letter_event = { id = lords.0017 }}
+		FROM = { letter_event = { id = lords.10017 }}
 		ai_chance = {
 			factor = 5
 			modifier = {
@@ -43,9 +43,9 @@ character_event = { # some prisoner wants to fuck
 	}
 		
 	option = { #I'll kill him myself
-		name = EVTOPTB_lords.0016
+		name = EVTOPTB_lords.10016
 		prestige = 50
-		FROM = { letter_event = { id = lords.0018 }}
+		FROM = { letter_event = { id = lords.10018 }}
 		ai_chance = {
 			factor = 7
 			modifier = {
@@ -60,73 +60,73 @@ character_event = { # some prisoner wants to fuck
 	}
 		
 #	option = { #get my champion
-#		name = EVTOPTC_lords.0016
+#		name = EVTOPTC_lords.10016
 #		prestige = 10
-#		FROM = {letter_event = { id = lords.0019 }}   
+#		FROM = {letter_event = { id = lords.10019 }}   
 #	}
 
 }
 
 letter_event = { #prisoner told to fuck off
-	id = lords.0017
-	desc = EVTDESClords.0017 #mostly just saying fuck off kid
+	id = lords.10017
+	desc = EVTDESClords.10017 #mostly just saying fuck off kid
 	picture = GFX_event_letter_option
 	border = GFX_event_letter_frame_diplomacy
 	
 	is_triggered_only = yes
 	
 	option = { #hes scared
-		name = EVTOPTA_lords.0017
+		name = EVTOPTA_lords.10017
 		prestige = 10
 		}
 		
 }
 
 letter_event = { #host agrees to fights challenger
-	id = lords.0018
-	desc = EVTDESClords.0018
+	id = lords.10018
+	desc = EVTDESClords.10018
 	picture = GFX_event_letter_option
 	border = GFX_event_letter_frame_diplomacy
 
 	is_triggered_only = yes
 	
 	option = {
-		name = EVTOPTA_lords.0018
-		FROM = {character_event = { id = lords.0021}}
+		name = EVTOPTA_lords.10018
+		FROM = {character_event = { id = lords.10021}}
 		}
 	}
 	
 
 
 letter_event = {#host agrees to let champion fight challenger
-	id = lords.0019
-	desc = EVTDESClords.0019
+	id = lords.10019
+	desc = EVTDESClords.10019
 	picture = GFX_event_letter_option
 	border = GFX_event_letter_frame_diplomacy
 	
 	is_triggered_only = yes
 	
 	option = {
-		name = EVTOPTA_lords.0019
+		name = EVTOPTA_lords.10019
 			any_courtier_or_vassal = {
 			has_minor_title = title_court_physician
 			liege =  host
-			} = {letter_event = { id = lords.0020 days = 20 random = 20}}
+			} = {letter_event = { id = lords.10020 days = 20 random = 20}}
 		}
 	}
 
 letter_event = { #
 #ROOT is challenger
 #FROM is champion
-	id = lords.0020
+	id = lords.10020
 	picture = GFX_event_letter_option
 	border = GFX_event_letter_frame_diplomacy
 	
 	is_triggered_only = yes
 	
 	option = {
-		name = EVTOPTA_lords.0020
-		character_event = {id = lords.0021}
+		name = EVTOPTA_lords.10020
+		character_event = {id = lords.10021}
 		}
 	}
 	
@@ -135,8 +135,8 @@ character_event = { #the fight is on
 #ROOT is champion
 #FROM is challenger
 
-	id = lords.0021
-	desc = EVTDESClords.0021
+	id = lords.10021
+	desc = EVTDESClords.10021
 	picture = GFX_evt_judged_by_ruler
 	border = GFX_event_normal_frame_religion
 	
@@ -153,7 +153,7 @@ character_event = { #the fight is on
 	#lose but I hurt the champion
 	
 	option = { #goes v badly for challenger
-		name = EVTOPTA_lords.0021
+		name = EVTOPTA_lords.10021
 		trigger = {
 			combat_rating_diff = { 
 				character = FROM
@@ -162,16 +162,16 @@ character_event = { #the fight is on
 		}
 		random_list = {
 			10 = { #challenger wins
-				FROM = {character_event = {id = lords.0022}}
+				FROM = {character_event = {id = lords.10022}}
 			}
 			90 = { #challenger loses
-				FROM = {character_event = {id = lords.0023}}
+				FROM = {character_event = {id = lords.10023}}
 			}
 		}
 	}
 	break = yes
 	option = { #goes badly for challenger
-		name = EVTOPTB_lords.0021
+		name = EVTOPTB_lords.10021
 		trigger = {
 			combat_rating_diff = { 
 				character = FROM
@@ -180,16 +180,16 @@ character_event = { #the fight is on
 		}
 		random_list = {
 			25 = { #challenger wins
-				FROM = {character_event = {id = lords.0022}}
+				FROM = {character_event = {id = lords.10022}}
 			}
 			75 = { #challenger loses
-				FROM = {character_event = {id = lords.0023}}
+				FROM = {character_event = {id = lords.10023}}
 			}
 		}
 	}
 	break = yes
 	option = { #goes slightly badly for challenger
-		name = EVTOPTC_lords.0021
+		name = EVTOPTC_lords.10021
 		trigger = {
 			combat_rating_diff = { 
 				character = FROM
@@ -198,16 +198,16 @@ character_event = { #the fight is on
 		}
 		random_list = {
 			40 = { #challenger wins
-				FROM = {character_event = {id = lords.0022}}
+				FROM = {character_event = {id = lords.10022}}
 			}
 			60 = { #challenger loses
-				FROM = {character_event = {id = lords.0023}}
+				FROM = {character_event = {id = lords.10023}}
 			}
 		}
 	}
 	break = yes
 	option = { #evenly matched
-		name = EVTOPTD_lords.0021
+		name = EVTOPTD_lords.10021
 		trigger = {
 			combat_rating_diff = { 
 				character = FROM
@@ -216,16 +216,16 @@ character_event = { #the fight is on
 		}
 		random_list = {
 			50 = { #challenger wins
-				FROM = {character_event = {id = lords.0022}}
+				FROM = {character_event = {id = lords.10022}}
 			}
 			50 = { #challenger loses
-				FROM = {character_event = {id = lords.0023}}
+				FROM = {character_event = {id = lords.10023}}
 			}
 		}
 	}
 	break = yes
 	option = { #goes slightly well for challenger
-		name = EVTOPTE_lords.0021
+		name = EVTOPTE_lords.10021
 		trigger = {
 			combat_rating_diff = { 
 				character = FROM
@@ -234,16 +234,16 @@ character_event = { #the fight is on
 		}
 		random_list = {
 			60 = { #challenger wins
-				FROM = {character_event = {id = lords.0022}}
+				FROM = {character_event = {id = lords.10022}}
 			}
 			40 = { #challenger loses
-				FROM = {character_event = {id = lords.0023}}
+				FROM = {character_event = {id = lords.10023}}
 			}
 		}
 	}
 	break = yes
 		option = { #goes well for challenger
-		name = EVTOPTF_lords.0021
+		name = EVTOPTF_lords.10021
 		trigger = {
 			combat_rating_diff = { 
 				character = FROM
@@ -252,16 +252,16 @@ character_event = { #the fight is on
 		}
 		random_list = {
 			75 = { #challenger wins
-				FROM = {character_event = {id = lords.0022}}
+				FROM = {character_event = {id = lords.10022}}
 			}
 			25 = { #challenger loses
-				FROM = {character_event = {id = lords.0023}}
+				FROM = {character_event = {id = lords.10023}}
 			}
 		}
 	}
 	break = yes
 	option = { #goes very well for challenger
-		name = EVTOPTG_lords.0021
+		name = EVTOPTG_lords.10021
 		trigger = {
 			combat_rating_diff = { 
 				character = FROM
@@ -270,10 +270,10 @@ character_event = { #the fight is on
 		}
 		random_list = {
 			90 = { #challenger wins
-				FROM = {character_event = {id = lords.0022}}
+				FROM = {character_event = {id = lords.10022}}
 			}
 			10 = { #challenger loses
-				FROM = {character_event = {id = lords.0023}}
+				FROM = {character_event = {id = lords.10023}}
 			}
 		}
 	}
@@ -281,8 +281,8 @@ character_event = { #the fight is on
 }
 
 character_event = {
-	id = lords.0022 #challenger wins
-	desc = EVTDESClords.0022
+	id = lords.10022 #challenger wins
+	desc = EVTDESClords.10022
 	picture = GFX_evt_judged_by_ruler
 	border = GFX_event_normal_frame_religion
 	
@@ -296,7 +296,7 @@ character_event = {
 	#I actually hurt the challenger
 
 	option = { # Challenger was better than champion
-		name = EVTOPTA_lords.0022
+		name = EVTOPTA_lords.10022
 		trigger = {
 			combat_rating_diff = {
 				character = FROM
@@ -305,19 +305,19 @@ character_event = {
 		}
 		random_list = {
 			35 = { #challenger hurt the champion
-				ROOT = {character_event = {id = lords.0024}}
+				ROOT = {character_event = {id = lords.10024}}
 			}
 			50 = { #disarmed champion
-				ROOT = {character_event = {id = lords.0025}}
+				ROOT = {character_event = {id = lords.10025}}
 			}
 			15 = { #Champion got a hit in
-				ROOT = {character_event = {id = lords.0026}}
+				ROOT = {character_event = {id = lords.10026}}
 			}
 		}
 	}
 	break = yes
 	option = { # nither was better than the other
-		name = EVTOPTB_lords.0022
+		name = EVTOPTB_lords.10022
 		trigger = {
 			combat_rating_diff = {
 				character = FROM
@@ -326,19 +326,19 @@ character_event = {
 		}
 		random_list = {
 			10 = { #challenger hurt the champion
-				ROOT = {character_event = {id = lords.0024}}
+				ROOT = {character_event = {id = lords.10024}}
 			}
 			80 = { #disarmed champion
-				ROOT = {character_event = {id = lords.0025}}
+				ROOT = {character_event = {id = lords.10025}}
 			}
 			10 = { #Champion got a hit in
-				ROOT = {character_event = {id = lords.0026}}
+				ROOT = {character_event = {id = lords.10026}}
 			}
 		}
 	}
 	break = yes
 	option = { # champion was better than challenger
-		name = EVTOPTC_lords.0022
+		name = EVTOPTC_lords.10022
 		trigger = {
 			combat_rating_diff = {
 				character = FROM
@@ -347,13 +347,13 @@ character_event = {
 		}
 		random_list = {
 			15 = { #challenger hurt the champion
-				ROOT = {character_event = {id = lords.0024}}
+				ROOT = {character_event = {id = lords.10024}}
 			}
 			50 = { #disarmed champion
-				ROOT = {character_event = {id = lords.0025}}
+				ROOT = {character_event = {id = lords.10025}}
 			}
 			35 = { #Champion got a hit in
-				ROOT = {character_event = {id = lords.0026}}
+				ROOT = {character_event = {id = lords.10026}}
 			}
 		}
 	}
@@ -361,8 +361,8 @@ character_event = {
 }
 
 character_event = {
-	id = lords.0023
-	desc = EVTDESClords.0023
+	id = lords.10023
+	desc = EVTDESClords.10023
 	picture = GFX_evt_judged_by_ruler
 	border = GFX_event_normal_frame_religion
 	
@@ -371,7 +371,7 @@ character_event = {
 #FROM is champion
 
 	option = { #challenger better than champion
-		name = EVTOPTA_lords.0023
+		name = EVTOPTA_lords.10023
 		trigger = {
 		combat_rating_diff = {
 				character = FROM
@@ -381,19 +381,19 @@ character_event = {
 		
 		random_list = {
 		35 = { #challenger hurt champion
-			ROOT = {character_event = {id = lords.0027}}
+			ROOT = {character_event = {id = lords.10027}}
 		}
 		50 = { #disarmed challenger
-			ROOT = {character_event = {id = lords.0028}}
+			ROOT = {character_event = {id = lords.10028}}
 		}
 		15 = { #champion hurt challenger
-			ROOT = {character_event = {id = lords.0029}}
+			ROOT = {character_event = {id = lords.10029}}
 		}
 		}
 	}
 	break = yes
 	option = { #evenly matched
-		name = EVTOPTB_lords.0023
+		name = EVTOPTB_lords.10023
 		trigger = {
 		combat_rating_diff = {
 				character = FROM
@@ -403,19 +403,19 @@ character_event = {
 		
 		random_list = {
 		10 = { #challenger hurt champion
-			ROOT = {character_event = {id = lords.0027}}
+			ROOT = {character_event = {id = lords.10027}}
 		}
 		80 = { #disarmed challenger
-			ROOT = {character_event = {id = lords.0028}}
+			ROOT = {character_event = {id = lords.10028}}
 		}
 		10 = { #champion hurt challenger
-			ROOT = {character_event = {id = lords.0029}}
+			ROOT = {character_event = {id = lords.10029}}
 		}
 		}
 	}
 	break = yes
 	option = { #champion better than challenger
-		name = EVTOPTC_lords.0023
+		name = EVTOPTC_lords.10023
 		trigger = {
 		combat_rating_diff = {
 				character = FROM
@@ -425,21 +425,21 @@ character_event = {
 		
 		random_list = {
 		15 = { #challenger hurt champion
-			ROOT = {character_event = {id = lords.0027}}
+			ROOT = {character_event = {id = lords.10027}}
 		}
 		50 = { #disarmed challenger
-			ROOT = {character_event = {id = lords.0028}}
+			ROOT = {character_event = {id = lords.10028}}
 		}
 		35 = { #champion hurt challenger
-			ROOT = {character_event = {id = lords.0029}}
+			ROOT = {character_event = {id = lords.10029}}
 		}
 		}
 	}
 }
 
 character_event = { #challenger won and hurt the champion
-	id = lords.0024
-	desc = EVTDESClords.0024
+	id = lords.10024
+	desc = EVTDESClords.10024
 	picture = GFX_evt_family_feud_republic
 	border = GFX_event_normal_frame_religion
 	
@@ -450,47 +450,47 @@ character_event = { #challenger won and hurt the champion
 	is_triggered_only = yes
 	
 	option = { #send event notifying champion and jailor
-		name = EVTOPTA_lords.0024
-		FROMFROM = { character_event = {id = lords.0030}}
+		name = EVTOPTA_lords.10024
+		FROMFROM = { character_event = {id = lords.10030}}
 		imprison = no
 		clr_character_modifier = demanded_trial
-		host = {letter_event = {id = lords.0031}}
+		host = {letter_event = {id = lords.10031}}
 		}
 	}
 	
 character_event = { #challenger won champion disarmed
 
-	id = lords.0025
-	desc = EVTDESClords.0025
+	id = lords.10025
+	desc = EVTDESClords.10025
 	picture = GFX_evt_family_feud_republic
 	border = GFX_event_normal_frame_religion
 	
 	is_triggered_only = yes
 
 	option = { #send event notifying champion and jailor
-		name = EVTOPTA_lords.0025
-		FROMFROM = { character_event = {id = lords.0032}}
+		name = EVTOPTA_lords.10025
+		FROMFROM = { character_event = {id = lords.10032}}
 		imprison = no
 		clr_character_modifier = demanded_trial
-		host = {letter_event = {id = lords.0031}}
+		host = {letter_event = {id = lords.10031}}
 		}
 	}
 	
 character_event = { #challenger won but champion delivered blow
 
-	id = lords.0026
-	desc = EVTDESClords.0026
+	id = lords.10026
+	desc = EVTDESClords.10026
 	picture = GFX_evt_family_feud_republic
 	border = GFX_event_normal_frame_religion
 	
 	is_triggered_only = yes
 	
 	option = { #send event notifying champion and jailor
-		name = EVTOPTA_lords.0026
-		FROMFROM = { character_event = {id = lords.0032}}
+		name = EVTOPTA_lords.10026
+		FROMFROM = { character_event = {id = lords.10032}}
 		imprison = no
 		clr_character_modifier = demanded_trial
-		host = {letter_event = {id = lords.0031}}
+		host = {letter_event = {id = lords.10031}}
 		random_list = {
 		15 = {
 		#nothing just scrapes and bruises
@@ -529,47 +529,47 @@ character_event = { #challenger won but champion delivered blow
 }
 
 character_event = { #champion won but challenger injured him
-	id = lords.0027
-	desc = EVTDESClords.0027
+	id = lords.10027
+	desc = EVTDESClords.10027
 	picture = GFX_evt_family_feud_republic
 	border = GFX_event_normal_frame_religion
 	
 	is_triggered_only = yes
 	
 	option = {#send event notifying champion and jailor
-		name = EVTOPTA_lords.0027
-		FROMFROM = {character_event = {id = lords.0033}}
-		host = {letter_event = {id = lords.0034}}
+		name = EVTOPTA_lords.10027
+		FROMFROM = {character_event = {id = lords.10033}}
+		host = {letter_event = {id = lords.10034}}
 	}
 }
 
 character_event = { #champion won and challenger disarmed
-	id = lords.0028
-	desc = EVTDESClords.0028
+	id = lords.10028
+	desc = EVTDESClords.10028
 	picture = GFX_evt_family_feud_republic
 	border = GFX_event_normal_frame_religion
 	
 	is_triggered_only = yes
 	
 	option = {#send event notifying champion and jailor
-		name = EVTOPTA_lords.0028
-		FROMFROM = {character_event = {id = lords.0035}}
-		host = {letter_event = {id = lords.0034}}
+		name = EVTOPTA_lords.10028
+		FROMFROM = {character_event = {id = lords.10035}}
+		host = {letter_event = {id = lords.10034}}
 	}
 }
 
 character_event = { #Champion won and challenger wounded
-	id = lords.0029
-	desc = EVTDESClords.0029
+	id = lords.10029
+	desc = EVTDESClords.10029
 	picture = GFX_evt_family_feud_republic
 	border = GFX_event_normal_frame_religion
 	
 	is_triggered_only = yes
 	
 	option = {#send event notifying champion and jailor
-		name = EVTOPTA_lords.0029
-		FROMFROM = {character_event = {id = lords.0035}}
-		host = {letter_event = {id = lords.0034}}
+		name = EVTOPTA_lords.10029
+		FROMFROM = {character_event = {id = lords.10035}}
+		host = {letter_event = {id = lords.10034}}
 		random_list = {
 		15 = {
 		#nothing just scrapes and bruises
@@ -608,15 +608,15 @@ character_event = { #Champion won and challenger wounded
 }
 	
 character_event = { #notify champion that he lost and was wounded
-	id = lords.0030
-	desc = EVTDESClords.0030
+	id = lords.10030
+	desc = EVTDESClords.10030
 	picture = GFX_evt_family_feud_republic
 	border = GFX_event_normal_frame_religion
 	
 	is_triggered_only = yes
 	
 	option = {
-	name = EVTOPTA_lords.0030
+	name = EVTOPTA_lords.10030
 	random_list = {
 		15 = {
 		#nothing just scrapes and bruises
@@ -656,42 +656,42 @@ character_event = { #notify champion that he lost and was wounded
 }
 
 letter_event = { #notify captor that his champion lost
-	id = lords.0031
-	desc = EVTDESClords.0031
+	id = lords.10031
+	desc = EVTDESClords.10031
 	picture = GFX_evt_family_feud_republic
 	border = GFX_event_letter_frame_war
 	
 	is_triggered_only = yes
 	
 	option = { #DAMN YOU
-	name = EVTOPTA_lords.0031
+	name = EVTOPTA_lords.10031
 	}
 }
 
 character_event = { #notify champion that he lost and was uninjured
-	id = lords.0032
-	desc = EVTDESClords.0032
+	id = lords.10032
+	desc = EVTDESClords.10032
 	picture = GFX_evt_family_feud_republic
 	border = GFX_event_normal_frame_religion
 	
 	is_triggered_only = yes
 
 	option = {#well fought
-		name = EVTOPTA_lords.0032
+		name = EVTOPTA_lords.10032
 	}
 }
 
 character_event = { #champion won but challenger delivered blow
 
-	id = lords.0033
-	desc = EVTDESClords.0033
+	id = lords.10033
+	desc = EVTDESClords.10033
 	picture = GFX_evt_family_feud_republic
 	border = GFX_event_normal_frame_religion
 	
 	is_triggered_only = yes
 	
 	option = {
-		name = EVTOPTA_lords.0033
+		name = EVTOPTA_lords.10033
 		random_list = {
 		15 = {
 		#nothing just scrapes and bruises
@@ -731,27 +731,27 @@ character_event = { #champion won but challenger delivered blow
 }
 
 letter_event = { #inform captor he won
-	id = lords.0034
-	desc = EVTDESClords.0034
+	id = lords.10034
+	desc = EVTDESClords.10034
 	picture = GFX_evt_family_feud_republic
 	border = GFX_event_letter_frame_war
 	
 	is_triggered_only = yes
 	
 	option = {
-		name = EVTOPTA_lords.0034
+		name = EVTOPTA_lords.10034
 		}
 }
 		
 character_event = { #champion won and was uninjured
-	id = lords.0035
-	desc = EVTDESClords.0035
+	id = lords.10035
+	desc = EVTDESClords.10035
 	picture = GFX_evt_family_feud_republic
 	border = GFX_event_normal_frame_religion
 	
 	is_triggered_only = yes
 
 	option = {#well fought
-		name = EVTOPTA_lords.0035
+		name = EVTOPTA_lords.10035
 	}
 }

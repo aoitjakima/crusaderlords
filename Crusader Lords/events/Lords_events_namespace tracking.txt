@@ -1,0 +1,5 @@
+#Basic Lords Events
+# lords.0001-lords.9999
+
+#Duel Events
+# lords.10011-lords.10035

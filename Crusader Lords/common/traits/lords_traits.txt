@@ -202,3 +202,48 @@ twisted_by_terror = {
 	diplomacy = 1
 	health = 1
 }
+
+martial_order = {
+	birth = 0
+	
+	potential = {
+	true_religion = terrorian
+	}
+
+	same_religion_opinion = 20
+	
+	martial = 3
+	learning = 2
+	health = 1
+	stewardship = 1
+	combat_rating = 1
+	
+}
+
+adventurer_order = {
+	birth = 0
+	
+	potential = {
+	true_religion = terrorian
+	}
+	
+	same_religion_opinion = 20
+	
+	martial = 1
+	learning = 2 
+	combat_rating = 1
+}
+
+inqusition_order = {
+	birth = 0
+	
+	potential = {
+	true_religion = terrorian
+	}
+	
+	same_religion_opinion = 20
+	
+	intrigue = 3
+	learning = 1
+	combat_rating = 4
+}

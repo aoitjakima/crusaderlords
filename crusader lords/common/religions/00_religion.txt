@@ -118,7 +118,7 @@ terrorian_group = {
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
 		heresy_icon = 24
-		hard_to_convert = yes		
+		
 	}
 	malevolant = { #Martial
 		color = { 0.5 0.4 0.4 }
@@ -326,7 +326,7 @@ kiroth_faith = {
 		heresy_icon = 12
 		female_temple_holders = yes
 		attacking_same_religion_piety_loss = yes
-		hard_to_convert = yes
+
 	}
 	kirian = {
 		ai_convert_same_group = 2
@@ -362,7 +362,7 @@ kiroth_faith = {
 		heresy_icon = 12
 		female_temple_holders = yes
 		attacking_same_religion_piety_loss = yes
-		hard_to_convert = yes
+
 	}
 }
 
@@ -458,7 +458,7 @@ estazi_religion_group = {
 		defensive_attrition = yes
 		religious_clothing_head = 0
 		religious_clothing_priest = 3
-		hard_to_convert = yes
+
 	}
 }
 

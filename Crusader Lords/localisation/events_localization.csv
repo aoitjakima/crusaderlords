@@ -56,57 +56,58 @@ EVTDESClords.0015;The Terror has an unbreakable hold on my mind, I'm fully given
 EVTOPTA_lords.0015;I'm your obdient tool master;;;;;;;;;;;;;x
 EVTOPTB_lords.0015;I'm your servent, not your slave;;;;;;;;;;;;;x
 EVTOPTC_lords.0015;My body is mine, I cast thee out;;;;;;;;;;;;;x
-EVTDESClords.10016;I've decided to demand my freedom in a trial by combat.;;;;;;;;;;;;;x
-EVTOPTA_lords.10016;Guard! Get your master!;;;;;;;;;;;;;x
-EVTDESClords.0016;One of my prisioners has demanded a trial by combat. As a lord I may choose if I wish to honor this request.;;;;;;;;;;;;;x
-EVTOPTA_lords.0016;The rat has no honor, there shall be no duel.;;;;;;;;;;;;;x
-EVTOPTB_lords.0016;Someone fetch me my armor!;;;;;;;;;;;;;x
-EVTOPTC_lords.0016;Fetch my Champion.;;;;;;;;;;;;;x
-EVTDESClords.0017;I have found your request to be made without honor and unbecomming your station, so I shall decline.;;;;;;;;;;;;;x
-EVTOPTA_lords.0017;[from.GetSheHeCap]'s scared.;;;;;;;;;;;;;x
-EVTDESClords.0018;Your request has merrit and in the eyes of [From.Religion.GetHighGodName] you shall be judged.;;;;;;;;;;;;;x
-EVTOPTA_lords.0018;May [Root.Religion.GetHighGodName] guide my arm.;;;;;;;;;;;;;x
-EVTDESClords.0019;Steel yourself for you will be fighting to defened the honor of your lord.;;;;;;;;;;;;;x
-EVTOPTA_lords.0019;For the lord!;;;;;;;;;;;;;x
-lords.0020;Your request has merrit and in the eyes of [From.Religion.GetHighGodName] you shall be judged.;;;;;;;;;;;;;x
-EVTOPTA_lords.0020;May [Root.Religion.GetHighGodName] guide my arm.;;;;;;;;;;;;;x
-EVTDESClords.0021;[From.GetFirstName] looks pathetic as [from.GetSheHe]'s brought up from the dungeon. The court grows quiet as [from.GetSheHe] is given a blade, I can hear my heartbeat as I size [from.GetHerHim ] up.;;;;;;;;;;;;;x
-EVTOPTA_lords.0021;[from.GetSheHeCap]'s unsure, one good flurry should end this quickly.;;;;;;;;;;;;;x
-EVTOPTB_lords.0021;I have the upper hand, this will be over soon.;;;;;;;;;;;;;x
-EVTOPTC_lords.0021;[From.GetFirstName] has some skill, but I'll show them true mettle.;;;;;;;;;;;;;x
-EVTOPTD_lords.0021;Parry, reposte, deflect! Enguarde!;;;;;;;;;;;;;x
-EVTOPTE_lords.0021;I like a challenge!;;;;;;;;;;;;;x
-EVTOPTF_lords.0021;What have I got my self into [From.GetFirstName] is a professional;;;;;;;;;;;;;x
-EVTOPTG_lords.0021;AHHHHHHH!;;;;;;;;;;;;;x
-EVTDESClords.0022;All I can hear is my breath and the clash of swords. Sweat drips down my brow as another overhand comes in, but this time I'm ready.;;;;;;;;;;;;;x
-EVTOPTA_lords.0022;A swift sidestep, followed by a thurst and this is all over.;;;;;;;;;;;;;x
-EVTOPTB_lords.0022;[from.GetHerHisCap]'s grip is weak, one strong parry and that sword is gone!;;;;;;;;;;;;;x
-EVTOPTC_lords.0022;Ride this out, [from.GetFirstName]'s tired, a few more parrys and they'll yield.;;;;;;;;;;;;;x
-EVTDESClords.0023;Every muscle hurts, and I can't tell if that last parry was clean, There's something dripping down my neck but I can't tell if it's blood or sweat. [from.getfirstnamecap] prepares for a final attack.;;;;;;;;;;;;;x
-EVTOPTA_lords.0023;A final strike, I ready my blade as my shoulder cries out in agony.;;;;;;;;;;;;;x
-EVTOPTB_lords.0023;I yield! You win [From.GetFirstName].;;;;;;;;;;;;;x
-EVTOPTC_lords.0023;I don't think I have enough to keep going, but I'll block this last blow.;;;;;;;;;;;;;x
-EVTDESClords.0024;It was over in a flash, one last clash of blades. A brilliant sidestep and one last blow with all my strength had [FromFrom.GetFirstName] on their knees. In minutes I was released, given a horse and told next time I wouldn't be so lucky;;;;;;;;;;;;;x
-EVTOPTA_lords.0024;That wasn't luck!;;;;;;;;;;;;;x
-EVTDESClords.0025;"I hesitated only a fraction of a second and then my sword met [FromFrom.GetFirstName]'s and sent it clattering to the floor. I wish I had said something clever now but all I could do is ask ""Yield?""";;;;;;;;;;;;;x
-EVTOPTA_lords.0025;At last, homeward!;;;;;;;;;;;;;x
-EVTDESClords.0026;[FromFrom.GetFirstName]'s sword bit into me, but I made sure they couldn't pull it out, with blood dripping down my side I was able to demand a victory;;;;;;;;;;;;;x
-EVTOPTA_lords.0026;By [Root.Religion.GetRandomEvilGodName] that strings.;;;;;;;;;;;;;x
-EVTDESClords.0027;One last charge, and a powerful strike, alas my sword went flying but it was coated in [FromFrom.GetFirstName]'s blood.;;;;;;;;;;;;;x
-EVTOPTA_lords.0027;A defeat, but a glorious one.;;;;;;;;;;;;;x
-EVTDESClords.0028;"""I Yield"" I cry out, voice horse from the duel, my sword clatters on the ground. In moments the Guards grab me and drag me back to my cell.";;;;;;;;;;;;;x
-EVTOPTA_lords.0028;I have been found wanting.;;;;;;;;;;;;;x
-EVTDESClords.0029;The blows didn't stop, once my offense fell off [FromFrom.GetFirstName] drew upon energy reserves to hammer me and eventually got though my guard.;;;;;;;;;;;;;x
-EVTOPTA_lords.0029;I had better not let this get infected.;;;;;;;;;;;;;x
-EVTDESClords.0030;I couldn't keep up, suddenly [From.GetFirstName] was next to me and then all I can remember is agony.;;;;;;;;;;;;;x
-EVTOPTA_lords.0030;I hope I didn't scream.;;;;;;;;;;;;;x
-EVTDESClords.0031;I've defeated [FromFrom.GetFirstName] in an honorable duel, and so I will now be departing, you [GetFromRootInsult].;;;;;;;;;;;;;x
-EVTOPTA_lords.0031;DAMN YOU!;;;;;;;;;;;;;x
-EVTDESClords.0032;My fingers ached, and my lungs were on fire, as my sword came down [From.GetFirstName]'s came up, I remember hearing a metalic clatter and the touch of cold iron on my neck;;;;;;;;;;;;;x
-EVTOPTA_lords.0032;Well fought;;;;;;;;;;;;;x
-EVTDESClords.0033;I know I got through, and I could see [From.GetFirstName]'s sword land on the floor, but I could also feel blood pouring down my side.;;;;;;;;;;;;;x
-EVTOPTA_lords.0033;A victory, but one purchased in blood;;;;;;;;;;;;;x
-EVTDESClords.0034;may [From.Religion.GetRandomEvilGodName] chase you until your death. You may have defeated me but you haven't broken my spirit;;;;;;;;;;;;;x
-EVTOPTA_lords.0034;Keep talking like that and I'll make sure you never see daylight again;;;;;;;;;;;;;x
-EVTDESClords.0035;The last few seconds of the fight were a blur, I must have been fighting on instinct. But when I came too, [From.GetFirstName] was being taken back to their cell;;;;;;;;;;;;;x
-EVTOPTA_lords.0035;and some damn good instincts too;;;;;;;;;;;;;x
+EVTDESClords.10011;I've decided to demand my freedom in a trial by combat.;;;;;;;;;;;;;x
+EVTOPTA_lords.10011;Guard! Get your master!;;;;;;;;;;;;;x
+EVTDESClords.10016;One of my prisioners has demanded a trial by combat. As a lord I may choose if I wish to honor this request.;;;;;;;;;;;;;x
+EVTOPTA_lords.10016;The rat has no honor, there shall be no duel.;;;;;;;;;;;;;x
+EVTOPTB_lords.10016;Someone fetch me my armor!;;;;;;;;;;;;;x
+EVTOPTC_lords.10016;Fetch my Champion.;;;;;;;;;;;;;x
+EVTDESClords.10017;I have found your request to be made without honor and unbecomming your station, so I shall decline.;;;;;;;;;;;;;x
+EVTOPTA_lords.10017;[from.GetSheHeCap]'s scared.;;;;;;;;;;;;;x
+EVTDESClords.10018;Your request has merrit and in the eyes of [From.Religion.GetHighGodName] you shall be judged.;;;;;;;;;;;;;x
+EVTOPTA_lords.10018;May [Root.Religion.GetHighGodName] guide my arm.;;;;;;;;;;;;;x
+EVTDESClords.10019;Steel yourself for you will be fighting to defened the honor of your lord.;;;;;;;;;;;;;x
+EVTOPTA_lords.10019;For the lord!;;;;;;;;;;;;;x
+lords.10020;Your request has merrit and in the eyes of [From.Religion.GetHighGodName] you shall be judged.;;;;;;;;;;;;;x
+EVTOPTA_lords.10020;May [Root.Religion.GetHighGodName] guide my arm.;;;;;;;;;;;;;x
+EVTDESClords.10021;[From.GetFirstName] looks pathetic as [from.GetSheHe]'s brought up from the dungeon. The court grows quiet as [from.GetSheHe] is given a blade, I can hear my heartbeat as I size [from.GetHerHim ] up.;;;;;;;;;;;;;x
+EVTOPTA_lords.10021;[from.GetSheHeCap]'s unsure, one good flurry should end this quickly.;;;;;;;;;;;;;x
+EVTOPTB_lords.10021;I have the upper hand, this will be over soon.;;;;;;;;;;;;;x
+EVTOPTC_lords.10021;[From.GetFirstName] has some skill, but I'll show them true mettle.;;;;;;;;;;;;;x
+EVTOPTD_lords.10021;Parry, reposte, deflect! Enguarde!;;;;;;;;;;;;;x
+EVTOPTE_lords.10021;I like a challenge!;;;;;;;;;;;;;x
+EVTOPTF_lords.10021;What have I got my self into [From.GetFirstName] is a professional;;;;;;;;;;;;;x
+EVTOPTG_lords.10021;AHHHHHHH!;;;;;;;;;;;;;x
+EVTDESClords.10022;All I can hear is my breath and the clash of swords. Sweat drips down my brow as another overhand comes in, but this time I'm ready.;;;;;;;;;;;;;x
+EVTOPTA_lords.10022;A swift sidestep, followed by a thurst and this is all over.;;;;;;;;;;;;;x
+EVTOPTB_lords.10022;[from.GetHerHisCap]'s grip is weak, one strong parry and that sword is gone!;;;;;;;;;;;;;x
+EVTOPTC_lords.10022;Ride this out, [from.GetFirstName]'s tired, a few more parrys and they'll yield.;;;;;;;;;;;;;x
+EVTDESClords.10023;Every muscle hurts, and I can't tell if that last parry was clean, There's something dripping down my neck but I can't tell if it's blood or sweat. [from.getfirstnamecap] prepares for a final attack.;;;;;;;;;;;;;x
+EVTOPTA_lords.10023;A final strike, I ready my blade as my shoulder cries out in agony.;;;;;;;;;;;;;x
+EVTOPTB_lords.10023;I yield! You win [From.GetFirstName].;;;;;;;;;;;;;x
+EVTOPTC_lords.10023;I don't think I have enough to keep going, but I'll block this last blow.;;;;;;;;;;;;;x
+EVTDESClords.10024;It was over in a flash, one last clash of blades. A brilliant sidestep and one last blow with all my strength had [FromFrom.GetFirstName] on their knees. In minutes I was released, given a horse and told next time I wouldn't be so lucky;;;;;;;;;;;;;x
+EVTOPTA_lords.10024;That wasn't luck!;;;;;;;;;;;;;x
+EVTDESClords.10025;"I hesitated only a fraction of a second and then my sword met [FromFrom.GetFirstName]'s and sent it clattering to the floor. I wish I had said something clever now but all I could do is ask ""Yield?""";;;;;;;;;;;;;x
+EVTOPTA_lords.10025;At last, homeward!;;;;;;;;;;;;;x
+EVTDESClords.10026;[FromFrom.GetFirstName]'s sword bit into me, but I made sure they couldn't pull it out, with blood dripping down my side I was able to demand a victory;;;;;;;;;;;;;x
+EVTOPTA_lords.10026;By [Root.Religion.GetRandomEvilGodName] that strings.;;;;;;;;;;;;;x
+EVTDESClords.10027;One last charge, and a powerful strike, alas my sword went flying but it was coated in [FromFrom.GetFirstName]'s blood.;;;;;;;;;;;;;x
+EVTOPTA_lords.10027;A defeat, but a glorious one.;;;;;;;;;;;;;x
+EVTDESClords.10028;"""I Yield"" I cry out, voice horse from the duel, my sword clatters on the ground. In moments the Guards grab me and drag me back to my cell.";;;;;;;;;;;;;x
+EVTOPTA_lords.10028;I have been found wanting.;;;;;;;;;;;;;x
+EVTDESClords.10029;The blows didn't stop, once my offense fell off [FromFrom.GetFirstName] drew upon energy reserves to hammer me and eventually got though my guard.;;;;;;;;;;;;;x
+EVTOPTA_lords.10029;I had better not let this get infected.;;;;;;;;;;;;;x
+EVTDESClords.10030;I couldn't keep up, suddenly [From.GetFirstName] was next to me and then all I can remember is agony.;;;;;;;;;;;;;x
+EVTOPTA_lords.10030;I hope I didn't scream.;;;;;;;;;;;;;x
+EVTDESClords.10031;I've defeated [FromFrom.GetFirstName] in an honorable duel, and so I will now be departing, you [GetFromRootInsult].;;;;;;;;;;;;;x
+EVTOPTA_lords.10031;DAMN YOU!;;;;;;;;;;;;;x
+EVTDESClords.10032;My fingers ached, and my lungs were on fire, as my sword came down [From.GetFirstName]'s came up, I remember hearing a metalic clatter and the touch of cold iron on my neck;;;;;;;;;;;;;x
+EVTOPTA_lords.10032;Well fought;;;;;;;;;;;;;x
+EVTDESClords.10033;I know I got through, and I could see [From.GetFirstName]'s sword land on the floor, but I could also feel blood pouring down my side.;;;;;;;;;;;;;x
+EVTOPTA_lords.10033;A victory, but one purchased in blood;;;;;;;;;;;;;x
+EVTDESClords.10034;may [From.Religion.GetRandomEvilGodName] chase you until your death. You may have defeated me but you haven't broken my spirit;;;;;;;;;;;;;x
+EVTOPTA_lords.10034;Keep talking like that and I'll make sure you never see daylight again;;;;;;;;;;;;;x
+EVTDESClords.10035;The last few seconds of the fight were a blur, I must have been fighting on instinct. But when I came too, [From.GetFirstName] was being taken back to their cell;;;;;;;;;;;;;x
+EVTOPTA_lords.10035;and some damn good instincts too;;;;;;;;;;;;;x
+EVTOPTB_lords.10016;Or maybe not;;;;;;;;;;;;;x

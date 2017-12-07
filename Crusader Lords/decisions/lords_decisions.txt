@@ -306,7 +306,7 @@ demand_trial = {
 			name = demanded_trial
 			duration = 700
 		}
-			character_event = { id = lords.10016 } # Notify jailor
+			character_event = { id = lords.10011 } # Notify jailor
 		
 	}
 	

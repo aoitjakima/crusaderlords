@@ -9,17 +9,18 @@ bm_charlemagne501 = {
 
     era = yes						## Will be shown on Era screen.
 	picture = GFX_pick_era_image_1
-	
-	id = 1061264
+	selectable_character = {
+	id =1061264
 	age = 22
 	name = ERA_CHAR_NAME_1061264
 	title = k_kiroth
 	character = {
 		dynasty=28995
+		properties=d
 		dna="joedhgnepoj"
 		culture=kir-ko  
 		religion=kirian
 		government = feudal_government
 	}
-
+	}
 }

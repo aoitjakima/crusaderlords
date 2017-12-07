@@ -43,7 +43,7 @@ character_event = { # some prisoner wants to fuck
 
 }
 
-letter_event = {#prisoner told to fuck off
+letter_event = { #prisoner told to fuck off
 	id = lords.0017
 	desc = EVTDESClords.0017 #mostly just saying fuck off kid
 	picture = GFX_event_letter_option
@@ -59,7 +59,7 @@ letter_event = {#prisoner told to fuck off
 }
 
 letter_event = { #host agrees to fights challenger
-	name = lords.0018
+	id = lords.0018
 	desc = EVTDESClords.0018
 	picture = GFX_event_letter_option
 	border = GFX_event_letter_frame_diplomacy

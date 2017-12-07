@@ -707,7 +707,7 @@ character_event = {
 }
 
 	character_event = {
-		id = lords.0016
+		id = lords.00011
 		desc = EVTDESClords.00011
 		picture = GFX_evt_courtiers_talking
 		trigger = {

@@ -302,11 +302,9 @@ demand_trial = {
 	}
 	
 	effect = {
-		save_event_target_as = challenger
 		add_character_modifier = {
 			name = demanded_trial
-			years = 5
-			hidden = yes
+			duration = 700
 		}
 			character_event = { id = lords.10016 } # Notify jailor
 		

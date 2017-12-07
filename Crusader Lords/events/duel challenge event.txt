@@ -11,6 +11,9 @@ character_event = { # ping event to prisioner
 		name = EVTOPTA_lords.10016
 		host = {character_event = {id = lords.0016}}
 	}
+	option = {
+		name = EVTOPTB_lords.10016
+		}
 
 }
 
@@ -166,6 +169,7 @@ character_event = { #the fight is on
 			}
 		}
 	}
+	break = yes
 	option = { #goes badly for challenger
 		name = EVTOPTB_lords.0021
 		trigger = {
@@ -183,7 +187,7 @@ character_event = { #the fight is on
 			}
 		}
 	}
-	
+	break = yes
 	option = { #goes slightly badly for challenger
 		name = EVTOPTC_lords.0021
 		trigger = {
@@ -201,7 +205,7 @@ character_event = { #the fight is on
 			}
 		}
 	}
-	
+	break = yes
 	option = { #evenly matched
 		name = EVTOPTD_lords.0021
 		trigger = {
@@ -219,7 +223,7 @@ character_event = { #the fight is on
 			}
 		}
 	}
-	
+	break = yes
 	option = { #goes slightly well for challenger
 		name = EVTOPTE_lords.0021
 		trigger = {
@@ -237,7 +241,7 @@ character_event = { #the fight is on
 			}
 		}
 	}
-	
+	break = yes
 		option = { #goes well for challenger
 		name = EVTOPTF_lords.0021
 		trigger = {
@@ -255,7 +259,7 @@ character_event = { #the fight is on
 			}
 		}
 	}
-	
+	break = yes
 	option = { #goes very well for challenger
 		name = EVTOPTG_lords.0021
 		trigger = {
@@ -273,7 +277,7 @@ character_event = { #the fight is on
 			}
 		}
 	}
-	
+	break = yes
 }
 
 character_event = {
@@ -311,7 +315,7 @@ character_event = {
 			}
 		}
 	}
-	
+	break = yes
 	option = { # nither was better than the other
 		name = EVTOPTB_lords.0022
 		trigger = {
@@ -332,7 +336,7 @@ character_event = {
 			}
 		}
 	}
-	
+	break = yes
 	option = { # champion was better than challenger
 		name = EVTOPTC_lords.0022
 		trigger = {
@@ -387,7 +391,7 @@ character_event = {
 		}
 		}
 	}
-	
+	break = yes
 	option = { #evenly matched
 		name = EVTOPTB_lords.0023
 		trigger = {
@@ -409,7 +413,7 @@ character_event = {
 		}
 		}
 	}
-	
+	break = yes
 	option = { #champion better than challenger
 		name = EVTOPTC_lords.0023
 		trigger = {

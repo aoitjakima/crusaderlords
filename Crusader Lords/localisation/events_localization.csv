@@ -111,3 +111,5 @@ EVTOPTA_lords.10034;Keep talking like that and I'll make sure you never see dayl
 EVTDESClords.10035;The last few seconds of the fight were a blur, I must have been fighting on instinct. But when I came too, [From.GetFirstName] was being taken back to their cell;;;;;;;;;;;;;x
 EVTOPTA_lords.10035;and some damn good instincts too;;;;;;;;;;;;;x
 EVTOPTB_lords.10016;Or maybe not;;;;;;;;;;;;;x
+demand_trial;Demand trial by combat;;;;;;;;;;;;;x
+demand_trial_desc; It is a widely accepted right of all nobles to demand that they may be judged in the eyes of [Root.Religion.GetRandomGodName] through a trial by combat. If they win immediate release is the only option;;;;;;;;;;;;;x
